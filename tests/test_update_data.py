@@ -19,10 +19,21 @@ class ParserTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             module.parse_mdhhs("MDHHS is investigating an outbreak of cyclosporiasis Total Cases: 10 To date, 44 reported cases indicated they had been hospitalized. Last updated: July 10, 2026")
 
-    def test_published_state_data_tracks_mdhhs(self):
+    def test_published_state_data_tracks_nndss(self):
         published = __import__("json").loads((Path(__file__).parents[1] / "data" / "outbreak.json").read_text(encoding="utf-8"))
         self.assertEqual(published["schema_version"], 2)
-        self.assertEqual(published["state_data"]["MI"]["cases"], published["sources"]["mdhhs"]["cases"])
+        self.assertEqual(published["state_data"]["MI"]["source"], "nndss")
+        self.assertEqual(published["state_data"]["NY"]["cases"], 460)
+
+    def test_nndss_jurisdictions_and_flags(self):
+        raw = (Path(__file__).parent / "fixtures" / "nndss.html").read_text(encoding="utf-8")
+        parsed = module.parse_nndss(raw)
+        self.assertEqual(parsed["official_as_of"], "2026-07-04")
+        self.assertEqual(parsed["jurisdictions"]["NY"]["cases"], 460)
+        self.assertEqual(parsed["jurisdictions"]["NY"]["components"]["nyc"], 343)
+        self.assertEqual(parsed["jurisdictions"]["VT"]["cases"], 0)
+        self.assertEqual(parsed["jurisdictions"]["PA"]["status"], "not-reportable")
+        self.assertEqual(parsed["us_residents_total"], 1838)
 
 
 if __name__ == "__main__": unittest.main()
