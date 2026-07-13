@@ -1,8 +1,10 @@
 {
   "errors": {
-    "cdc": "fetch failed: HTTP Error 403: Forbidden"
+    "cdc": "fetch failed: HTTP Error 403: Forbidden",
+    "fda": "fetch failed: HTTP Error 404: Not Found",
+    "nndss": "fetch failed: HTTP Error 403: Forbidden"
   },
-  "generated_at": "2026-07-13T13:54:12Z",
+  "generated_at": "2026-07-13T15:03:54Z",
   "schema_version": 2,
   "sources": {
     "cdc": {
@@ -48,12 +50,12 @@
       "validation_status": "last-known-good"
     },
     "mdhhs": {
-      "cases": 1562,
-      "fetched_at": "2026-07-13T13:04:39Z",
+      "cases": 2640,
+      "fetched_at": "2026-07-13T15:03:54Z",
       "hospitalizations": 44,
-      "official_as_of": "2026-07-10",
+      "official_as_of": "2026-07-13",
       "source_url": "https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases/infectious-disease-outbreaks",
-      "validation_status": "last-known-good"
+      "validation_status": "valid"
     },
     "nndss": {
       "fetched_at": "2026-07-13T13:54:12Z",
@@ -220,7 +222,7 @@
       "reporting_period": "cumulative YTD 2026",
       "source_url": "https://stacks.cdc.gov/view/cdc/258011/cdc_258011_DS2.txt",
       "us_residents_total": 1838,
-      "validation_status": "valid"
+      "validation_status": "last-known-good"
     }
   },
   "state_data": {
