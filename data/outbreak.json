@@ -3,7 +3,14 @@
     "cdc": "fetch failed: HTTP Error 403: Forbidden"
   },
   "generated_at": "2026-07-13T13:04:39Z",
-  "schema_version": 1,
+  "schema_version": 2,
+  "state_data": {
+    "MI": {
+      "cases": 1562,
+      "official_as_of": "2026-07-10",
+      "source": "mdhhs"
+    }
+  },
   "sources": {
     "cdc": {
       "cases": 843,
