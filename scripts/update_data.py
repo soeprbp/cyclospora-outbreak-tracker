@@ -150,7 +150,10 @@ def main() -> int:
     if unchanged:
         print(json.dumps({"updated": None, "unchanged": True, "errors": errors}))
         return 0
-    document = {"schema_version": 1, "generated_at": now, "sources": sources, "errors": errors}
+    state_data = {}
+    if "mdhhs" in sources:
+        state_data["MI"] = {"cases": sources["mdhhs"]["cases"], "official_as_of": sources["mdhhs"]["official_as_of"], "source": "mdhhs"}
+    document = {"schema_version": 2, "generated_at": now, "sources": sources, "state_data": state_data, "errors": errors}
     OUTPUT.parent.mkdir(exist_ok=True)
     fd, tmp = tempfile.mkstemp(dir=OUTPUT.parent, prefix=".outbreak-", suffix=".json")
     try:
