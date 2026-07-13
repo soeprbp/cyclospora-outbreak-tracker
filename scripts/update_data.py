@@ -19,6 +19,7 @@ URLS = {
     "mdhhs": "https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases/infectious-disease-outbreaks",
     "cdc": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html",
     "fda": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks",
+    "nndss": "https://stacks.cdc.gov/view/cdc/258011/cdc_258011_DS2.txt",
 }
 HEADERS = {
     # Michigan's CDN rejects generic script user agents.
@@ -94,7 +95,47 @@ def parse_fda(raw: str) -> dict:
     return {"official_as_of": max(x["date_posted"] for x in refs), "investigations": refs}
 
 
-PARSERS = {"mdhhs": parse_mdhhs, "cdc": parse_cdc, "fda": parse_fda}
+NNDSS_JURISDICTIONS = {
+    "Connecticut":"CT", "Maine":"ME", "Massachusetts":"MA", "New Hampshire":"NH", "Rhode Island":"RI", "Vermont":"VT",
+    "New Jersey":"NJ", "Pennsylvania":"PA", "Illinois":"IL", "Indiana":"IN", "Michigan":"MI", "Ohio":"OH", "Wisconsin":"WI",
+    "Iowa":"IA", "Kansas":"KS", "Minnesota":"MN", "Missouri":"MO", "Nebraska":"NE", "North Dakota":"ND", "South Dakota":"SD",
+    "Delaware":"DE", "District of Columbia":"DC", "Florida":"FL", "Georgia":"GA", "Maryland":"MD", "North Carolina":"NC", "South Carolina":"SC", "Virginia":"VA", "West Virginia":"WV",
+    "Alabama":"AL", "Kentucky":"KY", "Mississippi":"MS", "Tennessee":"TN", "Arkansas":"AR", "Louisiana":"LA", "Oklahoma":"OK", "Texas":"TX",
+    "Arizona":"AZ", "Colorado":"CO", "Idaho":"ID", "Montana":"MT", "Nevada":"NV", "New Mexico":"NM", "Utah":"UT", "Wyoming":"WY",
+    "Alaska":"AK", "California":"CA", "Hawaii":"HI", "Oregon":"OR", "Washington":"WA",
+}
+
+
+def parse_nndss(raw: str) -> dict:
+    """Parse the cumulative-YTD jurisdiction column from a NNDSS box table."""
+    text = html.unescape(raw).replace("\r", "")
+    date_match = re.search(r"week ending\s+(\d{4}-\d{2}-\d{2}|[A-Z][a-z]+\s+\d{1,2},\s+\d{4})", text, re.I)
+    if not date_match:
+        raise ValueError("missing NNDSS week-ending date")
+    token = date_match.group(1)
+    official_as_of = token if re.fullmatch(r"\d{4}-\d{2}-\d{2}", token) else datetime.strptime(token, "%B %d, %Y").date().isoformat()
+    rows = {}
+    ny_state = nyc = None
+    for line in text.splitlines():
+        cells = [x.strip() for x in line.strip(" |+").split("|")]
+        if len(cells) < 2:
+            continue
+        name, value = cells[0], cells[-1].replace(",", "")
+        parsed = int(value) if value.isdigit() else ({"-":0, "N":"not-reportable", "U":"unavailable", "NC":"insufficient"}.get(value.upper()))
+        if parsed is None:
+            continue
+        if name == "New York State (excluding NYC)": ny_state = parsed
+        elif name == "New York City": nyc = parsed
+        elif name in NNDSS_JURISDICTIONS: rows[NNDSS_JURISDICTIONS[name]] = {"cases": parsed} if isinstance(parsed, int) else {"status": parsed}
+    if isinstance(ny_state, int) and isinstance(nyc, int):
+        rows["NY"] = {"cases": ny_state + nyc, "components": {"state_excluding_nyc": ny_state, "nyc": nyc}}
+    total_match = re.search(r"U\.S\. residents total\s*\|\s*([\d,]+)", text, re.I)
+    if len(rows) < 45 or not total_match:
+        raise ValueError("incomplete NNDSS jurisdiction table")
+    return {"official_as_of": official_as_of, "reporting_period": "cumulative YTD 2026", "jurisdictions": rows, "us_residents_total": int(total_match.group(1).replace(",", ""))}
+
+
+PARSERS = {"mdhhs": parse_mdhhs, "cdc": parse_cdc, "fda": parse_fda, "nndss": parse_nndss}
 
 
 def fetch(url: str) -> str:
@@ -151,8 +192,10 @@ def main() -> int:
         print(json.dumps({"updated": None, "unchanged": True, "errors": errors}))
         return 0
     state_data = {}
-    if "mdhhs" in sources:
-        state_data["MI"] = {"cases": sources["mdhhs"]["cases"], "official_as_of": sources["mdhhs"]["official_as_of"], "source": "mdhhs"}
+    if "nndss" in sources:
+        for code, value in sources["nndss"]["jurisdictions"].items():
+            if "cases" in value:
+                state_data[code] = {**value, "official_as_of": sources["nndss"]["official_as_of"], "source": "nndss"}
     document = {"schema_version": 2, "generated_at": now, "sources": sources, "state_data": state_data, "errors": errors}
     OUTPUT.parent.mkdir(exist_ok=True)
     fd, tmp = tempfile.mkstemp(dir=OUTPUT.parent, prefix=".outbreak-", suffix=".json")
