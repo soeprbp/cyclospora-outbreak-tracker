@@ -1,0 +1,59 @@
+{
+  "errors": {
+    "cdc": "fetch failed: HTTP Error 403: Forbidden"
+  },
+  "generated_at": "2026-07-13T13:04:39Z",
+  "schema_version": 1,
+  "sources": {
+    "cdc": {
+      "cases": 843,
+      "deaths": 0,
+      "fetched_at": "2026-07-13T13:04:01Z",
+      "hospitalizations": 86,
+      "official_as_of": "2026-07-09",
+      "source_url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html",
+      "states": 31,
+      "validation_status": "last-known-good"
+    },
+    "fda": {
+      "fetched_at": "2026-07-13T13:04:39Z",
+      "investigations": [
+        {
+          "cases": 7,
+          "date_posted": "2026-07-08",
+          "reference": "1385",
+          "status": "ongoing"
+        },
+        {
+          "cases": 18,
+          "date_posted": "2026-07-08",
+          "reference": "1384",
+          "status": "ongoing"
+        },
+        {
+          "cases": 2,
+          "date_posted": "2026-06-17",
+          "reference": "1381",
+          "status": "ongoing"
+        },
+        {
+          "cases": 8,
+          "date_posted": "2026-06-03",
+          "reference": "1375",
+          "status": "ended"
+        }
+      ],
+      "official_as_of": "2026-07-08",
+      "source_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks",
+      "validation_status": "valid"
+    },
+    "mdhhs": {
+      "cases": 1562,
+      "fetched_at": "2026-07-13T13:04:39Z",
+      "hospitalizations": 44,
+      "official_as_of": "2026-07-10",
+      "source_url": "https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases/infectious-disease-outbreaks",
+      "validation_status": "valid"
+    }
+  }
+}
