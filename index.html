@@ -366,26 +366,6 @@
         height: auto;
         max-height: 580px;
       }
-      .us-map .state {
-        fill: #315653;
-        stroke: #fff;
-        stroke-width: 1;
-        vector-effect: non-scaling-stroke;
-        transition:
-          fill 0.15s,
-          filter 0.15s;
-      }
-      .us-map .state.has-data {
-        fill: var(--lime);
-        cursor: pointer;
-      }
-      .us-map .state:hover,
-      .us-map .state:focus {
-        filter: brightness(1.18);
-        outline: none;
-        stroke: #fff;
-        stroke-width: 3;
-      }
       .map-loading {
         display: grid;
         place-items: center;
@@ -452,45 +432,39 @@
         white-space: nowrap;
         border: 0;
       }
-      .us-map g.state > path {
-        fill: #557571;
-        stroke: #f7faf8;
-        stroke-width: 0.8;
+      .us-map .states > .state {
+        fill: #5d7471;
+        stroke: none;
         vector-effect: non-scaling-stroke;
         transition:
           fill 0.15s,
           filter 0.15s;
       }
-      .us-map g.state > path.has-data {
+      .us-map .states > .state.has-data {
         fill: var(--lime);
         cursor: pointer;
       }
-      .us-map g.state > path:hover,
-      .us-map g.state > path:focus {
+      .us-map .states > .state:hover,
+      .us-map .states > .state:focus {
         filter: brightness(1.18);
         outline: none;
-        stroke: #fff;
-        stroke-width: 2;
       }
-      .us-map .separator1 {
+      .us-map .state-borders {
         fill: none !important;
-        stroke: #9bb1ad !important;
-        stroke-width: 1 !important;
-      }
-      .us-map .borders {
-        fill: none !important;
+        pointer-events: none;
+        stroke: #f7faf8;
+        stroke-width: 1;
+        vector-effect: non-scaling-stroke;
+        stroke-linejoin: round;
+        stroke-linecap: round;
       }
       .us-map {
         position: sticky;
         top: 92px;
         align-self: start;
       }
-      .us-map g.state {
-        stroke: none !important;
-        filter: none !important;
-      }
-      .us-map g.state > path:hover,
-      .us-map g.state > path:focus {
+      .us-map .states > .state:hover,
+      .us-map .states > .state:focus {
         filter: brightness(1.12);
       }
       /* Compact the opening view so current figures and the map arrive quickly. */
@@ -615,10 +589,8 @@
         <div class="wrap">
           <b>Current signal</b
           ><span
-            >Michigan has the largest publicly reported state cluster found in
-            this review, but federal and state counts are not directly
-            comparable and CDC has not identified one outbreak linking every
-            U.S. case.</span
+            >CDC surveillance spans many jurisdictions, while reporting dates,
+            definitions, and data completeness vary across official systems.</span
           >
         </div>
       </div>
@@ -642,15 +614,14 @@
             >
           </article>
           <article class="metric">
-            <b>1,562</b
+            <b>1,838</b
             ><small
-              >reported Michigan cases as of July 10, including 44
-              hospitalizations, according to the MDHHS daily outbreak update
-              reported from state data.</small
+              >U.S. residents reported in the cumulative 2026 NNDSS
+              jurisdiction table through July 4.</small
             ><br /><a
               class="source"
-              href="https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases"
-              >MDHHS outbreak hub →</a
+              href="https://stacks.cdc.gov/view/cdc/258011"
+              >CDC NNDSS supporting table →</a
             >
           </article>
           <article class="metric">
@@ -669,13 +640,12 @@
         <div class="caveat">
           <strong>Why the totals look strange:</strong> CDC case definitions,
           verification, travel exclusions and reporting delays differ from
-          fast-moving state “reported” or “suspect” totals. Michigan’s total can
-          exceed the CDC multistate snapshot without implying an error. Data are
-          preliminary and change.
+          state and federal publication schedules. Data are preliminary and
+          should not be added across systems.
         </div>
       </section>
       <section class="section wrap" id="map">
-        <h2>CDC jurisdiction reports</h2>
+        <h2>Provisional 2026 reports by U.S. jurisdiction</h2>
         <p class="lede">
           The geographic heatmap uses comparable cumulative 2026 NNDSS counts
           through July 4. New York combines the state report excluding NYC (117)
@@ -693,12 +663,11 @@
             ></div>
           </div>
           <div class="mapnote">
-            <h3>“Epicenter” needs context.</h3>
+            <h3>Read color with care.</h3>
             <p>
-              Michigan has the largest current state total located by this
-              tracker. That supports describing Michigan as a reported hotspot,
-              but not Detroit as the national epicenter. Federal and state
-              surveillance use different definitions and reporting schedules.
+              Darker color means a higher cumulative count, not a higher
+              population-adjusted rate. Gray indicates unavailable or
+              non-reportable data—not zero cases.
             </p>
             <div class="legend" aria-label="Map legend">
               <span
@@ -733,17 +702,17 @@
         <h2>Latest developments</h2>
         <div class="news">
           <article class="story">
-            <time>JULY 10 · MICHIGAN</time>
-            <h3>State count reaches 1,562; no source identified</h3>
+            <time>JULY 4 · UNITED STATES</time>
+            <h3>NNDSS jurisdiction table reports 1,838 U.S. residents</h3>
             <p>
-              Michigan’s reported total rose sharply from more than 170 on June
-              30. Officials continue to investigate exposures; the pattern is
-              concentrated in the southeast but is not limited to Detroit.
+              The cumulative provisional table supplies the comparable
+              jurisdiction values used in this map. Some jurisdictions report
+              no cases while others do not report the condition.
             </p>
             <a
               class="source"
-              href="https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/01/cyclosporiasis"
-              >Read MDHHS’s official investigation notice →</a
+              href="https://stacks.cdc.gov/view/cdc/258011"
+              >View the CDC supporting table →</a
             >
           </article>
           <article class="story">
@@ -814,11 +783,11 @@
           ><a href="https://www.cdc.gov/cyclosporiasis/about/index.html"
             >CDC · About Cyclosporiasis</a
           ><a
-            href="https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases"
-            >MDHHS · Infectious Diseases / outbreak updates</a
+            href="https://stacks.cdc.gov/view/cdc/258011"
+            >CDC · NNDSS supporting table</a
           ><a
-            href="https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/04/mdhhs-makes-recommendations-on-preventing-foodborne-illness-amid-growing-cyclosporiasis-outbreak"
-            >MDHHS · Food-safety recommendations</a
+            href="https://www.cdc.gov/cyclosporiasis/prevention/index.html"
+            >CDC · Prevention guidance</a
           ><a href="https://www.fda.gov/food/foodborne-pathogens/cyclospora"
             >FDA · Cyclospora</a
           ><a
@@ -831,7 +800,7 @@
     <footer>
       <div class="wrap">
         Independent public-information page · Not affiliated with CDC, FDA,
-        MDHHS, or any health department · Not medical advice · Last editorial
+        or any health department · Not medical advice · Last editorial
         review July 13, 2026.
       </div>
     </footer>
@@ -842,12 +811,11 @@
       aria-labelledby="breakTitle"
     >
       <button class="close" aria-label="Dismiss breaking update">×</button
-      ><small>BREAKING UPDATE · JULY 10</small>
-      <h2 id="breakTitle">Michigan reports 1,562 cases</h2>
+      ><small>LATEST DATA · JULY 4</small>
+      <h2 id="breakTitle">NNDSS table reports 1,838 U.S. residents</h2>
       <p>
-        The latest located state update reports 44 hospitalizations and no
-        identified source. Michigan is the largest reported state hotspot, but
-        cases across the country are not all confirmed as one outbreak.
+        The provisional cumulative table provides comparable jurisdiction
+        counts for the national heatmap. Reporting status varies by jurisdiction.
       </p>
       <a class="source" href="#snapshot">See the sourced snapshot →</a>
     </aside>
@@ -859,6 +827,11 @@
         p.hidden = true;
         sessionStorage.setItem("dismissed", "1");
       });
+      const hideUpdateForMap = () => {
+        if (location.hash === "#map") p.hidden = true;
+      };
+      hideUpdateForMap();
+      addEventListener("hashchange", hideUpdateForMap);
       fetch("data/outbreak.json", { cache: "no-cache" })
         .then((r) => {
           if (!r.ok) throw Error(r.status);
@@ -866,24 +839,25 @@
         })
         .then((d) => {
           const c = d.sources.cdc,
-            m = d.sources.mdhhs;
+            n = d.sources.nndss;
           if (c) {
             const x = document.querySelectorAll(".metric")[0];
             x.querySelector("b").textContent = c.cases.toLocaleString();
             x.querySelector("small").textContent =
               `domestically acquired cases reported to CDC across ${c.states} states, as of ${c.official_as_of}; ${c.hospitalizations} hospitalizations and ${c.deaths} deaths.`;
           }
-          if (m) {
+          if (n) {
             const x = document.querySelectorAll(".metric")[1];
-            x.querySelector("b").textContent = m.cases.toLocaleString();
+            x.querySelector("b").textContent =
+              n.us_residents_total.toLocaleString();
             x.querySelector("small").textContent =
-              `reported Michigan cases as of ${m.official_as_of}, including ${m.hospitalizations} hospitalizations, according to MDHHS.`;
+              `U.S. residents in the cumulative 2026 NNDSS jurisdiction table through ${n.official_as_of}.`;
             document.querySelector("#breakTitle").textContent =
-              `Michigan reports ${m.cases.toLocaleString()} cases`;
+              `NNDSS table reports ${n.us_residents_total.toLocaleString()} U.S. residents`;
             p.querySelector("small").textContent =
-              `LATEST OFFICIAL UPDATE · ${m.official_as_of}`;
+              `LATEST NNDSS TABLE · ${n.official_as_of}`;
             p.querySelector("p").textContent =
-              `MDHHS reports ${m.hospitalizations} hospitalizations. State and federal totals use different definitions and reporting timelines.`;
+              "Provisional cumulative jurisdiction counts power the national heatmap; reporting status varies by jurisdiction.";
           }
         })
         .catch(() => {});
@@ -907,7 +881,6 @@
             states = d.state_data || {};
           svg.removeAttribute("width");
           svg.removeAttribute("height");
-          svg.setAttribute("viewBox", "0 0 959 593");
           svg.setAttribute("role", "img");
           svg.setAttribute("aria-labelledby", "mapSvgTitle mapSvgDesc");
           svg.querySelector("title")?.setAttribute("id", "mapSvgTitle");
@@ -920,8 +893,8 @@
             "United States choropleth. Highlighted states have an official count; other states have no comparable data, not necessarily zero cases.";
           svg.prepend(desc);
           const rows = [];
-          svg.querySelectorAll("g.state>path[class]").forEach((path) => {
-            const code = path.getAttribute("class").toUpperCase(),
+          svg.querySelectorAll(".states > .state[data-state]").forEach((path) => {
+            const code = path.dataset.state,
               name = path.querySelector("title")?.textContent || code,
               value = states[code],
               label = value
@@ -934,24 +907,6 @@
               path.classList.add("has-data");
               rows.push({ name, ...value });
             }
-            const show = (e) => {
-              tip.textContent = label;
-              tip.hidden = false;
-              const box = map.getBoundingClientRect(),
-                point = e.touches?.[0] || e;
-              tip.style.left = `${Math.min((point.clientX || box.left + box.width / 2) - box.left, box.width - 220)}px`;
-              tip.style.top = `${Math.min((point.clientY || box.top + box.height / 2) - box.top, box.height - 70)}px`;
-            };
-            path.addEventListener("pointerenter", show);
-            path.addEventListener("pointermove", show);
-            path.addEventListener("focus", show);
-            path.addEventListener("click", show);
-            path.addEventListener("pointerleave", () => {
-              tip.hidden = true;
-            });
-            path.addEventListener("blur", () => {
-              tip.hidden = true;
-            });
           });
           map.querySelector(".map-loading").remove();
           map.prepend(document.importNode(svg, true));
@@ -972,12 +927,14 @@
             '<p class="map-loading">The map could not load. State data remain available in the table.</p>';
           map.setAttribute("aria-busy", "false");
           table.innerHTML =
-            "<tr><td>Michigan</td><td>See snapshot above</td><td>See snapshot above</td></tr>";
+            '<tr><td colspan="3">State data are temporarily unavailable.</td></tr>';
           status.textContent =
             "Map unavailable; use the state-level data table.";
         });
       const showMapTip = (e) => {
-        const path = e.target.closest?.("#usMap path[aria-label]");
+        const path = e.target.closest?.(
+          "#usMap .states > .state[aria-label]",
+        );
         if (!path) return;
         tip.textContent = path.getAttribute("aria-label");
         tip.hidden = false;
@@ -991,7 +948,8 @@
       map.addEventListener("focusin", showMapTip);
       map.addEventListener("click", showMapTip);
       map.addEventListener("pointerout", (e) => {
-        if (e.target.matches?.("path")) tip.hidden = true;
+        if (e.target.matches?.(".states > .state"))
+          tip.hidden = true;
       });
       map.addEventListener("focusout", () => {
         tip.hidden = true;
@@ -1004,7 +962,8 @@
           const paint = () => {
             if (!map.querySelector("svg")) return setTimeout(paint, 30);
             for (const [code, value] of Object.entries(d.state_data || {})) {
-              const path = map.querySelector(`path.${code.toLowerCase()}`);
+              const selector = `.states > .state[data-state="${code}"]`;
+              const path = map.querySelector(selector);
               if (path) {
                 const strength = Math.log1p(value.cases) / Math.log1p(max);
                 path.style.fill = `hsl(64 72% ${72 - strength * 30}%)`;
