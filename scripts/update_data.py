@@ -10,7 +10,7 @@ import re
 import tempfile
 import time
 import urllib.request
-from datetime import datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -19,7 +19,7 @@ URLS = {
     "mdhhs": "https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases/infectious-disease-outbreaks",
     "cdc": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html",
     "fda": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks",
-    "nndss": "https://stacks.cdc.gov/view/cdc/258011/cdc_258011_DS2.txt",
+    "nndss": "https://data.cdc.gov/resource/x9gk-5huc.json?$where=year%3D%272026%27%20and%20label%3D%27Cyclosporiasis%27&$limit=5000",
 }
 HEADERS = {
     # Michigan's CDN rejects generic script user agents.
@@ -57,7 +57,7 @@ def parse_mdhhs(raw: str) -> dict:
     if not section:
         raise ValueError("missing MDHHS Cyclospora section")
     cases = number(r"Total Cases:\s*([\d,]+)", section, "MDHHS cases")
-    hospitalized = number(r"To date,\s*([\d,]+)\s+reported cases indicated they had been hospitalized", section, "MDHHS hospitalizations")
+    hospitalized = number(r"(?:To date,|As of [A-Z][a-z]+ \d{1,2}, \d{4},)\s*([\d,]+)\s+reported cases indicated they had been hospitalized", section, "MDHHS hospitalizations")
     if cases < 100 or hospitalized > cases:
         raise ValueError("implausible MDHHS values")
     return {"official_as_of": source_date(r"Last updated:\s*([A-Z][a-z]+ \d{1,2}, \d{4})", section, "MDHHS"), "cases": cases, "hospitalizations": hospitalized}
@@ -108,6 +108,27 @@ NNDSS_JURISDICTIONS = {
 
 def parse_nndss(raw: str) -> dict:
     """Parse the cumulative-YTD jurisdiction column from a NNDSS box table."""
+    if raw.lstrip().startswith("["):
+        records = json.loads(raw)
+        latest_week = max(int(x["week"]) for x in records)
+        records = [x for x in records if int(x["week"]) == latest_week]
+        rows, ny_state, nyc, total = {}, None, None, None
+        flags = {"-": 0, "N": "not-reportable", "U": "unavailable", "NC": "insufficient"}
+        for record in records:
+            name = record["states"]
+            value = int(float(record["m3"])) if record.get("m3") else flags.get(record.get("m3_flag", ""))
+            if name == "New York": ny_state = value
+            elif name == "New York City": nyc = value
+            elif name == "U.S. Residents": total = value
+            elif name in NNDSS_JURISDICTIONS and value is not None:
+                rows[NNDSS_JURISDICTIONS[name]] = {"cases": value} if isinstance(value, int) else {"status": value}
+        if isinstance(ny_state, int) and isinstance(nyc, int):
+            rows["NY"] = {"cases": ny_state + nyc, "components": {"state_excluding_nyc": ny_state, "nyc": nyc}}
+        first_sunday = date(2026, 1, 1) + timedelta(days=(6 - date(2026, 1, 1).weekday()) % 7)
+        official_as_of = (first_sunday + timedelta(days=6 + 7 * (latest_week - 1))).isoformat()
+        if len(rows) < 45 or not isinstance(total, int):
+            raise ValueError("incomplete NNDSS API response")
+        return {"official_as_of": official_as_of, "reporting_period": "cumulative YTD 2026", "jurisdictions": rows, "us_residents_total": total}
     text = html.unescape(raw).replace("\r", "")
     date_match = re.search(r"week ending\s+(\d{4}-\d{2}-\d{2}|[A-Z][a-z]+\s+\d{1,2},\s+\d{4})", text, re.I)
     if not date_match:
@@ -136,6 +157,17 @@ def parse_nndss(raw: str) -> dict:
 
 
 PARSERS = {"mdhhs": parse_mdhhs, "cdc": parse_cdc, "fda": parse_fda, "nndss": parse_nndss}
+
+
+def build_state_data(sources: dict) -> dict:
+    state_data = {}
+    if "nndss" in sources:
+        for code, value in sources["nndss"]["jurisdictions"].items():
+            if "cases" in value:
+                state_data[code] = {**value, "comparable_cases": value["cases"], "official_as_of": sources["nndss"]["official_as_of"], "source": "CDC NNDSS"}
+    if "mdhhs" in sources and "MI" in state_data:
+        state_data["MI"].update({"cases": sources["mdhhs"]["cases"], "official_as_of": sources["mdhhs"]["official_as_of"], "source": "Michigan MDHHS", "scope": "state outbreak reports; may include probable and confirmed cases"})
+    return state_data
 
 
 def fetch(url: str) -> str:
@@ -184,18 +216,15 @@ def main() -> int:
     # source dates did not change. This prevents empty hourly commits.
     def substantive(value: dict) -> dict:
         return {k: v for k, v in value.items() if k not in {"fetched_at", "validation_status"}}
+    state_data = build_state_data(sources)
     unchanged = (
         set(sources) == set(previous.get("sources", {}))
         and all(substantive(sources[k]) == substantive(previous["sources"][k]) for k in sources)
+        and state_data == previous.get("state_data", {})
     )
     if unchanged:
         print(json.dumps({"updated": None, "unchanged": True, "errors": errors}))
         return 0
-    state_data = {}
-    if "nndss" in sources:
-        for code, value in sources["nndss"]["jurisdictions"].items():
-            if "cases" in value:
-                state_data[code] = {**value, "official_as_of": sources["nndss"]["official_as_of"], "source": "nndss"}
     document = {"schema_version": 2, "generated_at": now, "sources": sources, "state_data": state_data, "errors": errors}
     OUTPUT.parent.mkdir(exist_ok=True)
     fd, tmp = tempfile.mkstemp(dir=OUTPUT.parent, prefix=".outbreak-", suffix=".json")

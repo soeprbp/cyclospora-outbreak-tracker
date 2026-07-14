@@ -621,7 +621,7 @@
               jurisdiction table through July 4.</small
             ><br /><a
               class="source"
-              href="https://stacks.cdc.gov/view/cdc/258011"
+              href="https://data.cdc.gov/NNDSS/NNDSS-Weekly-Data/x9gk-5huc/about_data"
               >CDC NNDSS supporting table →</a
             >
           </article>
@@ -648,10 +648,10 @@
       <section class="section wrap" id="map">
         <h2>Provisional 2026 reports by U.S. jurisdiction</h2>
         <p class="lede">
-          The geographic heatmap uses comparable cumulative 2026 NNDSS counts
-          through July 4. New York combines the state report excluding NYC (117)
-          with NYC (343). “N” and “NC” remain no-data statuses; they are never
-          displayed as zero.
+          Every state is checked against CDC’s latest nationwide NNDSS release.
+          Where a newer official state outbreak total is available, the map uses
+          that value and the table retains the NNDSS figure beside it. Different
+          definitions and reporting schedules mean the two columns are not additive.
         </p>
         <div class="mapbox">
           <div class="us-map" id="usMap" aria-busy="true">
@@ -686,7 +686,8 @@
                 <tr>
                   <th>State</th>
                   <th>Official as of</th>
-                  <th>Cases</th>
+                  <th>Current official</th>
+                  <th>Comparable NNDSS</th>
                 </tr>
               </thead>
               <tbody id="mapTableBody">
@@ -756,7 +757,7 @@
           ><a href="https://www.cdc.gov/cyclosporiasis/about/index.html"
             >CDC · About Cyclosporiasis</a
           ><a
-            href="https://stacks.cdc.gov/view/cdc/258011"
+            href="https://data.cdc.gov/NNDSS/NNDSS-Weekly-Data/x9gk-5huc/about_data"
             >CDC · NNDSS supporting table</a
           ><a
             href="https://www.cdc.gov/cyclosporiasis/prevention/index.html"
@@ -913,7 +914,7 @@
               name = path.querySelector("title")?.textContent || code,
               value = states[code],
               label = value
-                ? `${name}: ${value.cases.toLocaleString()} reported cases, official as of ${value.official_as_of}`
+                ? `${name}: ${value.cases.toLocaleString()} reported cases from ${value.source}, official as of ${value.official_as_of}; ${value.comparable_cases.toLocaleString()} in the latest comparable NNDSS table`
                 : `${name}: no comparable state-level count available`;
             path.setAttribute("tabindex", "0");
             path.setAttribute("role", "img");
@@ -931,7 +932,7 @@
                 .sort((a, b) => b.cases - a.cases)
                 .map(
                   (x) =>
-                    `<tr><td>${x.name}</td><td>${x.official_as_of}</td><td>${x.cases.toLocaleString()}</td></tr>`,
+                    `<tr><td>${x.name}</td><td>${x.official_as_of}</td><td>${x.cases.toLocaleString()} · ${x.source}</td><td>${x.comparable_cases.toLocaleString()}</td></tr>`,
                 )
                 .join("")
             : '<tr><td colspan="3">No state-level counts available.</td></tr>';
