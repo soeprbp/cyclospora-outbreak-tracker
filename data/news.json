@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-14T18:38:09Z",
+  "generated_at": "2026-07-14T18:57:07Z",
   "items": [
     {
       "id": "cdc-surveillance",
@@ -115,7 +115,7 @@
       "source": "CDC NNDSS",
       "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
       "title": "NNDSS table reports 1,838 U.S. Cyclospora cases",
-      "url": "https://stacks.cdc.gov/view/cdc/258011/cdc_258011_DS2.txt"
+      "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     }
   ],
   "rejected_candidates": 80,
