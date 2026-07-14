@@ -7,6 +7,7 @@ import html
 import json
 import os
 import re
+import subprocess
 import tempfile
 import time
 import urllib.request
@@ -179,7 +180,16 @@ def fetch(url: str) -> str:
         except Exception as exc:
             last_error = exc
             time.sleep(2**attempt)
-    raise RuntimeError(f"fetch failed: {last_error}")
+    # Some agency CDNs reject urllib's TLS/client fingerprint while serving the
+    # same public URL to curl. URLs come only from the trusted URLS registry.
+    try:
+        completed = subprocess.run(
+            ["curl", "--fail", "--location", "--silent", "--show-error", "--max-time", "30", url],
+            check=True, capture_output=True, text=True, timeout=35,
+        )
+        return completed.stdout
+    except (OSError, subprocess.SubprocessError) as exc:
+        raise RuntimeError(f"fetch failed: {last_error}; curl fallback failed: {exc}") from exc
 
 
 def load_previous() -> dict:

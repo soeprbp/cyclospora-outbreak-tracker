@@ -151,6 +151,13 @@
       .metric:last-child {
         border: 0;
       }
+      .metric h3 {
+        margin: 0 0 10px;
+        color: var(--muted);
+        font: 750 0.72rem/1.2 Inter, sans-serif;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
       .metric b {
         display: block;
         font-size: 2.8rem;
@@ -603,11 +610,11 @@
         </p>
         <div class="metrics">
           <article class="metric">
-            <b>843</b
+            <h3>CDC outbreak-season count</h3>
+            <b>1,645</b
             ><small
-              >domestically acquired cases reported to CDC across 31 states, May
-              1–July 9, 2026; public reporting cited by national
-              coverage.</small
+              >Lab-confirmed, domestically acquired cases since May 1, reported
+              across 34 states through July 13; 141 hospitalizations and no deaths.</small
             ><br /><a
               class="source"
               href="https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
@@ -615,10 +622,12 @@
             >
           </article>
           <article class="metric">
+            <h3>NNDSS year-to-date table</h3>
             <b>1,838</b
             ><small
               >U.S. residents reported in the cumulative 2026 NNDSS
-              jurisdiction table through July 4.</small
+              jurisdiction table through July 4. This is a different pipeline
+              and time window—not a subtotal or newer version of the first figure.</small
             ><br /><a
               class="source"
               href="https://data.cdc.gov/NNDSS/NNDSS-Weekly-Data/x9gk-5huc/about_data"
@@ -626,6 +635,7 @@
             >
           </article>
           <article class="metric">
+            <h3>Common food source</h3>
             <b>Unknown</b
             ><small
               >common food source. Officials continue interviews and traceback;
@@ -866,14 +876,14 @@
             const x = document.querySelectorAll(".metric")[0];
             x.querySelector("b").textContent = c.cases.toLocaleString();
             x.querySelector("small").textContent =
-              `domestically acquired cases reported to CDC across ${c.states} states, as of ${c.official_as_of}; ${c.hospitalizations} hospitalizations and ${c.deaths} deaths.`;
+              `Lab-confirmed, domestically acquired cases since May 1, reported across ${c.states} states through ${c.official_as_of}; ${c.hospitalizations} hospitalizations and ${c.deaths} deaths.`;
           }
           if (n) {
             const x = document.querySelectorAll(".metric")[1];
             x.querySelector("b").textContent =
               n.us_residents_total.toLocaleString();
             x.querySelector("small").textContent =
-              `U.S. residents in the cumulative 2026 NNDSS jurisdiction table through ${n.official_as_of}.`;
+              `Provisional jurisdiction reports accumulated year to date through ${n.official_as_of}. This is a different pipeline and time window—not a subtotal or a newer version of the CDC outbreak-season count.`;
           }
         })
         .catch(() => {});

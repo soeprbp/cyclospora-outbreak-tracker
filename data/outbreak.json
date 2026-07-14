@@ -1,22 +1,20 @@
 {
-  "errors": {
-    "cdc": "fetch failed: HTTP Error 403: Forbidden"
-  },
-  "generated_at": "2026-07-14T18:54:53Z",
+  "errors": {},
+  "generated_at": "2026-07-14T19:06:04Z",
   "schema_version": 2,
   "sources": {
     "cdc": {
-      "cases": 843,
+      "cases": 1645,
       "deaths": 0,
-      "fetched_at": "2026-07-13T13:04:01Z",
-      "hospitalizations": 86,
-      "official_as_of": "2026-07-09",
+      "fetched_at": "2026-07-14T19:06:04Z",
+      "hospitalizations": 141,
+      "official_as_of": "2026-07-13",
       "source_url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html",
-      "states": 31,
-      "validation_status": "last-known-good"
+      "states": 34,
+      "validation_status": "valid"
     },
     "fda": {
-      "fetched_at": "2026-07-14T18:54:53Z",
+      "fetched_at": "2026-07-14T19:06:04Z",
       "investigations": [
         {
           "cases": 7,
@@ -49,14 +47,14 @@
     },
     "mdhhs": {
       "cases": 3309,
-      "fetched_at": "2026-07-14T18:54:53Z",
+      "fetched_at": "2026-07-14T19:06:04Z",
       "hospitalizations": 44,
       "official_as_of": "2026-07-14",
       "source_url": "https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases/infectious-disease-outbreaks",
       "validation_status": "valid"
     },
     "nndss": {
-      "fetched_at": "2026-07-14T18:54:53Z",
+      "fetched_at": "2026-07-14T19:06:04Z",
       "jurisdictions": {
         "AK": {
           "cases": 1
