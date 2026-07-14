@@ -19,11 +19,19 @@ class ParserTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             module.parse_mdhhs("MDHHS is investigating an outbreak of cyclosporiasis Total Cases: 10 To date, 44 reported cases indicated they had been hospitalized. Last updated: July 10, 2026")
 
-    def test_published_state_data_tracks_nndss(self):
+    def test_state_data_retains_comparable_and_newer_official_totals(self):
         published = __import__("json").loads((Path(__file__).parents[1] / "data" / "outbreak.json").read_text(encoding="utf-8"))
         self.assertEqual(published["schema_version"], 2)
-        self.assertEqual(published["state_data"]["MI"]["source"], "nndss")
+        state_data = module.build_state_data(published["sources"])
+        self.assertEqual(state_data["MI"]["source"], "Michigan MDHHS")
+        self.assertEqual(state_data["MI"]["cases"], published["sources"]["mdhhs"]["cases"])
+        self.assertEqual(state_data["MI"]["comparable_cases"], 412)
         self.assertEqual(published["state_data"]["NY"]["cases"], 460)
+
+    def test_nndss_api_uses_latest_week_for_all_rows(self):
+        raw = '[{"states":"U.S. Residents","year":"2026","week":"26","label":"Cyclosporiasis","m3":"10"},{"states":"Michigan","year":"2026","week":"26","label":"Cyclosporiasis","m3":"4"}]'
+        with self.assertRaises(ValueError):
+            module.parse_nndss(raw)
 
     def test_nndss_jurisdictions_and_flags(self):
         raw = (Path(__file__).parent / "fixtures" / "nndss.html").read_text(encoding="utf-8")
