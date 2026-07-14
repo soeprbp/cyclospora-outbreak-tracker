@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-14T19:07:52Z",
+  "generated_at": "2026-07-14T21:17:05Z",
   "items": [
     {
       "id": "cdc-surveillance",
@@ -20,6 +20,16 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Cyclosporiasis Outbreak with Unknown Source",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
+    },
+    {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-22e7c08a3665",
+      "kind": "official",
+      "published_at": "2026-07-14",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "title": "Domestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53ZlNIRS1wTDNpa25rUC1QRWRtcWczX2hkMTd2MnY1UkdaQmNvalRlQ3RBdEdHQ3NCakNSNEdsdXdYUndjYjRiQml1NkxnT0stMXJUdHVmd0kwdWJDQnc"
     },
     {
       "id": "the-washington-post-3cabea2aa1f9",
@@ -50,6 +60,16 @@
       "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
       "title": "Latest updated map tracking 'explosive diarrhea' cases in the US",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVTZqRkdhMDQwVkZxQlVJM29Sck8yM1dhaVZhY0pYUzBoblJNSGoyZjRkRXdzUThKMVlUOHUxeldWcWRPcWhSYUpNbTVQS2JwR09sVUpzWG0xcnZnOVBpZmRtNzBSd0VSa0dPWFFVTVdKd1I4Q1ZsakVEOHVIZ3dHTEVxN3pSbkE0WG5rektnQndhVDdyMlZaWHNRQVZlTWZvemdvZHA4SlVTUQ"
+    },
+    {
+      "id": "ap-news-3f9dcd0e3153",
+      "kind": "major-media",
+      "published_at": "2026-07-14",
+      "publisher_url": "https://apnews.com/",
+      "source": "AP News",
+      "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
+      "title": "As cyclospora illnesses surge to a record, Michigan officials eye lettuce as a possible cause",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU0pvZVA1R0l3cXgzaTJSTzlRZkxaWVNwU054d0xnbFZQYy1qUF90U2p3UlZIRzd4LURHeTVjNkk3bDhSc2xLWngwNE9EV0JaTHBXaG13ejBnZWczU3llcThpTGIyaHdaU3pRTU5CZmd6cUJCTk5xR0YtcVg4aUtidTd6a3RNZF85eWdBVkxsWjFlbnFOUEp3cXBuVUg1Zw"
     },
     {
       "id": "npr-da9fdcca557b",
@@ -91,16 +111,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWi15R3ZrcHczUENUbzFzNmliUXFrV0ZqQUR6clU0SkNhRnVuREFHWk9INzdERHJUZVBpSnZRbkViSWxNV0kzcUhyQWR2cGc5VEExcG5FVzMwdGZORWlEMXZlWUsxWjRsMXBxNU9JWDM2RnMtcFZnODh4WlRDWFMxeTd3TlZNTVlCNXdURHlrb1Ayc1RUS0RNMEQ2bzROeVJrTXZDSU5CUnk5SGwzVWxBYTdnZW1wbnE3bjY4"
     },
     {
-      "id": "ap-news-b76774516e26",
-      "kind": "major-media",
-      "published_at": "2026-07-10",
-      "publisher_url": "https://apnews.com/",
-      "source": "AP News",
-      "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
-      "title": "How to stay safe and still enjoy produce this summer with the outbreak of diarrhea-causing parasite",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTGl6Z2hmZUZHNDVGa1BEekZfaE1TTjdOcDUyQUhQOUpFd2U2dXFyWDU0SzZfUkozSWhVTUcyYjV1SzA2SEU4ZlExekU1VkZIY0ZBTnZGVGV1YkdhRXNWZXJmVm5Gd1pvN3pBZTVrWlc4S0hzd2tmNll2MXNlQ2tIeVFMMFpjWUpMemdnOTZoeG9VaHJUdmc"
-    },
-    {
       "id": "fda-core-1385",
       "kind": "official",
       "published_at": "2026-07-08",
@@ -108,17 +118,8 @@
       "summary": "FDA's CORE table reports 7 cases and lists investigation 1385 as ongoing; the agency table should be checked for current traceback and product details.",
       "title": "FDA opens Cyclospora investigation 1385",
       "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
-    },
-    {
-      "id": "fda-core-1384",
-      "kind": "official",
-      "published_at": "2026-07-08",
-      "source": "FDA",
-      "summary": "FDA's CORE table reports 18 cases and lists investigation 1384 as ongoing; the agency table should be checked for current traceback and product details.",
-      "title": "FDA opens Cyclospora investigation 1384",
-      "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
     }
   ],
-  "rejected_candidates": 79,
+  "rejected_candidates": 78,
   "schema_version": 1
 }
