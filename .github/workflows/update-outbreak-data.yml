@@ -25,13 +25,15 @@ jobs:
         run: python -m unittest discover -s tests -v
       - name: Fetch and validate official data
         run: python scripts/update_data.py
+      - name: Discover and validate current news
+        run: python scripts/update_news.py
       - name: Commit substantive data changes
         shell: bash
         run: |
           # Fetch timestamps and transient errors are diagnostic, not publishable changes.
-          git diff --quiet -- data/outbreak.json && exit 0
+          git diff --quiet -- data/outbreak.json data/news.json && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/outbreak.json
-          git commit -m "data: refresh official outbreak snapshot"
+          git add data/outbreak.json data/news.json
+          git commit -m "data: refresh outbreak snapshot and news"
           git push

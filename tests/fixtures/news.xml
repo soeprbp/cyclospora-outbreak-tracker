@@ -1,0 +1,4 @@
+<?xml version="1.0"?><rss version="2.0"><channel>
+<item><title>State reports new Cyclospora investigation</title><link>https://health.example.gov/news/cyclospora?tracking=x</link><description>Health officials are investigating Cyclospora cases and have not identified a common source.</description><pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate><source>Example Health Department</source></item>
+<item><title>Unrelated item</title><link>https://example.com/nope</link><description>Nothing relevant.</description><pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate></item>
+</channel></rss>

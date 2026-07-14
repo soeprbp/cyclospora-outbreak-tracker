@@ -4,6 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>Cyclospora Watch — U.S. outbreak tracker</title>
+    <link rel="icon" href="data:," />
     <meta
       name="description"
       content="A source-linked snapshot of the 2026 U.S. cyclosporiasis outbreak."
@@ -700,36 +701,8 @@
       </section>
       <section class="section wrap" id="news">
         <h2>Latest developments</h2>
-        <div class="news">
-          <article class="story">
-            <time>JULY 4 · UNITED STATES</time>
-            <h3>NNDSS jurisdiction table reports 1,838 U.S. residents</h3>
-            <p>
-              The cumulative provisional table supplies the comparable
-              jurisdiction values used in this map. Some jurisdictions report
-              no cases while others do not report the condition.
-            </p>
-            <a
-              class="source"
-              href="https://stacks.cdc.gov/view/cdc/258011"
-              >View the CDC supporting table →</a
-            >
-          </article>
-          <article class="story">
-            <time>JULY 9 · UNITED STATES</time>
-            <h3>Federal snapshot spans 31 states</h3>
-            <p>
-              CDC’s reported national snapshot counted 843 confirmed
-              domestically acquired cases. Multiple clusters were under
-              investigation; officials had not connected all cases to one
-              source.
-            </p>
-            <a
-              class="source"
-              href="https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
-              >Check CDC surveillance →</a
-            >
-          </article>
+        <div class="news" id="newsList" aria-live="polite">
+          <article class="story"><p>Loading current developments…</p></article>
         </div>
       </section>
       <section class="section guide" id="help">
@@ -809,29 +782,77 @@
       id="breaking"
       role="dialog"
       aria-labelledby="breakTitle"
+      hidden
     >
       <button class="close" aria-label="Dismiss breaking update">×</button
-      ><small>LATEST DATA · JULY 4</small>
-      <h2 id="breakTitle">NNDSS table reports 1,838 U.S. residents</h2>
-      <p>
-        The provisional cumulative table provides comparable jurisdiction
-        counts for the national heatmap. Reporting status varies by jurisdiction.
-      </p>
-      <a class="source" href="#snapshot">See the sourced snapshot →</a>
+      ><small>LATEST VERIFIED UPDATE</small>
+      <h2 id="breakTitle">Loading the latest verified update…</h2>
+      <p>Checking official Cyclospora sources.</p>
+      <a class="source" href="#news">See latest developments →</a>
     </aside>
     <script>
       const p = document.querySelector("#breaking"),
         b = p.querySelector(".close");
-      if (sessionStorage.getItem("dismissed")) p.hidden = true;
       b.addEventListener("click", () => {
         p.hidden = true;
-        sessionStorage.setItem("dismissed", "1");
+        sessionStorage.setItem(`dismissed:${p.dataset.newsId || "loading"}`, "1");
       });
       const hideUpdateForMap = () => {
         if (location.hash === "#map") p.hidden = true;
       };
       hideUpdateForMap();
       addEventListener("hashchange", hideUpdateForMap);
+      const safeNewsUrl = (value) => {
+        try {
+          const url = new URL(value, location.href), host = url.hostname;
+          return url.protocol === "https:" &&
+            (host.endsWith(".gov") || [
+              "news.google.com", "apnews.com", "reuters.com", "www.reuters.com",
+              "washingtonpost.com", "www.washingtonpost.com", "axios.com", "www.axios.com",
+              "cbsnews.com", "www.cbsnews.com", "npr.org", "www.npr.org", "abcnews.go.com",
+              "nbcnews.com", "www.nbcnews.com", "usatoday.com", "www.usatoday.com"
+            ].includes(host))
+            ? url.href : null;
+        } catch { return null; }
+      };
+      fetch("data/news.json", { cache: "no-cache" })
+        .then((r) => { if (!r.ok) throw Error(r.status); return r.json(); })
+        .then((d) => {
+          const items = Array.isArray(d.items) ? d.items.filter((x) => safeNewsUrl(x.url)).slice(0, 5) : [],
+            list = document.querySelector("#newsList");
+          if (!items.length) throw Error("no verified news");
+          list.replaceChildren();
+          const formatter = new Intl.DateTimeFormat("en-US", { month: "long", day: "numeric", timeZone: "UTC" });
+          items.forEach((item) => {
+            const article = document.createElement("article"), time = document.createElement("time"),
+              title = document.createElement("h3"), summary = document.createElement("p"), link = document.createElement("a");
+            article.className = "story";
+            time.dateTime = item.published_at;
+            time.textContent = `${formatter.format(new Date(`${item.published_at}T00:00:00Z`))} · ${item.source}`;
+            title.textContent = item.title;
+            summary.textContent = item.summary;
+            link.className = "source";
+            link.href = safeNewsUrl(item.url);
+            link.rel = "noopener noreferrer";
+            link.textContent = `View ${item.source} source →`;
+            article.append(time, title, summary, link);
+            list.append(article);
+          });
+          const latest = items[0];
+          p.dataset.newsId = latest.id;
+          p.querySelector("small").textContent = `LATEST VERIFIED UPDATE · ${latest.published_at}`;
+          p.querySelector("h2").textContent = latest.title;
+          p.querySelector("p").textContent = latest.summary;
+          const popupLink = p.querySelector("a");
+          popupLink.href = safeNewsUrl(latest.url);
+          popupLink.rel = "noopener noreferrer";
+          popupLink.textContent = `View ${latest.source} source →`;
+          p.hidden = location.hash === "#map" || sessionStorage.getItem(`dismissed:${latest.id}`) === "1";
+        })
+        .catch(() => {
+          document.querySelector("#newsList").replaceChildren(Object.assign(document.createElement("p"), { textContent: "Current news is temporarily unavailable. Use the primary-source links below for the latest agency updates." }));
+          p.hidden = true;
+        });
       fetch("data/outbreak.json", { cache: "no-cache" })
         .then((r) => {
           if (!r.ok) throw Error(r.status);
@@ -852,12 +873,6 @@
               n.us_residents_total.toLocaleString();
             x.querySelector("small").textContent =
               `U.S. residents in the cumulative 2026 NNDSS jurisdiction table through ${n.official_as_of}.`;
-            document.querySelector("#breakTitle").textContent =
-              `NNDSS table reports ${n.us_residents_total.toLocaleString()} U.S. residents`;
-            p.querySelector("small").textContent =
-              `LATEST NNDSS TABLE · ${n.official_as_of}`;
-            p.querySelector("p").textContent =
-              "Provisional cumulative jurisdiction counts power the national heatmap; reporting status varies by jurisdiction.";
           }
         })
         .catch(() => {});
