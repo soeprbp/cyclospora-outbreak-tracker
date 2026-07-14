@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-14T18:57:07Z",
+  "generated_at": "2026-07-14T19:07:52Z",
   "items": [
     {
       "id": "cdc-surveillance",
@@ -10,6 +10,16 @@
       "summary": "CDC's July 14 update reports 141 hospitalizations, no deaths, and cases across 34 states, with surveillance data current through July 13.",
       "title": "CDC reports 1,645 domestically acquired Cyclospora cases",
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
+    },
+    {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
+      "kind": "official",
+      "published_at": "2026-07-14",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "title": "Cyclosporiasis Outbreak with Unknown Source",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     },
     {
       "id": "the-washington-post-3cabea2aa1f9",
@@ -107,17 +117,8 @@
       "summary": "FDA's CORE table reports 18 cases and lists investigation 1384 as ongoing; the agency table should be checked for current traceback and product details.",
       "title": "FDA opens Cyclospora investigation 1384",
       "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
-    },
-    {
-      "id": "cdc-nndss",
-      "kind": "official",
-      "published_at": "2026-07-04",
-      "source": "CDC NNDSS",
-      "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
-      "title": "NNDSS table reports 1,838 U.S. Cyclospora cases",
-      "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     }
   ],
-  "rejected_candidates": 80,
+  "rejected_candidates": 79,
   "schema_version": 1
 }
