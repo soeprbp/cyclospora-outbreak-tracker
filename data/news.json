@@ -1,7 +1,17 @@
 {
   "errors": [],
-  "generated_at": "2026-07-14T21:17:05Z",
+  "generated_at": "2026-07-15T00:07:20Z",
   "items": [
+    {
+      "id": "the-washington-post-3cabea2aa1f9",
+      "kind": "major-media",
+      "published_at": "2026-07-15",
+      "publisher_url": "https://www.washingtonpost.com/",
+      "source": "The Washington Post",
+      "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
+      "title": "Authorities investigate Taco Bell and lettuce as cyclosporiasis outbreak surges",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdWQ5YTVoVERTaVFBOG5zc2tOcTFPY1BSSXNRcHN3LThObTlPY0xVeTYwVGJKTGdFMkhNYUhSbmwwSnpJVkxsVzFXdDduby1rRDJYMnBEdW9JMnFfM1ZEWmR3Z3hfZkFjeHJQVnNKWnc3bThTaV9hbVFpb204aWhkUjlQbEVsdU9vdHFVMUdIX2dMRzBfRG1TWFoyTVhKQUFSSjdqSjg5OWt4ZEdnSFlWcHVCU1drQnVVczh6NmlFLXZqeU1f"
+    },
     {
       "id": "cdc-surveillance",
       "kind": "official",
@@ -30,16 +40,6 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Domestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53ZlNIRS1wTDNpa25rUC1QRWRtcWczX2hkMTd2MnY1UkdaQmNvalRlQ3RBdEdHQ3NCakNSNEdsdXdYUndjYjRiQml1NkxnT0stMXJUdHVmd0kwdWJDQnc"
-    },
-    {
-      "id": "the-washington-post-3cabea2aa1f9",
-      "kind": "major-media",
-      "published_at": "2026-07-14",
-      "publisher_url": "https://www.washingtonpost.com/",
-      "source": "The Washington Post",
-      "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
-      "title": "Authorities investigate Taco Bell and lettuce as cyclosporiasis outbreak surges",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdWQ5YTVoVERTaVFBOG5zc2tOcTFPY1BSSXNRcHN3LThObTlPY0xVeTYwVGJKTGdFMkhNYUhSbmwwSnpJVkxsVzFXdDduby1rRDJYMnBEdW9JMnFfM1ZEWmR3Z3hfZkFjeHJQVnNKWnc3bThTaV9hbVFpb204aWhkUjlQbEVsdU9vdHFVMUdIX2dMRzBfRG1TWFoyTVhKQUFSSjdqSjg5OWt4ZEdnSFlWcHVCU1drQnVVczh6NmlFLXZqeU1f"
     },
     {
       "id": "cbs-news-6ebfd96a046d",
@@ -72,6 +72,16 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU0pvZVA1R0l3cXgzaTJSTzlRZkxaWVNwU054d0xnbFZQYy1qUF90U2p3UlZIRzd4LURHeTVjNkk3bDhSc2xLWngwNE9EV0JaTHBXaG13ejBnZWczU3llcThpTGIyaHdaU3pRTU5CZmd6cUJCTk5xR0YtcVg4aUtidTd6a3RNZF85eWdBVkxsWjFlbnFOUEp3cXBuVUg1Zw"
     },
     {
+      "id": "nbc-news-732e9cf8301d",
+      "kind": "major-media",
+      "published_at": "2026-07-14",
+      "publisher_url": "https://www.nbcnews.com/",
+      "source": "NBC News",
+      "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
+      "title": "Nearly 7,000 cases of cyclosporiasis confirmed or under investigation nationwide, CDC says",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGlPWVlRQmkzV3c3eVM5RUx1QS1mN2NsTS1kbmU2YW92NzBpcEE3Qmd6SGJvZ1V1TTQ4WjNmOU56LWg2clNZNzBqbWlpRUFNZUo0RkNnZmM3eE9la25idDBjVHFSRXAwaWZyWFR2RkwxR09RdVduSUpPemQ2cXFSMmxNMjBySjd2RXp6Nm5VaWE4WXlYNFFPVTVPaW9RYWYtQzRxMmh1VjBaaER6ZUlwN3g1aTQ"
+    },
+    {
       "id": "npr-da9fdcca557b",
       "kind": "major-media",
       "published_at": "2026-07-12",
@@ -99,16 +109,6 @@
       "summary": "Utah DHHS says the single Utah case shown in CDC outbreak materials was investigated and was not linked to the ongoing outbreak, illustrating why map counts need source context.",
       "title": "Utah clarifies its reported Cyclospora case",
       "url": "https://dhhs.utah.gov/featured-news/statement-from-utah-dhhs-about-cyclosporiasis-and-utah"
-    },
-    {
-      "id": "nbc-news-87030b012a9f",
-      "kind": "major-media",
-      "published_at": "2026-07-10",
-      "publisher_url": "https://www.nbcnews.com/",
-      "source": "NBC News",
-      "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
-      "title": "Dozens hospitalized with cyclosporiasis as cases of gastrointestinal illness spike in 31 states",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWi15R3ZrcHczUENUbzFzNmliUXFrV0ZqQUR6clU0SkNhRnVuREFHWk9INzdERHJUZVBpSnZRbkViSWxNV0kzcUhyQWR2cGc5VEExcG5FVzMwdGZORWlEMXZlWUsxWjRsMXBxNU9JWDM2RnMtcFZnODh4WlRDWFMxeTd3TlZNTVlCNXdURHlrb1Ayc1RUS0RNMEQ2bzROeVJrTXZDSU5CUnk5SGwzVWxBYTdnZW1wbnE3bjY4"
     },
     {
       "id": "fda-core-1385",
