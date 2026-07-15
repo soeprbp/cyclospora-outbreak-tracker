@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-15T00:07:20Z",
+  "generated_at": "2026-07-15T14:14:02Z",
   "items": [
     {
       "id": "the-washington-post-3cabea2aa1f9",
@@ -11,6 +11,16 @@
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
       "title": "Authorities investigate Taco Bell and lettuce as cyclosporiasis outbreak surges",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdWQ5YTVoVERTaVFBOG5zc2tOcTFPY1BSSXNRcHN3LThObTlPY0xVeTYwVGJKTGdFMkhNYUhSbmwwSnpJVkxsVzFXdDduby1rRDJYMnBEdW9JMnFfM1ZEWmR3Z3hfZkFjeHJQVnNKWnc3bThTaV9hbVFpb204aWhkUjlQbEVsdU9vdHFVMUdIX2dMRzBfRG1TWFoyTVhKQUFSSjdqSjg5OWt4ZEdnSFlWcHVCU1drQnVVczh6NmlFLXZqeU1f"
+    },
+    {
+      "id": "cbs-news-7cd4897cd780",
+      "kind": "major-media",
+      "published_at": "2026-07-15",
+      "publisher_url": "https://www.cbsnews.com/",
+      "source": "CBS News",
+      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
+      "title": "As cyclosporiasis cases rise, consumers are left guessing which foods to avoid",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE03T3paWVNkZEIya0lIWmNnMDFQX0hCUmtPN1RTZl9sZTRHQkM0RTFEdDFZbVppZVdibzN4NWI5UTN2NFBVVDFvNWxPVUZUOF9iQ3NyTThVdktZNm8xRXFTbzcxX1pyanBhajBkSlpQTGo0dw"
     },
     {
       "id": "cdc-surveillance",
@@ -38,18 +48,8 @@
       "publisher_url": "https://www.cdc.gov/",
       "source": "Centers for Disease Control and Prevention | CDC (.gov)",
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Domestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026",
+      "title": "Domestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026 | HAN",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53ZlNIRS1wTDNpa25rUC1QRWRtcWczX2hkMTd2MnY1UkdaQmNvalRlQ3RBdEdHQ3NCakNSNEdsdXdYUndjYjRiQml1NkxnT0stMXJUdHVmd0kwdWJDQnc"
-    },
-    {
-      "id": "cbs-news-6ebfd96a046d",
-      "kind": "major-media",
-      "published_at": "2026-07-14",
-      "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
-      "title": "U.S. cyclospora outbreak sickens thousands, but California cases remain within normal range",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcUhLMGowR3VuVG84QU1fZzBJN0x3Nk5BNFViOWRZLTVzTXpxMUpKTUEzSGh4TkFDZjNhX2x0NjA1aENSazN5blE1R1FLNW9QajhUbWpHcXN0R1ZxdDVfTEl2ZHkzVVlQeTRqWTdhOG9IclQzMi0tc2lDbmFITndkN3FLVzlUWGtfQnlKbGd0dEdzT2hjeHY0MGxhbklJUThPVHNsMmRXNWZZZw"
     },
     {
       "id": "usa-today-68a75ae74752",
@@ -120,6 +120,6 @@
       "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
     }
   ],
-  "rejected_candidates": 78,
+  "rejected_candidates": 80,
   "schema_version": 1
 }
