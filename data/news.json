@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-15T14:14:02Z",
+  "generated_at": "2026-07-15T17:40:59Z",
   "items": [
     {
       "id": "the-washington-post-3cabea2aa1f9",
@@ -82,6 +82,16 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGlPWVlRQmkzV3c3eVM5RUx1QS1mN2NsTS1kbmU2YW92NzBpcEE3Qmd6SGJvZ1V1TTQ4WjNmOU56LWg2clNZNzBqbWlpRUFNZUo0RkNnZmM3eE9la25idDBjVHFSRXAwaWZyWFR2RkwxR09RdVduSUpPemQ2cXFSMmxNMjBySjd2RXp6Nm5VaWE4WXlYNFFPVTVPaW9RYWYtQzRxMmh1VjBaaER6ZUlwN3g1aTQ"
     },
     {
+      "id": "reuters-8abbf7e7c473",
+      "kind": "major-media",
+      "published_at": "2026-07-13",
+      "publisher_url": "https://www.reuters.com/",
+      "source": "Reuters",
+      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
+      "title": "What to know about the US outbreak of cyclosporiasis intestinal illness",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObFI2eDhyNld0ZmFJNmlYbGl6bWZMVm5wQ2h4N3RxNVpFMGkxdWNnNVBQYU1DdHNHb01MeWVmMHZKbVd2LU1CS09FWlhuRi1Hd1BLYTc2U0tsRTF4TDVocmc2NDhFZ2ZGZTk0akpWQWtPbnN4YThxdEtZeEFsamlCbEZjV3JuMWI2XzVzWEVCaVNmQWNXS3oyb1VaNzNEWXJuRE8yZFp5N2xFbktldEl2ZE1tNG5qeGc5NWtIYmFsUWR2YXlkSHctV3pWRUxkUQ"
+    },
+    {
       "id": "npr-da9fdcca557b",
       "kind": "major-media",
       "published_at": "2026-07-12",
@@ -109,17 +119,8 @@
       "summary": "Utah DHHS says the single Utah case shown in CDC outbreak materials was investigated and was not linked to the ongoing outbreak, illustrating why map counts need source context.",
       "title": "Utah clarifies its reported Cyclospora case",
       "url": "https://dhhs.utah.gov/featured-news/statement-from-utah-dhhs-about-cyclosporiasis-and-utah"
-    },
-    {
-      "id": "fda-core-1385",
-      "kind": "official",
-      "published_at": "2026-07-08",
-      "source": "FDA",
-      "summary": "FDA's CORE table reports 7 cases and lists investigation 1385 as ongoing; the agency table should be checked for current traceback and product details.",
-      "title": "FDA opens Cyclospora investigation 1385",
-      "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
     }
   ],
-  "rejected_candidates": 80,
+  "rejected_candidates": 77,
   "schema_version": 1
 }
