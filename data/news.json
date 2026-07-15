@@ -1,7 +1,16 @@
 {
   "errors": [],
-  "generated_at": "2026-07-15T17:40:59Z",
+  "generated_at": "2026-07-15T19:38:36Z",
   "items": [
+    {
+      "id": "fda-core-1390",
+      "kind": "official",
+      "published_at": "2026-07-15",
+      "source": "FDA",
+      "summary": "FDA's CORE table lists investigation 1390 as active; the agency table should be checked for current traceback and product details.",
+      "title": "FDA opens Cyclospora investigation 1390",
+      "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
+    },
     {
       "id": "the-washington-post-3cabea2aa1f9",
       "kind": "major-media",
@@ -110,17 +119,8 @@
       "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
       "title": "Why the \"explosive\" stomach bug outbreak remains a mystery",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd2ZNTTc3S1FoQ0VsUmd2ZGVzWkVuVEstRFdUWTVGR1dsVnRCRGFsOWFRbHFROXR0SEFOcVBBU3FSVzJuZkt1cWFISGY1eGFFeWcwRWgxRlRnMnVlT0ZlbUFpZHpGSVFNN05SQ1JwVjcxLVc4bE1QOXVhNHZLWU93dmxLcURvVlJabV9xaVNR"
-    },
-    {
-      "id": "utah-dhhs-cyclospora-context",
-      "kind": "official",
-      "published_at": "2026-07-10",
-      "source": "Utah DHHS",
-      "summary": "Utah DHHS says the single Utah case shown in CDC outbreak materials was investigated and was not linked to the ongoing outbreak, illustrating why map counts need source context.",
-      "title": "Utah clarifies its reported Cyclospora case",
-      "url": "https://dhhs.utah.gov/featured-news/statement-from-utah-dhhs-about-cyclosporiasis-and-utah"
     }
   ],
-  "rejected_candidates": 77,
+  "rejected_candidates": 78,
   "schema_version": 1
 }
