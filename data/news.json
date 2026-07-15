@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-15T19:38:36Z",
+  "generated_at": "2026-07-15T22:17:58Z",
   "items": [
     {
       "id": "fda-core-1390",
@@ -111,14 +111,13 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbXNrYVpxQ1pNSmh6aDJkejZneHRUdGhRV2lvUzNkejMyS2NPWEpfNXZldWJieldQajgwTVNOYTQ1N09VeVFFSXc1eE5nSXlqYm1JUVI1QTV0QmNtQUp2UW0tWHVNdTZ0OVBTYy1laXdtdzRsblZKeWRaSGNMR0YxaEdfempMSFdabl9mT2pPdEFvdl8tMmt2eXRJZURZRXFzWXc"
     },
     {
-      "id": "axios-3b5d306b9c19",
-      "kind": "major-media",
+      "id": "cdc-nndss",
+      "kind": "official",
       "published_at": "2026-07-11",
-      "publisher_url": "https://www.axios.com/",
-      "source": "Axios",
-      "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
-      "title": "Why the \"explosive\" stomach bug outbreak remains a mystery",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd2ZNTTc3S1FoQ0VsUmd2ZGVzWkVuVEstRFdUWTVGR1dsVnRCRGFsOWFRbHFROXR0SEFOcVBBU3FSVzJuZkt1cWFISGY1eGFFeWcwRWgxRlRnMnVlT0ZlbUFpZHpGSVFNN05SQ1JwVjcxLVc4bE1QOXVhNHZLWU93dmxLcURvVlJabV9xaVNR"
+      "source": "CDC NNDSS",
+      "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
+      "title": "NNDSS table reports 3,713 U.S. Cyclospora cases",
+      "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     }
   ],
   "rejected_candidates": 78,
