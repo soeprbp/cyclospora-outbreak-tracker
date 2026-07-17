@@ -25,8 +25,14 @@ class ParserTests(unittest.TestCase):
         state_data = module.build_state_data(published["sources"])
         self.assertEqual(state_data["MI"]["source"], "Michigan MDHHS")
         self.assertEqual(state_data["MI"]["cases"], published["sources"]["mdhhs"]["cases"])
-        self.assertEqual(state_data["MI"]["comparable_cases"], 412)
-        self.assertEqual(published["state_data"]["NY"]["cases"], 460)
+        self.assertEqual(
+            state_data["MI"]["comparable_cases"],
+            published["sources"]["nndss"]["jurisdictions"]["MI"]["cases"],
+        )
+        self.assertEqual(
+            published["state_data"]["NY"]["cases"],
+            published["sources"]["nndss"]["jurisdictions"]["NY"]["cases"],
+        )
 
     def test_nndss_api_uses_latest_week_for_all_rows(self):
         raw = '[{"states":"U.S. Residents","year":"2026","week":"26","label":"Cyclosporiasis","m3":"10"},{"states":"Michigan","year":"2026","week":"26","label":"Cyclosporiasis","m3":"4"}]'
