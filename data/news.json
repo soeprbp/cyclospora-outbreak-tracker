@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-17T19:42:16Z",
+  "generated_at": "2026-07-18T17:25:34Z",
   "items": [
     {
       "id": "the-washington-post-17ff8b7b159f",
@@ -63,6 +63,16 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd3UzRnJoRlZucERfa01lWUhfTGVHSHNIaW85VTBGSGhKMTItOWJJOE9HMk5Wbl9tWnVDaEt5a2Q0WV9fR3NXbTVRYjNsUmZ4cWg2M2p2VlVrLWcxUFpGOENoakJZTFB0OHV6R0EtM0tVRVpPM0M2akxacDZaQW9wZzJMMnZ3N0tRR3ByRThVd3kzWFZPSFpIS1hTQkUwZlZjWm1GQkZzMGdURDla"
     },
     {
+      "id": "reuters-a43dc6af8590",
+      "kind": "major-media",
+      "published_at": "2026-07-17",
+      "publisher_url": "https://www.reuters.com/",
+      "source": "Reuters",
+      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
+      "title": "Taylor Farms, Sysco pull iceberg lettuce from central Mexico linked to US parasite outbreak",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWktLMXhqdm1jU0Z4UVdKbWswc1hLbWxrQkdkeGFuT3Y5R29Ccm5fOXFseWVTak1ya3NkT0lFc0ZTRUFhamxUX0l1NkpqV0JFRXk4QVUxTkswaEFfYUVLcjU0eGk2SENmTkJRdXZhTGQtdkhkcHh3VXZoMHFvYlhsYlpaa25jOWQ4dWo0RHNxaTBIUnFfQkhpQkN3RjRDTHRITTR3VHEwV1oyandPZk5CNXVQVE1jcEFYLVZTSkpjZ0hLNEZOc3ZXQndPYVg3ekpORFlpeVhUTQ"
+    },
+    {
       "id": "fda-core-1390",
       "kind": "official",
       "published_at": "2026-07-15",
@@ -109,18 +119,8 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Cyclosporiasis Outbreak with Unknown Source",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
-    },
-    {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-22e7c08a3665",
-      "kind": "official",
-      "published_at": "2026-07-14",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Domestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026 | HAN",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53ZlNIRS1wTDNpa25rUC1QRWRtcWczX2hkMTd2MnY1UkdaQmNvalRlQ3RBdEdHQ3NCakNSNEdsdXdYUndjYjRiQml1NkxnT0stMXJUdHVmd0kwdWJDQnc"
     }
   ],
-  "rejected_candidates": 72,
+  "rejected_candidates": 76,
   "schema_version": 1
 }
