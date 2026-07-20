@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-20T16:03:17Z",
+  "generated_at": "2026-07-20T20:43:35Z",
   "items": [
     {
       "id": "cbs-news-4db4069ff72f",
@@ -9,7 +9,7 @@
       "publisher_url": "https://www.cbsnews.com/",
       "source": "CBS News",
       "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
-      "title": "Taylor Farms lettuce sample that tested positive for cyclospora was a false positive, FDA says",
+      "title": "Taylor Farms lettuce is still focus of cyclospora investigation despite false positive test, FDA says",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNekpsZmx0WFE3NmM0b3JlZjB6UDFpS2VWY1p4SmZ6N0lYVWVqVTRkR0NuYXRGa2Rrd0ptN3dqZVVQNEF4UE8wNDZONmRJYUNLdUs4WWE1OGJQdkhIX3JtTlhrNy1LR3pQbE9EenJiLWp5ZmZRVmJ2Ym5QQTVVNUVYNHRn"
     },
     {
@@ -121,6 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     }
   ],
-  "rejected_candidates": 78,
+  "rejected_candidates": 80,
   "schema_version": 1
 }
