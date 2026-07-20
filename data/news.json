@@ -1,7 +1,17 @@
 {
   "errors": [],
-  "generated_at": "2026-07-20T20:43:35Z",
+  "generated_at": "2026-07-20T22:15:11Z",
   "items": [
+    {
+      "id": "house-gov-99d01e176999",
+      "kind": "official",
+      "published_at": "2026-07-20",
+      "publisher_url": "https://gottheimer.house.gov/",
+      "source": "House.gov",
+      "summary": "Recent Cyclospora coverage from House.gov. Open the article for the full report.",
+      "title": "RELEASE: Gottheimer Announces New Federal Actions to Combat Cyclospora, Other Foodborne Parasites to Promote Food Safety",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQk11MUVjb3ZGWURLdGF3eUJ1b3RyVWR0WUMwMTV1Rmphc1J5SWtZemM3a2JPeTA0T2JxZlVRZ0d1amUwWkk1TFllMW1sWXhJLU9BVkpwRnpPS2NQbkdoWFB2a0IxbjFnTTRlRjVLOG1jMDh5eERuQXI0SkxuVV84QWNNUi1XallybkRFbkJRcFlYRktVaGdOU3k2YWxweEJYUDFRN0p2VXhTMlZiZ2g2SXZhVlpCRUVzSXpHYzZId3hvTmR3V1NENWUyUHVpcEUyQ2JTNG1EQ2JuMmtvQ3hheG5ZR29OeEJ1"
+    },
     {
       "id": "cbs-news-4db4069ff72f",
       "kind": "major-media",
@@ -13,14 +23,14 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNekpsZmx0WFE3NmM0b3JlZjB6UDFpS2VWY1p4SmZ6N0lYVWVqVTRkR0NuYXRGa2Rrd0ptN3dqZVVQNEF4UE8wNDZONmRJYUNLdUs4WWE1OGJQdkhIX3JtTlhrNy1LR3pQbE9EenJiLWp5ZmZRVmJ2Ym5QQTVVNUVYNHRn"
     },
     {
-      "id": "the-washington-post-17ff8b7b159f",
+      "id": "the-washington-post-e1487cfc751a",
       "kind": "major-media",
-      "published_at": "2026-07-17",
+      "published_at": "2026-07-20",
       "publisher_url": "https://www.washingtonpost.com/",
       "source": "The Washington Post",
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
-      "title": "CDC, FDA link Taco Bell lettuce supplier to multistate cyclosporiasis outbreak",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRlJTMUxXb0pCV2tOOVdjOU5oWmhBOW4zQzdBb0VyUUw5cGNoUGpfdGJiRUlvMEJVMVlkbE93TUtZNm1jb3RGcmVleWtCZ0hsS3ZQRUc5enVsYS11RjhodGQtcWFsZ0s5T1gxNTBDcTlYSUVrYUROdmxXRGd6NEZsQnUtQ0NVUGVXbDRndTExVFdrNF9NVjZ3S0NkNUhKV1R4bUZCamxOMG9kcEF1UWYyQUc5bWd0cXF3dDFUX25FVndtVjAxTEQw"
+      "title": "FDA retracts test result but still links Taylor Farms lettuce to cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMXgxNndmUjBPN3E0Vk8wTDZXZkFCUXNZdkhVY3VjOXhyQlNqTUFCaDBPQjRlbGFTM3pjZXpiMXpVOTUzQzFBQmFmUzV1eXlGVmNkMTNvS0tESUFoNmticHFnb3ZkbE5GbHNxdUp2bTRCdVBqSDlDUWs4eDBxd0I1TFFVRzdKOFprQVhsYUNCNm83UjBQZGFxVVo1ejJZT3U4QWE4ZHJpR201TGotZnl1dERFX3VyUi1mTEZZbGtsd1QyWVE"
     },
     {
       "id": "ap-news-9b3df3f3d8a5",
@@ -109,18 +119,8 @@
       "summary": "CDC's July 14 update reports 141 hospitalizations, no deaths, and cases across 34 states, with surveillance data current through July 13.",
       "title": "CDC reports 1,645 domestically acquired Cyclospora cases",
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
-    },
-    {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
-      "kind": "official",
-      "published_at": "2026-07-14",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Cyclosporiasis Outbreak with Unknown Source",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     }
   ],
-  "rejected_candidates": 80,
+  "rejected_candidates": 79,
   "schema_version": 1
 }
