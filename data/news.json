@@ -1,7 +1,17 @@
 {
   "errors": [],
-  "generated_at": "2026-07-18T17:25:34Z",
+  "generated_at": "2026-07-20T16:03:17Z",
   "items": [
+    {
+      "id": "cbs-news-4db4069ff72f",
+      "kind": "major-media",
+      "published_at": "2026-07-20",
+      "publisher_url": "https://www.cbsnews.com/",
+      "source": "CBS News",
+      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
+      "title": "Taylor Farms lettuce sample that tested positive for cyclospora was a false positive, FDA says",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNekpsZmx0WFE3NmM0b3JlZjB6UDFpS2VWY1p4SmZ6N0lYVWVqVTRkR0NuYXRGa2Rrd0ptN3dqZVVQNEF4UE8wNDZONmRJYUNLdUs4WWE1OGJQdkhIX3JtTlhrNy1LR3pQbE9EenJiLWp5ZmZRVmJ2Ym5QQTVVNUVYNHRn"
+    },
     {
       "id": "the-washington-post-17ff8b7b159f",
       "kind": "major-media",
@@ -29,7 +39,7 @@
       "publisher_url": "https://www.npr.org/",
       "source": "NPR",
       "summary": "Recent Cyclospora coverage from NPR. Open the article for the full report.",
-      "title": "Iceberg lettuce at Taco Bell linked to cyclospora outbreak in 5 states",
+      "title": "Iceberg lettuce at Taco Bell linked to Cyclospora outbreak in 5 states",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNDFuVUxoSlNEYnJ0NURpQlU2TzZzX2cwc01Xb3BwRWNoSUtxWXBvM3Q4S2pNQW9GWDB3TkdxbG9aaG9lTmlyWi0zMFRqLVNjOWg5MDZSdkQtQ2l2cDNTTFJwNUR6cV85d0tlTmpDbmFZSXN1UHRVdUZ3bHdCcS1ta2xXZVZYTHBRUUxTVEd3bXpYRDA"
     },
     {
@@ -41,16 +51,6 @@
       "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
       "title": "Taylor Farms recalls iceberg lettuce amid cyclosporiasis outbreak",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORXBqQXhGMGM0LTRKLWdWaHdUd2dWSG16SmxHY182Vlo0cy1IXzZ6NEx0a01DcktVcF9jLUhkeGxibWRXam5fZVAtQW1TX3JIeElEeHV0bHBrMkhCdFdZSXRKUFRiQmR1alYwcEhZdWpxU0d5UVhsZzVob19BRVhRN29EOGN3RDVmQVhSQllSTWlUaFhQR0F0XzFR"
-    },
-    {
-      "id": "cbs-news-daac3d82b59e",
-      "kind": "major-media",
-      "published_at": "2026-07-17",
-      "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
-      "title": "Salinas-based Taylor Farms linked to U.S. cyclospora outbreak, report says",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQi1nNzFMVks1aC1yVkE5WmcxRkVZNkgzYW9IVHE5MG9KbC1rbFZnY0pwUHR6SUlPQ0FOQ3F0bkpXbzVqM0RzWkdqLXVSQXRjeWtIX2MyZndUQW5KanZFRkthdG96b1NPRnhtbEp3VDJsSVhOMWxnZWhPVGJjZVNiVzVFaDQ2RGNQdVl6MzhmUGd6NFdJ"
     },
     {
       "id": "axios-30b951354d50",
@@ -121,6 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     }
   ],
-  "rejected_candidates": 76,
+  "rejected_candidates": 78,
   "schema_version": 1
 }
