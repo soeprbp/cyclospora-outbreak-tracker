@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-21T06:43:15Z",
+  "generated_at": "2026-07-21T16:45:36Z",
   "items": [
     {
       "id": "npr-2e690d09a707",
@@ -11,6 +11,16 @@
       "summary": "Recent Cyclospora coverage from NPR. Open the article for the full report.",
       "title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT09VaXk1SGZIbzhCT2xWQXB1b01DQ1VWSHZfZmJveFNHNkFRbWQyZHdGc2pkYzZnLTlkTkhBLXoyYm0xVzZBRFMycnhrV1E3NGJnMUd2UFIwcGpNdkJzN3JFbFBQZFl4ckJrMi1DTFFfSWtRZ1k1bjZGWnBhcnVLc2JRVlNHN0I5ZWp0dXplZUo0Z3V3dnpPTnJWUG9id1A2QjdheVFyNVl4MWVrRG5wOHdhZHlSenlLTmc"
+    },
+    {
+      "id": "axios-0fc38c264140",
+      "kind": "major-media",
+      "published_at": "2026-07-21",
+      "publisher_url": "https://www.axios.com/",
+      "source": "Axios",
+      "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
+      "title": "Cyclospora outbreak surges. Here's how to lower infection risk",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanI5aFNPemtZYXJ5TXV4Y2tsUmFyNXhYR1dQWTRwVjhqcXRyd2J4M2lYUGtQemY1a3VFblNwZV9JTTNPMl9wVEREOTlIbFBLSFEybENEVkZ5MjlXeDRrOXhiejVHa3V2Y1FrRVpXSm5MQ3NnTEE1MTdBY2lERDFBcVU3bm1VN1RZ"
     },
     {
       "id": "house-gov-99d01e176999",
@@ -41,16 +51,6 @@
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
       "title": "FDA retracts test result but still links Taylor Farms lettuce to cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMXgxNndmUjBPN3E0Vk8wTDZXZkFCUXNZdkhVY3VjOXhyQlNqTUFCaDBPQjRlbGFTM3pjZXpiMXpVOTUzQzFBQmFmUzV1eXlGVmNkMTNvS0tESUFoNmticHFnb3ZkbE5GbHNxdUp2bTRCdVBqSDlDUWs4eDBxd0I1TFFVRzdKOFprQVhsYUNCNm83UjBQZGFxVVo1ejJZT3U4QWE4ZHJpR201TGotZnl1dERFX3VyUi1mTEZZbGtsd1QyWVE"
-    },
-    {
-      "id": "axios-0fc38c264140",
-      "kind": "major-media",
-      "published_at": "2026-07-20",
-      "publisher_url": "https://www.axios.com/",
-      "source": "Axios",
-      "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
-      "title": "Cyclospora outbreak surges. Here's how to lower infection risk",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanI5aFNPemtZYXJ5TXV4Y2tsUmFyNXhYR1dQWTRwVjhqcXRyd2J4M2lYUGtQemY1a3VFblNwZV9JTTNPMl9wVEREOTlIbFBLSFEybENEVkZ5MjlXeDRrOXhiejVHa3V2Y1FrRVpXSm5MQ3NnTEE1MTdBY2lERDFBcVU3bm1VN1RZ"
     },
     {
       "id": "reuters-dee56934cedc",
@@ -121,6 +121,6 @@
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     }
   ],
-  "rejected_candidates": 78,
+  "rejected_candidates": 79,
   "schema_version": 1
 }
