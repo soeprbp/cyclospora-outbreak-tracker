@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-21T03:49:08Z",
+  "generated_at": "2026-07-21T06:43:15Z",
   "items": [
     {
       "id": "npr-2e690d09a707",
@@ -53,6 +53,16 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanI5aFNPemtZYXJ5TXV4Y2tsUmFyNXhYR1dQWTRwVjhqcXRyd2J4M2lYUGtQemY1a3VFblNwZV9JTTNPMl9wVEREOTlIbFBLSFEybENEVkZ5MjlXeDRrOXhiejVHa3V2Y1FrRVpXSm5MQ3NnTEE1MTdBY2lERDFBcVU3bm1VN1RZ"
     },
     {
+      "id": "reuters-dee56934cedc",
+      "kind": "major-media",
+      "published_at": "2026-07-20",
+      "publisher_url": "https://www.reuters.com/",
+      "source": "Reuters",
+      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
+      "title": "What has made the cyclospora behind the US outbreak so challenging to trace?",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd0UwUlVDeU1oV2ItVVp6VnoxSVRsX29hdmd3ZTFLM1kyanNKZFZHb2F4dEhITmVabnphMWlpdWlnS0pSVFFmNHdnYTJDRnljd2RfSmFCeTE2b3U3N1kxMFRwbmRUdnVtUDktdzV1Skoxd0hidzFQc3hqOUxIUUhLdEVCVVpyck14MVZMZUFsZV9hSVl2SXp2VWw0bjNwSXZKWnpkWndwTTdDU28zTmJ5bXZ2UGZkbG1Z"
+    },
+    {
       "id": "ap-news-9b3df3f3d8a5",
       "kind": "major-media",
       "published_at": "2026-07-17",
@@ -71,16 +81,6 @@
       "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
       "title": "Taylor Farms recalls iceberg lettuce amid cyclosporiasis outbreak",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORXBqQXhGMGM0LTRKLWdWaHdUd2dWSG16SmxHY182Vlo0cy1IXzZ6NEx0a01DcktVcF9jLUhkeGxibWRXam5fZVAtQW1TX3JIeElEeHV0bHBrMkhCdFdZSXRKUFRiQmR1alYwcEhZdWpxU0d5UVhsZzVob19BRVhRN29EOGN3RDVmQVhSQllSTWlUaFhQR0F0XzFR"
-    },
-    {
-      "id": "reuters-a43dc6af8590",
-      "kind": "major-media",
-      "published_at": "2026-07-17",
-      "publisher_url": "https://www.reuters.com/",
-      "source": "Reuters",
-      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
-      "title": "Taylor Farms, Sysco pull iceberg lettuce from central Mexico linked to US parasite outbreak",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWktLMXhqdm1jU0Z4UVdKbWswc1hLbWxrQkdkeGFuT3Y5R29Ccm5fOXFseWVTak1ya3NkT0lFc0ZTRUFhamxUX0l1NkpqV0JFRXk4QVUxTkswaEFfYUVLcjU0eGk2SENmTkJRdXZhTGQtdkhkcHh3VXZoMHFvYlhsYlpaa25jOWQ4dWo0RHNxaTBIUnFfQkhpQkN3RjRDTHRITTR3VHEwV1oyandPZk5CNXVQVE1jcEFYLVZTSkpjZ0hLNEZOc3ZXQndPYVg3ekpORFlpeVhUTQ"
     },
     {
       "id": "fda-core-1390",
@@ -121,6 +121,6 @@
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     }
   ],
-  "rejected_candidates": 79,
+  "rejected_candidates": 78,
   "schema_version": 1
 }
