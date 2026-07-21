@@ -1,17 +1,7 @@
 {
   "errors": [],
-  "generated_at": "2026-07-21T18:42:20Z",
+  "generated_at": "2026-07-21T20:37:48Z",
   "items": [
-    {
-      "id": "npr-2e690d09a707",
-      "kind": "major-media",
-      "published_at": "2026-07-21",
-      "publisher_url": "https://www.npr.org/",
-      "source": "NPR",
-      "summary": "Recent Cyclospora coverage from NPR. Open the article for the full report.",
-      "title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT09VaXk1SGZIbzhCT2xWQXB1b01DQ1VWSHZfZmJveFNHNkFRbWQyZHdGc2pkYzZnLTlkTkhBLXoyYm0xVzZBRFMycnhrV1E3NGJnMUd2UFIwcGpNdkJzN3JFbFBQZFl4ckJrMi1DTFFfSWtRZ1k1bjZGWnBhcnVLc2JRVlNHN0I5ZWp0dXplZUo0Z3V3dnpPTnJWUG9id1A2QjdheVFyNVl4MWVrRG5wOHdhZHlSenlLTmc"
-    },
     {
       "id": "axios-0fc38c264140",
       "kind": "major-media",
@@ -21,6 +11,16 @@
       "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
       "title": "Cyclospora outbreak surges. Here's how to lower infection risk",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanI5aFNPemtZYXJ5TXV4Y2tsUmFyNXhYR1dQWTRwVjhqcXRyd2J4M2lYUGtQemY1a3VFblNwZV9JTTNPMl9wVEREOTlIbFBLSFEybENEVkZ5MjlXeDRrOXhiejVHa3V2Y1FrRVpXSm5MQ3NnTEE1MTdBY2lERDFBcVU3bm1VN1RZ"
+    },
+    {
+      "id": "npr-org-2e690d09a707",
+      "kind": "major-media",
+      "published_at": "2026-07-21",
+      "publisher_url": "https://www.npr.org/",
+      "source": "npr.org",
+      "summary": "Recent Cyclospora coverage from npr.org. Open the article for the full report.",
+      "title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT09VaXk1SGZIbzhCT2xWQXB1b01DQ1VWSHZfZmJveFNHNkFRbWQyZHdGc2pkYzZnLTlkTkhBLXoyYm0xVzZBRFMycnhrV1E3NGJnMUd2UFIwcGpNdkJzN3JFbFBQZFl4ckJrMi1DTFFfSWtRZ1k1bjZGWnBhcnVLc2JRVlNHN0I5ZWp0dXplZUo0Z3V3dnpPTnJWUG9id1A2QjdheVFyNVl4MWVrRG5wOHdhZHlSenlLTmc"
     },
     {
       "id": "house-gov-99d01e176999",
@@ -122,6 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeE9IdzN1dk9BWF9VTUFrT3JZaHQ5M2pra1NTZUVrbnBGSlA2SGJVU1BDQVdEc1RwUmdDTUpzZFVLS1VoV0t2Qld6eW1TV1pEWGhvMF9lVnFnbll6U2c5ODVpZFBNd1JpQ0txSzVTeXhUalRnS01IUFFoMTEzTkxRRlVxbkZyeVdTeHhHYXIzUTdTSHZ5cEo4MEV5T2ZNQXZxZ1NhakVMMjdHcWxpZ2RaVTVkdUl6MnE3NThILWpIZDhoczEyYTBfWjFwbTMwZw"
     }
   ],
-  "rejected_candidates": 77,
+  "rejected_candidates": 78,
   "schema_version": 1
 }
