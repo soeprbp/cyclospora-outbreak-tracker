@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-21T22:13:21Z",
+  "generated_at": "2026-07-21T23:14:33Z",
   "items": [
     {
       "id": "axios-0fc38c264140",
@@ -73,6 +73,16 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     },
     {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-cfef3ce1f5f8",
+      "kind": "official",
+      "published_at": "2026-07-18",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "title": "Investigation Update: Cyclospora Outbreak, July 2026",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10VTVMTEQ3UHE1ZDJEY2VNRV9scHh3SmhTUDQ4SlFFeV9RYnFvSXY4amlCcUNOc0VyYmN6c2N4Z1FISVVkOG9uQVVkNFduRUV1Tk9NYVVmRUhMX2tmcjAzRVZ0LWhxdmJGRXM3REE2ekNFZVBDbnpzZQ"
+    },
+    {
       "id": "ap-news-9b3df3f3d8a5",
       "kind": "major-media",
       "published_at": "2026-07-17",
@@ -110,18 +120,8 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Surveillance of Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
-    },
-    {
-      "id": "usa-today-e9b1889cd8c9",
-      "kind": "major-media",
-      "published_at": "2026-07-15",
-      "publisher_url": "https://www.usatoday.com/",
-      "source": "USA Today",
-      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
-      "title": "Cyclospora outbreak could linger, infectious disease experts say",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeE9IdzN1dk9BWF9VTUFrT3JZaHQ5M2pra1NTZUVrbnBGSlA2SGJVU1BDQVdEc1RwUmdDTUpzZFVLS1VoV0t2Qld6eW1TV1pEWGhvMF9lVnFnbll6U2c5ODVpZFBNd1JpQ0txSzVTeXhUalRnS01IUFFoMTEzTkxRRlVxbkZyeVdTeHhHYXIzUTdTSHZ5cEo4MEV5T2ZNQXZxZ1NhakVMMjdHcWxpZ2RaVTVkdUl6MnE3NThILWpIZDhoczEyYTBfWjFwbTMwZw"
     }
   ],
-  "rejected_candidates": 79,
+  "rejected_candidates": 77,
   "schema_version": 1
 }
