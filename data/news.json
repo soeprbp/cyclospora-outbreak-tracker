@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-21T16:45:36Z",
+  "generated_at": "2026-07-21T18:42:20Z",
   "items": [
     {
       "id": "npr-2e690d09a707",
@@ -63,6 +63,16 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd0UwUlVDeU1oV2ItVVp6VnoxSVRsX29hdmd3ZTFLM1kyanNKZFZHb2F4dEhITmVabnphMWlpdWlnS0pSVFFmNHdnYTJDRnljd2RfSmFCeTE2b3U3N1kxMFRwbmRUdnVtUDktdzV1Skoxd0hidzFQc3hqOUxIUUhLdEVCVVpyck14MVZMZUFsZV9hSVl2SXp2VWw0bjNwSXZKWnpkWndwTTdDU28zTmJ5bXZ2UGZkbG1Z"
     },
     {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
+      "kind": "official",
+      "published_at": "2026-07-18",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "title": "Cyclospora Outbreak Linked to Iceberg Lettuce in 5 States | Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
+    },
+    {
       "id": "ap-news-9b3df3f3d8a5",
       "kind": "major-media",
       "published_at": "2026-07-17",
@@ -110,17 +120,8 @@
       "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
       "title": "Cyclospora outbreak could linger, infectious disease experts say",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeE9IdzN1dk9BWF9VTUFrT3JZaHQ5M2pra1NTZUVrbnBGSlA2SGJVU1BDQVdEc1RwUmdDTUpzZFVLS1VoV0t2Qld6eW1TV1pEWGhvMF9lVnFnbll6U2c5ODVpZFBNd1JpQ0txSzVTeXhUalRnS01IUFFoMTEzTkxRRlVxbkZyeVdTeHhHYXIzUTdTSHZ5cEo4MEV5T2ZNQXZxZ1NhakVMMjdHcWxpZ2RaVTVkdUl6MnE3NThILWpIZDhoczEyYTBfWjFwbTMwZw"
-    },
-    {
-      "id": "cdc-surveillance",
-      "kind": "official",
-      "published_at": "2026-07-14",
-      "source": "CDC",
-      "summary": "CDC's July 14 update reports 141 hospitalizations, no deaths, and cases across 34 states, with surveillance data current through July 13.",
-      "title": "CDC reports 1,645 domestically acquired Cyclospora cases",
-      "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     }
   ],
-  "rejected_candidates": 79,
+  "rejected_candidates": 77,
   "schema_version": 1
 }
