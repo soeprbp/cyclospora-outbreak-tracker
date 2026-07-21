@@ -1,7 +1,17 @@
 {
   "errors": [],
-  "generated_at": "2026-07-20T23:27:10Z",
+  "generated_at": "2026-07-21T03:49:08Z",
   "items": [
+    {
+      "id": "npr-2e690d09a707",
+      "kind": "major-media",
+      "published_at": "2026-07-21",
+      "publisher_url": "https://www.npr.org/",
+      "source": "NPR",
+      "summary": "Recent Cyclospora coverage from NPR. Open the article for the full report.",
+      "title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT09VaXk1SGZIbzhCT2xWQXB1b01DQ1VWSHZfZmJveFNHNkFRbWQyZHdGc2pkYzZnLTlkTkhBLXoyYm0xVzZBRFMycnhrV1E3NGJnMUd2UFIwcGpNdkJzN3JFbFBQZFl4ckJrMi1DTFFfSWtRZ1k1bjZGWnBhcnVLc2JRVlNHN0I5ZWp0dXplZUo0Z3V3dnpPTnJWUG9id1A2QjdheVFyNVl4MWVrRG5wOHdhZHlSenlLTmc"
+    },
     {
       "id": "house-gov-99d01e176999",
       "kind": "official",
@@ -51,16 +61,6 @@
       "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
       "title": "Lettuce at Taco Bell in 5 states confirmed as a source of diarrhea-causing parasite",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMGRkT2laLXQ4SXI1cjFYeDBkOC04RmVieUZZVHljejdCM3RVWFBCSFJFU0Eya0REWjFMczBKT21RTUlEa3hVZkg2cDVrTmg4UEZOaVIyQlNPYUZmaFBrQWlYRFJUZk5KZmJYVUFfNHBKaDZyRHZCU3NaS0t3LVVMNGl6ZW8tSUR5LUY4VXN4VkIzVy1oRVRLQjUzMjI"
-    },
-    {
-      "id": "npr-561ce2c59252",
-      "kind": "major-media",
-      "published_at": "2026-07-17",
-      "publisher_url": "https://www.npr.org/",
-      "source": "NPR",
-      "summary": "Recent Cyclospora coverage from NPR. Open the article for the full report.",
-      "title": "Iceberg lettuce at Taco Bell linked to Cyclospora outbreak in 5 states",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNDFuVUxoSlNEYnJ0NURpQlU2TzZzX2cwc01Xb3BwRWNoSUtxWXBvM3Q4S2pNQW9GWDB3TkdxbG9aaG9lTmlyWi0zMFRqLVNjOWg5MDZSdkQtQ2l2cDNTTFJwNUR6cV85d0tlTmpDbmFZSXN1UHRVdUZ3bHdCcS1ta2xXZVZYTHBRUUxTVEd3bXpYRDA"
     },
     {
       "id": "nbc-news-fcb07913a5fb",
