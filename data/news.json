@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-22T18:35:59Z",
+  "generated_at": "2026-07-22T22:17:31Z",
   "items": [
     {
       "id": "fda-core-1392",
@@ -12,14 +12,24 @@
       "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
     },
     {
-      "id": "axios-0fc38c264140",
+      "id": "reuters-f8ac890dcd48",
       "kind": "major-media",
-      "published_at": "2026-07-21",
+      "published_at": "2026-07-22",
+      "publisher_url": "https://www.reuters.com/",
+      "source": "Reuters",
+      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
+      "title": "US FDA says it is investigating another cyclosporiasis outbreak",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVUdiRkRSVXFxZ1NzNGdGVWZULTduQ0EyenJHemk3LWs3QWZvSWI3Wl9DWXpjTzlKYm1KWDNic010TTRVZG0tdF94blRfcDY0LW1qMnVXTDJmSmZTdHRBZ0Y2cm41WkQ0S29fRGtTMzZzOEhEQ292SzJIQk5UbTZBYVAzZGVmMVd4eG5wTU13V3UxUVBaN2tLRFBjQU1hbzlRNnBZQjV2V1JpS3FUNFFIbWl4dlVIaGlPMHBjLU9PVmN4UThVZ28xTDA2MA"
+    },
+    {
+      "id": "axios-0ef0e185a76a",
+      "kind": "major-media",
+      "published_at": "2026-07-22",
       "publisher_url": "https://www.axios.com/",
       "source": "Axios",
       "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
-      "title": "Cyclospora outbreak surges. Here's how to lower infection risk",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanI5aFNPemtZYXJ5TXV4Y2tsUmFyNXhYR1dQWTRwVjhqcXRyd2J4M2lYUGtQemY1a3VFblNwZV9JTTNPMl9wVEREOTlIbFBLSFEybENEVkZ5MjlXeDRrOXhiejVHa3V2Y1FrRVpXSm5MQ3NnTEE1MTdBY2lERDFBcVU3bm1VN1RZ"
+      "title": "Diarrhea outbreak reaches 29 cases in the Charlotte area",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdU1sZXFZVk43cW1ud1JyblY3cGFzNGV3OVJvaU1OWkFWZ2JZQThDLUt1aXpldzJGZ1pYMlI2T1UxRFFFVWowbWVOakdJWUlGY3E4T0dPTUNONUFMSW5jWDBnMWVrR29HbDNQMGpacnNxaE0zUVNOS2lxMi1kR2hGSmlBajVCTjZ6Smc"
     },
     {
       "id": "npr-2e690d09a707",
@@ -62,16 +72,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMXgxNndmUjBPN3E0Vk8wTDZXZkFCUXNZdkhVY3VjOXhyQlNqTUFCaDBPQjRlbGFTM3pjZXpiMXpVOTUzQzFBQmFmUzV1eXlGVmNkMTNvS0tESUFoNmticHFnb3ZkbE5GbHNxdUp2bTRCdVBqSDlDUWs4eDBxd0I1TFFVRzdKOFprQVhsYUNCNm83UjBQZGFxVVo1ejJZT3U4QWE4ZHJpR201TGotZnl1dERFX3VyUi1mTEZZbGtsd1QyWVE"
     },
     {
-      "id": "reuters-dee56934cedc",
-      "kind": "major-media",
-      "published_at": "2026-07-20",
-      "publisher_url": "https://www.reuters.com/",
-      "source": "Reuters",
-      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
-      "title": "What has made the cyclospora behind the US outbreak so challenging to trace?",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd0UwUlVDeU1oV2ItVVp6VnoxSVRsX29hdmd3ZTFLM1kyanNKZFZHb2F4dEhITmVabnphMWlpdWlnS0pSVFFmNHdnYTJDRnljd2RfSmFCeTE2b3U3N1kxMFRwbmRUdnVtUDktdzV1Skoxd0hidzFQc3hqOUxIUUhLdEVCVVpyck14MVZMZUFsZV9hSVl2SXp2VWw0bjNwSXZKWnpkWndwTTdDU28zTmJ5bXZ2UGZkbG1Z"
-    },
-    {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
       "kind": "official",
       "published_at": "2026-07-18",
@@ -92,6 +92,15 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10VTVMTEQ3UHE1ZDJEY2VNRV9scHh3SmhTUDQ4SlFFeV9RYnFvSXY4amlCcUNOc0VyYmN6c2N4Z1FISVVkOG9uQVVkNFduRUV1Tk9NYVVmRUhMX2tmcjAzRVZ0LWhxdmJGRXM3REE2ekNFZVBDbnpzZQ"
     },
     {
+      "id": "cdc-nndss",
+      "kind": "official",
+      "published_at": "2026-07-18",
+      "source": "CDC NNDSS",
+      "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
+      "title": "NNDSS table reports 7,907 U.S. Cyclospora cases",
+      "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
+    },
+    {
       "id": "ap-news-9b3df3f3d8a5",
       "kind": "major-media",
       "published_at": "2026-07-17",
@@ -110,15 +119,6 @@
       "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
       "title": "Taylor Farms recalls iceberg lettuce amid cyclosporiasis outbreak",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORXBqQXhGMGM0LTRKLWdWaHdUd2dWSG16SmxHY182Vlo0cy1IXzZ6NEx0a01DcktVcF9jLUhkeGxibWRXam5fZVAtQW1TX3JIeElEeHV0bHBrMkhCdFdZSXRKUFRiQmR1alYwcEhZdWpxU0d5UVhsZzVob19BRVhRN29EOGN3RDVmQVhSQllSTWlUaFhQR0F0XzFR"
-    },
-    {
-      "id": "fda-core-1390",
-      "kind": "official",
-      "published_at": "2026-07-15",
-      "source": "FDA",
-      "summary": "FDA's CORE table lists investigation 1390 as active; the agency table should be checked for current traceback and product details.",
-      "title": "FDA opens Cyclospora investigation 1390",
-      "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
     }
   ],
   "rejected_candidates": 78,
