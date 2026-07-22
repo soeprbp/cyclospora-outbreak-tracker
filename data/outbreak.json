@@ -2,7 +2,7 @@
   "errors": {
     "cdc": "missing CDC fast facts"
   },
-  "generated_at": "2026-07-22T14:25:43Z",
+  "generated_at": "2026-07-22T18:35:43Z",
   "schema_version": 2,
   "sources": {
     "cdc": {
@@ -16,8 +16,14 @@
       "validation_status": "last-known-good"
     },
     "fda": {
-      "fetched_at": "2026-07-22T14:25:43Z",
+      "fetched_at": "2026-07-22T18:35:43Z",
       "investigations": [
+        {
+          "cases": 72,
+          "date_posted": "2026-07-22",
+          "reference": "1392",
+          "status": "ongoing"
+        },
         {
           "cases": null,
           "date_posted": "2026-07-15",
@@ -25,7 +31,7 @@
           "status": "active"
         },
         {
-          "cases": 8,
+          "cases": 10,
           "date_posted": "2026-07-08",
           "reference": "1385",
           "status": "ongoing"
@@ -40,7 +46,7 @@
           "cases": 2,
           "date_posted": "2026-06-17",
           "reference": "1381",
-          "status": "ongoing"
+          "status": "ended"
         },
         {
           "cases": 8,
@@ -49,20 +55,20 @@
           "status": "ended"
         }
       ],
-      "official_as_of": "2026-07-15",
+      "official_as_of": "2026-07-22",
       "source_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks",
       "validation_status": "valid"
     },
     "mdhhs": {
       "cases": 7171,
-      "fetched_at": "2026-07-22T14:25:43Z",
+      "fetched_at": "2026-07-22T18:35:43Z",
       "hospitalizations": 102,
       "official_as_of": "2026-07-22",
       "source_url": "https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases/infectious-disease-outbreaks",
       "validation_status": "valid"
     },
     "nndss": {
-      "fetched_at": "2026-07-22T14:25:43Z",
+      "fetched_at": "2026-07-22T18:35:43Z",
       "jurisdictions": {
         "AK": {
           "cases": 3

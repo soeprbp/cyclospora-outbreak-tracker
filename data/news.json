@@ -1,7 +1,16 @@
 {
   "errors": [],
-  "generated_at": "2026-07-21T23:14:33Z",
+  "generated_at": "2026-07-22T18:35:59Z",
   "items": [
+    {
+      "id": "fda-core-1392",
+      "kind": "official",
+      "published_at": "2026-07-22",
+      "source": "FDA",
+      "summary": "FDA's CORE table reports 72 cases and lists investigation 1392 as ongoing; the agency table should be checked for current traceback and product details.",
+      "title": "FDA opens Cyclospora investigation 1392",
+      "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
+    },
     {
       "id": "axios-0fc38c264140",
       "kind": "major-media",
@@ -110,18 +119,8 @@
       "summary": "FDA's CORE table lists investigation 1390 as active; the agency table should be checked for current traceback and product details.",
       "title": "FDA opens Cyclospora investigation 1390",
       "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
-    },
-    {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-905ec3a944fd",
-      "kind": "official",
-      "published_at": "2026-07-15",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Surveillance of Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
     }
   ],
-  "rejected_candidates": 77,
+  "rejected_candidates": 78,
   "schema_version": 1
 }
