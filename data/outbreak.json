@@ -1,6 +1,8 @@
 {
-  "errors": {},
-  "generated_at": "2026-07-21T16:45:11Z",
+  "errors": {
+    "cdc": "missing CDC fast facts"
+  },
+  "generated_at": "2026-07-22T14:25:43Z",
   "schema_version": 2,
   "sources": {
     "cdc": {
@@ -11,10 +13,10 @@
       "official_as_of": "2026-07-13",
       "source_url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html",
       "states": 34,
-      "validation_status": "valid"
+      "validation_status": "last-known-good"
     },
     "fda": {
-      "fetched_at": "2026-07-21T16:45:11Z",
+      "fetched_at": "2026-07-22T14:25:43Z",
       "investigations": [
         {
           "cases": null,
@@ -52,15 +54,15 @@
       "validation_status": "valid"
     },
     "mdhhs": {
-      "cases": 6571,
-      "fetched_at": "2026-07-21T16:45:11Z",
+      "cases": 7171,
+      "fetched_at": "2026-07-22T14:25:43Z",
       "hospitalizations": 102,
-      "official_as_of": "2026-07-21",
+      "official_as_of": "2026-07-22",
       "source_url": "https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases/infectious-disease-outbreaks",
       "validation_status": "valid"
     },
     "nndss": {
-      "fetched_at": "2026-07-21T16:45:11Z",
+      "fetched_at": "2026-07-22T14:25:43Z",
       "jurisdictions": {
         "AK": {
           "cases": 3
@@ -355,9 +357,9 @@
       "source": "CDC NNDSS"
     },
     "MI": {
-      "cases": 6571,
+      "cases": 7171,
       "comparable_cases": 1506,
-      "official_as_of": "2026-07-21",
+      "official_as_of": "2026-07-22",
       "scope": "state outbreak reports; may include probable and confirmed cases",
       "source": "Michigan MDHHS"
     },
