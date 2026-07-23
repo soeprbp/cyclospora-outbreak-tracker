@@ -1,7 +1,27 @@
 {
   "errors": [],
-  "generated_at": "2026-07-23T14:35:22Z",
+  "generated_at": "2026-07-23T18:39:11Z",
   "items": [
+    {
+      "id": "cbs-news-4e01c99d9705",
+      "kind": "major-media",
+      "published_at": "2026-07-23",
+      "publisher_url": "https://www.cbsnews.com/",
+      "source": "CBS News",
+      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
+      "title": "FDA says it identified new cyclospora outbreak linked to unspecified product",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVWZoNDZQalJ6aHpBTWhoeGpLMVJ5emNqaGgzbVBfaXl3MnRaczBPdVFXZXdqQ3REVk5FT0FIRWNVSEtNNjJFUDBEa0Z4dVI3T28zQ0NSbjRfRnVmcy0wX2hpZ3pBb0FWcjNCck5Pblh5QzhELW9FbXFZN0hUT0VacUR3"
+    },
+    {
+      "id": "ap-news-9901636f32df",
+      "kind": "major-media",
+      "published_at": "2026-07-23",
+      "publisher_url": "https://apnews.com/",
+      "source": "AP News",
+      "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
+      "title": "US health officials are investigating a new outbreak of a diarrhea-causing parasite",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVS1RZWozb1JRNVFhRmNlRXhFWlNVM053UTlsOUtVSFZzOTJiYUdyNTNjZ2xlYmV4XzN5RHlDREZTM3hfSkIzU2h4UFFydUJ5MjNJTTJFUnoxaVJyWER2M1pOVlRpWk5VX0NZMjJrdERrMVpqV2RwQ2QtcmFjTWF1WHlZOUhpT3QxYVBvSkh4WDVjZzh6Vm5n"
+    },
     {
       "id": "fda-core-1392",
       "kind": "official",
@@ -62,16 +82,6 @@
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQk11MUVjb3ZGWURLdGF3eUJ1b3RyVWR0WUMwMTV1Rmphc1J5SWtZemM3a2JPeTA0T2JxZlVRZ0d1amUwWkk1TFllMW1sWXhJLU9BVkpwRnpPS2NQbkdoWFB2a0IxbjFnTTRlRjVLOG1jMDh5eERuQXI0SkxuVV84QWNNUi1XallybkRFbkJRcFlYRktVaGdOU3k2YWxweEJYUDFRN0p2VXhTMlZiZ2g2SXZhVlpCRUVzSXpHYzZId3hvTmR3V1NENWUyUHVpcEUyQ2JTNG1EQ2JuMmtvQ3hheG5ZR29OeEJ1"
     },
     {
-      "id": "cbs-news-4db4069ff72f",
-      "kind": "major-media",
-      "published_at": "2026-07-20",
-      "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
-      "title": "Taylor Farms lettuce is still focus of cyclospora investigation despite false positive test, FDA says",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNekpsZmx0WFE3NmM0b3JlZjB6UDFpS2VWY1p4SmZ6N0lYVWVqVTRkR0NuYXRGa2Rrd0ptN3dqZVVQNEF4UE8wNDZONmRJYUNLdUs4WWE1OGJQdkhIX3JtTlhrNy1LR3pQbE9EenJiLWp5ZmZRVmJ2Ym5QQTVVNUVYNHRn"
-    },
-    {
       "id": "the-washington-post-e1487cfc751a",
       "kind": "major-media",
       "published_at": "2026-07-20",
@@ -109,18 +119,8 @@
       "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
       "title": "NNDSS table reports 7,907 U.S. Cyclospora cases",
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
-    },
-    {
-      "id": "ap-news-9b3df3f3d8a5",
-      "kind": "major-media",
-      "published_at": "2026-07-17",
-      "publisher_url": "https://apnews.com/",
-      "source": "AP News",
-      "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
-      "title": "Lettuce at Taco Bell in 5 states confirmed as a source of diarrhea-causing parasite",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMGRkT2laLXQ4SXI1cjFYeDBkOC04RmVieUZZVHljejdCM3RVWFBCSFJFU0Eya0REWjFMczBKT21RTUlEa3hVZkg2cDVrTmg4UEZOaVIyQlNPYUZmaFBrQWlYRFJUZk5KZmJYVUFfNHBKaDZyRHZCU3NaS0t3LVVMNGl6ZW8tSUR5LUY4VXN4VkIzVy1oRVRLQjUzMjI"
     }
   ],
-  "rejected_candidates": 79,
+  "rejected_candidates": 77,
   "schema_version": 1
 }
