@@ -2,7 +2,7 @@
   "errors": {
     "cdc": "missing CDC fast facts"
   },
-  "generated_at": "2026-07-22T22:17:15Z",
+  "generated_at": "2026-07-23T16:48:43Z",
   "schema_version": 2,
   "sources": {
     "cdc": {
@@ -16,7 +16,7 @@
       "validation_status": "last-known-good"
     },
     "fda": {
-      "fetched_at": "2026-07-22T22:17:15Z",
+      "fetched_at": "2026-07-23T16:48:43Z",
       "investigations": [
         {
           "cases": 72,
@@ -60,15 +60,15 @@
       "validation_status": "valid"
     },
     "mdhhs": {
-      "cases": 7171,
-      "fetched_at": "2026-07-22T22:17:15Z",
-      "hospitalizations": 102,
-      "official_as_of": "2026-07-22",
+      "cases": 7664,
+      "fetched_at": "2026-07-23T16:48:43Z",
+      "hospitalizations": 160,
+      "official_as_of": "2026-07-23",
       "source_url": "https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases/infectious-disease-outbreaks",
       "validation_status": "valid"
     },
     "nndss": {
-      "fetched_at": "2026-07-22T22:17:15Z",
+      "fetched_at": "2026-07-23T16:48:43Z",
       "jurisdictions": {
         "AK": {
           "cases": 6
@@ -363,9 +363,9 @@
       "source": "CDC NNDSS"
     },
     "MI": {
-      "cases": 7171,
+      "cases": 7664,
       "comparable_cases": 3380,
-      "official_as_of": "2026-07-22",
+      "official_as_of": "2026-07-23",
       "scope": "state outbreak reports; may include probable and confirmed cases",
       "source": "Michigan MDHHS"
     },
