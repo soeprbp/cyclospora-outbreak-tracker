@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-22T22:17:31Z",
+  "generated_at": "2026-07-23T09:38:55Z",
   "items": [
     {
       "id": "fda-core-1392",
@@ -30,6 +30,16 @@
       "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
       "title": "Diarrhea outbreak reaches 29 cases in the Charlotte area",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdU1sZXFZVk43cW1ud1JyblY3cGFzNGV3OVJvaU1OWkFWZ2JZQThDLUt1aXpldzJGZ1pYMlI2T1UxRFFFVWowbWVOakdJWUlGY3E4T0dPTUNONUFMSW5jWDBnMWVrR29HbDNQMGpacnNxaE0zUVNOS2lxMi1kR2hGSmlBajVCTjZ6Smc"
+    },
+    {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-905ec3a944fd",
+      "kind": "official",
+      "published_at": "2026-07-21",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "title": "Surveillance of Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
     },
     {
       "id": "npr-2e690d09a707",
@@ -109,18 +119,8 @@
       "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
       "title": "Lettuce at Taco Bell in 5 states confirmed as a source of diarrhea-causing parasite",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMGRkT2laLXQ4SXI1cjFYeDBkOC04RmVieUZZVHljejdCM3RVWFBCSFJFU0Eya0REWjFMczBKT21RTUlEa3hVZkg2cDVrTmg4UEZOaVIyQlNPYUZmaFBrQWlYRFJUZk5KZmJYVUFfNHBKaDZyRHZCU3NaS0t3LVVMNGl6ZW8tSUR5LUY4VXN4VkIzVy1oRVRLQjUzMjI"
-    },
-    {
-      "id": "nbc-news-fcb07913a5fb",
-      "kind": "major-media",
-      "published_at": "2026-07-17",
-      "publisher_url": "https://www.nbcnews.com/",
-      "source": "NBC News",
-      "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
-      "title": "Taylor Farms recalls iceberg lettuce amid cyclosporiasis outbreak",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORXBqQXhGMGM0LTRKLWdWaHdUd2dWSG16SmxHY182Vlo0cy1IXzZ6NEx0a01DcktVcF9jLUhkeGxibWRXam5fZVAtQW1TX3JIeElEeHV0bHBrMkhCdFdZSXRKUFRiQmR1alYwcEhZdWpxU0d5UVhsZzVob19BRVhRN29EOGN3RDVmQVhSQllSTWlUaFhQR0F0XzFR"
     }
   ],
-  "rejected_candidates": 78,
+  "rejected_candidates": 79,
   "schema_version": 1
 }
