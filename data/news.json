@@ -1,7 +1,17 @@
 {
   "errors": [],
-  "generated_at": "2026-07-24T14:15:24Z",
+  "generated_at": "2026-07-24T15:48:42Z",
   "items": [
+    {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
+      "kind": "official",
+      "published_at": "2026-07-24",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "title": "Cyclospora Outbreak Linked to Iceberg Lettuce in 9 States | Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
+    },
     {
       "id": "the-washington-post-e3cca9936040",
       "kind": "major-media",
@@ -33,6 +43,16 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGNfSTlxaW1kMWpiMGZrWFVlY0pjV2ZGM0M2SFlCSnZqZXdrM2w4eHJuU1hiUkNRRHE5TU16bHdCdk84Yk9qdGN6eTliaGkwOXF6czVJUkotanZNY2ZtOXNYSmdxTV9BREhIeUNSakNNM000Ym8zTC1LaUpnLW8xYVFVOEktZlZXLVNNNDhLNmI4ZzNEazZFT05n"
     },
     {
+      "id": "usa-today-f1ad5d2cfc63",
+      "kind": "major-media",
+      "published_at": "2026-07-24",
+      "publisher_url": "https://www.usatoday.com/",
+      "source": "USA Today",
+      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
+      "title": "FDA investigating second, smaller cyclosporiasis outbreak",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVnpPbGVzSEk1Q1g0MUNrTnhDekRnQncwNFBIcUNNaFM5Q3M3OG9INkN4WGl5amFibnl6REFOdkZTT3FkYnYyX0xhZmtnTDRhcjRWcklmZ1VVeDZwZXMxV2h5ZTUzcDc3eENHU3ZUdmRWYTcwa0NqUWFmMlJIWGtKMm1ySEhEa3FPV1l4eVF4TXRSR1llZzFRR3RoSXRLR2FlRjNTYWNIeEg"
+    },
+    {
       "id": "ap-news-9901636f32df",
       "kind": "major-media",
       "published_at": "2026-07-23",
@@ -41,16 +61,6 @@
       "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
       "title": "US health officials are investigating a new outbreak of a diarrhea-causing parasite",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVS1RZWozb1JRNVFhRmNlRXhFWlNVM053UTlsOUtVSFZzOTJiYUdyNTNjZ2xlYmV4XzN5RHlDREZTM3hfSkIzU2h4UFFydUJ5MjNJTTJFUnoxaVJyWER2M1pOVlRpWk5VX0NZMjJrdERrMVpqV2RwQ2QtcmFjTWF1WHlZOUhpT3QxYVBvSkh4WDVjZzh6Vm5n"
-    },
-    {
-      "id": "usa-today-ecb88193d52e",
-      "kind": "major-media",
-      "published_at": "2026-07-23",
-      "publisher_url": "https://www.usatoday.com/",
-      "source": "USA Today",
-      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
-      "title": "Mexico, RFK Jr., Taylor Farms weigh in on cyclospora outbreak",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQmVRWFhub3Btb0RqRTVwMTlFVjc0MXpxcTFOMTA3YU5QZ0Jkdzh6Y2w5OW5QYnlkQmwtbkhLMzROVHo2RUtfUGd4Z19YMWZXQ0l0UW1tVmVWOURzLWVPa2tXbktUTmFjZDFDR1JIejh5YmJhLWY2T21VNkhxMWFiZlRocEhrWlliY1JDQjFodm4wY28tbktCNUFmZjJUY1g3eWNkeHduSGtRZXJyYzhuQUdTQjBYell4cWZNYk5n"
     },
     {
       "id": "fda-core-1392",
@@ -110,18 +120,8 @@
       "summary": "Recent Cyclospora coverage from House.gov. Open the article for the full report.",
       "title": "RELEASE: Gottheimer Announces New Federal Actions to Combat Cyclospora, Other Foodborne Parasites to Promote Food Safety",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQk11MUVjb3ZGWURLdGF3eUJ1b3RyVWR0WUMwMTV1Rmphc1J5SWtZemM3a2JPeTA0T2JxZlVRZ0d1amUwWkk1TFllMW1sWXhJLU9BVkpwRnpPS2NQbkdoWFB2a0IxbjFnTTRlRjVLOG1jMDh5eERuQXI0SkxuVV84QWNNUi1XallybkRFbkJRcFlYRktVaGdOU3k2YWxweEJYUDFRN0p2VXhTMlZiZ2g2SXZhVlpCRUVzSXpHYzZId3hvTmR3V1NENWUyUHVpcEUyQ2JTNG1EQ2JuMmtvQ3hheG5ZR29OeEJ1"
-    },
-    {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
-      "kind": "official",
-      "published_at": "2026-07-18",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Cyclospora Outbreak Linked to Iceberg Lettuce in 5 States | Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     }
   ],
-  "rejected_candidates": 74,
+  "rejected_candidates": 72,
   "schema_version": 1
 }
