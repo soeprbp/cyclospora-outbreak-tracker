@@ -1,7 +1,17 @@
 {
   "errors": [],
-  "generated_at": "2026-07-24T03:49:11Z",
+  "generated_at": "2026-07-24T11:57:04Z",
   "items": [
+    {
+      "id": "the-washington-post-e3cca9936040",
+      "kind": "major-media",
+      "published_at": "2026-07-24",
+      "publisher_url": "https://www.washingtonpost.com/",
+      "source": "The Washington Post",
+      "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
+      "title": "CDC expands largest known U.S. cyclospora outbreak to 9 states",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmFFaWlXbF94NmY5RXNxcnB6b0ZaT3lQckwtVzlaQU1keW1ZelIyc25sblUtSUxGcWx1NGRlZENmSTZidUVySF9NOS11TmtDQ0E4UEVDODFWa2ZtWXZfSDdWSFdUb05yWWkyU05GeTZrTmZRbWpQUHdDMjF2TGdCcEoxSGNEVnhrbkNJSGRBMEdsTXJlTU5JbEMtdWpOZThxXzBxSUgxRVpqdG8"
+    },
     {
       "id": "cbs-news-4e01c99d9705",
       "kind": "major-media",
@@ -92,16 +102,6 @@
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQk11MUVjb3ZGWURLdGF3eUJ1b3RyVWR0WUMwMTV1Rmphc1J5SWtZemM3a2JPeTA0T2JxZlVRZ0d1amUwWkk1TFllMW1sWXhJLU9BVkpwRnpPS2NQbkdoWFB2a0IxbjFnTTRlRjVLOG1jMDh5eERuQXI0SkxuVV84QWNNUi1XallybkRFbkJRcFlYRktVaGdOU3k2YWxweEJYUDFRN0p2VXhTMlZiZ2g2SXZhVlpCRUVzSXpHYzZId3hvTmR3V1NENWUyUHVpcEUyQ2JTNG1EQ2JuMmtvQ3hheG5ZR29OeEJ1"
     },
     {
-      "id": "the-washington-post-e1487cfc751a",
-      "kind": "major-media",
-      "published_at": "2026-07-20",
-      "publisher_url": "https://www.washingtonpost.com/",
-      "source": "The Washington Post",
-      "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
-      "title": "FDA retracts test result but still links Taylor Farms lettuce to cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMXgxNndmUjBPN3E0Vk8wTDZXZkFCUXNZdkhVY3VjOXhyQlNqTUFCaDBPQjRlbGFTM3pjZXpiMXpVOTUzQzFBQmFmUzV1eXlGVmNkMTNvS0tESUFoNmticHFnb3ZkbE5GbHNxdUp2bTRCdVBqSDlDUWs4eDBxd0I1TFFVRzdKOFprQVhsYUNCNm83UjBQZGFxVVo1ejJZT3U4QWE4ZHJpR201TGotZnl1dERFX3VyUi1mTEZZbGtsd1QyWVE"
-    },
-    {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
       "kind": "official",
       "published_at": "2026-07-18",
@@ -122,6 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10VTVMTEQ3UHE1ZDJEY2VNRV9scHh3SmhTUDQ4SlFFeV9RYnFvSXY4amlCcUNOc0VyYmN6c2N4Z1FISVVkOG9uQVVkNFduRUV1Tk9NYVVmRUhMX2tmcjAzRVZ0LWhxdmJGRXM3REE2ekNFZVBDbnpzZQ"
     }
   ],
-  "rejected_candidates": 77,
+  "rejected_candidates": 76,
   "schema_version": 1
 }
