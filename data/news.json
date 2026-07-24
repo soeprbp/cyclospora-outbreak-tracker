@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-23T18:39:11Z",
+  "generated_at": "2026-07-24T03:49:11Z",
   "items": [
     {
       "id": "cbs-news-4e01c99d9705",
@@ -21,6 +21,16 @@
       "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
       "title": "US health officials are investigating a new outbreak of a diarrhea-causing parasite",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVS1RZWozb1JRNVFhRmNlRXhFWlNVM053UTlsOUtVSFZzOTJiYUdyNTNjZ2xlYmV4XzN5RHlDREZTM3hfSkIzU2h4UFFydUJ5MjNJTTJFUnoxaVJyWER2M1pOVlRpWk5VX0NZMjJrdERrMVpqV2RwQ2QtcmFjTWF1WHlZOUhpT3QxYVBvSkh4WDVjZzh6Vm5n"
+    },
+    {
+      "id": "usa-today-ecb88193d52e",
+      "kind": "major-media",
+      "published_at": "2026-07-23",
+      "publisher_url": "https://www.usatoday.com/",
+      "source": "USA Today",
+      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
+      "title": "Mexico, RFK Jr., Taylor Farms weigh in on cyclospora outbreak",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQmVRWFhub3Btb0RqRTVwMTlFVjc0MXpxcTFOMTA3YU5QZ0Jkdzh6Y2w5OW5QYnlkQmwtbkhLMzROVHo2RUtfUGd4Z19YMWZXQ0l0UW1tVmVWOURzLWVPa2tXbktUTmFjZDFDR1JIejh5YmJhLWY2T21VNkhxMWFiZlRocEhrWlliY1JDQjFodm4wY28tbktCNUFmZjJUY1g3eWNkeHduSGtRZXJyYzhuQUdTQjBYell4cWZNYk5n"
     },
     {
       "id": "fda-core-1392",
@@ -110,15 +120,6 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Investigation Update: Cyclospora Outbreak, July 2026 | Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10VTVMTEQ3UHE1ZDJEY2VNRV9scHh3SmhTUDQ4SlFFeV9RYnFvSXY4amlCcUNOc0VyYmN6c2N4Z1FISVVkOG9uQVVkNFduRUV1Tk9NYVVmRUhMX2tmcjAzRVZ0LWhxdmJGRXM3REE2ekNFZVBDbnpzZQ"
-    },
-    {
-      "id": "cdc-nndss",
-      "kind": "official",
-      "published_at": "2026-07-18",
-      "source": "CDC NNDSS",
-      "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
-      "title": "NNDSS table reports 7,907 U.S. Cyclospora cases",
-      "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     }
   ],
   "rejected_candidates": 77,
