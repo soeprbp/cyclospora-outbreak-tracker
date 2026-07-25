@@ -1,11 +1,11 @@
 {
   "errors": [],
-  "generated_at": "2026-07-24T21:31:06Z",
+  "generated_at": "2026-07-25T03:41:48Z",
   "items": [
     {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
       "kind": "official",
-      "published_at": "2026-07-24",
+      "published_at": "2026-07-25",
       "publisher_url": "https://www.cdc.gov/",
       "source": "Centers for Disease Control and Prevention | CDC (.gov)",
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
@@ -15,7 +15,7 @@
     {
       "id": "the-washington-post-e3cca9936040",
       "kind": "major-media",
-      "published_at": "2026-07-24",
+      "published_at": "2026-07-25",
       "publisher_url": "https://www.washingtonpost.com/",
       "source": "The Washington Post",
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
@@ -23,14 +23,24 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmFFaWlXbF94NmY5RXNxcnB6b0ZaT3lQckwtVzlaQU1keW1ZelIyc25sblUtSUxGcWx1NGRlZENmSTZidUVySF9NOS11TmtDQ0E4UEVDODFWa2ZtWXZfSDdWSFdUb05yWWkyU05GeTZrTmZRbWpQUHdDMjF2TGdCcEoxSGNEVnhrbkNJSGRBMEdsTXJlTU5JbEMtdWpOZThxXzBxSUgxRVpqdG8"
     },
     {
-      "id": "cbs-news-4e01c99d9705",
+      "id": "cbs-news-32a909c735c0",
       "kind": "major-media",
-      "published_at": "2026-07-24",
+      "published_at": "2026-07-25",
       "publisher_url": "https://www.cbsnews.com/",
       "source": "CBS News",
       "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
-      "title": "FDA reports new cyclospora outbreak linked to unspecified product as North Carolina probes cilantro, parsley",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVWZoNDZQalJ6aHpBTWhoeGpLMVJ5emNqaGgzbVBfaXl3MnRaczBPdVFXZXdqQ3REVk5FT0FIRWNVSEtNNjJFUDBEa0Z4dVI3T28zQ0NSbjRfRnVmcy0wX2hpZ3pBb0FWcjNCck5Pblh5QzhELW9FbXFZN0hUT0VacUR3"
+      "title": "Pennsylvania linked to cyclospora outbreak traced to iceberg lettuce",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLW95aUFtNXRDWTBEdVlxUjI3NGZxY21oWkVFeWRXSjVIRDUxTEZGU1Y2UW4zOWtkeFJXQ0dpeVJlQV8xWlFBZHlvcVB4TnktVWJ6eGs3Y3pRSWJSRHpLTDBXX3BmRzBYZlg1bjJtVmZNS1QyWWlCcldNWFdGRkNrcDgwX3hFS3d3OGRoMFg5TURaY3c"
+    },
+    {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-c140fe2fadb0",
+      "kind": "official",
+      "published_at": "2026-07-24",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "title": "Cyclospora outbreak linked to iceberg lettuce expanded to four new states.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTkVPT1g2RVZNenhaNWQzZVRNank2VTRsZEt4VVM3eDM3S1Vqam9lQmJqX1JQOG9rT1lUUHJEcGRnRWJXUGg5cW5sNkgwOXVwal92SjI4NUZkMzBmcmdmRk41TjNWVmI4VkZFQ0JLMEZ4Mk9Pakd0RU5Ebzc1OEhEYk1JNzVGYXdDY24ya3JlMno4X3V0Z3ItamdxSXJVZGUzQ3FvYWRmX2FfZE5oME5sSzhTQUdPYWRnQkE"
     },
     {
       "id": "nbc-news-5076c04a0c04",
@@ -110,18 +120,8 @@
       "summary": "Recent Cyclospora coverage from NPR. Open the article for the full report.",
       "title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT09VaXk1SGZIbzhCT2xWQXB1b01DQ1VWSHZfZmJveFNHNkFRbWQyZHdGc2pkYzZnLTlkTkhBLXoyYm0xVzZBRFMycnhrV1E3NGJnMUd2UFIwcGpNdkJzN3JFbFBQZFl4ckJrMi1DTFFfSWtRZ1k1bjZGWnBhcnVLc2JRVlNHN0I5ZWp0dXplZUo0Z3V3dnpPTnJWUG9id1A2QjdheVFyNVl4MWVrRG5wOHdhZHlSenlLTmc"
-    },
-    {
-      "id": "house-gov-99d01e176999",
-      "kind": "official",
-      "published_at": "2026-07-20",
-      "publisher_url": "https://gottheimer.house.gov/",
-      "source": "House.gov",
-      "summary": "Recent Cyclospora coverage from House.gov. Open the article for the full report.",
-      "title": "RELEASE: Gottheimer Announces New Federal Actions to Combat Cyclospora, Other Foodborne Parasites to Promote Food Safety",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQk11MUVjb3ZGWURLdGF3eUJ1b3RyVWR0WUMwMTV1Rmphc1J5SWtZemM3a2JPeTA0T2JxZlVRZ0d1amUwWkk1TFllMW1sWXhJLU9BVkpwRnpPS2NQbkdoWFB2a0IxbjFnTTRlRjVLOG1jMDh5eERuQXI0SkxuVV84QWNNUi1XallybkRFbkJRcFlYRktVaGdOU3k2YWxweEJYUDFRN0p2VXhTMlZiZ2g2SXZhVlpCRUVzSXpHYzZId3hvTmR3V1NENWUyUHVpcEUyQ2JTNG1EQ2JuMmtvQ3hheG5ZR29OeEJ1"
     }
   ],
-  "rejected_candidates": 72,
+  "rejected_candidates": 69,
   "schema_version": 1
 }
