@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-25T09:13:59Z",
+  "generated_at": "2026-07-25T12:11:05Z",
   "items": [
     {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
@@ -19,7 +19,7 @@
       "publisher_url": "https://www.washingtonpost.com/",
       "source": "The Washington Post",
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
-      "title": "CDC expands largest known U.S. cyclospora outbreak to 9 states",
+      "title": "Largest known U.S. cyclospora outbreak has now spread to nine states",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmFFaWlXbF94NmY5RXNxcnB6b0ZaT3lQckwtVzlaQU1keW1ZelIyc25sblUtSUxGcWx1NGRlZENmSTZidUVySF9NOS11TmtDQ0E4UEVDODFWa2ZtWXZfSDdWSFdUb05yWWkyU05GeTZrTmZRbWpQUHdDMjF2TGdCcEoxSGNEVnhrbkNJSGRBMEdsTXJlTU5JbEMtdWpOZThxXzBxSUgxRVpqdG8"
     },
     {
@@ -122,6 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
     }
   ],
-  "rejected_candidates": 70,
+  "rejected_candidates": 71,
   "schema_version": 1
 }
