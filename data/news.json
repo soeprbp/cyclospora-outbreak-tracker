@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-25T03:41:48Z",
+  "generated_at": "2026-07-25T09:13:59Z",
   "items": [
     {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
@@ -73,6 +73,16 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTm4ya1VnYzE4akd5Z3F2NkRxOFFLWmpDcG5VOTRLeDNMWkpfTWNMTzE0eEdRVTBTemlyNllSR1FWQUZNdGdHalJjbGhsUmx3OE85VzcydHp2aEF5TFg2aUNKMWFIdndiRl9iTHJETlhFM1hwUzNKeUE3ZEtBMHhVTVhWUnloZmlDVVl5NE1rLUswOUpMY3RHOVZSTmswQnc2S2c"
     },
     {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-6db10a681564",
+      "kind": "official",
+      "published_at": "2026-07-23",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "title": "Preventing Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UNTMxNHVtMFoxMHJXdEN4QURBaWgza1FTQ0hMTHQ5WkdXVkFJeld2VktlYldVXzl5NEpEYUtzQmQwZ3UxQk85MjlmcUdnSk1ocVZfQ2VlbFhzd3FoVi10eEtuVnRjRVk"
+    },
+    {
       "id": "fda-core-1392",
       "kind": "official",
       "published_at": "2026-07-22",
@@ -110,18 +120,8 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Surveillance of Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
-    },
-    {
-      "id": "npr-2e690d09a707",
-      "kind": "major-media",
-      "published_at": "2026-07-21",
-      "publisher_url": "https://www.npr.org/",
-      "source": "NPR",
-      "summary": "Recent Cyclospora coverage from NPR. Open the article for the full report.",
-      "title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT09VaXk1SGZIbzhCT2xWQXB1b01DQ1VWSHZfZmJveFNHNkFRbWQyZHdGc2pkYzZnLTlkTkhBLXoyYm0xVzZBRFMycnhrV1E3NGJnMUd2UFIwcGpNdkJzN3JFbFBQZFl4ckJrMi1DTFFfSWtRZ1k1bjZGWnBhcnVLc2JRVlNHN0I5ZWp0dXplZUo0Z3V3dnpPTnJWUG9id1A2QjdheVFyNVl4MWVrRG5wOHdhZHlSenlLTmc"
     }
   ],
-  "rejected_candidates": 69,
+  "rejected_candidates": 70,
   "schema_version": 1
 }
