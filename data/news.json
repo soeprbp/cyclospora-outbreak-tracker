@@ -1,7 +1,17 @@
 {
   "errors": [],
-  "generated_at": "2026-07-25T12:11:05Z",
+  "generated_at": "2026-07-26T04:02:37Z",
   "items": [
+    {
+      "id": "cbs-news-5b2a966aabaf",
+      "kind": "major-media",
+      "published_at": "2026-07-26",
+      "publisher_url": "https://www.cbsnews.com/",
+      "source": "CBS News",
+      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
+      "title": "Cyclospora outbreak dubbed \"lettuce-gate\" as concerns over parasitic illness spread across U.S.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDU015b25EMlhRcnhGVEZCNnZ6ZVpsT0h2ZkxkbnpVYXhmNHdsaHhLY1FvZTRPYmNLT0dLQjhKaG9Tc0JURElldk9QMkdXSUxsdlZ6ZjhZbC1kSnFKNnhYUkxiaU9OWHgwR0Rtd05RRG5QMmJoQlgyOQ"
+    },
     {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
       "kind": "official",
@@ -21,16 +31,6 @@
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
       "title": "Largest known U.S. cyclospora outbreak has now spread to nine states",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmFFaWlXbF94NmY5RXNxcnB6b0ZaT3lQckwtVzlaQU1keW1ZelIyc25sblUtSUxGcWx1NGRlZENmSTZidUVySF9NOS11TmtDQ0E4UEVDODFWa2ZtWXZfSDdWSFdUb05yWWkyU05GeTZrTmZRbWpQUHdDMjF2TGdCcEoxSGNEVnhrbkNJSGRBMEdsTXJlTU5JbEMtdWpOZThxXzBxSUgxRVpqdG8"
-    },
-    {
-      "id": "cbs-news-32a909c735c0",
-      "kind": "major-media",
-      "published_at": "2026-07-25",
-      "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
-      "title": "Pennsylvania linked to cyclospora outbreak traced to iceberg lettuce",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLW95aUFtNXRDWTBEdVlxUjI3NGZxY21oWkVFeWRXSjVIRDUxTEZGU1Y2UW4zOWtkeFJXQ0dpeVJlQV8xWlFBZHlvcVB4TnktVWJ6eGs3Y3pRSWJSRHpLTDBXX3BmRzBYZlg1bjJtVmZNS1QyWWlCcldNWFdGRkNrcDgwX3hFS3d3OGRoMFg5TURaY3c"
     },
     {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-c140fe2fadb0",
@@ -122,6 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
     }
   ],
-  "rejected_candidates": 71,
+  "rejected_candidates": 74,
   "schema_version": 1
 }
