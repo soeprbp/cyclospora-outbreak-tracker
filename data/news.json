@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-26T04:02:37Z",
+  "generated_at": "2026-07-26T07:06:24Z",
   "items": [
     {
       "id": "cbs-news-5b2a966aabaf",
@@ -41,6 +41,26 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Cyclospora outbreak linked to iceberg lettuce expanded to four new states.",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTkVPT1g2RVZNenhaNWQzZVRNank2VTRsZEt4VVM3eDM3S1Vqam9lQmJqX1JQOG9rT1lUUHJEcGRnRWJXUGg5cW5sNkgwOXVwal92SjI4NUZkMzBmcmdmRk41TjNWVmI4VkZFQ0JLMEZ4Mk9Pakd0RU5Ebzc1OEhEYk1JNzVGYXdDY24ya3JlMno4X3V0Z3ItamdxSXJVZGUzQ3FvYWRmX2FfZE5oME5sSzhTQUdPYWRnQkE"
+    },
+    {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-905ec3a944fd",
+      "kind": "official",
+      "published_at": "2026-07-24",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "title": "Surveillance of Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
+    },
+    {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-cfef3ce1f5f8",
+      "kind": "official",
+      "published_at": "2026-07-24",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "title": "Investigation Update: Cyclospora Outbreak, July 2026 | Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10VTVMTEQ3UHE1ZDJEY2VNRV9scHh3SmhTUDQ4SlFFeV9RYnFvSXY4amlCcUNOc0VyYmN6c2N4Z1FISVVkOG9uQVVkNFduRUV1Tk9NYVVmRUhMX2tmcjAzRVZ0LWhxdmJGRXM3REE2ekNFZVBDbnpzZQ"
     },
     {
       "id": "nbc-news-5076c04a0c04",
@@ -100,26 +120,6 @@
       "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
       "title": "US FDA says it is investigating another cyclosporiasis outbreak",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVUdiRkRSVXFxZ1NzNGdGVWZULTduQ0EyenJHemk3LWs3QWZvSWI3Wl9DWXpjTzlKYm1KWDNic010TTRVZG0tdF94blRfcDY0LW1qMnVXTDJmSmZTdHRBZ0Y2cm41WkQ0S29fRGtTMzZzOEhEQ292SzJIQk5UbTZBYVAzZGVmMVd4eG5wTU13V3UxUVBaN2tLRFBjQU1hbzlRNnBZQjV2V1JpS3FUNFFIbWl4dlVIaGlPMHBjLU9PVmN4UThVZ28xTDA2MA"
-    },
-    {
-      "id": "axios-0ef0e185a76a",
-      "kind": "major-media",
-      "published_at": "2026-07-22",
-      "publisher_url": "https://www.axios.com/",
-      "source": "Axios",
-      "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
-      "title": "Diarrhea outbreak reaches 29 cases in the Charlotte area",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdU1sZXFZVk43cW1ud1JyblY3cGFzNGV3OVJvaU1OWkFWZ2JZQThDLUt1aXpldzJGZ1pYMlI2T1UxRFFFVWowbWVOakdJWUlGY3E4T0dPTUNONUFMSW5jWDBnMWVrR29HbDNQMGpacnNxaE0zUVNOS2lxMi1kR2hGSmlBajVCTjZ6Smc"
-    },
-    {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-905ec3a944fd",
-      "kind": "official",
-      "published_at": "2026-07-21",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Surveillance of Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
     }
   ],
   "rejected_candidates": 74,
