@@ -15,6 +15,16 @@ class ParserTests(unittest.TestCase):
         raw = "2026 fast facts As of July 9, 2026: U.S. cases reported to CDC: 843 Hospitalizations: 86 Deaths: 0 States reporting cases: 31 Overview"
         self.assertEqual(module.parse_cdc(raw)["states"], 31)
 
+    def test_state_trackers(self):
+        illinois = "* Cyclospora In Illinois: 513 Confirmed and Probable Cases 291 Domestically Acquired *Data is as of 7/23/26 at 7am"
+        indiana = "Indiana Case Counts Total Cases: 710 Last updated: July 24 Data notes"
+        new_york = "Total Cases for 2026, 1/1/2026 - 7/20/2026: 666 Last Updated: 7/22/2026"
+        wisconsin = "2026 Cyclospora season– Updated July 22, 2026 As of July 22, there have been 105 cases of cyclosporiasis reported in Wisconsin during this year's Cyclospora season so far, including three hospitalizations."
+        self.assertEqual(module.parse_idph(illinois)["cases"], 513)
+        self.assertEqual(module.parse_idoh(indiana)["official_as_of"], "2026-07-24")
+        self.assertEqual(module.parse_nysdoh(new_york)["cases"], 666)
+        self.assertEqual(module.parse_widhs(wisconsin)["hospitalizations"], 3)
+
     def test_cdc_revised_domestic_section(self):
         raw = "Cases acquired in the U.S. May 1 - July 20, 2026: Cases 4,173 Hospitalizations 308 Deaths 0 States reporting cases 41 These people became sick. Cases acquired outside the U.S."
         parsed = module.parse_cdc(raw)
@@ -39,8 +49,20 @@ class ParserTests(unittest.TestCase):
         )
         self.assertEqual(
             published["state_data"]["NY"]["cases"],
-            published["sources"]["nndss"]["jurisdictions"]["NY"]["cases"],
+            published["sources"]["nysdoh"]["cases"],
         )
+
+    def test_older_state_source_does_not_override_newer_nndss(self):
+        sources = {
+            "nndss": {
+                "official_as_of": "2026-07-18",
+                "jurisdictions": {"NJ": {"cases": 103}},
+            },
+            "nysdoh": {"official_as_of": "2026-07-20", "cases": 666},
+        }
+        state_data = module.build_state_data(sources)
+        self.assertEqual(state_data["NJ"]["cases"], 103)
+        self.assertEqual(state_data["NY"]["cases"], 666)
 
     def test_nndss_api_uses_latest_week_for_all_rows(self):
         raw = '[{"states":"U.S. Residents","year":"2026","week":"26","label":"Cyclosporiasis","m3":"10"},{"states":"Michigan","year":"2026","week":"26","label":"Cyclosporiasis","m3":"4"}]'

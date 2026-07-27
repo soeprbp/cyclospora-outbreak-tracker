@@ -18,6 +18,10 @@ ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "data" / "outbreak.json"
 URLS = {
     "mdhhs": "https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases/infectious-disease-outbreaks",
+    "idph": "https://dph.illinois.gov/",
+    "idoh": "https://secure.in.gov/health/idepd/diseases-and-conditions-resource-page/cyclosporiasis",
+    "nysdoh": "https://www.health.ny.gov/diseases/communicable/cyclosporiasis/index",
+    "widhs": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
     "cdc": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html",
     "fda": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks",
     "nndss": "https://data.cdc.gov/resource/x9gk-5huc.json?$where=year%3D%272026%27%20and%20label%3D%27Cyclosporiasis%27&$limit=5000",
@@ -62,6 +66,80 @@ def parse_mdhhs(raw: str) -> dict:
     if cases < 100 or hospitalized > cases:
         raise ValueError("implausible MDHHS values")
     return {"official_as_of": source_date(r"Last updated:\s*([A-Z][a-z]+ \d{1,2}, \d{4})", section, "MDHHS"), "cases": cases, "hospitalizations": hospitalized}
+
+
+def numeric_source_date(pattern: str, text: str, name: str) -> str:
+    match = re.search(pattern, text, re.I)
+    if not match:
+        raise ValueError(f"missing {name} date")
+    parsed = datetime.strptime(match.group(1), "%m/%d/%y")
+    if parsed.date() > datetime.now(timezone.utc).date():
+        raise ValueError(f"future {name} date")
+    return parsed.date().isoformat()
+
+
+def parse_idph(raw: str) -> dict:
+    text = text_content(raw)
+    section = text[text.find("Cyclospora In Illinois:") :]
+    if not section:
+        raise ValueError("missing Illinois Cyclospora section")
+    cases = number(r"([\d,]+)\s+Confirmed and Probable Cases", section, "IDPH cases")
+    domestic = number(r"([\d,]+)\s+Domestically Acquired", section, "IDPH domestic cases")
+    if cases < 1 or domestic > cases:
+        raise ValueError("implausible IDPH values")
+    return {
+        "official_as_of": numeric_source_date(r"Data is as of\s+(\d{1,2}/\d{1,2}/\d{2})", section, "IDPH"),
+        "cases": cases,
+        "domestic_cases": domestic,
+    }
+
+
+def parse_idoh(raw: str) -> dict:
+    text = text_content(raw)
+    section = text[text.find("Indiana Case Counts") :]
+    if not section:
+        raise ValueError("missing Indiana Cyclospora section")
+    cases = number(r"Total Cases:\s*([\d,]+)", section, "IDOH cases")
+    match = re.search(r"Last updated:\s*([A-Z][a-z]+\s+\d{1,2})", section, re.I)
+    if not match:
+        raise ValueError("missing IDOH date")
+    parsed = datetime.strptime(f"{match.group(1)}, {datetime.now(timezone.utc).year}", "%B %d, %Y")
+    if cases < 1 or parsed.date() > datetime.now(timezone.utc).date():
+        raise ValueError("implausible IDOH values")
+    return {"official_as_of": parsed.date().isoformat(), "cases": cases}
+
+
+def parse_nysdoh(raw: str) -> dict:
+    text = text_content(raw)
+    cases = number(r"Total Cases for 2026,\s*\d{1,2}/\d{1,2}/2026\s*-\s*\d{1,2}/\d{1,2}/2026:\s*([\d,]+)", text, "NYSDOH cases")
+    period_end = re.search(r"Total Cases for 2026,\s*\d{1,2}/\d{1,2}/2026\s*-\s*(\d{1,2}/\d{1,2}/2026)", text, re.I)
+    if not period_end:
+        raise ValueError("missing NYSDOH period")
+    parsed = datetime.strptime(period_end.group(1), "%m/%d/%Y")
+    if cases < 1 or parsed.date() > datetime.now(timezone.utc).date():
+        raise ValueError("implausible NYSDOH values")
+    return {"official_as_of": parsed.date().isoformat(), "cases": cases}
+
+
+def parse_widhs(raw: str) -> dict:
+    text = text_content(raw)
+    section = text[text.find("2026 Cyclospora season") :]
+    if not section:
+        raise ValueError("missing Wisconsin Cyclospora section")
+    cases = number(r"there have been\s+([\d,]+)\s+cases of cyclosporiasis", section, "WIDHS cases")
+    hospital_match = re.search(r"including\s+([\w,]+)\s+hospitalizations", section, re.I)
+    if not hospital_match:
+        raise ValueError("missing WIDHS hospitalizations")
+    token = hospital_match.group(1).lower()
+    words = {"zero": 0, "one": 1, "two": 2, "three": 3, "four": 4, "five": 5}
+    hospitalized = int(token.replace(",", "")) if token.replace(",", "").isdigit() else words.get(token, -1)
+    if cases < 1 or hospitalized > cases:
+        raise ValueError("implausible WIDHS values")
+    return {
+        "official_as_of": source_date(r"Updated\s+([A-Z][a-z]+\s+\d{1,2},\s+2026)", section, "WIDHS"),
+        "cases": cases,
+        "hospitalizations": hospitalized,
+    }
 
 
 def parse_cdc(raw: str) -> dict:
@@ -169,7 +247,24 @@ def parse_nndss(raw: str) -> dict:
     return {"official_as_of": official_as_of, "reporting_period": "cumulative YTD 2026", "jurisdictions": rows, "us_residents_total": int(total_match.group(1).replace(",", ""))}
 
 
-PARSERS = {"mdhhs": parse_mdhhs, "cdc": parse_cdc, "fda": parse_fda, "nndss": parse_nndss}
+PARSERS = {
+    "mdhhs": parse_mdhhs,
+    "idph": parse_idph,
+    "idoh": parse_idoh,
+    "nysdoh": parse_nysdoh,
+    "widhs": parse_widhs,
+    "cdc": parse_cdc,
+    "fda": parse_fda,
+    "nndss": parse_nndss,
+}
+
+STATE_SOURCES = {
+    "mdhhs": ("MI", "Michigan MDHHS", "state outbreak reports; may include probable and confirmed cases"),
+    "idph": ("IL", "Illinois IDPH", "confirmed and probable cases; includes domestic, travel-associated, and unknown travel"),
+    "idoh": ("IN", "Indiana IDOH", "all reported cases since May 1, 2026"),
+    "nysdoh": ("NY", "New York NYSDOH", "all reported 2026 cases, year to date"),
+    "widhs": ("WI", "Wisconsin DHS", "all reported cases during the 2026 Cyclospora season"),
+}
 
 
 def build_state_data(sources: dict) -> dict:
@@ -178,8 +273,19 @@ def build_state_data(sources: dict) -> dict:
         for code, value in sources["nndss"]["jurisdictions"].items():
             if "cases" in value:
                 state_data[code] = {**value, "comparable_cases": value["cases"], "official_as_of": sources["nndss"]["official_as_of"], "source": "CDC NNDSS"}
-    if "mdhhs" in sources and "MI" in state_data:
-        state_data["MI"].update({"cases": sources["mdhhs"]["cases"], "official_as_of": sources["mdhhs"]["official_as_of"], "source": "Michigan MDHHS", "scope": "state outbreak reports; may include probable and confirmed cases"})
+    for source_key, (code, label, scope) in STATE_SOURCES.items():
+        source = sources.get(source_key)
+        current = state_data.get(code)
+        if not source or (current and source["official_as_of"] < current["official_as_of"]):
+            continue
+        comparable = current.get("comparable_cases") if current else None
+        state_data[code] = {
+            **({"comparable_cases": comparable} if comparable is not None else {}),
+            "cases": source["cases"],
+            "official_as_of": source["official_as_of"],
+            "source": label,
+            "scope": scope,
+        }
     return state_data
 
 
