@@ -69,15 +69,27 @@ def parse_cdc(raw: str) -> dict:
     start = text.find("2026 fast facts")
     end = text.find("Overview", start)
     section = text[start:end]
-    if start < 0 or not section:
-        raise ValueError("missing CDC fast facts")
-    result = {
-        "official_as_of": source_date(r"As of\s+([A-Z][a-z]+ \d{1,2}, \d{4})", section, "CDC"),
-        "cases": number(r"U\.S\. cases reported to CDC:\s*([\d,]+)", section, "CDC cases"),
-        "hospitalizations": number(r"Hospitalizations:\s*([\d,]+)", section, "CDC hospitalizations"),
-        "deaths": number(r"Deaths:\s*([\d,]+)", section, "CDC deaths"),
-        "states": number(r"States reporting cases:\s*([\d,]+)", section, "CDC states"),
-    }
+    if start >= 0 and section:
+        result = {
+            "official_as_of": source_date(r"As of\s+([A-Z][a-z]+ \d{1,2}, \d{4})", section, "CDC"),
+            "cases": number(r"U\.S\. cases reported to CDC:\s*([\d,]+)", section, "CDC cases"),
+            "hospitalizations": number(r"Hospitalizations:\s*([\d,]+)", section, "CDC hospitalizations"),
+            "deaths": number(r"Deaths:\s*([\d,]+)", section, "CDC deaths"),
+            "states": number(r"States reporting cases:\s*([\d,]+)", section, "CDC states"),
+        }
+    else:
+        start = text.find("Cases acquired in the U.S.")
+        end = text.find("Cases acquired outside the U.S.", start)
+        section = text[start:end]
+        if start < 0 or not section:
+            raise ValueError("missing CDC domestic case section")
+        result = {
+            "official_as_of": source_date(r"May 1\s*[-–]\s*([A-Z][a-z]+ \d{1,2}, \d{4})", section, "CDC"),
+            "cases": number(r"Cases\s+([\d,]+)", section, "CDC cases"),
+            "hospitalizations": number(r"Hospitalizations\s+([\d,]+)", section, "CDC hospitalizations"),
+            "deaths": number(r"Deaths\s+([\d,]+)", section, "CDC deaths"),
+            "states": number(r"States reporting cases\s+([\d,]+)", section, "CDC states"),
+        }
     if result["cases"] < 1 or result["hospitalizations"] > result["cases"] or result["deaths"] > result["cases"] or not 1 <= result["states"] <= 56:
         raise ValueError("implausible CDC values")
     return result
