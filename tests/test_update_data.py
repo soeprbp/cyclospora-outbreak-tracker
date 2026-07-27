@@ -15,6 +15,14 @@ class ParserTests(unittest.TestCase):
         raw = "2026 fast facts As of July 9, 2026: U.S. cases reported to CDC: 843 Hospitalizations: 86 Deaths: 0 States reporting cases: 31 Overview"
         self.assertEqual(module.parse_cdc(raw)["states"], 31)
 
+    def test_cdc_revised_domestic_section(self):
+        raw = "Cases acquired in the U.S. May 1 - July 20, 2026: Cases 4,173 Hospitalizations 308 Deaths 0 States reporting cases 41 These people became sick. Cases acquired outside the U.S."
+        parsed = module.parse_cdc(raw)
+        self.assertEqual(parsed["official_as_of"], "2026-07-20")
+        self.assertEqual(parsed["cases"], 4173)
+        self.assertEqual(parsed["hospitalizations"], 308)
+        self.assertEqual(parsed["states"], 41)
+
     def test_rejects_bad_values(self):
         with self.assertRaises(ValueError):
             module.parse_mdhhs("MDHHS is investigating an outbreak of cyclosporiasis Total Cases: 10 To date, 44 reported cases indicated they had been hospitalized. Last updated: July 10, 2026")
