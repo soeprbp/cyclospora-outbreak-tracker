@@ -1,7 +1,17 @@
 {
   "errors": [],
-  "generated_at": "2026-07-26T07:06:24Z",
+  "generated_at": "2026-07-27T20:45:38Z",
   "items": [
+    {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-6db10a681564",
+      "kind": "official",
+      "published_at": "2026-07-27",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "title": "Preventing Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UNTMxNHVtMFoxMHJXdEN4QURBaWgza1FTQ0hMTHQ5WkdXVkFJeld2VktlYldVXzl5NEpEYUtzQmQwZ3UxQk85MjlmcUdnSk1ocVZfQ2VlbFhzd3FoVi10eEtuVnRjRVk"
+    },
     {
       "id": "cbs-news-5b2a966aabaf",
       "kind": "major-media",
@@ -93,16 +103,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTm4ya1VnYzE4akd5Z3F2NkRxOFFLWmpDcG5VOTRLeDNMWkpfTWNMTzE0eEdRVTBTemlyNllSR1FWQUZNdGdHalJjbGhsUmx3OE85VzcydHp2aEF5TFg2aUNKMWFIdndiRl9iTHJETlhFM1hwUzNKeUE3ZEtBMHhVTVhWUnloZmlDVVl5NE1rLUswOUpMY3RHOVZSTmswQnc2S2c"
     },
     {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-6db10a681564",
-      "kind": "official",
-      "published_at": "2026-07-23",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Preventing Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UNTMxNHVtMFoxMHJXdEN4QURBaWgza1FTQ0hMTHQ5WkdXVkFJeld2VktlYldVXzl5NEpEYUtzQmQwZ3UxQk85MjlmcUdnSk1ocVZfQ2VlbFhzd3FoVi10eEtuVnRjRVk"
-    },
-    {
       "id": "fda-core-1392",
       "kind": "official",
       "published_at": "2026-07-22",
@@ -122,6 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVUdiRkRSVXFxZ1NzNGdGVWZULTduQ0EyenJHemk3LWs3QWZvSWI3Wl9DWXpjTzlKYm1KWDNic010TTRVZG0tdF94blRfcDY0LW1qMnVXTDJmSmZTdHRBZ0Y2cm41WkQ0S29fRGtTMzZzOEhEQ292SzJIQk5UbTZBYVAzZGVmMVd4eG5wTU13V3UxUVBaN2tLRFBjQU1hbzlRNnBZQjV2V1JpS3FUNFFIbWl4dlVIaGlPMHBjLU9PVmN4UThVZ28xTDA2MA"
     }
   ],
-  "rejected_candidates": 74,
+  "rejected_candidates": 78,
   "schema_version": 1
 }
