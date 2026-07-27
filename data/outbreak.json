@@ -1,12 +1,12 @@
 {
   "errors": {},
-  "generated_at": "2026-07-27T13:32:15Z",
+  "generated_at": "2026-07-27T13:39:40Z",
   "schema_version": 2,
   "sources": {
     "cdc": {
       "cases": 4173,
       "deaths": 0,
-      "fetched_at": "2026-07-27T13:32:15Z",
+      "fetched_at": "2026-07-27T13:39:40Z",
       "hospitalizations": 308,
       "official_as_of": "2026-07-20",
       "source_url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html",
@@ -14,7 +14,7 @@
       "validation_status": "valid"
     },
     "fda": {
-      "fetched_at": "2026-07-27T13:32:15Z",
+      "fetched_at": "2026-07-27T13:39:40Z",
       "investigations": [
         {
           "cases": 72,
@@ -57,16 +57,31 @@
       "source_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks",
       "validation_status": "valid"
     },
+    "idoh": {
+      "cases": 710,
+      "fetched_at": "2026-07-27T13:39:40Z",
+      "official_as_of": "2026-07-24",
+      "source_url": "https://secure.in.gov/health/idepd/diseases-and-conditions-resource-page/cyclosporiasis",
+      "validation_status": "valid"
+    },
+    "idph": {
+      "cases": 513,
+      "domestic_cases": 291,
+      "fetched_at": "2026-07-27T13:39:40Z",
+      "official_as_of": "2026-07-23",
+      "source_url": "https://dph.illinois.gov/",
+      "validation_status": "valid"
+    },
     "mdhhs": {
       "cases": 8176,
-      "fetched_at": "2026-07-27T13:32:15Z",
+      "fetched_at": "2026-07-27T13:39:40Z",
       "hospitalizations": 160,
       "official_as_of": "2026-07-24",
       "source_url": "https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases/infectious-disease-outbreaks",
       "validation_status": "valid"
     },
     "nndss": {
-      "fetched_at": "2026-07-27T13:32:15Z",
+      "fetched_at": "2026-07-27T13:39:40Z",
       "jurisdictions": {
         "AK": {
           "cases": 6
@@ -231,6 +246,21 @@
       "source_url": "https://data.cdc.gov/resource/x9gk-5huc.json?$where=year%3D%272026%27%20and%20label%3D%27Cyclosporiasis%27&$limit=5000",
       "us_residents_total": 7907,
       "validation_status": "valid"
+    },
+    "nysdoh": {
+      "cases": 666,
+      "fetched_at": "2026-07-27T13:39:40Z",
+      "official_as_of": "2026-07-20",
+      "source_url": "https://www.health.ny.gov/diseases/communicable/cyclosporiasis/index",
+      "validation_status": "valid"
+    },
+    "widhs": {
+      "cases": 105,
+      "fetched_at": "2026-07-27T13:39:40Z",
+      "hospitalizations": 3,
+      "official_as_of": "2026-07-22",
+      "source_url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
+      "validation_status": "valid"
     }
   },
   "state_data": {
@@ -313,16 +343,18 @@
       "source": "CDC NNDSS"
     },
     "IL": {
-      "cases": 94,
+      "cases": 513,
       "comparable_cases": 94,
-      "official_as_of": "2026-07-18",
-      "source": "CDC NNDSS"
+      "official_as_of": "2026-07-23",
+      "scope": "confirmed and probable cases; includes domestic, travel-associated, and unknown travel",
+      "source": "Illinois IDPH"
     },
     "IN": {
-      "cases": 34,
+      "cases": 710,
       "comparable_cases": 34,
-      "official_as_of": "2026-07-18",
-      "source": "CDC NNDSS"
+      "official_as_of": "2026-07-24",
+      "scope": "all reported cases since May 1, 2026",
+      "source": "Indiana IDOH"
     },
     "KS": {
       "cases": 250,
@@ -428,14 +460,11 @@
       "source": "CDC NNDSS"
     },
     "NY": {
-      "cases": 642,
+      "cases": 666,
       "comparable_cases": 642,
-      "components": {
-        "nyc": 484,
-        "state_excluding_nyc": 158
-      },
-      "official_as_of": "2026-07-18",
-      "source": "CDC NNDSS"
+      "official_as_of": "2026-07-20",
+      "scope": "all reported 2026 cases, year to date",
+      "source": "New York NYSDOH"
     },
     "OH": {
       "cases": 1667,
@@ -510,10 +539,11 @@
       "source": "CDC NNDSS"
     },
     "WI": {
-      "cases": 95,
+      "cases": 105,
       "comparable_cases": 95,
-      "official_as_of": "2026-07-18",
-      "source": "CDC NNDSS"
+      "official_as_of": "2026-07-22",
+      "scope": "all reported cases during the 2026 Cyclospora season",
+      "source": "Wisconsin DHS"
     },
     "WV": {
       "cases": 22,
