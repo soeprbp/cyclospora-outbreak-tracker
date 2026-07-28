@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-28T00:12:50Z",
+  "generated_at": "2026-07-28T22:18:23Z",
   "items": [
     {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-6db10a681564",
@@ -11,6 +11,15 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Preventing Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UNTMxNHVtMFoxMHJXdEN4QURBaWgza1FTQ0hMTHQ5WkdXVkFJeld2VktlYldVXzl5NEpEYUtzQmQwZ3UxQk85MjlmcUdnSk1ocVZfQ2VlbFhzd3FoVi10eEtuVnRjRVk"
+    },
+    {
+      "id": "cdc-surveillance",
+      "kind": "official",
+      "published_at": "2026-07-27",
+      "source": "CDC",
+      "summary": "CDC's national surveillance snapshot reports 423 hospitalizations, 0 deaths, and cases across 45 states.",
+      "title": "CDC reports 6,707 domestically acquired Cyclospora cases",
+      "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     },
     {
       "id": "cbs-news-9687c36c899a",
@@ -110,18 +119,8 @@
       "summary": "FDA's CORE table reports 72 cases and lists investigation 1392 as ongoing; the agency table should be checked for current traceback and product details.",
       "title": "FDA opens Cyclospora investigation 1392",
       "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
-    },
-    {
-      "id": "reuters-f8ac890dcd48",
-      "kind": "major-media",
-      "published_at": "2026-07-22",
-      "publisher_url": "https://www.reuters.com/",
-      "source": "Reuters",
-      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
-      "title": "US FDA says it is investigating another cyclosporiasis outbreak",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVUdiRkRSVXFxZ1NzNGdGVWZULTduQ0EyenJHemk3LWs3QWZvSWI3Wl9DWXpjTzlKYm1KWDNic010TTRVZG0tdF94blRfcDY0LW1qMnVXTDJmSmZTdHRBZ0Y2cm41WkQ0S29fRGtTMzZzOEhEQ292SzJIQk5UbTZBYVAzZGVmMVd4eG5wTU13V3UxUVBaN2tLRFBjQU1hbzlRNnBZQjV2V1JpS3FUNFFIbWl4dlVIaGlPMHBjLU9PVmN4UThVZ28xTDA2MA"
     }
   ],
-  "rejected_candidates": 76,
+  "rejected_candidates": 81,
   "schema_version": 1
 }
