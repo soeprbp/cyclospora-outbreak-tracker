@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-27T20:45:38Z",
+  "generated_at": "2026-07-28T00:12:50Z",
   "items": [
     {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-6db10a681564",
@@ -13,14 +13,14 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UNTMxNHVtMFoxMHJXdEN4QURBaWgza1FTQ0hMTHQ5WkdXVkFJeld2VktlYldVXzl5NEpEYUtzQmQwZ3UxQk85MjlmcUdnSk1ocVZfQ2VlbFhzd3FoVi10eEtuVnRjRVk"
     },
     {
-      "id": "cbs-news-5b2a966aabaf",
+      "id": "cbs-news-9687c36c899a",
       "kind": "major-media",
-      "published_at": "2026-07-26",
+      "published_at": "2026-07-27",
       "publisher_url": "https://www.cbsnews.com/",
       "source": "CBS News",
       "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
-      "title": "Cyclospora outbreak dubbed \"lettuce-gate\" as concerns over parasitic illness spread across U.S.",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDU015b25EMlhRcnhGVEZCNnZ6ZVpsT0h2ZkxkbnpVYXhmNHdsaHhLY1FvZTRPYmNLT0dLQjhKaG9Tc0JURElldk9QMkdXSUxsdlZ6ZjhZbC1kSnFKNnhYUkxiaU9OWHgwR0Rtd05RRG5QMmJoQlgyOQ"
+      "title": "Taylor Farms CEO pressed by lawmaker over cyclospora outbreak and White House ties",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcnNYMEpmN2xrWjlEZDhQaVBIdFUtREVCdVc5N3V3Y2M0YWtVQ21ySlJQSnZTdFVZQ3RORXp0bTNYSldUanlxU2gyS2xRV2JuTGlTYWtJOHVtSHdXVXNxVDA5RmpWekszRzNVOEgtUE9ublp3M1pSSk1tUDRPTE9ySHJzTUE0X2pFd19oZXZXajRhQQ"
     },
     {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
@@ -122,6 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVUdiRkRSVXFxZ1NzNGdGVWZULTduQ0EyenJHemk3LWs3QWZvSWI3Wl9DWXpjTzlKYm1KWDNic010TTRVZG0tdF94blRfcDY0LW1qMnVXTDJmSmZTdHRBZ0Y2cm41WkQ0S29fRGtTMzZzOEhEQ292SzJIQk5UbTZBYVAzZGVmMVd4eG5wTU13V3UxUVBaN2tLRFBjQU1hbzlRNnBZQjV2V1JpS3FUNFFIbWl4dlVIaGlPMHBjLU9PVmN4UThVZ28xTDA2MA"
     }
   ],
-  "rejected_candidates": 78,
+  "rejected_candidates": 76,
   "schema_version": 1
 }
