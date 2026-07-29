@@ -1,14 +1,14 @@
 {
   "errors": [],
-  "generated_at": "2026-07-29T21:13:55Z",
+  "generated_at": "2026-07-29T22:15:53Z",
   "items": [
     {
-      "id": "nbcnews-com-ce3a7d7444d0",
+      "id": "nbc-news-ce3a7d7444d0",
       "kind": "major-media",
       "published_at": "2026-07-29",
       "publisher_url": "https://www.nbcnews.com/",
-      "source": "nbcnews.com",
-      "summary": "Recent Cyclospora coverage from nbcnews.com. Open the article for the full report.",
+      "source": "NBC News",
+      "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
       "title": "Cyclospora outbreak may have peaked in Michigan after lettuce recall",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQlBoNHhzZE1ha3BwcTZlWVR5SGo4LTlFNGF3VHlLandwQkp5VEtkVEdMLTIyTUpqN1E5ajhjOV9SLUF1eUdoUlhyWXJoMXpXel9kUUJqSUJsdzlHMDNTZEFVR0E2UnZJa3A1NlJjTzJfUnR4Vy0xdXBzLW9Ha1pqUVVoZGhvYUhuSng2TFhDTVEyX3NlU3ZPMkU1eV8tY0hqbDBlWE5zSHJBLXpTcWpMSU5ybnItQU5Rc1E"
     },
@@ -50,6 +50,15 @@
       "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
       "title": "Taylor Farms CEO pressed by lawmaker over cyclospora outbreak and White House ties",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcnNYMEpmN2xrWjlEZDhQaVBIdFUtREVCdVc5N3V3Y2M0YWtVQ21ySlJQSnZTdFVZQ3RORXp0bTNYSldUanlxU2gyS2xRV2JuTGlTYWtJOHVtSHdXVXNxVDA5RmpWekszRzNVOEgtUE9ublp3M1pSSk1tUDRPTE9ySHJzTUE0X2pFd19oZXZXajRhQQ"
+    },
+    {
+      "id": "cdc-nndss",
+      "kind": "official",
+      "published_at": "2026-07-25",
+      "source": "CDC NNDSS",
+      "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
+      "title": "NNDSS table reports 11,877 U.S. Cyclospora cases",
+      "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     },
     {
       "id": "the-washington-post-e3cca9936040",
@@ -110,16 +119,6 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Cyclospora Outbreak Linked to Iceberg Lettuce in 9 States | Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
-    },
-    {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-cfef3ce1f5f8",
-      "kind": "official",
-      "published_at": "2026-07-24",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Investigation Update: Cyclospora Outbreak, July 2026 | Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10VTVMTEQ3UHE1ZDJEY2VNRV9scHh3SmhTUDQ4SlFFeV9RYnFvSXY4amlCcUNOc0VyYmN6c2N4Z1FISVVkOG9uQVVkNFduRUV1Tk9NYVVmRUhMX2tmcjAzRVZ0LWhxdmJGRXM3REE2ekNFZVBDbnpzZQ"
     }
   ],
   "rejected_candidates": 80,
