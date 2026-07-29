@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-29T12:23:07Z",
+  "generated_at": "2026-07-29T15:33:34Z",
   "items": [
     {
       "id": "nbc-news-ce3a7d7444d0",
@@ -13,16 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQlBoNHhzZE1ha3BwcTZlWVR5SGo4LTlFNGF3VHlLandwQkp5VEtkVEdMLTIyTUpqN1E5ajhjOV9SLUF1eUdoUlhyWXJoMXpXel9kUUJqSUJsdzlHMDNTZEFVR0E2UnZJa3A1NlJjTzJfUnR4Vy0xdXBzLW9Ha1pqUVVoZGhvYUhuSng2TFhDTVEyX3NlU3ZPMkU1eV8tY0hqbDBlWE5zSHJBLXpTcWpMSU5ybnItQU5Rc1E"
     },
     {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-6db10a681564",
-      "kind": "official",
-      "published_at": "2026-07-27",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Preventing Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UNTMxNHVtMFoxMHJXdEN4QURBaWgza1FTQ0hMTHQ5WkdXVkFJeld2VktlYldVXzl5NEpEYUtzQmQwZ3UxQk85MjlmcUdnSk1ocVZfQ2VlbFhzd3FoVi10eEtuVnRjRVk"
-    },
-    {
       "id": "cdc-surveillance",
       "kind": "official",
       "published_at": "2026-07-27",
@@ -30,6 +20,16 @@
       "summary": "CDC's national surveillance snapshot reports 423 hospitalizations, 0 deaths, and cases across 45 states.",
       "title": "CDC reports 6,707 domestically acquired Cyclospora cases",
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
+    },
+    {
+      "id": "cdc-gov-6db10a681564",
+      "kind": "official",
+      "published_at": "2026-07-27",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "cdc.gov",
+      "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
+      "title": "Preventing Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UNTMxNHVtMFoxMHJXdEN4QURBaWgza1FTQ0hMTHQ5WkdXVkFJeld2VktlYldVXzl5NEpEYUtzQmQwZ3UxQk85MjlmcUdnSk1ocVZfQ2VlbFhzd3FoVi10eEtuVnRjRVk"
     },
     {
       "id": "cbs-news-9687c36c899a",
@@ -42,16 +42,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcnNYMEpmN2xrWjlEZDhQaVBIdFUtREVCdVc5N3V3Y2M0YWtVQ21ySlJQSnZTdFVZQ3RORXp0bTNYSldUanlxU2gyS2xRV2JuTGlTYWtJOHVtSHdXVXNxVDA5RmpWekszRzNVOEgtUE9ublp3M1pSSk1tUDRPTE9ySHJzTUE0X2pFd19oZXZXajRhQQ"
     },
     {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
-      "kind": "official",
-      "published_at": "2026-07-25",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Cyclospora Outbreak Linked to Iceberg Lettuce in 9 States | Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
-    },
-    {
       "id": "the-washington-post-e3cca9936040",
       "kind": "major-media",
       "published_at": "2026-07-25",
@@ -60,16 +50,6 @@
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
       "title": "Largest known U.S. cyclospora outbreak has now spread to nine states",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmFFaWlXbF94NmY5RXNxcnB6b0ZaT3lQckwtVzlaQU1keW1ZelIyc25sblUtSUxGcWx1NGRlZENmSTZidUVySF9NOS11TmtDQ0E4UEVDODFWa2ZtWXZfSDdWSFdUb05yWWkyU05GeTZrTmZRbWpQUHdDMjF2TGdCcEoxSGNEVnhrbkNJSGRBMEdsTXJlTU5JbEMtdWpOZThxXzBxSUgxRVpqdG8"
-    },
-    {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-c140fe2fadb0",
-      "kind": "official",
-      "published_at": "2026-07-24",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Cyclospora outbreak linked to iceberg lettuce expanded to four new states.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTkVPT1g2RVZNenhaNWQzZVRNank2VTRsZEt4VVM3eDM3S1Vqam9lQmJqX1JQOG9rT1lUUHJEcGRnRWJXUGg5cW5sNkgwOXVwal92SjI4NUZkMzBmcmdmRk41TjNWVmI4VkZFQ0JLMEZ4Mk9Pakd0RU5Ebzc1OEhEYk1JNzVGYXdDY24ya3JlMno4X3V0Z3ItamdxSXJVZGUzQ3FvYWRmX2FfZE5oME5sSzhTQUdPYWRnQkE"
     },
     {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-905ec3a944fd",
@@ -82,14 +62,34 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
     },
     {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-cfef3ce1f5f8",
+      "id": "cdc-gov-00dfbf931d18",
       "kind": "official",
       "published_at": "2026-07-24",
       "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "source": "cdc.gov",
+      "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
+      "title": "Cyclospora Outbreak Linked to Iceberg Lettuce in 9 States | Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
+    },
+    {
+      "id": "cdc-gov-cfef3ce1f5f8",
+      "kind": "official",
+      "published_at": "2026-07-24",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "cdc.gov",
+      "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
       "title": "Investigation Update: Cyclospora Outbreak, July 2026 | Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10VTVMTEQ3UHE1ZDJEY2VNRV9scHh3SmhTUDQ4SlFFeV9RYnFvSXY4amlCcUNOc0VyYmN6c2N4Z1FISVVkOG9uQVVkNFduRUV1Tk9NYVVmRUhMX2tmcjAzRVZ0LWhxdmJGRXM3REE2ekNFZVBDbnpzZQ"
+    },
+    {
+      "id": "cdc-gov-c140fe2fadb0",
+      "kind": "official",
+      "published_at": "2026-07-24",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "cdc.gov",
+      "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
+      "title": "Cyclospora outbreak linked to iceberg lettuce expanded to four new states.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTkVPT1g2RVZNenhaNWQzZVRNank2VTRsZEt4VVM3eDM3S1Vqam9lQmJqX1JQOG9rT1lUUHJEcGRnRWJXUGg5cW5sNkgwOXVwal92SjI4NUZkMzBmcmdmRk41TjNWVmI4VkZFQ0JLMEZ4Mk9Pakd0RU5Ebzc1OEhEYk1JNzVGYXdDY24ya3JlMno4X3V0Z3ItamdxSXJVZGUzQ3FvYWRmX2FfZE5oME5sSzhTQUdPYWRnQkE"
     },
     {
       "id": "usa-today-f1ad5d2cfc63",
@@ -121,6 +121,6 @@
       "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
     }
   ],
-  "rejected_candidates": 79,
+  "rejected_candidates": 78,
   "schema_version": 1
 }
