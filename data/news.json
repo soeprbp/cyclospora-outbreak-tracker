@@ -1,11 +1,11 @@
 {
   "errors": [],
-  "generated_at": "2026-07-29T03:43:44Z",
+  "generated_at": "2026-07-29T12:23:07Z",
   "items": [
     {
       "id": "nbc-news-ce3a7d7444d0",
       "kind": "major-media",
-      "published_at": "2026-07-28",
+      "published_at": "2026-07-29",
       "publisher_url": "https://www.nbcnews.com/",
       "source": "NBC News",
       "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
@@ -121,6 +121,6 @@
       "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
     }
   ],
-  "rejected_candidates": 81,
+  "rejected_candidates": 79,
   "schema_version": 1
 }
