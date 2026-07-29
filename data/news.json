@@ -1,7 +1,17 @@
 {
   "errors": [],
-  "generated_at": "2026-07-28T22:18:23Z",
+  "generated_at": "2026-07-29T03:43:44Z",
   "items": [
+    {
+      "id": "nbc-news-ce3a7d7444d0",
+      "kind": "major-media",
+      "published_at": "2026-07-28",
+      "publisher_url": "https://www.nbcnews.com/",
+      "source": "NBC News",
+      "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
+      "title": "Cyclospora outbreak may have peaked in Michigan after lettuce recall",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQlBoNHhzZE1ha3BwcTZlWVR5SGo4LTlFNGF3VHlLandwQkp5VEtkVEdMLTIyTUpqN1E5ajhjOV9SLUF1eUdoUlhyWXJoMXpXel9kUUJqSUJsdzlHMDNTZEFVR0E2UnZJa3A1NlJjTzJfUnR4Vy0xdXBzLW9Ha1pqUVVoZGhvYUhuSng2TFhDTVEyX3NlU3ZPMkU1eV8tY0hqbDBlWE5zSHJBLXpTcWpMSU5ybnItQU5Rc1E"
+    },
     {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-6db10a681564",
       "kind": "official",
@@ -80,16 +90,6 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Investigation Update: Cyclospora Outbreak, July 2026 | Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10VTVMTEQ3UHE1ZDJEY2VNRV9scHh3SmhTUDQ4SlFFeV9RYnFvSXY4amlCcUNOc0VyYmN6c2N4Z1FISVVkOG9uQVVkNFduRUV1Tk9NYVVmRUhMX2tmcjAzRVZ0LWhxdmJGRXM3REE2ekNFZVBDbnpzZQ"
-    },
-    {
-      "id": "nbc-news-5076c04a0c04",
-      "kind": "major-media",
-      "published_at": "2026-07-24",
-      "publisher_url": "https://www.nbcnews.com/",
-      "source": "NBC News",
-      "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
-      "title": "Cyclosporiasis outbreak expands to 9 states",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGNfSTlxaW1kMWpiMGZrWFVlY0pjV2ZGM0M2SFlCSnZqZXdrM2w4eHJuU1hiUkNRRHE5TU16bHdCdk84Yk9qdGN6eTliaGkwOXF6czVJUkotanZNY2ZtOXNYSmdxTV9BREhIeUNSakNNM000Ym8zTC1LaUpnLW8xYVFVOEktZlZXLVNNNDhLNmI4ZzNEazZFT05n"
     },
     {
       "id": "usa-today-f1ad5d2cfc63",
