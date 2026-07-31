@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-31T10:01:07Z",
+  "generated_at": "2026-07-31T19:55:19Z",
   "items": [
     {
       "id": "axios-d94266259fec",
@@ -23,12 +23,12 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQlBoNHhzZE1ha3BwcTZlWVR5SGo4LTlFNGF3VHlLandwQkp5VEtkVEdMLTIyTUpqN1E5ajhjOV9SLUF1eUdoUlhyWXJoMXpXel9kUUJqSUJsdzlHMDNTZEFVR0E2UnZJa3A1NlJjTzJfUnR4Vy0xdXBzLW9Ha1pqUVVoZGhvYUhuSng2TFhDTVEyX3NlU3ZPMkU1eV8tY0hqbDBlWE5zSHJBLXpTcWpMSU5ybnItQU5Rc1E"
     },
     {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-905ec3a944fd",
+      "id": "cdc-gov-905ec3a944fd",
       "kind": "official",
       "published_at": "2026-07-28",
       "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "source": "cdc.gov",
+      "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
       "title": "Surveillance of Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
     },
@@ -121,6 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10VTVMTEQ3UHE1ZDJEY2VNRV9scHh3SmhTUDQ4SlFFeV9RYnFvSXY4amlCcUNOc0VyYmN6c2N4Z1FISVVkOG9uQVVkNFduRUV1Tk9NYVVmRUhMX2tmcjAzRVZ0LWhxdmJGRXM3REE2ekNFZVBDbnpzZQ"
     }
   ],
-  "rejected_candidates": 79,
+  "rejected_candidates": 78,
   "schema_version": 1
 }
