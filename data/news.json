@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-31T03:56:38Z",
+  "generated_at": "2026-07-31T07:16:01Z",
   "items": [
     {
       "id": "axios-d94266259fec",
@@ -13,12 +13,12 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UT0hGeXZmbGpsZkw3SnJFNVFIZmg0SXYyQVMxNmhxMDZmcjBCcm5WRFp4aVF0N3Y4bGpYUUhvb1g2VWxSOXBqRUhvQ2lXZEZZY016RTFwcDRzZEUyVENBd2FQNzFucWNzbDd6S0YzNGo5dHRZZmdqdzFB"
     },
     {
-      "id": "nbc-news-ce3a7d7444d0",
+      "id": "nbcnews-com-ce3a7d7444d0",
       "kind": "major-media",
       "published_at": "2026-07-29",
       "publisher_url": "https://www.nbcnews.com/",
-      "source": "NBC News",
-      "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
+      "source": "nbcnews.com",
+      "summary": "Recent Cyclospora coverage from nbcnews.com. Open the article for the full report.",
       "title": "Cyclospora outbreak may have peaked in Michigan after lettuce recall",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQlBoNHhzZE1ha3BwcTZlWVR5SGo4LTlFNGF3VHlLandwQkp5VEtkVEdMLTIyTUpqN1E5ajhjOV9SLUF1eUdoUlhyWXJoMXpXel9kUUJqSUJsdzlHMDNTZEFVR0E2UnZJa3A1NlJjTzJfUnR4Vy0xdXBzLW9Ha1pqUVVoZGhvYUhuSng2TFhDTVEyX3NlU3ZPMkU1eV8tY0hqbDBlWE5zSHJBLXpTcWpMSU5ybnItQU5Rc1E"
     },
@@ -121,6 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10VTVMTEQ3UHE1ZDJEY2VNRV9scHh3SmhTUDQ4SlFFeV9RYnFvSXY4amlCcUNOc0VyYmN6c2N4Z1FISVVkOG9uQVVkNFduRUV1Tk9NYVVmRUhMX2tmcjAzRVZ0LWhxdmJGRXM3REE2ekNFZVBDbnpzZQ"
     }
   ],
-  "rejected_candidates": 77,
+  "rejected_candidates": 79,
   "schema_version": 1
 }
