@@ -1,7 +1,17 @@
 {
   "errors": [],
-  "generated_at": "2026-07-31T00:16:50Z",
+  "generated_at": "2026-07-31T03:56:38Z",
   "items": [
+    {
+      "id": "axios-d94266259fec",
+      "kind": "major-media",
+      "published_at": "2026-07-31",
+      "publisher_url": "https://www.axios.com/",
+      "source": "Axios",
+      "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
+      "title": "Taco Bell CEO: \"Magic formula\" will overcome sales slump from cyclospora outbreak",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UT0hGeXZmbGpsZkw3SnJFNVFIZmg0SXYyQVMxNmhxMDZmcjBCcm5WRFp4aVF0N3Y4bGpYUUhvb1g2VWxSOXBqRUhvQ2lXZEZZY016RTFwcDRzZEUyVENBd2FQNzFucWNzbDd6S0YzNGo5dHRZZmdqdzFB"
+    },
     {
       "id": "nbc-news-ce3a7d7444d0",
       "kind": "major-media",
@@ -109,16 +119,6 @@
       "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
       "title": "Investigation Update: Cyclospora Outbreak, July 2026 | Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10VTVMTEQ3UHE1ZDJEY2VNRV9scHh3SmhTUDQ4SlFFeV9RYnFvSXY4amlCcUNOc0VyYmN6c2N4Z1FISVVkOG9uQVVkNFduRUV1Tk9NYVVmRUhMX2tmcjAzRVZ0LWhxdmJGRXM3REE2ekNFZVBDbnpzZQ"
-    },
-    {
-      "id": "cdc-gov-c140fe2fadb0",
-      "kind": "official",
-      "published_at": "2026-07-24",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "cdc.gov",
-      "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
-      "title": "Cyclospora outbreak linked to iceberg lettuce expanded to four new states.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTkVPT1g2RVZNenhaNWQzZVRNank2VTRsZEt4VVM3eDM3S1Vqam9lQmJqX1JQOG9rT1lUUHJEcGRnRWJXUGg5cW5sNkgwOXVwal92SjI4NUZkMzBmcmdmRk41TjNWVmI4VkZFQ0JLMEZ4Mk9Pakd0RU5Ebzc1OEhEYk1JNzVGYXdDY24ya3JlMno4X3V0Z3ItamdxSXJVZGUzQ3FvYWRmX2FfZE5oME5sSzhTQUdPYWRnQkE"
     }
   ],
   "rejected_candidates": 77,
