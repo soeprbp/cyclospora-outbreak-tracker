@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-07-30T20:36:12Z",
+  "generated_at": "2026-07-31T00:16:50Z",
   "items": [
     {
       "id": "nbc-news-ce3a7d7444d0",
@@ -62,12 +62,12 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcnNYMEpmN2xrWjlEZDhQaVBIdFUtREVCdVc5N3V3Y2M0YWtVQ21ySlJQSnZTdFVZQ3RORXp0bTNYSldUanlxU2gyS2xRV2JuTGlTYWtJOHVtSHdXVXNxVDA5RmpWekszRzNVOEgtUE9ublp3M1pSSk1tUDRPTE9ySHJzTUE0X2pFd19oZXZXajRhQQ"
     },
     {
-      "id": "reuters-com-faf2bccfad4a",
+      "id": "reuters-faf2bccfad4a",
       "kind": "major-media",
       "published_at": "2026-07-27",
       "publisher_url": "https://www.reuters.com/",
-      "source": "reuters.com",
-      "summary": "Recent Cyclospora coverage from reuters.com. Open the article for the full report.",
+      "source": "Reuters",
+      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
       "title": "Company at center of US cyclospora outbreak complained to White House, source says",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYXdEMzlMaVpxTV9TTlJQRzZPRzUwaHVYbVNvSFJadFY2MW5Va2c3cVo4S1czOXl6c2s3NjlKdlhSbnVoZm05U19LWHRzRWhSakFQS3JPa3U4NE1hQXNGV0wyMGZzVmVaOVlJOVFPdnRXclhicFh5VTZtc3dxTEk3elM4czFlSWZPZVAtYTEycy1pSS1feEs2SnhxRTJUWU93OW1ZX01wc0Z6bWRxVlpGeEpFSS1JbkNqR1M2Zm5xdElhdjYxZnF1MEdvQUFQSlNxajdveHJLd1RMRzhhNmdzTnFKQkJib0E"
     },
@@ -121,6 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTkVPT1g2RVZNenhaNWQzZVRNank2VTRsZEt4VVM3eDM3S1Vqam9lQmJqX1JQOG9rT1lUUHJEcGRnRWJXUGg5cW5sNkgwOXVwal92SjI4NUZkMzBmcmdmRk41TjNWVmI4VkZFQ0JLMEZ4Mk9Pakd0RU5Ebzc1OEhEYk1JNzVGYXdDY24ya3JlMno4X3V0Z3ItamdxSXJVZGUzQ3FvYWRmX2FfZE5oME5sSzhTQUdPYWRnQkE"
     }
   ],
-  "rejected_candidates": 75,
+  "rejected_candidates": 77,
   "schema_version": 1
 }
