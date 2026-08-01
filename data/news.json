@@ -1,14 +1,14 @@
 {
   "errors": [],
-  "generated_at": "2026-08-01T19:36:45Z",
+  "generated_at": "2026-08-01T23:14:11Z",
   "items": [
     {
-      "id": "npr-22d89abc90e1",
+      "id": "npr-org-22d89abc90e1",
       "kind": "major-media",
       "published_at": "2026-08-01",
       "publisher_url": "https://www.npr.org/",
-      "source": "NPR",
-      "summary": "Recent Cyclospora coverage from NPR. Open the article for the full report.",
+      "source": "npr.org",
+      "summary": "Recent Cyclospora coverage from npr.org. Open the article for the full report.",
       "title": "Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSXhNV0tGMUFQcDZPZFZsNnVMd1NJdFljdlc1SnZwRXRkU1Q3ZGhGM0s5YUhhRlExX1hJU2hrUklhbm1GVGJOelhwWUdFcUQ1STd0YmpDM2FGbVdfWFlpLWJhdm9vd3BSTHJmTzNGMXdBRWs3dG1Gdms2cTV5UnlZV243ZlVvSXhmM0JLWV9pbFVzZG1fUzB5QjdmNWFSVjQ5Z2c"
     },
@@ -82,16 +82,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UNTMxNHVtMFoxMHJXdEN4QURBaWgza1FTQ0hMTHQ5WkdXVkFJeld2VktlYldVXzl5NEpEYUtzQmQwZ3UxQk85MjlmcUdnSk1ocVZfQ2VlbFhzd3FoVi10eEtuVnRjRVk"
     },
     {
-      "id": "cbs-news-9687c36c899a",
-      "kind": "major-media",
-      "published_at": "2026-07-27",
-      "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
-      "title": "Taylor Farms CEO pressed by lawmaker over cyclospora outbreak and White House ties",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcnNYMEpmN2xrWjlEZDhQaVBIdFUtREVCdVc5N3V3Y2M0YWtVQ21ySlJQSnZTdFVZQ3RORXp0bTNYSldUanlxU2gyS2xRV2JuTGlTYWtJOHVtSHdXVXNxVDA5RmpWekszRzNVOEgtUE9ublp3M1pSSk1tUDRPTE9ySHJzTUE0X2pFd19oZXZXajRhQQ"
-    },
-    {
       "id": "reuters-faf2bccfad4a",
       "kind": "major-media",
       "published_at": "2026-07-27",
@@ -100,6 +90,16 @@
       "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
       "title": "Company at center of US cyclospora outbreak complained to White House, source says",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYXdEMzlMaVpxTV9TTlJQRzZPRzUwaHVYbVNvSFJadFY2MW5Va2c3cVo4S1czOXl6c2s3NjlKdlhSbnVoZm05U19LWHRzRWhSakFQS3JPa3U4NE1hQXNGV0wyMGZzVmVaOVlJOVFPdnRXclhicFh5VTZtc3dxTEk3elM4czFlSWZPZVAtYTEycy1pSS1feEs2SnhxRTJUWU93OW1ZX01wc0Z6bWRxVlpGeEpFSS1JbkNqR1M2Zm5xdElhdjYxZnF1MEdvQUFQSlNxajdveHJLd1RMRzhhNmdzTnFKQkJib0E"
+    },
+    {
+      "id": "cbsnews-com-9687c36c899a",
+      "kind": "major-media",
+      "published_at": "2026-07-27",
+      "publisher_url": "https://www.cbsnews.com/",
+      "source": "cbsnews.com",
+      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
+      "title": "Taylor Farms CEO pressed by lawmaker over cyclospora outbreak and White House ties",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcnNYMEpmN2xrWjlEZDhQaVBIdFUtREVCdVc5N3V3Y2M0YWtVQ21ySlJQSnZTdFVZQ3RORXp0bTNYSldUanlxU2gyS2xRV2JuTGlTYWtJOHVtSHdXVXNxVDA5RmpWekszRzNVOEgtUE9ublp3M1pSSk1tUDRPTE9ySHJzTUE0X2pFd19oZXZXajRhQQ"
     },
     {
       "id": "cdc-nndss",
@@ -121,6 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmFFaWlXbF94NmY5RXNxcnB6b0ZaT3lQckwtVzlaQU1keW1ZelIyc25sblUtSUxGcWx1NGRlZENmSTZidUVySF9NOS11TmtDQ0E4UEVDODFWa2ZtWXZfSDdWSFdUb05yWWkyU05GeTZrTmZRbWpQUHdDMjF2TGdCcEoxSGNEVnhrbkNJSGRBMEdsTXJlTU5JbEMtdWpOZThxXzBxSUgxRVpqdG8"
     }
   ],
-  "rejected_candidates": 76,
+  "rejected_candidates": 77,
   "schema_version": 1
 }
