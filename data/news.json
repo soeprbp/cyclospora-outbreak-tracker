@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-02T09:24:19Z",
+  "generated_at": "2026-08-02T11:36:02Z",
   "items": [
     {
       "id": "npr-22d89abc90e1",
@@ -13,12 +13,12 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSXhNV0tGMUFQcDZPZFZsNnVMd1NJdFljdlc1SnZwRXRkU1Q3ZGhGM0s5YUhhRlExX1hJU2hrUklhbm1GVGJOelhwWUdFcUQ1STd0YmpDM2FGbVdfWFlpLWJhdm9vd3BSTHJmTzNGMXdBRWs3dG1Gdms2cTV5UnlZV243ZlVvSXhmM0JLWV9pbFVzZG1fUzB5QjdmNWFSVjQ5Z2c"
     },
     {
-      "id": "axios-com-d94266259fec",
+      "id": "axios-d94266259fec",
       "kind": "major-media",
       "published_at": "2026-07-30",
       "publisher_url": "https://www.axios.com/",
-      "source": "axios.com",
-      "summary": "Recent Cyclospora coverage from axios.com. Open the article for the full report.",
+      "source": "Axios",
+      "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
       "title": "Taco Bell CEO: \"Magic formula\" will overcome sales slump from cyclospora outbreak",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UT0hGeXZmbGpsZkw3SnJFNVFIZmg0SXYyQVMxNmhxMDZmcjBCcm5WRFp4aVF0N3Y4bGpYUUhvb1g2VWxSOXBqRUhvQ2lXZEZZY016RTFwcDRzZEUyVENBd2FQNzFucWNzbDd6S0YzNGo5dHRZZmdqdzFB"
     },
@@ -92,12 +92,12 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcnNYMEpmN2xrWjlEZDhQaVBIdFUtREVCdVc5N3V3Y2M0YWtVQ21ySlJQSnZTdFVZQ3RORXp0bTNYSldUanlxU2gyS2xRV2JuTGlTYWtJOHVtSHdXVXNxVDA5RmpWekszRzNVOEgtUE9ublp3M1pSSk1tUDRPTE9ySHJzTUE0X2pFd19oZXZXajRhQQ"
     },
     {
-      "id": "reuters-faf2bccfad4a",
+      "id": "reuters-com-faf2bccfad4a",
       "kind": "major-media",
       "published_at": "2026-07-27",
       "publisher_url": "https://www.reuters.com/",
-      "source": "Reuters",
-      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
+      "source": "reuters.com",
+      "summary": "Recent Cyclospora coverage from reuters.com. Open the article for the full report.",
       "title": "Company at center of US cyclospora outbreak complained to White House, source says",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYXdEMzlMaVpxTV9TTlJQRzZPRzUwaHVYbVNvSFJadFY2MW5Va2c3cVo4S1czOXl6c2s3NjlKdlhSbnVoZm05U19LWHRzRWhSakFQS3JPa3U4NE1hQXNGV0wyMGZzVmVaOVlJOVFPdnRXclhicFh5VTZtc3dxTEk3elM4czFlSWZPZVAtYTEycy1pSS1feEs2SnhxRTJUWU93OW1ZX01wc0Z6bWRxVlpGeEpFSS1JbkNqR1M2Zm5xdElhdjYxZnF1MEdvQUFQSlNxajdveHJLd1RMRzhhNmdzTnFKQkJib0E"
     },
