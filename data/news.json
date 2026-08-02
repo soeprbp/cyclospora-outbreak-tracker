@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-02T06:47:26Z",
+  "generated_at": "2026-08-02T09:24:19Z",
   "items": [
     {
       "id": "npr-22d89abc90e1",
@@ -13,12 +13,12 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSXhNV0tGMUFQcDZPZFZsNnVMd1NJdFljdlc1SnZwRXRkU1Q3ZGhGM0s5YUhhRlExX1hJU2hrUklhbm1GVGJOelhwWUdFcUQ1STd0YmpDM2FGbVdfWFlpLWJhdm9vd3BSTHJmTzNGMXdBRWs3dG1Gdms2cTV5UnlZV243ZlVvSXhmM0JLWV9pbFVzZG1fUzB5QjdmNWFSVjQ5Z2c"
     },
     {
-      "id": "axios-d94266259fec",
+      "id": "axios-com-d94266259fec",
       "kind": "major-media",
-      "published_at": "2026-07-31",
+      "published_at": "2026-07-30",
       "publisher_url": "https://www.axios.com/",
-      "source": "Axios",
-      "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
+      "source": "axios.com",
+      "summary": "Recent Cyclospora coverage from axios.com. Open the article for the full report.",
       "title": "Taco Bell CEO: \"Magic formula\" will overcome sales slump from cyclospora outbreak",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UT0hGeXZmbGpsZkw3SnJFNVFIZmg0SXYyQVMxNmhxMDZmcjBCcm5WRFp4aVF0N3Y4bGpYUUhvb1g2VWxSOXBqRUhvQ2lXZEZZY016RTFwcDRzZEUyVENBd2FQNzFucWNzbDd6S0YzNGo5dHRZZmdqdzFB"
     },
@@ -121,6 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmFFaWlXbF94NmY5RXNxcnB6b0ZaT3lQckwtVzlaQU1keW1ZelIyc25sblUtSUxGcWx1NGRlZENmSTZidUVySF9NOS11TmtDQ0E4UEVDODFWa2ZtWXZfSDdWSFdUb05yWWkyU05GeTZrTmZRbWpQUHdDMjF2TGdCcEoxSGNEVnhrbkNJSGRBMEdsTXJlTU5JbEMtdWpOZThxXzBxSUgxRVpqdG8"
     }
   ],
-  "rejected_candidates": 78,
+  "rejected_candidates": 77,
   "schema_version": 1
 }
