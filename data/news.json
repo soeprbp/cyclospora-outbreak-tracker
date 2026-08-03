@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-03T20:00:59Z",
+  "generated_at": "2026-08-03T21:32:21Z",
   "items": [
     {
       "id": "ap-news-fd53266d56e8",
@@ -23,24 +23,24 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWlrRXBHUWJLcEZKQjVsSEdMX05QQldnb3JaS1VwSVlVS3BnMVVaZTg0d0lxaEdKMUk5T1VnUi03b3FBdnJPR0NiZ2JoV3hYc1FQRDRTN1ctYzZFZXVKZUZ3V19iNEdnN3ZtXzBMX1UzREJBSXR4NGlVNER2Mzh2Y294WjFtV0psX1VIeEh5U3doM2N1WVZzUnhfTmlBSDlHajd5YTRNcjNkQVBPLV9sbTY0X3Y"
     },
     {
-      "id": "npr-org-ff262d682f04",
+      "id": "axios-38052ecb4a15",
       "kind": "major-media",
       "published_at": "2026-08-03",
-      "publisher_url": "https://www.npr.org/",
-      "source": "npr.org",
-      "summary": "Recent Cyclospora coverage from npr.org. Open the article for the full report.",
-      "title": "Two people in Michigan have died after becoming ill with cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ2I4OXBGd0NuWWlkNTBFbXFZX3RfdlBXNWJKSmhkTlBVUTJvVkdEVUZDaWVlcS1ZT2Y5Rm5ZZC1Od3MxQXRxRDBRaE1LZWtieWJRcU15TlhKdXZpYkRjQXFSVVpXX3BHQ0p1ZWtfNG0wUXpTRlkybUI4QS1VZWlrbjlJTmxiQjY4NVQzNk10a3lKZWo3bUNoaA"
-    },
-    {
-      "id": "axios-57e8af378469",
-      "kind": "major-media",
-      "published_at": "2026-08-01",
       "publisher_url": "https://www.axios.com/",
       "source": "Axios",
       "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
-      "title": "Where the Cyclospora crisis sits among the worst U.S. foodborne outbreaks",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMW5lN19DdTRYTHk2VEJobExVcEtocmJuYXo2UGVUbFhjS3BDaGxDRkhOSU5pbDFlbllEMUFHcjVqTVBtS3FLcV9fNDRPamFSUW1wYWREZ0xqSTljSlJHZFZmUnlubG40MVROdFhITnR0OVlrYTlFd192MFZidGVXd3RQRVVpanZkMGNMLWt3"
+      "title": "Cyclospora outbreak causes first two deaths",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMmloejFwQ0NubGV5bnlTclpwalVaV081UFhPU1hKak9DSXlLSHZRT3RxRzFDUFBEenA0MVE2UV9pSVotaFpwWm1HTm5Nb1ZrTW1hbVM5aUh6UmZjYnpHNGEzbE45aXUwVlZTbElGUXRvN1hwd0N6d21XRl9nWlpkQ0V3"
+    },
+    {
+      "id": "npr-ff262d682f04",
+      "kind": "major-media",
+      "published_at": "2026-08-03",
+      "publisher_url": "https://www.npr.org/",
+      "source": "NPR",
+      "summary": "Recent Cyclospora coverage from NPR. Open the article for the full report.",
+      "title": "Two people in Michigan have died after becoming ill with cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ2I4OXBGd0NuWWlkNTBFbXFZX3RfdlBXNWJKSmhkTlBVUTJvVkdEVUZDaWVlcS1ZT2Y5Rm5ZZC1Od3MxQXRxRDBRaE1LZWtieWJRcU15TlhKdXZpYkRjQXFSVVpXX3BHQ0p1ZWtfNG0wUXpTRlkybUI4QS1VZWlrbjlJTmxiQjY4NVQzNk10a3lKZWo3bUNoaA"
     },
     {
       "id": "cdc-gov-905ec3a944fd",
@@ -121,6 +121,6 @@
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     }
   ],
-  "rejected_candidates": 78,
+  "rejected_candidates": 77,
   "schema_version": 1
 }
