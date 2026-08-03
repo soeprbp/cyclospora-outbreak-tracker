@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-03T04:01:57Z",
+  "generated_at": "2026-08-03T07:50:07Z",
   "items": [
     {
       "id": "npr-b6ba8d7b77da",
@@ -13,12 +13,12 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZkVLTFQ4eGZCY244Y1pWZUh1UTRUbVJNM3NkbE5hN1g1cTg4bFRaZTJIU2tEdThYemVJRWxjaDFfZkhMcXM1d29ibmlKaDdQc1BkTU9aT1dEQkRCNjdBU3NUMWFLRWVRX2l0VGxadHZZNHdjSzBEVXk1Y0RsbGU5b0s4WUxSdUZaZk1XVTZwQnRqV21TTGk5YjVHWFltVUFZSXc"
     },
     {
-      "id": "axios-com-57e8af378469",
+      "id": "axios-57e8af378469",
       "kind": "major-media",
       "published_at": "2026-08-01",
       "publisher_url": "https://www.axios.com/",
-      "source": "axios.com",
-      "summary": "Recent Cyclospora coverage from axios.com. Open the article for the full report.",
+      "source": "Axios",
+      "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
       "title": "Where the Cyclospora crisis sits among the worst U.S. foodborne outbreaks",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMW5lN19DdTRYTHk2VEJobExVcEtocmJuYXo2UGVUbFhjS3BDaGxDRkhOSU5pbDFlbllEMUFHcjVqTVBtS3FLcV9fNDRPamFSUW1wYWREZ0xqSTljSlJHZFZmUnlubG40MVROdFhITnR0OVlrYTlFd192MFZidGVXd3RQRVVpanZkMGNMLWt3"
     },
@@ -121,6 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmFFaWlXbF94NmY5RXNxcnB6b0ZaT3lQckwtVzlaQU1keW1ZelIyc25sblUtSUxGcWx1NGRlZENmSTZidUVySF9NOS11TmtDQ0E4UEVDODFWa2ZtWXZfSDdWSFdUb05yWWkyU05GeTZrTmZRbWpQUHdDMjF2TGdCcEoxSGNEVnhrbkNJSGRBMEdsTXJlTU5JbEMtdWpOZThxXzBxSUgxRVpqdG8"
     }
   ],
-  "rejected_candidates": 77,
+  "rejected_candidates": 78,
   "schema_version": 1
 }
