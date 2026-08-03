@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-03T21:32:21Z",
+  "generated_at": "2026-08-03T23:28:39Z",
   "items": [
     {
       "id": "ap-news-fd53266d56e8",
@@ -23,16 +23,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWlrRXBHUWJLcEZKQjVsSEdMX05QQldnb3JaS1VwSVlVS3BnMVVaZTg0d0lxaEdKMUk5T1VnUi03b3FBdnJPR0NiZ2JoV3hYc1FQRDRTN1ctYzZFZXVKZUZ3V19iNEdnN3ZtXzBMX1UzREJBSXR4NGlVNER2Mzh2Y294WjFtV0psX1VIeEh5U3doM2N1WVZzUnhfTmlBSDlHajd5YTRNcjNkQVBPLV9sbTY0X3Y"
     },
     {
-      "id": "axios-38052ecb4a15",
-      "kind": "major-media",
-      "published_at": "2026-08-03",
-      "publisher_url": "https://www.axios.com/",
-      "source": "Axios",
-      "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
-      "title": "Cyclospora outbreak causes first two deaths",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMmloejFwQ0NubGV5bnlTclpwalVaV081UFhPU1hKak9DSXlLSHZRT3RxRzFDUFBEenA0MVE2UV9pSVotaFpwWm1HTm5Nb1ZrTW1hbVM5aUh6UmZjYnpHNGEzbE45aXUwVlZTbElGUXRvN1hwd0N6d21XRl9nWlpkQ0V3"
-    },
-    {
       "id": "npr-ff262d682f04",
       "kind": "major-media",
       "published_at": "2026-08-03",
@@ -41,6 +31,16 @@
       "summary": "Recent Cyclospora coverage from NPR. Open the article for the full report.",
       "title": "Two people in Michigan have died after becoming ill with cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ2I4OXBGd0NuWWlkNTBFbXFZX3RfdlBXNWJKSmhkTlBVUTJvVkdEVUZDaWVlcS1ZT2Y5Rm5ZZC1Od3MxQXRxRDBRaE1LZWtieWJRcU15TlhKdXZpYkRjQXFSVVpXX3BHQ0p1ZWtfNG0wUXpTRlkybUI4QS1VZWlrbjlJTmxiQjY4NVQzNk10a3lKZWo3bUNoaA"
+    },
+    {
+      "id": "axios-com-38052ecb4a15",
+      "kind": "major-media",
+      "published_at": "2026-08-03",
+      "publisher_url": "https://www.axios.com/",
+      "source": "axios.com",
+      "summary": "Recent Cyclospora coverage from axios.com. Open the article for the full report.",
+      "title": "Cyclospora outbreak causes first two deaths",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMmloejFwQ0NubGV5bnlTclpwalVaV081UFhPU1hKak9DSXlLSHZRT3RxRzFDUFBEenA0MVE2UV9pSVotaFpwWm1HTm5Nb1ZrTW1hbVM5aUh6UmZjYnpHNGEzbE45aXUwVlZTbElGUXRvN1hwd0N6d21XRl9nWlpkQ0V3"
     },
     {
       "id": "cdc-gov-905ec3a944fd",
