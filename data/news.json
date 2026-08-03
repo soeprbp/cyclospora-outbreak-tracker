@@ -1,7 +1,27 @@
 {
   "errors": [],
-  "generated_at": "2026-08-03T07:50:07Z",
+  "generated_at": "2026-08-03T18:09:45Z",
   "items": [
+    {
+      "id": "ap-news-fd53266d56e8",
+      "kind": "major-media",
+      "published_at": "2026-08-03",
+      "publisher_url": "https://apnews.com/",
+      "source": "AP News",
+      "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
+      "title": "Michigan reports first 2 US deaths in outbreak of cyclospora",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbTlMT3pHaGFaRzdjMHdrZ1RWOVhwY1FPSi1TSm5pNEFuaHlLVldYYXF3VHY3WTR2MHNCMW12SVd4dXRSZy13NEkyR3BVc2QwcV9SZnR4Z1hxX05jUGNOYkJnUXp1V2hYbVhZcG4zUUhJVWl2SS1ibTVtdlQ4cjdvcHZSMC1OQS00WldrVmd0RDdWMEN6MlFnT1BOaw"
+    },
+    {
+      "id": "nbc-news-6acd8dab1c41",
+      "kind": "major-media",
+      "published_at": "2026-08-03",
+      "publisher_url": "https://www.nbcnews.com/",
+      "source": "NBC News",
+      "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
+      "title": "Michigan reports 2 deaths in cyclosporiasis outbreak",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWlrRXBHUWJLcEZKQjVsSEdMX05QQldnb3JaS1VwSVlVS3BnMVVaZTg0d0lxaEdKMUk5T1VnUi03b3FBdnJPR0NiZ2JoV3hYc1FQRDRTN1ctYzZFZXVKZUZ3V19iNEdnN3ZtXzBMX1UzREJBSXR4NGlVNER2Mzh2Y294WjFtV0psX1VIeEh5U3doM2N1WVZzUnhfTmlBSDlHajd5YTRNcjNkQVBPLV9sbTY0X3Y"
+    },
     {
       "id": "npr-b6ba8d7b77da",
       "kind": "major-media",
@@ -21,16 +41,6 @@
       "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
       "title": "Where the Cyclospora crisis sits among the worst U.S. foodborne outbreaks",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMW5lN19DdTRYTHk2VEJobExVcEtocmJuYXo2UGVUbFhjS3BDaGxDRkhOSU5pbDFlbllEMUFHcjVqTVBtS3FLcV9fNDRPamFSUW1wYWREZ0xqSTljSlJHZFZmUnlubG40MVROdFhITnR0OVlrYTlFd192MFZidGVXd3RQRVVpanZkMGNMLWt3"
-    },
-    {
-      "id": "nbc-news-ce3a7d7444d0",
-      "kind": "major-media",
-      "published_at": "2026-07-29",
-      "publisher_url": "https://www.nbcnews.com/",
-      "source": "NBC News",
-      "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
-      "title": "Cyclospora outbreak may have peaked in Michigan after lettuce recall",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQlBoNHhzZE1ha3BwcTZlWVR5SGo4LTlFNGF3VHlLandwQkp5VEtkVEdMLTIyTUpqN1E5ajhjOV9SLUF1eUdoUlhyWXJoMXpXel9kUUJqSUJsdzlHMDNTZEFVR0E2UnZJa3A1NlJjTzJfUnR4Vy0xdXBzLW9Ha1pqUVVoZGhvYUhuSng2TFhDTVEyX3NlU3ZPMkU1eV8tY0hqbDBlWE5zSHJBLXpTcWpMSU5ybnItQU5Rc1E"
     },
     {
       "id": "cdc-gov-905ec3a944fd",
@@ -109,16 +119,6 @@
       "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
       "title": "NNDSS table reports 11,877 U.S. Cyclospora cases",
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
-    },
-    {
-      "id": "the-washington-post-e3cca9936040",
-      "kind": "major-media",
-      "published_at": "2026-07-25",
-      "publisher_url": "https://www.washingtonpost.com/",
-      "source": "The Washington Post",
-      "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
-      "title": "Largest known U.S. cyclospora outbreak has now spread to nine states",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmFFaWlXbF94NmY5RXNxcnB6b0ZaT3lQckwtVzlaQU1keW1ZelIyc25sblUtSUxGcWx1NGRlZENmSTZidUVySF9NOS11TmtDQ0E4UEVDODFWa2ZtWXZfSDdWSFdUb05yWWkyU05GeTZrTmZRbWpQUHdDMjF2TGdCcEoxSGNEVnhrbkNJSGRBMEdsTXJlTU5JbEMtdWpOZThxXzBxSUgxRVpqdG8"
     }
   ],
   "rejected_candidates": 78,
