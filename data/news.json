@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-04T09:59:53Z",
+  "generated_at": "2026-08-04T12:20:37Z",
   "items": [
     {
       "id": "axios-38052ecb4a15",
@@ -39,7 +39,7 @@
       "publisher_url": "https://www.npr.org/",
       "source": "NPR",
       "summary": "Recent Cyclospora coverage from NPR. Open the article for the full report.",
-      "title": "Two people in Michigan have died after becoming ill with cyclosporiasis",
+      "title": "2 people in Michigan have died after becoming ill with cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ2I4OXBGd0NuWWlkNTBFbXFZX3RfdlBXNWJKSmhkTlBVUTJvVkdEVUZDaWVlcS1ZT2Y5Rm5ZZC1Od3MxQXRxRDBRaE1LZWtieWJRcU15TlhKdXZpYkRjQXFSVVpXX3BHQ0p1ZWtfNG0wUXpTRlkybUI4QS1VZWlrbjlJTmxiQjY4NVQzNk10a3lKZWo3bUNoaA"
     },
     {
@@ -121,6 +121,6 @@
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     }
   ],
-  "rejected_candidates": 78,
+  "rejected_candidates": 77,
   "schema_version": 1
 }
