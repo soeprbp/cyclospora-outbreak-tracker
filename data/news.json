@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-04T12:20:37Z",
+  "generated_at": "2026-08-04T18:05:23Z",
   "items": [
     {
       "id": "axios-38052ecb4a15",
@@ -41,6 +41,16 @@
       "summary": "Recent Cyclospora coverage from NPR. Open the article for the full report.",
       "title": "2 people in Michigan have died after becoming ill with cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ2I4OXBGd0NuWWlkNTBFbXFZX3RfdlBXNWJKSmhkTlBVUTJvVkdEVUZDaWVlcS1ZT2Y5Rm5ZZC1Od3MxQXRxRDBRaE1LZWtieWJRcU15TlhKdXZpYkRjQXFSVVpXX3BHQ0p1ZWtfNG0wUXpTRlkybUI4QS1VZWlrbjlJTmxiQjY4NVQzNk10a3lKZWo3bUNoaA"
+    },
+    {
+      "id": "cbs-news-8064bc75c8f3",
+      "kind": "major-media",
+      "published_at": "2026-08-03",
+      "publisher_url": "https://www.cbsnews.com/",
+      "source": "CBS News",
+      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
+      "title": "What to know about Taylor Farms, the produce giant tied to the cyclospora outbreak",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LZzdCblVVNFVNY1J6Y2JKMjNucGZEXy1vYWl5bFJnc2hWYjVFX2E1ZS1fa0ZyRnBkb2haVGE4bGFQNTVlZV9fZF9GbVc4LXdKUzFNMVplQ3BmVmpXU1pza2lQbnllb2ZCdWNRWmFhQQ"
     },
     {
       "id": "cdc-gov-905ec3a944fd",
@@ -100,16 +110,6 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Preventing Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UNTMxNHVtMFoxMHJXdEN4QURBaWgza1FTQ0hMTHQ5WkdXVkFJeld2VktlYldVXzl5NEpEYUtzQmQwZ3UxQk85MjlmcUdnSk1ocVZfQ2VlbFhzd3FoVi10eEtuVnRjRVk"
-    },
-    {
-      "id": "cbs-news-9687c36c899a",
-      "kind": "major-media",
-      "published_at": "2026-07-27",
-      "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
-      "title": "Taylor Farms CEO pressed by lawmaker over cyclospora outbreak and White House ties",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcnNYMEpmN2xrWjlEZDhQaVBIdFUtREVCdVc5N3V3Y2M0YWtVQ21ySlJQSnZTdFVZQ3RORXp0bTNYSldUanlxU2gyS2xRV2JuTGlTYWtJOHVtSHdXVXNxVDA5RmpWekszRzNVOEgtUE9ublp3M1pSSk1tUDRPTE9ySHJzTUE0X2pFd19oZXZXajRhQQ"
     },
     {
       "id": "cdc-nndss",
