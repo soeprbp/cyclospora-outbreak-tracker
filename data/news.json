@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-04T21:38:57Z",
+  "generated_at": "2026-08-04T23:27:33Z",
   "items": [
     {
       "id": "axios-38052ecb4a15",
@@ -21,6 +21,15 @@
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
       "title": "CDC expands largest known cyclosporiasis outbreak to 15 states",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmdmQUdUMlRNT3ozU0NIb3FuNGtfbVNfcUNXTW5SQTVhSWNjZ1lQaFpMeU5zNTFWWHZvbDZTWkFwSGVMMDhxc0tTSTR1VlVJQmxnU2c1M2Z4T0FDei15UC1rSjNVSDRBY1ZlcjgxeHBuY05NbzU2emhiTFJ5MVNjNm4yTzhKNEY5RzlGUkMwSnlUQWMwZWJ2ZGJ3YzdGWGowRmJQSWhJT3o"
+    },
+    {
+      "id": "cdc-surveillance",
+      "kind": "official",
+      "published_at": "2026-08-03",
+      "source": "CDC",
+      "summary": "CDC's national surveillance snapshot reports 517 hospitalizations, 2 deaths, and cases across 47 states.",
+      "title": "CDC reports 10,468 domestically acquired Cyclospora cases",
+      "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     },
     {
       "id": "nbc-news-6acd8dab1c41",
@@ -91,15 +100,6 @@
       "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
       "title": "Company at center of US cyclospora outbreak complained to White House, source says",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYXdEMzlMaVpxTV9TTlJQRzZPRzUwaHVYbVNvSFJadFY2MW5Va2c3cVo4S1czOXl6c2s3NjlKdlhSbnVoZm05U19LWHRzRWhSakFQS3JPa3U4NE1hQXNGV0wyMGZzVmVaOVlJOVFPdnRXclhicFh5VTZtc3dxTEk3elM4czFlSWZPZVAtYTEycy1pSS1feEs2SnhxRTJUWU93OW1ZX01wc0Z6bWRxVlpGeEpFSS1JbkNqR1M2Zm5xdElhdjYxZnF1MEdvQUFQSlNxajdveHJLd1RMRzhhNmdzTnFKQkJib0E"
-    },
-    {
-      "id": "cdc-surveillance",
-      "kind": "official",
-      "published_at": "2026-07-27",
-      "source": "CDC",
-      "summary": "CDC's national surveillance snapshot reports 423 hospitalizations, 0 deaths, and cases across 45 states.",
-      "title": "CDC reports 6,707 domestically acquired Cyclospora cases",
-      "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     },
     {
       "id": "cdc-gov-6db10a681564",
