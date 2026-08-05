@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-05T19:57:32Z",
+  "generated_at": "2026-08-05T21:35:21Z",
   "items": [
     {
       "id": "fda-core-1398",
@@ -111,16 +111,15 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LZzdCblVVNFVNY1J6Y2JKMjNucGZEXy1vYWl5bFJnc2hWYjVFX2E1ZS1fa0ZyRnBkb2haVGE4bGFQNTVlZV9fZF9GbVc4LXdKUzFNMVplQ3BmVmpXU1pza2lQbnllb2ZCdWNRWmFhQQ"
     },
     {
-      "id": "cdc-gov-905ec3a944fd",
+      "id": "cdc-nndss",
       "kind": "official",
-      "published_at": "2026-07-28",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "cdc.gov",
-      "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
-      "title": "Surveillance of Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
+      "published_at": "2026-08-01",
+      "source": "CDC NNDSS",
+      "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
+      "title": "NNDSS table reports 17,197 U.S. Cyclospora cases",
+      "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     }
   ],
-  "rejected_candidates": 77,
+  "rejected_candidates": 78,
   "schema_version": 1
 }
