@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-05T12:18:51Z",
+  "generated_at": "2026-08-05T15:30:34Z",
   "items": [
     {
       "id": "the-washington-post-5bd8338a22d5",
@@ -13,12 +13,22 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmdmQUdUMlRNT3ozU0NIb3FuNGtfbVNfcUNXTW5SQTVhSWNjZ1lQaFpMeU5zNTFWWHZvbDZTWkFwSGVMMDhxc0tTSTR1VlVJQmxnU2c1M2Z4T0FDei15UC1rSjNVSDRBY1ZlcjgxeHBuY05NbzU2emhiTFJ5MVNjNm4yTzhKNEY5RzlGUkMwSnlUQWMwZWJ2ZGJ3YzdGWGowRmJQSWhJT3o"
     },
     {
-      "id": "reuters-com-7415a1ec25ad",
+      "id": "usa-today-5ace6ea9c365",
+      "kind": "major-media",
+      "published_at": "2026-08-05",
+      "publisher_url": "https://www.usatoday.com/",
+      "source": "USA Today",
+      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
+      "title": "Cases of diarrhea parasite reach new high, spread to 47 states",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNHBsY2o5RkpJeHRBU2ZxNDhTdnV4aU1HM1VMWTJHc3hOM1JHUGNsSGFlcTZPX3JMUktKdk1POGJuTzR0c2ttay1EWEFVdkJNZEF3dFJFQ2s4SEpXdWxDYnpENUhoTnRYbGN2Q2pKaG84cjA4ZlZKZ00tUDJYSDQ3R01SRHhwR2VjWHZOOFZLdVdyaGJxdlNPNkhmR2lNaFROZzdpakJOTWRwb3VuWTBhMA"
+    },
+    {
+      "id": "reuters-7415a1ec25ad",
       "kind": "major-media",
       "published_at": "2026-08-04",
       "publisher_url": "https://www.reuters.com/",
-      "source": "reuters.com",
-      "summary": "Recent Cyclospora coverage from reuters.com. Open the article for the full report.",
+      "source": "Reuters",
+      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
       "title": "CDC expands largest known cyclosporiasis outbreak to 15 states, Washington Post reports",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYTFESklLM0tvVDBCWHJKR29iQkl0Z1VlWHFDOUtscTA2V2xjY0FHaDBpb1dVc3JubWlKNmRmQmFtSmhnLXAtWFdzdmVvM2x5eU44Y1IyR0d0NTNURHR5Um15UFJXLURqWTluMFp1MWx0LWp0ZWd3dHVwUXRwWDh3d29tVGdYbmttUjh3QzRDMmotOWRTYzRRcFdVbVNSdWRUWDVFYm43VWYzU2JqMzJTc0QzV0lUZ2lJRE1OVC12UUZSUVhDQldKU3FYUUN3Wk96eTlOZWFVUVU2MUM0d1Qtc1J1eDNkUQ"
     },
@@ -62,32 +72,32 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ2I4OXBGd0NuWWlkNTBFbXFZX3RfdlBXNWJKSmhkTlBVUTJvVkdEVUZDaWVlcS1ZT2Y5Rm5ZZC1Od3MxQXRxRDBRaE1LZWtieWJRcU15TlhKdXZpYkRjQXFSVVpXX3BHQ0p1ZWtfNG0wUXpTRlkybUI4QS1VZWlrbjlJTmxiQjY4NVQzNk10a3lKZWo3bUNoaA"
     },
     {
-      "id": "axios-com-38052ecb4a15",
+      "id": "axios-38052ecb4a15",
       "kind": "major-media",
       "published_at": "2026-08-03",
       "publisher_url": "https://www.axios.com/",
-      "source": "axios.com",
-      "summary": "Recent Cyclospora coverage from axios.com. Open the article for the full report.",
+      "source": "Axios",
+      "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
       "title": "Cyclospora outbreak causes first two deaths",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMmloejFwQ0NubGV5bnlTclpwalVaV081UFhPU1hKak9DSXlLSHZRT3RxRzFDUFBEenA0MVE2UV9pSVotaFpwWm1HTm5Nb1ZrTW1hbVM5aUh6UmZjYnpHNGEzbE45aXUwVlZTbElGUXRvN1hwd0N6d21XRl9nWlpkQ0V3"
     },
     {
-      "id": "apnews-com-fd53266d56e8",
+      "id": "ap-news-fd53266d56e8",
       "kind": "major-media",
       "published_at": "2026-08-03",
       "publisher_url": "https://apnews.com/",
-      "source": "apnews.com",
-      "summary": "Recent Cyclospora coverage from apnews.com. Open the article for the full report.",
+      "source": "AP News",
+      "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
       "title": "Michigan reports the first 2 US deaths related to a diarrhea-causing parasite",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbTlMT3pHaGFaRzdjMHdrZ1RWOVhwY1FPSi1TSm5pNEFuaHlLVldYYXF3VHY3WTR2MHNCMW12SVd4dXRSZy13NEkyR3BVc2QwcV9SZnR4Z1hxX05jUGNOYkJnUXp1V2hYbVhZcG4zUUhJVWl2SS1ibTVtdlQ4cjdvcHZSMC1OQS00WldrVmd0RDdWMEN6MlFnT1BOaw"
     },
     {
-      "id": "cbsnews-com-8064bc75c8f3",
+      "id": "cbs-news-8064bc75c8f3",
       "kind": "major-media",
       "published_at": "2026-08-03",
       "publisher_url": "https://www.cbsnews.com/",
-      "source": "cbsnews.com",
-      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
+      "source": "CBS News",
+      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
       "title": "What to know about Taylor Farms, the produce giant tied to the cyclospora outbreak",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LZzdCblVVNFVNY1J6Y2JKMjNucGZEXy1vYWl5bFJnc2hWYjVFX2E1ZS1fa0ZyRnBkb2haVGE4bGFQNTVlZV9fZF9GbVc4LXdKUzFNMVplQ3BmVmpXU1pza2lQbnllb2ZCdWNRWmFhQQ"
     },
@@ -110,16 +120,6 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Surveillance of Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
-    },
-    {
-      "id": "cdc-gov-6db10a681564",
-      "kind": "official",
-      "published_at": "2026-07-27",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "cdc.gov",
-      "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
-      "title": "Preventing Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UNTMxNHVtMFoxMHJXdEN4QURBaWgza1FTQ0hMTHQ5WkdXVkFJeld2VktlYldVXzl5NEpEYUtzQmQwZ3UxQk85MjlmcUdnSk1ocVZfQ2VlbFhzd3FoVi10eEtuVnRjRVk"
     }
   ],
   "rejected_candidates": 75,
