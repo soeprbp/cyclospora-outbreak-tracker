@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-05T21:35:21Z",
+  "generated_at": "2026-08-05T23:19:08Z",
   "items": [
     {
       "id": "fda-core-1398",
@@ -42,14 +42,14 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYWNpcTBMT3YzZUZXaDBrUXpzdl9BektPNVdUZkdpT1pMTVRTZUdybkoxQlVrTjYxbEhPVlNoR3h2SUtOYl9HTW5vQWFlN3F1Q3ZIS2VTdVJUeUxJTWZUR1MyS083T1Y2cWViWWh5VTlHM2JxTG94WFZGWDZhT3V6bjdTVnZTT3JFUVFydHNWTG5yWEJGWkwzQld5RS1QcC1kdE5KbEpheGk5QQ"
     },
     {
-      "id": "reuters-7415a1ec25ad",
+      "id": "reuters-552a0a3998ac",
       "kind": "major-media",
-      "published_at": "2026-08-04",
+      "published_at": "2026-08-05",
       "publisher_url": "https://www.reuters.com/",
       "source": "Reuters",
       "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
-      "title": "CDC expands largest known cyclosporiasis outbreak to 15 states, Washington Post reports",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYTFESklLM0tvVDBCWHJKR29iQkl0Z1VlWHFDOUtscTA2V2xjY0FHaDBpb1dVc3JubWlKNmRmQmFtSmhnLXAtWFdzdmVvM2x5eU44Y1IyR0d0NTNURHR5Um15UFJXLURqWTluMFp1MWx0LWp0ZWd3dHVwUXRwWDh3d29tVGdYbmttUjh3QzRDMmotOWRTYzRRcFdVbVNSdWRUWDVFYm43VWYzU2JqMzJTc0QzV0lUZ2lJRE1OVC12UUZSUVhDQldKU3FYUUN3Wk96eTlOZWFVUVU2MUM0d1Qtc1J1eDNkUQ"
+      "title": "US cyclosporiasis probe linked to lettuce widens to 15 states, source says",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ2cyRFd3NjVWVjdBTkc4MElfeFZhdFlzZFZfS1NyRGthNXZxcEt4Q2ZFZTVMSzhBSWptanVYcHdRQlVSSGd2VVI0UW1RYVdZRnJOMDZHRGpMbWF6VHpSZDh1Z0VFNmFDZmZOZUNwenVNWC1paEJ3SmhlaDNUQzduWE9EUm5VaWo4bHJzS1RnazZaMVhSMHVsU3UtQ2lFS21XXzZVd0dCVWY1UnZKdVVyZG52VkdTV25EZFh6VmpkWkU2QkIwQUdraDBYLTFtQ0ZyZUpMRmozcTRrQTlQaHc"
     },
     {
       "id": "cdc-surveillance",
@@ -120,6 +120,6 @@
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     }
   ],
-  "rejected_candidates": 78,
+  "rejected_candidates": 77,
   "schema_version": 1
 }
