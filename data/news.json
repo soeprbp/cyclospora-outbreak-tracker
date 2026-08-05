@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-05T09:58:55Z",
+  "generated_at": "2026-08-05T12:18:51Z",
   "items": [
     {
       "id": "the-washington-post-5bd8338a22d5",
@@ -52,16 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWlrRXBHUWJLcEZKQjVsSEdMX05QQldnb3JaS1VwSVlVS3BnMVVaZTg0d0lxaEdKMUk5T1VnUi03b3FBdnJPR0NiZ2JoV3hYc1FQRDRTN1ctYzZFZXVKZUZ3V19iNEdnN3ZtXzBMX1UzREJBSXR4NGlVNER2Mzh2Y294WjFtV0psX1VIeEh5U3doM2N1WVZzUnhfTmlBSDlHajd5YTRNcjNkQVBPLV9sbTY0X3Y"
     },
     {
-      "id": "cbs-news-8064bc75c8f3",
-      "kind": "major-media",
-      "published_at": "2026-08-03",
-      "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
-      "title": "What to know about Taylor Farms, the produce giant tied to the cyclospora outbreak",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LZzdCblVVNFVNY1J6Y2JKMjNucGZEXy1vYWl5bFJnc2hWYjVFX2E1ZS1fa0ZyRnBkb2haVGE4bGFQNTVlZV9fZF9GbVc4LXdKUzFNMVplQ3BmVmpXU1pza2lQbnllb2ZCdWNRWmFhQQ"
-    },
-    {
       "id": "npr-ff262d682f04",
       "kind": "major-media",
       "published_at": "2026-08-03",
@@ -72,24 +62,34 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ2I4OXBGd0NuWWlkNTBFbXFZX3RfdlBXNWJKSmhkTlBVUTJvVkdEVUZDaWVlcS1ZT2Y5Rm5ZZC1Od3MxQXRxRDBRaE1LZWtieWJRcU15TlhKdXZpYkRjQXFSVVpXX3BHQ0p1ZWtfNG0wUXpTRlkybUI4QS1VZWlrbjlJTmxiQjY4NVQzNk10a3lKZWo3bUNoaA"
     },
     {
-      "id": "ap-news-fd53266d56e8",
+      "id": "axios-com-38052ecb4a15",
+      "kind": "major-media",
+      "published_at": "2026-08-03",
+      "publisher_url": "https://www.axios.com/",
+      "source": "axios.com",
+      "summary": "Recent Cyclospora coverage from axios.com. Open the article for the full report.",
+      "title": "Cyclospora outbreak causes first two deaths",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMmloejFwQ0NubGV5bnlTclpwalVaV081UFhPU1hKak9DSXlLSHZRT3RxRzFDUFBEenA0MVE2UV9pSVotaFpwWm1HTm5Nb1ZrTW1hbVM5aUh6UmZjYnpHNGEzbE45aXUwVlZTbElGUXRvN1hwd0N6d21XRl9nWlpkQ0V3"
+    },
+    {
+      "id": "apnews-com-fd53266d56e8",
       "kind": "major-media",
       "published_at": "2026-08-03",
       "publisher_url": "https://apnews.com/",
-      "source": "AP News",
-      "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
+      "source": "apnews.com",
+      "summary": "Recent Cyclospora coverage from apnews.com. Open the article for the full report.",
       "title": "Michigan reports the first 2 US deaths related to a diarrhea-causing parasite",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbTlMT3pHaGFaRzdjMHdrZ1RWOVhwY1FPSi1TSm5pNEFuaHlLVldYYXF3VHY3WTR2MHNCMW12SVd4dXRSZy13NEkyR3BVc2QwcV9SZnR4Z1hxX05jUGNOYkJnUXp1V2hYbVhZcG4zUUhJVWl2SS1ibTVtdlQ4cjdvcHZSMC1OQS00WldrVmd0RDdWMEN6MlFnT1BOaw"
     },
     {
-      "id": "axios-38052ecb4a15",
+      "id": "cbsnews-com-8064bc75c8f3",
       "kind": "major-media",
       "published_at": "2026-08-03",
-      "publisher_url": "https://www.axios.com/",
-      "source": "Axios",
-      "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
-      "title": "Cyclospora outbreak causes first two deaths",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMmloejFwQ0NubGV5bnlTclpwalVaV081UFhPU1hKak9DSXlLSHZRT3RxRzFDUFBEenA0MVE2UV9pSVotaFpwWm1HTm5Nb1ZrTW1hbVM5aUh6UmZjYnpHNGEzbE45aXUwVlZTbElGUXRvN1hwd0N6d21XRl9nWlpkQ0V3"
+      "publisher_url": "https://www.cbsnews.com/",
+      "source": "cbsnews.com",
+      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
+      "title": "What to know about Taylor Farms, the produce giant tied to the cyclospora outbreak",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LZzdCblVVNFVNY1J6Y2JKMjNucGZEXy1vYWl5bFJnc2hWYjVFX2E1ZS1fa0ZyRnBkb2haVGE4bGFQNTVlZV9fZF9GbVc4LXdKUzFNMVplQ3BmVmpXU1pza2lQbnllb2ZCdWNRWmFhQQ"
     },
     {
       "id": "cdc-gov-905ec3a944fd",
