@@ -1,26 +1,26 @@
 {
   "errors": [],
-  "generated_at": "2026-08-04T23:27:33Z",
+  "generated_at": "2026-08-05T03:36:29Z",
   "items": [
-    {
-      "id": "axios-38052ecb4a15",
-      "kind": "major-media",
-      "published_at": "2026-08-04",
-      "publisher_url": "https://www.axios.com/",
-      "source": "Axios",
-      "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
-      "title": "Cyclospora outbreak causes first two deaths",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMmloejFwQ0NubGV5bnlTclpwalVaV081UFhPU1hKak9DSXlLSHZRT3RxRzFDUFBEenA0MVE2UV9pSVotaFpwWm1HTm5Nb1ZrTW1hbVM5aUh6UmZjYnpHNGEzbE45aXUwVlZTbElGUXRvN1hwd0N6d21XRl9nWlpkQ0V3"
-    },
     {
       "id": "the-washington-post-5bd8338a22d5",
       "kind": "major-media",
-      "published_at": "2026-08-04",
+      "published_at": "2026-08-05",
       "publisher_url": "https://www.washingtonpost.com/",
       "source": "The Washington Post",
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
       "title": "CDC expands largest known cyclosporiasis outbreak to 15 states",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmdmQUdUMlRNT3ozU0NIb3FuNGtfbVNfcUNXTW5SQTVhSWNjZ1lQaFpMeU5zNTFWWHZvbDZTWkFwSGVMMDhxc0tTSTR1VlVJQmxnU2c1M2Z4T0FDei15UC1rSjNVSDRBY1ZlcjgxeHBuY05NbzU2emhiTFJ5MVNjNm4yTzhKNEY5RzlGUkMwSnlUQWMwZWJ2ZGJ3YzdGWGowRmJQSWhJT3o"
+    },
+    {
+      "id": "reuters-7415a1ec25ad",
+      "kind": "major-media",
+      "published_at": "2026-08-04",
+      "publisher_url": "https://www.reuters.com/",
+      "source": "Reuters",
+      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
+      "title": "CDC expands largest known cyclosporiasis outbreak to 15 states, Washington Post reports",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYTFESklLM0tvVDBCWHJKR29iQkl0Z1VlWHFDOUtscTA2V2xjY0FHaDBpb1dVc3JubWlKNmRmQmFtSmhnLXAtWFdzdmVvM2x5eU44Y1IyR0d0NTNURHR5Um15UFJXLURqWTluMFp1MWx0LWp0ZWd3dHVwUXRwWDh3d29tVGdYbmttUjh3QzRDMmotOWRTYzRRcFdVbVNSdWRUWDVFYm43VWYzU2JqMzJTc0QzV0lUZ2lJRE1OVC12UUZSUVhDQldKU3FYUUN3Wk96eTlOZWFVUVU2MUM0d1Qtc1J1eDNkUQ"
     },
     {
       "id": "cdc-surveillance",
@@ -72,6 +72,16 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbTlMT3pHaGFaRzdjMHdrZ1RWOVhwY1FPSi1TSm5pNEFuaHlLVldYYXF3VHY3WTR2MHNCMW12SVd4dXRSZy13NEkyR3BVc2QwcV9SZnR4Z1hxX05jUGNOYkJnUXp1V2hYbVhZcG4zUUhJVWl2SS1ibTVtdlQ4cjdvcHZSMC1OQS00WldrVmd0RDdWMEN6MlFnT1BOaw"
     },
     {
+      "id": "axios-com-38052ecb4a15",
+      "kind": "major-media",
+      "published_at": "2026-08-03",
+      "publisher_url": "https://www.axios.com/",
+      "source": "axios.com",
+      "summary": "Recent Cyclospora coverage from axios.com. Open the article for the full report.",
+      "title": "Cyclospora outbreak causes first two deaths",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMmloejFwQ0NubGV5bnlTclpwalVaV081UFhPU1hKak9DSXlLSHZRT3RxRzFDUFBEenA0MVE2UV9pSVotaFpwWm1HTm5Nb1ZrTW1hbVM5aUh6UmZjYnpHNGEzbE45aXUwVlZTbElGUXRvN1hwd0N6d21XRl9nWlpkQ0V3"
+    },
+    {
       "id": "cdc-gov-905ec3a944fd",
       "kind": "official",
       "published_at": "2026-07-28",
@@ -90,16 +100,6 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Surveillance of Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
-    },
-    {
-      "id": "reuters-faf2bccfad4a",
-      "kind": "major-media",
-      "published_at": "2026-07-28",
-      "publisher_url": "https://www.reuters.com/",
-      "source": "Reuters",
-      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
-      "title": "Company at center of US cyclospora outbreak complained to White House, source says",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYXdEMzlMaVpxTV9TTlJQRzZPRzUwaHVYbVNvSFJadFY2MW5Va2c3cVo4S1czOXl6c2s3NjlKdlhSbnVoZm05U19LWHRzRWhSakFQS3JPa3U4NE1hQXNGV0wyMGZzVmVaOVlJOVFPdnRXclhicFh5VTZtc3dxTEk3elM4czFlSWZPZVAtYTEycy1pSS1feEs2SnhxRTJUWU93OW1ZX01wc0Z6bWRxVlpGeEpFSS1JbkNqR1M2Zm5xdElhdjYxZnF1MEdvQUFQSlNxajdveHJLd1RMRzhhNmdzTnFKQkJib0E"
     },
     {
       "id": "cdc-gov-6db10a681564",
@@ -122,6 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UNTMxNHVtMFoxMHJXdEN4QURBaWgza1FTQ0hMTHQ5WkdXVkFJeld2VktlYldVXzl5NEpEYUtzQmQwZ3UxQk85MjlmcUdnSk1ocVZfQ2VlbFhzd3FoVi10eEtuVnRjRVk"
     }
   ],
-  "rejected_candidates": 76,
+  "rejected_candidates": 77,
   "schema_version": 1
 }
