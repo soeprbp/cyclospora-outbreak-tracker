@@ -1,7 +1,16 @@
 {
   "errors": [],
-  "generated_at": "2026-08-05T15:30:34Z",
+  "generated_at": "2026-08-05T19:57:32Z",
   "items": [
+    {
+      "id": "fda-core-1398",
+      "kind": "official",
+      "published_at": "2026-08-05",
+      "source": "FDA",
+      "summary": "FDA's CORE table reports 10 cases and lists investigation 1398 as ongoing; the agency table should be checked for current traceback and product details.",
+      "title": "FDA opens Cyclospora investigation 1398",
+      "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
+    },
     {
       "id": "the-washington-post-5bd8338a22d5",
       "kind": "major-media",
@@ -21,6 +30,16 @@
       "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
       "title": "Cases of diarrhea parasite reach new high, spread to 47 states",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNHBsY2o5RkpJeHRBU2ZxNDhTdnV4aU1HM1VMWTJHc3hOM1JHUGNsSGFlcTZPX3JMUktKdk1POGJuTzR0c2ttay1EWEFVdkJNZEF3dFJFQ2s4SEpXdWxDYnpENUhoTnRYbGN2Q2pKaG84cjA4ZlZKZ00tUDJYSDQ3R01SRHhwR2VjWHZOOFZLdVdyaGJxdlNPNkhmR2lNaFROZzdpakJOTWRwb3VuWTBhMA"
+    },
+    {
+      "id": "nbc-news-46267795baff",
+      "kind": "major-media",
+      "published_at": "2026-08-05",
+      "publisher_url": "https://www.nbcnews.com/",
+      "source": "NBC News",
+      "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
+      "title": "Cyclosporiasis outbreak has expanded to six more states",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYWNpcTBMT3YzZUZXaDBrUXpzdl9BektPNVdUZkdpT1pMTVRTZUdybkoxQlVrTjYxbEhPVlNoR3h2SUtOYl9HTW5vQWFlN3F1Q3ZIS2VTdVJUeUxJTWZUR1MyS083T1Y2cWViWWh5VTlHM2JxTG94WFZGWDZhT3V6bjdTVnZTT3JFUVFydHNWTG5yWEJGWkwzQld5RS1QcC1kdE5KbEpheGk5QQ"
     },
     {
       "id": "reuters-7415a1ec25ad",
@@ -50,16 +69,6 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Cyclospora Outbreak Linked to Iceberg Lettuce in 9 States | Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
-    },
-    {
-      "id": "nbc-news-6acd8dab1c41",
-      "kind": "major-media",
-      "published_at": "2026-08-03",
-      "publisher_url": "https://www.nbcnews.com/",
-      "source": "NBC News",
-      "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
-      "title": "Michigan reports 2 deaths in cyclosporiasis outbreak",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWlrRXBHUWJLcEZKQjVsSEdMX05QQldnb3JaS1VwSVlVS3BnMVVaZTg0d0lxaEdKMUk5T1VnUi03b3FBdnJPR0NiZ2JoV3hYc1FQRDRTN1ctYzZFZXVKZUZ3V19iNEdnN3ZtXzBMX1UzREJBSXR4NGlVNER2Mzh2Y294WjFtV0psX1VIeEh5U3doM2N1WVZzUnhfTmlBSDlHajd5YTRNcjNkQVBPLV9sbTY0X3Y"
     },
     {
       "id": "npr-ff262d682f04",
@@ -110,18 +119,8 @@
       "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
       "title": "Surveillance of Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
-    },
-    {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-905ec3a944fd",
-      "kind": "official",
-      "published_at": "2026-07-28",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Surveillance of Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
     }
   ],
-  "rejected_candidates": 75,
+  "rejected_candidates": 77,
   "schema_version": 1
 }
