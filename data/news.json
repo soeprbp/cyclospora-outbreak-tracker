@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-05T23:19:08Z",
+  "generated_at": "2026-08-06T03:42:25Z",
   "items": [
     {
       "id": "fda-core-1398",
@@ -42,13 +42,33 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYWNpcTBMT3YzZUZXaDBrUXpzdl9BektPNVdUZkdpT1pMTVRTZUdybkoxQlVrTjYxbEhPVlNoR3h2SUtOYl9HTW5vQWFlN3F1Q3ZIS2VTdVJUeUxJTWZUR1MyS083T1Y2cWViWWh5VTlHM2JxTG94WFZGWDZhT3V6bjdTVnZTT3JFUVFydHNWTG5yWEJGWkwzQld5RS1QcC1kdE5KbEpheGk5QQ"
     },
     {
-      "id": "reuters-552a0a3998ac",
+      "id": "ap-news-e4cd80200933",
+      "kind": "major-media",
+      "published_at": "2026-08-05",
+      "publisher_url": "https://apnews.com/",
+      "source": "AP News",
+      "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
+      "title": "15 states now linked to iceberg lettuce cyclospora outbreak, CDC says",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdWxYN01WSF9sOFlqeXBsS0ljRGlyTkplRFNMOTFoYXVGX0swcVBSdUpMQ09RUUdTUkZUVGJuNGo3Q0o0MERsVU16OHRoU1BMWFhMTUpubW5tUFZqbTdnX0RGOHRON25zOFMyNUpQSlNnOXQ5bUktSDA5TU95REZFVUM5ZGw4aXRpTU1ha2FQZnpOV0dHWkNDczNYVQ"
+    },
+    {
+      "id": "cbs-news-25d04749495c",
+      "kind": "major-media",
+      "published_at": "2026-08-05",
+      "publisher_url": "https://www.cbsnews.com/",
+      "source": "CBS News",
+      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
+      "title": "104 cyclospora cases reported in Massachusetts in July, some apparently linked to lettuce",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV0g0eVh6b1ZtQzktaGZWTFk3a1l6R1prNW40YjZKUWdkRkFZa0pzQWtfdmd4Y21rY2VhU3pFMmVKMzBELV9HYlJGd2JvajRvZlMzOHVRT3lQZXppa3hQMjV4SHY3SDZGZ0VCTzM4ZFpLRm9EWmhjZDhQTzI3T3ZJdQ"
+    },
+    {
+      "id": "reuters-com-552a0a3998ac",
       "kind": "major-media",
       "published_at": "2026-08-05",
       "publisher_url": "https://www.reuters.com/",
-      "source": "Reuters",
-      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
-      "title": "US cyclosporiasis probe linked to lettuce widens to 15 states, source says",
+      "source": "reuters.com",
+      "summary": "Recent Cyclospora coverage from reuters.com. Open the article for the full report.",
+      "title": "US cyclosporiasis probe linked to lettuce widens to 15 states",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ2cyRFd3NjVWVjdBTkc4MElfeFZhdFlzZFZfS1NyRGthNXZxcEt4Q2ZFZTVMSzhBSWptanVYcHdRQlVSSGd2VVI0UW1RYVdZRnJOMDZHRGpMbWF6VHpSZDh1Z0VFNmFDZmZOZUNwenVNWC1paEJ3SmhlaDNUQzduWE9EUm5VaWo4bHJzS1RnazZaMVhSMHVsU3UtQ2lFS21XXzZVd0dCVWY1UnZKdVVyZG52VkdTV25EZFh6VmpkWkU2QkIwQUdraDBYLTFtQ0ZyZUpMRmozcTRrQTlQaHc"
     },
     {
@@ -91,26 +111,6 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMmloejFwQ0NubGV5bnlTclpwalVaV081UFhPU1hKak9DSXlLSHZRT3RxRzFDUFBEenA0MVE2UV9pSVotaFpwWm1HTm5Nb1ZrTW1hbVM5aUh6UmZjYnpHNGEzbE45aXUwVlZTbElGUXRvN1hwd0N6d21XRl9nWlpkQ0V3"
     },
     {
-      "id": "ap-news-fd53266d56e8",
-      "kind": "major-media",
-      "published_at": "2026-08-03",
-      "publisher_url": "https://apnews.com/",
-      "source": "AP News",
-      "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
-      "title": "Michigan reports the first 2 US deaths related to a diarrhea-causing parasite",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbTlMT3pHaGFaRzdjMHdrZ1RWOVhwY1FPSi1TSm5pNEFuaHlLVldYYXF3VHY3WTR2MHNCMW12SVd4dXRSZy13NEkyR3BVc2QwcV9SZnR4Z1hxX05jUGNOYkJnUXp1V2hYbVhZcG4zUUhJVWl2SS1ibTVtdlQ4cjdvcHZSMC1OQS00WldrVmd0RDdWMEN6MlFnT1BOaw"
-    },
-    {
-      "id": "cbs-news-8064bc75c8f3",
-      "kind": "major-media",
-      "published_at": "2026-08-03",
-      "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
-      "title": "What to know about Taylor Farms, the produce giant tied to the cyclospora outbreak",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LZzdCblVVNFVNY1J6Y2JKMjNucGZEXy1vYWl5bFJnc2hWYjVFX2E1ZS1fa0ZyRnBkb2haVGE4bGFQNTVlZV9fZF9GbVc4LXdKUzFNMVplQ3BmVmpXU1pza2lQbnllb2ZCdWNRWmFhQQ"
-    },
-    {
       "id": "cdc-nndss",
       "kind": "official",
       "published_at": "2026-08-01",
@@ -120,6 +120,6 @@
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     }
   ],
-  "rejected_candidates": 77,
+  "rejected_candidates": 76,
   "schema_version": 1
 }
