@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-06T03:42:25Z",
+  "generated_at": "2026-08-06T06:48:14Z",
   "items": [
     {
       "id": "fda-core-1398",
@@ -62,12 +62,12 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV0g0eVh6b1ZtQzktaGZWTFk3a1l6R1prNW40YjZKUWdkRkFZa0pzQWtfdmd4Y21rY2VhU3pFMmVKMzBELV9HYlJGd2JvajRvZlMzOHVRT3lQZXppa3hQMjV4SHY3SDZGZ0VCTzM4ZFpLRm9EWmhjZDhQTzI3T3ZJdQ"
     },
     {
-      "id": "reuters-com-552a0a3998ac",
+      "id": "reuters-552a0a3998ac",
       "kind": "major-media",
       "published_at": "2026-08-05",
       "publisher_url": "https://www.reuters.com/",
-      "source": "reuters.com",
-      "summary": "Recent Cyclospora coverage from reuters.com. Open the article for the full report.",
+      "source": "Reuters",
+      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
       "title": "US cyclosporiasis probe linked to lettuce widens to 15 states",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ2cyRFd3NjVWVjdBTkc4MElfeFZhdFlzZFZfS1NyRGthNXZxcEt4Q2ZFZTVMSzhBSWptanVYcHdRQlVSSGd2VVI0UW1RYVdZRnJOMDZHRGpMbWF6VHpSZDh1Z0VFNmFDZmZOZUNwenVNWC1paEJ3SmhlaDNUQzduWE9EUm5VaWo4bHJzS1RnazZaMVhSMHVsU3UtQ2lFS21XXzZVd0dCVWY1UnZKdVVyZG52VkdTV25EZFh6VmpkWkU2QkIwQUdraDBYLTFtQ0ZyZUpMRmozcTRrQTlQaHc"
     },
@@ -120,6 +120,6 @@
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     }
   ],
-  "rejected_candidates": 76,
+  "rejected_candidates": 74,
   "schema_version": 1
 }
