@@ -1,7 +1,17 @@
 {
   "errors": [],
-  "generated_at": "2026-08-06T12:20:54Z",
+  "generated_at": "2026-08-06T15:30:29Z",
   "items": [
+    {
+      "id": "cbs-news-235dc6ea25f1",
+      "kind": "major-media",
+      "published_at": "2026-08-06",
+      "publisher_url": "https://www.cbsnews.com/",
+      "source": "CBS News",
+      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
+      "title": "Cyclospora outbreak tied to iceberg lettuce now linked to 15 states, CDC says",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ya2tXZ0tLNlcxNUVvel80S0Y4MTZYV2dWYUV0LTlQTmdsTjAzN2JnLWlqYXBZSG9tVG5NVlh3YS1ScC1JTE9tdmoyWndXSF9admpZVlRaZUI5UUJlWGthaFp2VnY1VlBRbjBrY1prUFk"
+    },
     {
       "id": "fda-core-1398",
       "kind": "official",
@@ -20,16 +30,6 @@
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
       "title": "CDC expands largest known cyclosporiasis outbreak to 15 states",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmdmQUdUMlRNT3ozU0NIb3FuNGtfbVNfcUNXTW5SQTVhSWNjZ1lQaFpMeU5zNTFWWHZvbDZTWkFwSGVMMDhxc0tTSTR1VlVJQmxnU2c1M2Z4T0FDei15UC1rSjNVSDRBY1ZlcjgxeHBuY05NbzU2emhiTFJ5MVNjNm4yTzhKNEY5RzlGUkMwSnlUQWMwZWJ2ZGJ3YzdGWGowRmJQSWhJT3o"
-    },
-    {
-      "id": "usa-today-5ace6ea9c365",
-      "kind": "major-media",
-      "published_at": "2026-08-05",
-      "publisher_url": "https://www.usatoday.com/",
-      "source": "USA Today",
-      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
-      "title": "Cases of diarrhea parasite reach new high, spread to 47 states",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNHBsY2o5RkpJeHRBU2ZxNDhTdnV4aU1HM1VMWTJHc3hOM1JHUGNsSGFlcTZPX3JMUktKdk1POGJuTzR0c2ttay1EWEFVdkJNZEF3dFJFQ2s4SEpXdWxDYnpENUhoTnRYbGN2Q2pKaG84cjA4ZlZKZ00tUDJYSDQ3R01SRHhwR2VjWHZOOFZLdVdyaGJxdlNPNkhmR2lNaFROZzdpakJOTWRwb3VuWTBhMA"
     },
     {
       "id": "nbc-news-46267795baff",
@@ -52,24 +52,24 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdWxYN01WSF9sOFlqeXBsS0ljRGlyTkplRFNMOTFoYXVGX0swcVBSdUpMQ09RUUdTUkZUVGJuNGo3Q0o0MERsVU16OHRoU1BMWFhMTUpubW5tUFZqbTdnX0RGOHRON25zOFMyNUpQSlNnOXQ5bUktSDA5TU95REZFVUM5ZGw4aXRpTU1ha2FQZnpOV0dHWkNDczNYVQ"
     },
     {
-      "id": "cbs-news-25d04749495c",
-      "kind": "major-media",
-      "published_at": "2026-08-05",
-      "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
-      "title": "104 cyclospora cases reported in Massachusetts in July, some apparently linked to lettuce",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV0g0eVh6b1ZtQzktaGZWTFk3a1l6R1prNW40YjZKUWdkRkFZa0pzQWtfdmd4Y21rY2VhU3pFMmVKMzBELV9HYlJGd2JvajRvZlMzOHVRT3lQZXppa3hQMjV4SHY3SDZGZ0VCTzM4ZFpLRm9EWmhjZDhQTzI3T3ZJdQ"
-    },
-    {
-      "id": "reuters-com-552a0a3998ac",
+      "id": "reuters-552a0a3998ac",
       "kind": "major-media",
       "published_at": "2026-08-05",
       "publisher_url": "https://www.reuters.com/",
-      "source": "reuters.com",
-      "summary": "Recent Cyclospora coverage from reuters.com. Open the article for the full report.",
+      "source": "Reuters",
+      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
       "title": "US cyclosporiasis probe linked to lettuce widens to 15 states",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ2cyRFd3NjVWVjdBTkc4MElfeFZhdFlzZFZfS1NyRGthNXZxcEt4Q2ZFZTVMSzhBSWptanVYcHdRQlVSSGd2VVI0UW1RYVdZRnJOMDZHRGpMbWF6VHpSZDh1Z0VFNmFDZmZOZUNwenVNWC1paEJ3SmhlaDNUQzduWE9EUm5VaWo4bHJzS1RnazZaMVhSMHVsU3UtQ2lFS21XXzZVd0dCVWY1UnZKdVVyZG52VkdTV25EZFh6VmpkWkU2QkIwQUdraDBYLTFtQ0ZyZUpMRmozcTRrQTlQaHc"
+    },
+    {
+      "id": "usatoday-com-5ace6ea9c365",
+      "kind": "major-media",
+      "published_at": "2026-08-05",
+      "publisher_url": "https://www.usatoday.com/",
+      "source": "usatoday.com",
+      "summary": "Recent Cyclospora coverage from usatoday.com. Open the article for the full report.",
+      "title": "Cases of diarrhea parasite reach new high, spread to 47 states",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNHBsY2o5RkpJeHRBU2ZxNDhTdnV4aU1HM1VMWTJHc3hOM1JHUGNsSGFlcTZPX3JMUktKdk1POGJuTzR0c2ttay1EWEFVdkJNZEF3dFJFQ2s4SEpXdWxDYnpENUhoTnRYbGN2Q2pKaG84cjA4ZlZKZ00tUDJYSDQ3R01SRHhwR2VjWHZOOFZLdVdyaGJxdlNPNkhmR2lNaFROZzdpakJOTWRwb3VuWTBhMA"
     },
     {
       "id": "cdc-gov-905ec3a944fd",
@@ -121,6 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ2I4OXBGd0NuWWlkNTBFbXFZX3RfdlBXNWJKSmhkTlBVUTJvVkdEVUZDaWVlcS1ZT2Y5Rm5ZZC1Od3MxQXRxRDBRaE1LZWtieWJRcU15TlhKdXZpYkRjQXFSVVpXX3BHQ0p1ZWtfNG0wUXpTRlkybUI4QS1VZWlrbjlJTmxiQjY4NVQzNk10a3lKZWo3bUNoaA"
     }
   ],
-  "rejected_candidates": 73,
+  "rejected_candidates": 71,
   "schema_version": 1
 }
