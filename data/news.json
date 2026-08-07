@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-06T15:30:29Z",
+  "generated_at": "2026-08-07T00:17:21Z",
   "items": [
     {
       "id": "cbs-news-235dc6ea25f1",
@@ -11,6 +11,16 @@
       "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
       "title": "Cyclospora outbreak tied to iceberg lettuce now linked to 15 states, CDC says",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ya2tXZ0tLNlcxNUVvel80S0Y4MTZYV2dWYUV0LTlQTmdsTjAzN2JnLWlqYXBZSG9tVG5NVlh3YS1ScC1JTE9tdmoyWndXSF9admpZVlRaZUI5UUJlWGthaFp2VnY1VlBRbjBrY1prUFk"
+    },
+    {
+      "id": "usa-today-d61e28a6b54f",
+      "kind": "major-media",
+      "published_at": "2026-08-06",
+      "publisher_url": "https://www.usatoday.com/",
+      "source": "USA Today",
+      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
+      "title": "Cyclospora outbreak tied to lettuce expands to 15 states as cases rise",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUDVCZjJscnpaeWFpeHVGc210a0ZxMlNSTzVjUS1wMmpYRXVmaTlpamZzZmY0T294ZkM0Nlh6SHNkRDBlZEZzdS1wMWVoOGVScmxoY2JxZTJMNWhBUWdrc19vNVVaemJZeU9GaWJYelNRS2lWWUxrUDFkUWVKeHdseFg3VGlTQURKUXBlc081S1NJMEladjF5R1F3RFNBQ21nMjZETnlVQzRfZGo2NHVNT0Z3"
     },
     {
       "id": "fda-core-1398",
@@ -82,16 +92,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
     },
     {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-905ec3a944fd",
-      "kind": "official",
-      "published_at": "2026-08-04",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Surveillance of Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
-    },
-    {
       "id": "cdc-surveillance",
       "kind": "official",
       "published_at": "2026-08-03",
@@ -121,6 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ2I4OXBGd0NuWWlkNTBFbXFZX3RfdlBXNWJKSmhkTlBVUTJvVkdEVUZDaWVlcS1ZT2Y5Rm5ZZC1Od3MxQXRxRDBRaE1LZWtieWJRcU15TlhKdXZpYkRjQXFSVVpXX3BHQ0p1ZWtfNG0wUXpTRlkybUI4QS1VZWlrbjlJTmxiQjY4NVQzNk10a3lKZWo3bUNoaA"
     }
   ],
-  "rejected_candidates": 71,
+  "rejected_candidates": 73,
   "schema_version": 1
 }
