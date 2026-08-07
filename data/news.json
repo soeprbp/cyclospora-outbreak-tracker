@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-07T17:10:44Z",
+  "generated_at": "2026-08-07T18:04:55Z",
   "items": [
     {
       "id": "nbc-news-d7f1674b90ec",
@@ -23,16 +23,6 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ2cyRFd3NjVWVjdBTkc4MElfeFZhdFlzZFZfS1NyRGthNXZxcEt4Q2ZFZTVMSzhBSWptanVYcHdRQlVSSGd2VVI0UW1RYVdZRnJOMDZHRGpMbWF6VHpSZDh1Z0VFNmFDZmZOZUNwenVNWC1paEJ3SmhlaDNUQzduWE9EUm5VaWo4bHJzS1RnazZaMVhSMHVsU3UtQ2lFS21XXzZVd0dCVWY1UnZKdVVyZG52VkdTV25EZFh6VmpkWkU2QkIwQUdraDBYLTFtQ0ZyZUpMRmozcTRrQTlQaHc"
     },
     {
-      "id": "usa-today-d61e28a6b54f",
-      "kind": "major-media",
-      "published_at": "2026-08-06",
-      "publisher_url": "https://www.usatoday.com/",
-      "source": "USA Today",
-      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
-      "title": "Cyclospora outbreak tied to lettuce expands to 15 states as cases rise",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUDVCZjJscnpaeWFpeHVGc210a0ZxMlNSTzVjUS1wMmpYRXVmaTlpamZzZmY0T294ZkM0Nlh6SHNkRDBlZEZzdS1wMWVoOGVScmxoY2JxZTJMNWhBUWdrc19vNVVaemJZeU9GaWJYelNRS2lWWUxrUDFkUWVKeHdseFg3VGlTQURKUXBlc081S1NJMEladjF5R1F3RFNBQ21nMjZETnlVQzRfZGo2NHVNT0Z3"
-    },
-    {
       "id": "cbs-news-235dc6ea25f1",
       "kind": "major-media",
       "published_at": "2026-08-06",
@@ -41,6 +31,16 @@
       "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
       "title": "Cyclospora outbreak tied to iceberg lettuce now linked to 15 states, CDC says",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ya2tXZ0tLNlcxNUVvel80S0Y4MTZYV2dWYUV0LTlQTmdsTjAzN2JnLWlqYXBZSG9tVG5NVlh3YS1ScC1JTE9tdmoyWndXSF9admpZVlRaZUI5UUJlWGthaFp2VnY1VlBRbjBrY1prUFk"
+    },
+    {
+      "id": "usatoday-com-d61e28a6b54f",
+      "kind": "major-media",
+      "published_at": "2026-08-06",
+      "publisher_url": "https://www.usatoday.com/",
+      "source": "usatoday.com",
+      "summary": "Recent Cyclospora coverage from usatoday.com. Open the article for the full report.",
+      "title": "Cyclospora outbreak tied to lettuce expands to 15 states as cases rise",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUDVCZjJscnpaeWFpeHVGc210a0ZxMlNSTzVjUS1wMmpYRXVmaTlpamZzZmY0T294ZkM0Nlh6SHNkRDBlZEZzdS1wMWVoOGVScmxoY2JxZTJMNWhBUWdrc19vNVVaemJZeU9GaWJYelNRS2lWWUxrUDFkUWVKeHdseFg3VGlTQURKUXBlc081S1NJMEladjF5R1F3RFNBQ21nMjZETnlVQzRfZGo2NHVNT0Z3"
     },
     {
       "id": "fda-core-1398",
