@@ -1,17 +1,7 @@
 {
   "errors": [],
-  "generated_at": "2026-08-07T18:04:55Z",
+  "generated_at": "2026-08-07T19:18:28Z",
   "items": [
-    {
-      "id": "nbc-news-d7f1674b90ec",
-      "kind": "major-media",
-      "published_at": "2026-08-06",
-      "publisher_url": "https://www.nbcnews.com/",
-      "source": "NBC News",
-      "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
-      "title": "Cyclospora and salmonella outbreaks put produce from Mexico in the spotlight",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2dwa0E5NkpSNHNaQ3lwUC1zOHJiS25nd1JONlprZ2V1M2JfcXZBRE1ELThyODVqWFlkX1JBQUkzSERVejhsaWJHcnkyMW5DNE1mbUNIR0MtMnVmVWdiTmc3WXk0RjhYSVJSYklzOTlmVmhJU01XUEN2dHZyZHJkOWNFcURQa0ZUaVhtVkF6UzAwWWpxRXByU3E0VlBuOUFtRXpXOXFKYmZLWXVXaDJTOU80Ynk"
-    },
     {
       "id": "reuters-552a0a3998ac",
       "kind": "major-media",
@@ -33,12 +23,22 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ya2tXZ0tLNlcxNUVvel80S0Y4MTZYV2dWYUV0LTlQTmdsTjAzN2JnLWlqYXBZSG9tVG5NVlh3YS1ScC1JTE9tdmoyWndXSF9admpZVlRaZUI5UUJlWGthaFp2VnY1VlBRbjBrY1prUFk"
     },
     {
-      "id": "usatoday-com-d61e28a6b54f",
+      "id": "nbcnews-com-d7f1674b90ec",
+      "kind": "major-media",
+      "published_at": "2026-08-06",
+      "publisher_url": "https://www.nbcnews.com/",
+      "source": "nbcnews.com",
+      "summary": "Recent Cyclospora coverage from nbcnews.com. Open the article for the full report.",
+      "title": "Cyclospora and salmonella outbreaks put produce from Mexico in the spotlight",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2dwa0E5NkpSNHNaQ3lwUC1zOHJiS25nd1JONlprZ2V1M2JfcXZBRE1ELThyODVqWFlkX1JBQUkzSERVejhsaWJHcnkyMW5DNE1mbUNIR0MtMnVmVWdiTmc3WXk0RjhYSVJSYklzOTlmVmhJU01XUEN2dHZyZHJkOWNFcURQa0ZUaVhtVkF6UzAwWWpxRXByU3E0VlBuOUFtRXpXOXFKYmZLWXVXaDJTOU80Ynk"
+    },
+    {
+      "id": "usa-today-d61e28a6b54f",
       "kind": "major-media",
       "published_at": "2026-08-06",
       "publisher_url": "https://www.usatoday.com/",
-      "source": "usatoday.com",
-      "summary": "Recent Cyclospora coverage from usatoday.com. Open the article for the full report.",
+      "source": "USA Today",
+      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
       "title": "Cyclospora outbreak tied to lettuce expands to 15 states as cases rise",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUDVCZjJscnpaeWFpeHVGc210a0ZxMlNSTzVjUS1wMmpYRXVmaTlpamZzZmY0T294ZkM0Nlh6SHNkRDBlZEZzdS1wMWVoOGVScmxoY2JxZTJMNWhBUWdrc19vNVVaemJZeU9GaWJYelNRS2lWWUxrUDFkUWVKeHdseFg3VGlTQURKUXBlc081S1NJMEladjF5R1F3RFNBQ21nMjZETnlVQzRfZGo2NHVNT0Z3"
     },
