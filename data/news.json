@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-07T07:44:04Z",
+  "generated_at": "2026-08-07T09:17:07Z",
   "items": [
     {
       "id": "cbs-news-235dc6ea25f1",
@@ -13,16 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ya2tXZ0tLNlcxNUVvel80S0Y4MTZYV2dWYUV0LTlQTmdsTjAzN2JnLWlqYXBZSG9tVG5NVlh3YS1ScC1JTE9tdmoyWndXSF9admpZVlRaZUI5UUJlWGthaFp2VnY1VlBRbjBrY1prUFk"
     },
     {
-      "id": "usatoday-com-d61e28a6b54f",
-      "kind": "major-media",
-      "published_at": "2026-08-06",
-      "publisher_url": "https://www.usatoday.com/",
-      "source": "usatoday.com",
-      "summary": "Recent Cyclospora coverage from usatoday.com. Open the article for the full report.",
-      "title": "Cyclospora outbreak tied to lettuce expands to 15 states as cases rise",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUDVCZjJscnpaeWFpeHVGc210a0ZxMlNSTzVjUS1wMmpYRXVmaTlpamZzZmY0T294ZkM0Nlh6SHNkRDBlZEZzdS1wMWVoOGVScmxoY2JxZTJMNWhBUWdrc19vNVVaemJZeU9GaWJYelNRS2lWWUxrUDFkUWVKeHdseFg3VGlTQURKUXBlc081S1NJMEladjF5R1F3RFNBQ21nMjZETnlVQzRfZGo2NHVNT0Z3"
-    },
-    {
       "id": "nbc-news-d7f1674b90ec",
       "kind": "major-media",
       "published_at": "2026-08-06",
@@ -31,6 +21,16 @@
       "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
       "title": "Cyclospora and salmonella outbreaks put produce from Mexico in the spotlight",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2dwa0E5NkpSNHNaQ3lwUC1zOHJiS25nd1JONlprZ2V1M2JfcXZBRE1ELThyODVqWFlkX1JBQUkzSERVejhsaWJHcnkyMW5DNE1mbUNIR0MtMnVmVWdiTmc3WXk0RjhYSVJSYklzOTlmVmhJU01XUEN2dHZyZHJkOWNFcURQa0ZUaVhtVkF6UzAwWWpxRXByU3E0VlBuOUFtRXpXOXFKYmZLWXVXaDJTOU80Ynk"
+    },
+    {
+      "id": "usa-today-d61e28a6b54f",
+      "kind": "major-media",
+      "published_at": "2026-08-06",
+      "publisher_url": "https://www.usatoday.com/",
+      "source": "USA Today",
+      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
+      "title": "Cyclospora outbreak tied to lettuce expands to 15 states as cases rise",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUDVCZjJscnpaeWFpeHVGc210a0ZxMlNSTzVjUS1wMmpYRXVmaTlpamZzZmY0T294ZkM0Nlh6SHNkRDBlZEZzdS1wMWVoOGVScmxoY2JxZTJMNWhBUWdrc19vNVVaemJZeU9GaWJYelNRS2lWWUxrUDFkUWVKeHdseFg3VGlTQURKUXBlc081S1NJMEladjF5R1F3RFNBQ21nMjZETnlVQzRfZGo2NHVNT0Z3"
     },
     {
       "id": "fda-core-1398",
@@ -111,16 +111,16 @@
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     },
     {
-      "id": "axios-38052ecb4a15",
+      "id": "axios-com-38052ecb4a15",
       "kind": "major-media",
       "published_at": "2026-08-03",
       "publisher_url": "https://www.axios.com/",
-      "source": "Axios",
-      "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
+      "source": "axios.com",
+      "summary": "Recent Cyclospora coverage from axios.com. Open the article for the full report.",
       "title": "Cyclospora outbreak causes first two deaths",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMmloejFwQ0NubGV5bnlTclpwalVaV081UFhPU1hKak9DSXlLSHZRT3RxRzFDUFBEenA0MVE2UV9pSVotaFpwWm1HTm5Nb1ZrTW1hbVM5aUh6UmZjYnpHNGEzbE45aXUwVlZTbElGUXRvN1hwd0N6d21XRl9nWlpkQ0V3"
     }
   ],
-  "rejected_candidates": 78,
+  "rejected_candidates": 77,
   "schema_version": 1
 }
