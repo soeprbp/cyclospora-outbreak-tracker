@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-09T06:00:21Z",
+  "generated_at": "2026-08-09T07:18:47Z",
   "items": [
     {
       "id": "usa-today-83e19517d993",
@@ -33,12 +33,12 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ya2tXZ0tLNlcxNUVvel80S0Y4MTZYV2dWYUV0LTlQTmdsTjAzN2JnLWlqYXBZSG9tVG5NVlh3YS1ScC1JTE9tdmoyWndXSF9admpZVlRaZUI5UUJlWGthaFp2VnY1VlBRbjBrY1prUFk"
     },
     {
-      "id": "nbcnews-com-d7f1674b90ec",
+      "id": "nbc-news-d7f1674b90ec",
       "kind": "major-media",
       "published_at": "2026-08-06",
       "publisher_url": "https://www.nbcnews.com/",
-      "source": "nbcnews.com",
-      "summary": "Recent Cyclospora coverage from nbcnews.com. Open the article for the full report.",
+      "source": "NBC News",
+      "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
       "title": "Cyclospora and salmonella outbreaks put produce from Mexico in the spotlight",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2dwa0E5NkpSNHNaQ3lwUC1zOHJiS25nd1JONlprZ2V1M2JfcXZBRE1ELThyODVqWFlkX1JBQUkzSERVejhsaWJHcnkyMW5DNE1mbUNIR0MtMnVmVWdiTmc3WXk0RjhYSVJSYklzOTlmVmhJU01XUEN2dHZyZHJkOWNFcURQa0ZUaVhtVkF6UzAwWWpxRXByU3E0VlBuOUFtRXpXOXFKYmZLWXVXaDJTOU80Ynk"
     },
@@ -121,6 +121,6 @@
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     }
   ],
-  "rejected_candidates": 78,
+  "rejected_candidates": 79,
   "schema_version": 1
 }
