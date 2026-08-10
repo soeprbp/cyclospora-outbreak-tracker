@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-10T22:58:42Z",
+  "generated_at": "2026-08-10T23:52:25Z",
   "items": [
     {
       "id": "cbs-news-2cd48a7706a2",
@@ -13,12 +13,12 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0bTJLREFnc3R5NWxva3U0WnNnSHBua1piamNsSng5RlRYc2sycHd0M0E3THVTcTBqblMwclRtN2NLQnpSUV9XMkdJRFZSYVhMMWQteS1ZdXlmbkdtRnMzSnlsSVlRbEJYMGg5ZndZX3ZQTUxMN1VwY2VTN0VFU00"
     },
     {
-      "id": "the-washington-post-261b322ab5f4",
+      "id": "washingtonpost-com-261b322ab5f4",
       "kind": "major-media",
       "published_at": "2026-08-09",
       "publisher_url": "https://www.washingtonpost.com/",
-      "source": "The Washington Post",
-      "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
+      "source": "washingtonpost.com",
+      "summary": "Recent Cyclospora coverage from washingtonpost.com. Open the article for the full report.",
       "title": "I study pathogens in sewage. Here\u2019s how cyclospora could be getting into our food.",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSmw4MTZLSDFVR19WN0RkZUc5eG5fTFdUYk1lVXJta05xS2ZGY2x4Q1NfOVBSMHVSY1BnWHJScmItc0J3SGV4bXJVNFV6V2RFM2hobDBUYmVTSUJweGwzUmNRTWNLWTMzOXBZcU1BYU1UWi1qQ0VIaVQ2OGFjdzFfUldSTC1nOEh6OG9Gd0NBNEs1ZUwxQ2ttR3ZienRRd0tnZFZZMS1CVEhhSTNsWXFXSENLX1hFcm9JNVpN"
     },
@@ -39,6 +39,16 @@
       "publisher_url": "https://www.cdc.gov/",
       "source": "cdc.gov",
       "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
+      "title": "CDC warns of Salmonella outbreak linked to jalape\u00f1os",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXl4SG1EeGJSOEdnU3RqVmFOQjBDZm9nVmliSXpTXzNhTEZna19vT1FzUGNrUFRtaFJYTmVnQUZlSUJxa0dlc04weG9JRUZZRnpYcUExbVo4TEpuVkRHQ2tFc0JoT0JLaGRrU09CajZJWWVCcEtLSXBDNmF4TmxWRjZPeHhBQXlFZVNXMzhSTXJWeXdjbWhveDFPM2ZUV0RpQnVnaw"
+    },
+    {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-72cee78dd29e",
+      "kind": "official",
+      "published_at": "2026-08-06",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "CDC warns of Salmonella outbreak linked to jalape\u00f1os",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXl4SG1EeGJSOEdnU3RqVmFOQjBDZm9nVmliSXpTXzNhTEZna19vT1FzUGNrUFRtaFJYTmVnQUZlSUJxa0dlc04weG9JRUZZRnpYcUExbVo4TEpuVkRHQ2tFc0JoT0JLaGRrU09CajZJWWVCcEtLSXBDNmF4TmxWRjZPeHhBQXlFZVNXMzhSTXJWeXdjbWhveDFPM2ZUV0RpQnVnaw"
     },
@@ -82,12 +92,22 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     },
     {
-      "id": "ap-news-e4cd80200933",
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
+      "kind": "official",
+      "published_at": "2026-08-05",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "title": "Cyclospora Outbreak Linked to Iceberg Lettuce | Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
+    },
+    {
+      "id": "apnews-com-e4cd80200933",
       "kind": "major-media",
       "published_at": "2026-08-05",
       "publisher_url": "https://apnews.com/",
-      "source": "AP News",
-      "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
+      "source": "apnews.com",
+      "summary": "Recent Cyclospora coverage from apnews.com. Open the article for the full report.",
       "title": "15 states now linked to iceberg lettuce cyclospora outbreak, CDC says",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdWxYN01WSF9sOFlqeXBsS0ljRGlyTkplRFNMOTFoYXVGX0swcVBSdUpMQ09RUUdTUkZUVGJuNGo3Q0o0MERsVU16OHRoU1BMWFhMTUpubW5tUFZqbTdnX0RGOHRON25zOFMyNUpQSlNnOXQ5bUktSDA5TU95REZFVUM5ZGw4aXRpTU1ha2FQZnpOV0dHWkNDczNYVQ"
     },
@@ -100,25 +120,6 @@
       "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
       "title": "Surveillance of Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
-    },
-    {
-      "id": "cdc-surveillance",
-      "kind": "official",
-      "published_at": "2026-08-03",
-      "source": "CDC",
-      "summary": "CDC's national surveillance snapshot reports 517 hospitalizations, 2 deaths, and cases across 47 states.",
-      "title": "CDC reports 10,468 domestically acquired Cyclospora cases",
-      "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
-    },
-    {
-      "id": "axios-com-38052ecb4a15",
-      "kind": "major-media",
-      "published_at": "2026-08-03",
-      "publisher_url": "https://www.axios.com/",
-      "source": "axios.com",
-      "summary": "Recent Cyclospora coverage from axios.com. Open the article for the full report.",
-      "title": "Cyclospora outbreak causes first two deaths",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMmloejFwQ0NubGV5bnlTclpwalVaV081UFhPU1hKak9DSXlLSHZRT3RxRzFDUFBEenA0MVE2UV9pSVotaFpwWm1HTm5Nb1ZrTW1hbVM5aUh6UmZjYnpHNGEzbE45aXUwVlZTbElGUXRvN1hwd0N6d21XRl9nWlpkQ0V3"
     }
   ],
   "rejected_candidates": 79,
