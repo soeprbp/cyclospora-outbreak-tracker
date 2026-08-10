@@ -1,14 +1,14 @@
 {
   "errors": [],
-  "generated_at": "2026-08-10T13:47:21Z",
+  "generated_at": "2026-08-10T15:19:06Z",
   "items": [
     {
-      "id": "the-washington-post-261b322ab5f4",
+      "id": "washingtonpost-com-261b322ab5f4",
       "kind": "major-media",
       "published_at": "2026-08-09",
       "publisher_url": "https://www.washingtonpost.com/",
-      "source": "The Washington Post",
-      "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
+      "source": "washingtonpost.com",
+      "summary": "Recent Cyclospora coverage from washingtonpost.com. Open the article for the full report.",
       "title": "I study pathogens in sewage. Here\u2019s how cyclospora could be getting into our food.",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSmw4MTZLSDFVR19WN0RkZUc5eG5fTFdUYk1lVXJta05xS2ZGY2x4Q1NfOVBSMHVSY1BnWHJScmItc0J3SGV4bXJVNFV6V2RFM2hobDBUYmVTSUJweGwzUmNRTWNLWTMzOXBZcU1BYU1UWi1qQ0VIaVQ2OGFjdzFfUldSTC1nOEh6OG9Gd0NBNEs1ZUwxQ2ttR3ZienRRd0tnZFZZMS1CVEhhSTNsWXFXSENLX1hFcm9JNVpN"
     },
@@ -43,12 +43,12 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2dwa0E5NkpSNHNaQ3lwUC1zOHJiS25nd1JONlprZ2V1M2JfcXZBRE1ELThyODVqWFlkX1JBQUkzSERVejhsaWJHcnkyMW5DNE1mbUNIR0MtMnVmVWdiTmc3WXk0RjhYSVJSYklzOTlmVmhJU01XUEN2dHZyZHJkOWNFcURQa0ZUaVhtVkF6UzAwWWpxRXByU3E0VlBuOUFtRXpXOXFKYmZLWXVXaDJTOU80Ynk"
     },
     {
-      "id": "cbs-news-235dc6ea25f1",
+      "id": "cbsnews-com-235dc6ea25f1",
       "kind": "major-media",
       "published_at": "2026-08-06",
       "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
+      "source": "cbsnews.com",
+      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
       "title": "Cyclospora outbreak tied to iceberg lettuce now linked to 15 states, CDC says",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ya2tXZ0tLNlcxNUVvel80S0Y4MTZYV2dWYUV0LTlQTmdsTjAzN2JnLWlqYXBZSG9tVG5NVlh3YS1ScC1JTE9tdmoyWndXSF9admpZVlRaZUI5UUJlWGthaFp2VnY1VlBRbjBrY1prUFk"
     },
@@ -82,12 +82,12 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     },
     {
-      "id": "ap-news-e4cd80200933",
+      "id": "apnews-com-e4cd80200933",
       "kind": "major-media",
       "published_at": "2026-08-05",
       "publisher_url": "https://apnews.com/",
-      "source": "AP News",
-      "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
+      "source": "apnews.com",
+      "summary": "Recent Cyclospora coverage from apnews.com. Open the article for the full report.",
       "title": "15 states now linked to iceberg lettuce cyclospora outbreak, CDC says",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdWxYN01WSF9sOFlqeXBsS0ljRGlyTkplRFNMOTFoYXVGX0swcVBSdUpMQ09RUUdTUkZUVGJuNGo3Q0o0MERsVU16OHRoU1BMWFhMTUpubW5tUFZqbTdnX0RGOHRON25zOFMyNUpQSlNnOXQ5bUktSDA5TU95REZFVUM5ZGw4aXRpTU1ha2FQZnpOV0dHWkNDczNYVQ"
     },
