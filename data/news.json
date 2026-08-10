@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-10T04:56:52Z",
+  "generated_at": "2026-08-10T10:37:58Z",
   "items": [
     {
       "id": "the-washington-post-261b322ab5f4",
@@ -33,16 +33,6 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ2cyRFd3NjVWVjdBTkc4MElfeFZhdFlzZFZfS1NyRGthNXZxcEt4Q2ZFZTVMSzhBSWptanVYcHdRQlVSSGd2VVI0UW1RYVdZRnJOMDZHRGpMbWF6VHpSZDh1Z0VFNmFDZmZOZUNwenVNWC1paEJ3SmhlaDNUQzduWE9EUm5VaWo4bHJzS1RnazZaMVhSMHVsU3UtQ2lFS21XXzZVd0dCVWY1UnZKdVVyZG52VkdTV25EZFh6VmpkWkU2QkIwQUdraDBYLTFtQ0ZyZUpMRmozcTRrQTlQaHc"
     },
     {
-      "id": "cbs-news-235dc6ea25f1",
-      "kind": "major-media",
-      "published_at": "2026-08-06",
-      "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
-      "title": "Cyclospora outbreak tied to iceberg lettuce now linked to 15 states, CDC says",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ya2tXZ0tLNlcxNUVvel80S0Y4MTZYV2dWYUV0LTlQTmdsTjAzN2JnLWlqYXBZSG9tVG5NVlh3YS1ScC1JTE9tdmoyWndXSF9admpZVlRaZUI5UUJlWGthaFp2VnY1VlBRbjBrY1prUFk"
-    },
-    {
       "id": "nbc-news-d7f1674b90ec",
       "kind": "major-media",
       "published_at": "2026-08-06",
@@ -51,6 +41,16 @@
       "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
       "title": "Cyclospora and salmonella outbreaks put produce from Mexico in the spotlight",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2dwa0E5NkpSNHNaQ3lwUC1zOHJiS25nd1JONlprZ2V1M2JfcXZBRE1ELThyODVqWFlkX1JBQUkzSERVejhsaWJHcnkyMW5DNE1mbUNIR0MtMnVmVWdiTmc3WXk0RjhYSVJSYklzOTlmVmhJU01XUEN2dHZyZHJkOWNFcURQa0ZUaVhtVkF6UzAwWWpxRXByU3E0VlBuOUFtRXpXOXFKYmZLWXVXaDJTOU80Ynk"
+    },
+    {
+      "id": "cbsnews-com-235dc6ea25f1",
+      "kind": "major-media",
+      "published_at": "2026-08-06",
+      "publisher_url": "https://www.cbsnews.com/",
+      "source": "cbsnews.com",
+      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
+      "title": "Cyclospora outbreak tied to iceberg lettuce now linked to 15 states, CDC says",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ya2tXZ0tLNlcxNUVvel80S0Y4MTZYV2dWYUV0LTlQTmdsTjAzN2JnLWlqYXBZSG9tVG5NVlh3YS1ScC1JTE9tdmoyWndXSF9admpZVlRaZUI5UUJlWGthaFp2VnY1VlBRbjBrY1prUFk"
     },
     {
       "id": "fda-core-1398",
@@ -121,6 +121,6 @@
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     }
   ],
-  "rejected_candidates": 79,
+  "rejected_candidates": 80,
   "schema_version": 1
 }
