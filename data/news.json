@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-10T10:37:58Z",
+  "generated_at": "2026-08-10T12:01:32Z",
   "items": [
     {
       "id": "the-washington-post-261b322ab5f4",
@@ -13,12 +13,12 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSmw4MTZLSDFVR19WN0RkZUc5eG5fTFdUYk1lVXJta05xS2ZGY2x4Q1NfOVBSMHVSY1BnWHJScmItc0J3SGV4bXJVNFV6V2RFM2hobDBUYmVTSUJweGwzUmNRTWNLWTMzOXBZcU1BYU1UWi1qQ0VIaVQ2OGFjdzFfUldSTC1nOEh6OG9Gd0NBNEs1ZUwxQ2ttR3ZienRRd0tnZFZZMS1CVEhhSTNsWXFXSENLX1hFcm9JNVpN"
     },
     {
-      "id": "usa-today-83e19517d993",
+      "id": "usatoday-com-83e19517d993",
       "kind": "major-media",
       "published_at": "2026-08-08",
       "publisher_url": "https://www.usatoday.com/",
-      "source": "USA Today",
-      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
+      "source": "usatoday.com",
+      "summary": "Recent Cyclospora coverage from usatoday.com. Open the article for the full report.",
       "title": "Is lettuce safe to eat now? What to know amid cyclospora outbreak",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmYybk0zMGVWdFBWZTh3aVpMaXdBRWRtenlVc2I1NThZM0dsUjJuUnpRaWVtTVZnLTNKNXl1SVFCMWlyVklYa0N4cjJGYWxFajZzNGVpTWNETlFTT05ORVpBaExjN1VrdmpGcXNnRHo5UEVhUHk2bTdhaEtqQm5ZdGlGNXdxR0NsTlU5Y3BWcGVhZHF0ZUFXS0NWekxFU0hBeXFCRW5fVl9HWFBZaFIzLWpBT2d4QTUtenIyblhzbl9HaVBhamRj"
     },
@@ -43,12 +43,12 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2dwa0E5NkpSNHNaQ3lwUC1zOHJiS25nd1JONlprZ2V1M2JfcXZBRE1ELThyODVqWFlkX1JBQUkzSERVejhsaWJHcnkyMW5DNE1mbUNIR0MtMnVmVWdiTmc3WXk0RjhYSVJSYklzOTlmVmhJU01XUEN2dHZyZHJkOWNFcURQa0ZUaVhtVkF6UzAwWWpxRXByU3E0VlBuOUFtRXpXOXFKYmZLWXVXaDJTOU80Ynk"
     },
     {
-      "id": "cbsnews-com-235dc6ea25f1",
+      "id": "cbs-news-235dc6ea25f1",
       "kind": "major-media",
       "published_at": "2026-08-06",
       "publisher_url": "https://www.cbsnews.com/",
-      "source": "cbsnews.com",
-      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
+      "source": "CBS News",
+      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
       "title": "Cyclospora outbreak tied to iceberg lettuce now linked to 15 states, CDC says",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ya2tXZ0tLNlcxNUVvel80S0Y4MTZYV2dWYUV0LTlQTmdsTjAzN2JnLWlqYXBZSG9tVG5NVlh3YS1ScC1JTE9tdmoyWndXSF9admpZVlRaZUI5UUJlWGthaFp2VnY1VlBRbjBrY1prUFk"
     },
@@ -121,6 +121,6 @@
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     }
   ],
-  "rejected_candidates": 80,
+  "rejected_candidates": 81,
   "schema_version": 1
 }
