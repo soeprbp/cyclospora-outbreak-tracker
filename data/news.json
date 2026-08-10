@@ -1,7 +1,17 @@
 {
   "errors": [],
-  "generated_at": "2026-08-10T19:19:14Z",
+  "generated_at": "2026-08-10T21:04:09Z",
   "items": [
+    {
+      "id": "cbs-news-2cd48a7706a2",
+      "kind": "major-media",
+      "published_at": "2026-08-10",
+      "publisher_url": "https://www.cbsnews.com/",
+      "source": "CBS News",
+      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
+      "title": "Why Taylor Farms is facing scrutiny over salmonella and cyclospora outbreaks",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0bTJLREFnc3R5NWxva3U0WnNnSHBua1piamNsSng5RlRYc2sycHd0M0E3THVTcTBqblMwclRtN2NLQnpSUV9XMkdJRFZSYVhMMWQteS1ZdXlmbkdtRnMzSnlsSVlRbEJYMGg5ZndZX3ZQTUxMN1VwY2VTN0VFU00"
+    },
     {
       "id": "the-washington-post-261b322ab5f4",
       "kind": "major-media",
@@ -43,22 +53,12 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2dwa0E5NkpSNHNaQ3lwUC1zOHJiS25nd1JONlprZ2V1M2JfcXZBRE1ELThyODVqWFlkX1JBQUkzSERVejhsaWJHcnkyMW5DNE1mbUNIR0MtMnVmVWdiTmc3WXk0RjhYSVJSYklzOTlmVmhJU01XUEN2dHZyZHJkOWNFcURQa0ZUaVhtVkF6UzAwWWpxRXByU3E0VlBuOUFtRXpXOXFKYmZLWXVXaDJTOU80Ynk"
     },
     {
-      "id": "cbs-news-235dc6ea25f1",
-      "kind": "major-media",
-      "published_at": "2026-08-06",
-      "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
-      "title": "Cyclospora outbreak tied to iceberg lettuce now linked to 15 states, CDC says",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ya2tXZ0tLNlcxNUVvel80S0Y4MTZYV2dWYUV0LTlQTmdsTjAzN2JnLWlqYXBZSG9tVG5NVlh3YS1ScC1JTE9tdmoyWndXSF9admpZVlRaZUI5UUJlWGthaFp2VnY1VlBRbjBrY1prUFk"
-    },
-    {
-      "id": "reuters-com-552a0a3998ac",
+      "id": "reuters-552a0a3998ac",
       "kind": "major-media",
       "published_at": "2026-08-06",
       "publisher_url": "https://www.reuters.com/",
-      "source": "reuters.com",
-      "summary": "Recent Cyclospora coverage from reuters.com. Open the article for the full report.",
+      "source": "Reuters",
+      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
       "title": "US cyclosporiasis probe linked to lettuce widens to 15 states",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ2cyRFd3NjVWVjdBTkc4MElfeFZhdFlzZFZfS1NyRGthNXZxcEt4Q2ZFZTVMSzhBSWptanVYcHdRQlVSSGd2VVI0UW1RYVdZRnJOMDZHRGpMbWF6VHpSZDh1Z0VFNmFDZmZOZUNwenVNWC1paEJ3SmhlaDNUQzduWE9EUm5VaWo4bHJzS1RnazZaMVhSMHVsU3UtQ2lFS21XXzZVd0dCVWY1UnZKdVVyZG52VkdTV25EZFh6VmpkWkU2QkIwQUdraDBYLTFtQ0ZyZUpMRmozcTRrQTlQaHc"
     },
@@ -122,6 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
     }
   ],
-  "rejected_candidates": 80,
+  "rejected_candidates": 79,
   "schema_version": 1
 }
