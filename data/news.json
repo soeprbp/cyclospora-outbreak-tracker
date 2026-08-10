@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-10T18:05:38Z",
+  "generated_at": "2026-08-10T19:19:14Z",
   "items": [
     {
       "id": "the-washington-post-261b322ab5f4",
@@ -33,16 +33,6 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXl4SG1EeGJSOEdnU3RqVmFOQjBDZm9nVmliSXpTXzNhTEZna19vT1FzUGNrUFRtaFJYTmVnQUZlSUJxa0dlc04weG9JRUZZRnpYcUExbVo4TEpuVkRHQ2tFc0JoT0JLaGRrU09CajZJWWVCcEtLSXBDNmF4TmxWRjZPeHhBQXlFZVNXMzhSTXJWeXdjbWhveDFPM2ZUV0RpQnVnaw"
     },
     {
-      "id": "reuters-552a0a3998ac",
-      "kind": "major-media",
-      "published_at": "2026-08-06",
-      "publisher_url": "https://www.reuters.com/",
-      "source": "Reuters",
-      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
-      "title": "US cyclosporiasis probe linked to lettuce widens to 15 states",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ2cyRFd3NjVWVjdBTkc4MElfeFZhdFlzZFZfS1NyRGthNXZxcEt4Q2ZFZTVMSzhBSWptanVYcHdRQlVSSGd2VVI0UW1RYVdZRnJOMDZHRGpMbWF6VHpSZDh1Z0VFNmFDZmZOZUNwenVNWC1paEJ3SmhlaDNUQzduWE9EUm5VaWo4bHJzS1RnazZaMVhSMHVsU3UtQ2lFS21XXzZVd0dCVWY1UnZKdVVyZG52VkdTV25EZFh6VmpkWkU2QkIwQUdraDBYLTFtQ0ZyZUpMRmozcTRrQTlQaHc"
-    },
-    {
       "id": "nbc-news-d7f1674b90ec",
       "kind": "major-media",
       "published_at": "2026-08-06",
@@ -53,14 +43,24 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2dwa0E5NkpSNHNaQ3lwUC1zOHJiS25nd1JONlprZ2V1M2JfcXZBRE1ELThyODVqWFlkX1JBQUkzSERVejhsaWJHcnkyMW5DNE1mbUNIR0MtMnVmVWdiTmc3WXk0RjhYSVJSYklzOTlmVmhJU01XUEN2dHZyZHJkOWNFcURQa0ZUaVhtVkF6UzAwWWpxRXByU3E0VlBuOUFtRXpXOXFKYmZLWXVXaDJTOU80Ynk"
     },
     {
-      "id": "cbsnews-com-235dc6ea25f1",
+      "id": "cbs-news-235dc6ea25f1",
       "kind": "major-media",
       "published_at": "2026-08-06",
       "publisher_url": "https://www.cbsnews.com/",
-      "source": "cbsnews.com",
-      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
+      "source": "CBS News",
+      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
       "title": "Cyclospora outbreak tied to iceberg lettuce now linked to 15 states, CDC says",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ya2tXZ0tLNlcxNUVvel80S0Y4MTZYV2dWYUV0LTlQTmdsTjAzN2JnLWlqYXBZSG9tVG5NVlh3YS1ScC1JTE9tdmoyWndXSF9admpZVlRaZUI5UUJlWGthaFp2VnY1VlBRbjBrY1prUFk"
+    },
+    {
+      "id": "reuters-com-552a0a3998ac",
+      "kind": "major-media",
+      "published_at": "2026-08-06",
+      "publisher_url": "https://www.reuters.com/",
+      "source": "reuters.com",
+      "summary": "Recent Cyclospora coverage from reuters.com. Open the article for the full report.",
+      "title": "US cyclosporiasis probe linked to lettuce widens to 15 states",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ2cyRFd3NjVWVjdBTkc4MElfeFZhdFlzZFZfS1NyRGthNXZxcEt4Q2ZFZTVMSzhBSWptanVYcHdRQlVSSGd2VVI0UW1RYVdZRnJOMDZHRGpMbWF6VHpSZDh1Z0VFNmFDZmZOZUNwenVNWC1paEJ3SmhlaDNUQzduWE9EUm5VaWo4bHJzS1RnazZaMVhSMHVsU3UtQ2lFS21XXzZVd0dCVWY1UnZKdVVyZG52VkdTV25EZFh6VmpkWkU2QkIwQUdraDBYLTFtQ0ZyZUpMRmozcTRrQTlQaHc"
     },
     {
       "id": "fda-core-1398",
