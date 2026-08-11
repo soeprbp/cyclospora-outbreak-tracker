@@ -1,14 +1,23 @@
 {
   "errors": [],
-  "generated_at": "2026-08-11T21:05:57Z",
+  "generated_at": "2026-08-11T22:07:27Z",
   "items": [
     {
-      "id": "cbs-news-2cd48a7706a2",
+      "id": "cdc-surveillance",
+      "kind": "official",
+      "published_at": "2026-08-10",
+      "source": "CDC",
+      "summary": "CDC's national surveillance snapshot reports 740 hospitalizations, 2 deaths, and cases across 47 states.",
+      "title": "CDC reports 13,895 domestically acquired Cyclospora cases",
+      "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
+    },
+    {
+      "id": "cbsnews-com-2cd48a7706a2",
       "kind": "major-media",
       "published_at": "2026-08-10",
       "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
+      "source": "cbsnews.com",
+      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
       "title": "Why Taylor Farms is facing scrutiny over salmonella and cyclospora outbreaks",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0bTJLREFnc3R5NWxva3U0WnNnSHBua1piamNsSng5RlRYc2sycHd0M0E3THVTcTBqblMwclRtN2NLQnpSUV9XMkdJRFZSYVhMMWQteS1ZdXlmbkdtRnMzSnlsSVlRbEJYMGg5ZndZX3ZQTUxMN1VwY2VTN0VFU00"
     },
@@ -110,16 +119,6 @@
       "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
       "title": "15 states now linked to iceberg lettuce cyclospora outbreak, CDC says",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdWxYN01WSF9sOFlqeXBsS0ljRGlyTkplRFNMOTFoYXVGX0swcVBSdUpMQ09RUUdTUkZUVGJuNGo3Q0o0MERsVU16OHRoU1BMWFhMTUpubW5tUFZqbTdnX0RGOHRON25zOFMyNUpQSlNnOXQ5bUktSDA5TU95REZFVUM5ZGw4aXRpTU1ha2FQZnpOV0dHWkNDczNYVQ"
-    },
-    {
-      "id": "cdc-gov-905ec3a944fd",
-      "kind": "official",
-      "published_at": "2026-08-04",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "cdc.gov",
-      "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
-      "title": "Surveillance of Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
     }
   ],
   "rejected_candidates": 78,
