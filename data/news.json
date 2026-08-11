@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-11T02:30:04Z",
+  "generated_at": "2026-08-11T07:40:01Z",
   "items": [
     {
       "id": "cbs-news-2cd48a7706a2",
@@ -13,12 +13,12 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0bTJLREFnc3R5NWxva3U0WnNnSHBua1piamNsSng5RlRYc2sycHd0M0E3THVTcTBqblMwclRtN2NLQnpSUV9XMkdJRFZSYVhMMWQteS1ZdXlmbkdtRnMzSnlsSVlRbEJYMGg5ZndZX3ZQTUxMN1VwY2VTN0VFU00"
     },
     {
-      "id": "the-washington-post-261b322ab5f4",
+      "id": "washingtonpost-com-261b322ab5f4",
       "kind": "major-media",
       "published_at": "2026-08-09",
       "publisher_url": "https://www.washingtonpost.com/",
-      "source": "The Washington Post",
-      "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
+      "source": "washingtonpost.com",
+      "summary": "Recent Cyclospora coverage from washingtonpost.com. Open the article for the full report.",
       "title": "I study pathogens in sewage. Here\u2019s how cyclospora could be getting into our food.",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSmw4MTZLSDFVR19WN0RkZUc5eG5fTFdUYk1lVXJta05xS2ZGY2x4Q1NfOVBSMHVSY1BnWHJScmItc0J3SGV4bXJVNFV6V2RFM2hobDBUYmVTSUJweGwzUmNRTWNLWTMzOXBZcU1BYU1UWi1qQ0VIaVQ2OGFjdzFfUldSTC1nOEh6OG9Gd0NBNEs1ZUwxQ2ttR3ZienRRd0tnZFZZMS1CVEhhSTNsWXFXSENLX1hFcm9JNVpN"
     },
@@ -122,6 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
     }
   ],
-  "rejected_candidates": 79,
+  "rejected_candidates": 80,
   "schema_version": 1
 }
