@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-12T16:13:45Z",
+  "generated_at": "2026-08-12T18:10:56Z",
   "items": [
     {
       "id": "cdc-surveillance",
@@ -86,7 +86,7 @@
       "kind": "official",
       "published_at": "2026-08-05",
       "source": "FDA",
-      "summary": "FDA's CORE table reports 10 cases and lists investigation 1398 as ongoing; the agency table should be checked for current traceback and product details.",
+      "summary": "FDA's CORE table reports 11 cases and lists investigation 1398 as ongoing; the agency table should be checked for current traceback and product details.",
       "title": "FDA opens Cyclospora investigation 1398",
       "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
     },
@@ -121,6 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdWxYN01WSF9sOFlqeXBsS0ljRGlyTkplRFNMOTFoYXVGX0swcVBSdUpMQ09RUUdTUkZUVGJuNGo3Q0o0MERsVU16OHRoU1BMWFhMTUpubW5tUFZqbTdnX0RGOHRON25zOFMyNUpQSlNnOXQ5bUktSDA5TU95REZFVUM5ZGw4aXRpTU1ha2FQZnpOV0dHWkNDczNYVQ"
     }
   ],
-  "rejected_candidates": 81,
+  "rejected_candidates": 82,
   "schema_version": 1
 }
