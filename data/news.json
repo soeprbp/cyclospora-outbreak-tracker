@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-11T22:07:27Z",
+  "generated_at": "2026-08-12T00:02:09Z",
   "items": [
     {
       "id": "cdc-surveillance",
@@ -12,12 +12,12 @@
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     },
     {
-      "id": "cbsnews-com-2cd48a7706a2",
+      "id": "cbs-news-2cd48a7706a2",
       "kind": "major-media",
       "published_at": "2026-08-10",
       "publisher_url": "https://www.cbsnews.com/",
-      "source": "cbsnews.com",
-      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
+      "source": "CBS News",
+      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
       "title": "Why Taylor Farms is facing scrutiny over salmonella and cyclospora outbreaks",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0bTJLREFnc3R5NWxva3U0WnNnSHBua1piamNsSng5RlRYc2sycHd0M0E3THVTcTBqblMwclRtN2NLQnpSUV9XMkdJRFZSYVhMMWQteS1ZdXlmbkdtRnMzSnlsSVlRbEJYMGg5ZndZX3ZQTUxMN1VwY2VTN0VFU00"
     },
