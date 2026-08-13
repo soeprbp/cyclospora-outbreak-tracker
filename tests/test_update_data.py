@@ -25,6 +25,10 @@ class ParserTests(unittest.TestCase):
         self.assertEqual(module.parse_nysdoh(new_york)["cases"], 666)
         self.assertEqual(module.parse_widhs(wisconsin)["hospitalizations"], 3)
 
+    def test_wisconsin_tracker_accepts_larger_spelled_hospitalization_count(self):
+        raw = "2026 Cyclospora season– Updated August 12, 2026 As of August 12, there have been 251 cases of cyclosporiasis reported in Wisconsin during this year's Cyclospora season so far, including seven hospitalizations."
+        self.assertEqual(module.parse_widhs(raw)["hospitalizations"], 7)
+
     def test_cdc_revised_domestic_section(self):
         raw = "Cases acquired in the U.S. May 1 - July 20, 2026: Cases 4,173 Hospitalizations 308 Deaths 0 States reporting cases 41 These people became sick. Cases acquired outside the U.S."
         parsed = module.parse_cdc(raw)
@@ -37,20 +41,31 @@ class ParserTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             module.parse_mdhhs("MDHHS is investigating an outbreak of cyclosporiasis Total Cases: 10 To date, 44 reported cases indicated they had been hospitalized. Last updated: July 10, 2026")
 
-    def test_state_data_retains_comparable_and_newer_official_totals(self):
-        published = __import__("json").loads((Path(__file__).parents[1] / "data" / "outbreak.json").read_text(encoding="utf-8"))
-        self.assertEqual(published["schema_version"], 2)
-        state_data = module.build_state_data(published["sources"])
+    def test_newer_state_total_overrides_nndss_and_retains_comparison(self):
+        sources = {
+            "nndss": {
+                "official_as_of": "2026-07-18",
+                "jurisdictions": {"MI": {"cases": 100}},
+            },
+            "mdhhs": {"official_as_of": "2026-07-20", "cases": 150},
+        }
+        state_data = module.build_state_data(sources)
         self.assertEqual(state_data["MI"]["source"], "Michigan MDHHS")
-        self.assertEqual(state_data["MI"]["cases"], published["sources"]["mdhhs"]["cases"])
-        self.assertEqual(
-            state_data["MI"]["comparable_cases"],
-            published["sources"]["nndss"]["jurisdictions"]["MI"]["cases"],
-        )
-        self.assertEqual(
-            published["state_data"]["NY"]["cases"],
-            published["sources"]["nysdoh"]["cases"],
-        )
+        self.assertEqual(state_data["MI"]["cases"], 150)
+        self.assertEqual(state_data["MI"]["comparable_cases"], 100)
+
+    def test_newer_nndss_total_remains_primary(self):
+        sources = {
+            "nndss": {
+                "official_as_of": "2026-08-08",
+                "jurisdictions": {"MI": {"cases": 200}},
+            },
+            "mdhhs": {"official_as_of": "2026-08-06", "cases": 250},
+        }
+        state_data = module.build_state_data(sources)
+        self.assertEqual(state_data["MI"]["source"], "CDC NNDSS")
+        self.assertEqual(state_data["MI"]["cases"], 200)
+        self.assertEqual(state_data["MI"]["comparable_cases"], 200)
 
     def test_older_state_source_does_not_override_newer_nndss(self):
         sources = {
