@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-13T21:05:58Z",
+  "generated_at": "2026-08-13T22:05:25Z",
   "items": [
     {
       "id": "reuters-1b13d6e70c9f",
@@ -23,12 +23,12 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
     },
     {
-      "id": "cbsnews-com-050791e2cca7",
+      "id": "cbs-news-050791e2cca7",
       "kind": "major-media",
       "published_at": "2026-08-11",
       "publisher_url": "https://www.cbsnews.com/",
-      "source": "cbsnews.com",
-      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
+      "source": "CBS News",
+      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
       "title": "Farm linked to cyclosporiasis outbreak hadn't been inspected in 7 years as FDA lags on foreign inspection targets",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPalR5Wk9qM00xN1l0MTRfeGVtUXJsVEpfZGtEN0xDSlJ6aUxUejJGcGJsRGFGVXFsVktGT1hWcGhRV3JSanFJOHlndmhkc2hncXpYMmN3YTZUWG0wOUxfa1JvdXdqSkhtZ2U2YmQzZDBkYVM0dmlqMi03SXNZZHQzbVhrVkY3VTVwOXE0MlFzbHNFZw"
     },
@@ -61,12 +61,12 @@
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     },
     {
-      "id": "usa-today-83e19517d993",
+      "id": "usatoday-com-83e19517d993",
       "kind": "major-media",
       "published_at": "2026-08-08",
       "publisher_url": "https://www.usatoday.com/",
-      "source": "USA Today",
-      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
+      "source": "usatoday.com",
+      "summary": "Recent Cyclospora coverage from usatoday.com. Open the article for the full report.",
       "title": "Is lettuce safe to eat now? What to know amid cyclospora outbreak",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmYybk0zMGVWdFBWZTh3aVpMaXdBRWRtenlVc2I1NThZM0dsUjJuUnpRaWVtTVZnLTNKNXl1SVFCMWlyVklYa0N4cjJGYWxFajZzNGVpTWNETlFTT05ORVpBaExjN1VrdmpGcXNnRHo5UEVhUHk2bTdhaEtqQm5ZdGlGNXdxR0NsTlU5Y3BWcGVhZHF0ZUFXS0NWekxFU0hBeXFCRW5fVl9HWFBZaFIzLWpBT2d4QTUtenIyblhzbl9HaVBhamRj"
     },
@@ -120,6 +120,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     }
   ],
-  "rejected_candidates": 81,
+  "rejected_candidates": 82,
   "schema_version": 1
 }
