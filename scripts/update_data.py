@@ -131,9 +131,13 @@ def parse_widhs(raw: str) -> dict:
     if not hospital_match:
         raise ValueError("missing WIDHS hospitalizations")
     token = hospital_match.group(1).lower()
-    words = {"zero": 0, "one": 1, "two": 2, "three": 3, "four": 4, "five": 5}
+    words = {
+        "zero": 0, "one": 1, "two": 2, "three": 3, "four": 4,
+        "five": 5, "six": 6, "seven": 7, "eight": 8, "nine": 9,
+        "ten": 10,
+    }
     hospitalized = int(token.replace(",", "")) if token.replace(",", "").isdigit() else words.get(token, -1)
-    if cases < 1 or hospitalized > cases:
+    if cases < 1 or hospitalized < 0 or hospitalized > cases:
         raise ValueError("implausible WIDHS values")
     return {
         "official_as_of": source_date(r"Updated\s+([A-Z][a-z]+\s+\d{1,2},\s+2026)", section, "WIDHS"),
