@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-13T22:05:25Z",
+  "generated_at": "2026-08-13T23:05:14Z",
   "items": [
     {
       "id": "reuters-1b13d6e70c9f",
@@ -61,12 +61,12 @@
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     },
     {
-      "id": "usatoday-com-83e19517d993",
+      "id": "usa-today-83e19517d993",
       "kind": "major-media",
       "published_at": "2026-08-08",
       "publisher_url": "https://www.usatoday.com/",
-      "source": "usatoday.com",
-      "summary": "Recent Cyclospora coverage from usatoday.com. Open the article for the full report.",
+      "source": "USA Today",
+      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
       "title": "Is lettuce safe to eat now? What to know amid cyclospora outbreak",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmYybk0zMGVWdFBWZTh3aVpMaXdBRWRtenlVc2I1NThZM0dsUjJuUnpRaWVtTVZnLTNKNXl1SVFCMWlyVklYa0N4cjJGYWxFajZzNGVpTWNETlFTT05ORVpBaExjN1VrdmpGcXNnRHo5UEVhUHk2bTdhaEtqQm5ZdGlGNXdxR0NsTlU5Y3BWcGVhZHF0ZUFXS0NWekxFU0hBeXFCRW5fVl9HWFBZaFIzLWpBT2d4QTUtenIyblhzbl9HaVBhamRj"
     },
