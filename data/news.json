@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-14T02:48:23Z",
+  "generated_at": "2026-08-14T08:39:16Z",
   "items": [
     {
       "id": "reuters-1b13d6e70c9f",
@@ -61,12 +61,12 @@
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     },
     {
-      "id": "usa-today-83e19517d993",
+      "id": "usatoday-com-83e19517d993",
       "kind": "major-media",
       "published_at": "2026-08-08",
       "publisher_url": "https://www.usatoday.com/",
-      "source": "USA Today",
-      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
+      "source": "usatoday.com",
+      "summary": "Recent Cyclospora coverage from usatoday.com. Open the article for the full report.",
       "title": "Is lettuce safe to eat now? What to know amid cyclospora outbreak",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmYybk0zMGVWdFBWZTh3aVpMaXdBRWRtenlVc2I1NThZM0dsUjJuUnpRaWVtTVZnLTNKNXl1SVFCMWlyVklYa0N4cjJGYWxFajZzNGVpTWNETlFTT05ORVpBaExjN1VrdmpGcXNnRHo5UEVhUHk2bTdhaEtqQm5ZdGlGNXdxR0NsTlU5Y3BWcGVhZHF0ZUFXS0NWekxFU0hBeXFCRW5fVl9HWFBZaFIzLWpBT2d4QTUtenIyblhzbl9HaVBhamRj"
     },
@@ -91,12 +91,12 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXl4SG1EeGJSOEdnU3RqVmFOQjBDZm9nVmliSXpTXzNhTEZna19vT1FzUGNrUFRtaFJYTmVnQUZlSUJxa0dlc04weG9JRUZZRnpYcUExbVo4TEpuVkRHQ2tFc0JoT0JLaGRrU09CajZJWWVCcEtLSXBDNmF4TmxWRjZPeHhBQXlFZVNXMzhSTXJWeXdjbWhveDFPM2ZUV0RpQnVnaw"
     },
     {
-      "id": "nbc-news-d7f1674b90ec",
+      "id": "nbcnews-com-d7f1674b90ec",
       "kind": "major-media",
       "published_at": "2026-08-06",
       "publisher_url": "https://www.nbcnews.com/",
-      "source": "NBC News",
-      "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
+      "source": "nbcnews.com",
+      "summary": "Recent Cyclospora coverage from nbcnews.com. Open the article for the full report.",
       "title": "Cyclospora and salmonella outbreaks put produce from Mexico in the spotlight",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2dwa0E5NkpSNHNaQ3lwUC1zOHJiS25nd1JONlprZ2V1M2JfcXZBRE1ELThyODVqWFlkX1JBQUkzSERVejhsaWJHcnkyMW5DNE1mbUNIR0MtMnVmVWdiTmc3WXk0RjhYSVJSYklzOTlmVmhJU01XUEN2dHZyZHJkOWNFcURQa0ZUaVhtVkF6UzAwWWpxRXByU3E0VlBuOUFtRXpXOXFKYmZLWXVXaDJTOU80Ynk"
     },
