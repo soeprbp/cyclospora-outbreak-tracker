@@ -1,16 +1,16 @@
 {
   "errors": [],
-  "generated_at": "2026-08-14T08:39:16Z",
+  "generated_at": "2026-08-14T10:18:39Z",
   "items": [
     {
-      "id": "reuters-1b13d6e70c9f",
+      "id": "reuters-126b90bcfa70",
       "kind": "major-media",
-      "published_at": "2026-08-12",
+      "published_at": "2026-08-13",
       "publisher_url": "https://www.reuters.com/",
       "source": "Reuters",
       "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
-      "title": "Acting US FDA chief urges confidence in lettuce as agency updates produce safety guidance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRDltRERzeFN4UVZ0clZ6NUFLazNTZXRxNUFqeDM5WF8tT0dXMk9NdXZJYlNSdUl1N0V3cEZ3clR4Z3VQdVdpZTM3MkZiSUxfS2lkTGRQOWFRWEIyQktBZ20zNUhDeC1GZEZvODY3MHc4bEpqVXVWZUJxNXFZRnM2c0I0ajZmRkR5XzBzR2RQZDNlWU81N0dEOFhYQWw2LUdIMllfZA"
+      "title": "Michigan cyclosporiasis cases rise 11% in a week, even as new cases slow",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQlk1Q0hNY2ktUkZ2djVhNEc1S0tXeGhjSXQxeF9hd1NLRU9iYzVqa3AxRGVOSVJmM1V1SWd5S08yVmVJdDdNaDVYQTVrcUVuSWVxTW5Zbk5qS242cm1kQmlTR1dKaW5uS2ZhNFJhdm9hMG51QmJkRGU3NFFZc1RnckNtM1VqbURUQWQ0VXBLR3JpX3ZkT1lncFNUbEFTellTWXFwWlFFQV80MnMwMEM3V3FScnBlRUxFVzd4dnBhN21Mb3ZyY3psQzBFdTRHN2dDSklUR1F6X04yMTZUZmc"
     },
     {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-905ec3a944fd",
@@ -61,12 +61,12 @@
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     },
     {
-      "id": "usatoday-com-83e19517d993",
+      "id": "usa-today-83e19517d993",
       "kind": "major-media",
       "published_at": "2026-08-08",
       "publisher_url": "https://www.usatoday.com/",
-      "source": "usatoday.com",
-      "summary": "Recent Cyclospora coverage from usatoday.com. Open the article for the full report.",
+      "source": "USA Today",
+      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
       "title": "Is lettuce safe to eat now? What to know amid cyclospora outbreak",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmYybk0zMGVWdFBWZTh3aVpMaXdBRWRtenlVc2I1NThZM0dsUjJuUnpRaWVtTVZnLTNKNXl1SVFCMWlyVklYa0N4cjJGYWxFajZzNGVpTWNETlFTT05ORVpBaExjN1VrdmpGcXNnRHo5UEVhUHk2bTdhaEtqQm5ZdGlGNXdxR0NsTlU5Y3BWcGVhZHF0ZUFXS0NWekxFU0hBeXFCRW5fVl9HWFBZaFIzLWpBT2d4QTUtenIyblhzbl9HaVBhamRj"
     },
@@ -91,12 +91,12 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXl4SG1EeGJSOEdnU3RqVmFOQjBDZm9nVmliSXpTXzNhTEZna19vT1FzUGNrUFRtaFJYTmVnQUZlSUJxa0dlc04weG9JRUZZRnpYcUExbVo4TEpuVkRHQ2tFc0JoT0JLaGRrU09CajZJWWVCcEtLSXBDNmF4TmxWRjZPeHhBQXlFZVNXMzhSTXJWeXdjbWhveDFPM2ZUV0RpQnVnaw"
     },
     {
-      "id": "nbcnews-com-d7f1674b90ec",
+      "id": "nbc-news-d7f1674b90ec",
       "kind": "major-media",
       "published_at": "2026-08-06",
       "publisher_url": "https://www.nbcnews.com/",
-      "source": "nbcnews.com",
-      "summary": "Recent Cyclospora coverage from nbcnews.com. Open the article for the full report.",
+      "source": "NBC News",
+      "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
       "title": "Cyclospora and salmonella outbreaks put produce from Mexico in the spotlight",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2dwa0E5NkpSNHNaQ3lwUC1zOHJiS25nd1JONlprZ2V1M2JfcXZBRE1ELThyODVqWFlkX1JBQUkzSERVejhsaWJHcnkyMW5DNE1mbUNIR0MtMnVmVWdiTmc3WXk0RjhYSVJSYklzOTlmVmhJU01XUEN2dHZyZHJkOWNFcURQa0ZUaVhtVkF6UzAwWWpxRXByU3E0VlBuOUFtRXpXOXFKYmZLWXVXaDJTOU80Ynk"
     },
@@ -120,6 +120,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     }
   ],
-  "rejected_candidates": 81,
+  "rejected_candidates": 80,
   "schema_version": 1
 }
