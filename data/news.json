@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-14T19:16:36Z",
+  "generated_at": "2026-08-14T20:47:59Z",
   "items": [
     {
       "id": "the-washington-post-de61f7978784",
@@ -9,7 +9,7 @@
       "publisher_url": "https://www.washingtonpost.com/",
       "source": "The Washington Post",
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
-      "title": "FDA travels to Mexico a month after linking Taylor Farms to cyclospora outbreak",
+      "title": "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFdxU2JUdloyT3NhR1N6ODBaejRIZVN6akd4UGoxVWEzYVRyLVZ4MzhvRGFxWGZ1NVF4dGxDMkI1eC1JVFhpQWtEUEVBMUNaMEtHd2NiTnl1YWlES1RtV3ltZGlOWjZiLTR4UzRwX1RDeGNPVEd6eVlnVlV6QkRZYnZWVlJ0T2V3aWM5Y0pva1FGdmdKMUxsMFdQM2MzckJhamc2R1JxSEJjM0ZxbkpUUUlqRQ"
     },
     {
@@ -120,6 +120,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     }
   ],
-  "rejected_candidates": 79,
+  "rejected_candidates": 78,
   "schema_version": 1
 }
