@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-14T20:47:59Z",
+  "generated_at": "2026-08-14T22:42:49Z",
   "items": [
     {
       "id": "the-washington-post-de61f7978784",
@@ -11,6 +11,16 @@
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
       "title": "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFdxU2JUdloyT3NhR1N6ODBaejRIZVN6akd4UGoxVWEzYVRyLVZ4MzhvRGFxWGZ1NVF4dGxDMkI1eC1JVFhpQWtEUEVBMUNaMEtHd2NiTnl1YWlES1RtV3ltZGlOWjZiLTR4UzRwX1RDeGNPVEd6eVlnVlV6QkRZYnZWVlJ0T2V3aWM5Y0pva1FGdmdKMUxsMFdQM2MzckJhamc2R1JxSEJjM0ZxbkpUUUlqRQ"
+    },
+    {
+      "id": "usa-today-1ce135138be3",
+      "kind": "major-media",
+      "published_at": "2026-08-14",
+      "publisher_url": "https://www.usatoday.com/",
+      "source": "USA Today",
+      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
+      "title": "Lettuce-linked parasitic outbreak spreads. See map, more updates",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDdtLU9uU2RSdVdvOGlKS0QzVzJkSmZlNVVfbGdpWG5yWHVoTUkxVUU2d0lKWDc5R1RwaHl3YzV4eFdHWl9xUEZkbFpwR3VoYThUM3FWdUwxblhlTHZrU0FDaDA4b1Fpc2FJZFZ3ak5vUmhWd3FPR3R0RFQ2M1Z6NzU0c2o5RHdDdmN3TDdYU1NVbG8zRW1NWGV2LUhIYjdMUS1QWEd3ZWdObnMxYlYyRkpQSjVybkg4"
     },
     {
       "id": "reuters-126b90bcfa70",
@@ -59,16 +69,6 @@
       "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
       "title": "NNDSS table reports 21,745 U.S. Cyclospora cases",
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
-    },
-    {
-      "id": "usa-today-83e19517d993",
-      "kind": "major-media",
-      "published_at": "2026-08-08",
-      "publisher_url": "https://www.usatoday.com/",
-      "source": "USA Today",
-      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
-      "title": "Is lettuce safe to eat now? What to know amid cyclospora outbreak",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmYybk0zMGVWdFBWZTh3aVpMaXdBRWRtenlVc2I1NThZM0dsUjJuUnpRaWVtTVZnLTNKNXl1SVFCMWlyVklYa0N4cjJGYWxFajZzNGVpTWNETlFTT05ORVpBaExjN1VrdmpGcXNnRHo5UEVhUHk2bTdhaEtqQm5ZdGlGNXdxR0NsTlU5Y3BWcGVhZHF0ZUFXS0NWekxFU0hBeXFCRW5fVl9HWFBZaFIzLWpBT2d4QTUtenIyblhzbl9HaVBhamRj"
     },
     {
       "id": "cdc-gov-72cee78dd29e",
