@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-15T07:00:13Z",
+  "generated_at": "2026-08-15T07:45:54Z",
   "items": [
     {
       "id": "the-washington-post-de61f7978784",
@@ -9,7 +9,7 @@
       "publisher_url": "https://www.washingtonpost.com/",
       "source": "The Washington Post",
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
-      "title": "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak",
+      "title": "FDA travels to Mexico a month after linking Taylor Farms to cyclospora outbreak",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFdxU2JUdloyT3NhR1N6ODBaejRIZVN6akd4UGoxVWEzYVRyLVZ4MzhvRGFxWGZ1NVF4dGxDMkI1eC1JVFhpQWtEUEVBMUNaMEtHd2NiTnl1YWlES1RtV3ltZGlOWjZiLTR4UzRwX1RDeGNPVEd6eVlnVlV6QkRZYnZWVlJ0T2V3aWM5Y0pva1FGdmdKMUxsMFdQM2MzckJhamc2R1JxSEJjM0ZxbkpUUUlqRQ"
     },
     {
@@ -21,6 +21,16 @@
       "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
       "title": "Lettuce-linked parasitic outbreak spreads. See map, more updates",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDdtLU9uU2RSdVdvOGlKS0QzVzJkSmZlNVVfbGdpWG5yWHVoTUkxVUU2d0lKWDc5R1RwaHl3YzV4eFdHWl9xUEZkbFpwR3VoYThUM3FWdUwxblhlTHZrU0FDaDA4b1Fpc2FJZFZ3ak5vUmhWd3FPR3R0RFQ2M1Z6NzU0c2o5RHdDdmN3TDdYU1NVbG8zRW1NWGV2LUhIYjdMUS1QWEd3ZWdObnMxYlYyRkpQSjVybkg4"
+    },
+    {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
+      "kind": "official",
+      "published_at": "2026-08-13",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "title": "Cyclospora Outbreak Linked to Iceberg Lettuce | Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     },
     {
       "id": "reuters-126b90bcfa70",
@@ -108,18 +118,8 @@
       "summary": "FDA's CORE table reports 11 cases and lists investigation 1398 as ongoing; the agency table should be checked for current traceback and product details.",
       "title": "FDA opens Cyclospora investigation 1398",
       "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
-    },
-    {
-      "id": "ap-news-e4cd80200933",
-      "kind": "major-media",
-      "published_at": "2026-08-05",
-      "publisher_url": "https://apnews.com/",
-      "source": "AP News",
-      "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
-      "title": "15 states now linked to iceberg lettuce cyclospora outbreak, CDC says",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdWxYN01WSF9sOFlqeXBsS0ljRGlyTkplRFNMOTFoYXVGX0swcVBSdUpMQ09RUUdTUkZUVGJuNGo3Q0o0MERsVU16OHRoU1BMWFhMTUpubW5tUFZqbTdnX0RGOHRON25zOFMyNUpQSlNnOXQ5bUktSDA5TU95REZFVUM5ZGw4aXRpTU1ha2FQZnpOV0dHWkNDczNYVQ"
     }
   ],
-  "rejected_candidates": 79,
+  "rejected_candidates": 78,
   "schema_version": 1
 }
