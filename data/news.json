@@ -1,24 +1,24 @@
 {
   "errors": [],
-  "generated_at": "2026-08-15T20:41:15Z",
+  "generated_at": "2026-08-15T21:37:16Z",
   "items": [
     {
-      "id": "the-washington-post-de61f7978784",
+      "id": "washingtonpost-com-de61f7978784",
       "kind": "major-media",
       "published_at": "2026-08-15",
       "publisher_url": "https://www.washingtonpost.com/",
-      "source": "The Washington Post",
-      "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
+      "source": "washingtonpost.com",
+      "summary": "Recent Cyclospora coverage from washingtonpost.com. Open the article for the full report.",
       "title": "FDA travels to Mexico a month after linking Taylor Farms to cyclospora outbreak",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFdxU2JUdloyT3NhR1N6ODBaejRIZVN6akd4UGoxVWEzYVRyLVZ4MzhvRGFxWGZ1NVF4dGxDMkI1eC1JVFhpQWtEUEVBMUNaMEtHd2NiTnl1YWlES1RtV3ltZGlOWjZiLTR4UzRwX1RDeGNPVEd6eVlnVlV6QkRZYnZWVlJ0T2V3aWM5Y0pva1FGdmdKMUxsMFdQM2MzckJhamc2R1JxSEJjM0ZxbkpUUUlqRQ"
     },
     {
-      "id": "usatoday-com-1ce135138be3",
+      "id": "usa-today-1ce135138be3",
       "kind": "major-media",
       "published_at": "2026-08-14",
       "publisher_url": "https://www.usatoday.com/",
-      "source": "usatoday.com",
-      "summary": "Recent Cyclospora coverage from usatoday.com. Open the article for the full report.",
+      "source": "USA Today",
+      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
       "title": "Lettuce-linked parasitic outbreak spreads. See map, more updates",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDdtLU9uU2RSdVdvOGlKS0QzVzJkSmZlNVVfbGdpWG5yWHVoTUkxVUU2d0lKWDc5R1RwaHl3YzV4eFdHWl9xUEZkbFpwR3VoYThUM3FWdUwxblhlTHZrU0FDaDA4b1Fpc2FJZFZ3ak5vUmhWd3FPR3R0RFQ2M1Z6NzU0c2o5RHdDdmN3TDdYU1NVbG8zRW1NWGV2LUhIYjdMUS1QWEd3ZWdObnMxYlYyRkpQSjVybkg4"
     },
@@ -43,12 +43,12 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQlk1Q0hNY2ktUkZ2djVhNEc1S0tXeGhjSXQxeF9hd1NLRU9iYzVqa3AxRGVOSVJmM1V1SWd5S08yVmVJdDdNaDVYQTVrcUVuSWVxTW5Zbk5qS242cm1kQmlTR1dKaW5uS2ZhNFJhdm9hMG51QmJkRGU3NFFZc1RnckNtM1VqbURUQWQ0VXBLR3JpX3ZkT1lncFNUbEFTellTWXFwWlFFQV80MnMwMEM3V3FScnBlRUxFVzd4dnBhN21Mb3ZyY3psQzBFdTRHN2dDSklUR1F6X04yMTZUZmc"
     },
     {
-      "id": "cbs-news-eea3fbd7af5f",
+      "id": "cbsnews-com-eea3fbd7af5f",
       "kind": "major-media",
       "published_at": "2026-08-13",
       "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
+      "source": "cbsnews.com",
+      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
       "title": "Michigan cyclosporiasis outbreak tops 13,900 cases; 35 additional hospitalizations in past week",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPelczQ3FVc0k1bjFTRVZJZzVJZ0NPTFd4cjEyTm43Z1VKaXoweGZWa3FrbF9EXzhZdnI3VnpvWl9XbklEZEpZZ0JsaUxFWnlZNFBpeUdVbVFsN1M1RGJVbHJXX2VCTEN2YjVMR3J5Q245WHdGcnYxUWpfaHZtUlY5Vkl3Q2JzS0I0d2VYUmU1NUk"
     },
@@ -120,6 +120,6 @@
       "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
     }
   ],
-  "rejected_candidates": 77,
+  "rejected_candidates": 76,
   "schema_version": 1
 }
