@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-15T15:37:27Z",
+  "generated_at": "2026-08-15T17:38:06Z",
   "items": [
     {
       "id": "the-washington-post-de61f7978784",
@@ -63,6 +63,16 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
     },
     {
+      "id": "reuters-com-1b13d6e70c9f",
+      "kind": "major-media",
+      "published_at": "2026-08-11",
+      "publisher_url": "https://www.reuters.com/",
+      "source": "reuters.com",
+      "summary": "Recent Cyclospora coverage from reuters.com. Open the article for the full report.",
+      "title": "Acting US FDA chief urges confidence in lettuce as agency updates produce safety guidance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRDltRERzeFN4UVZ0clZ6NUFLazNTZXRxNUFqeDM5WF8tT0dXMk9NdXZJYlNSdUl1N0V3cEZ3clR4Z3VQdVdpZTM3MkZiSUxfS2lkTGRQOWFRWEIyQktBZ20zNUhDeC1GZEZvODY3MHc4bEpqVXVWZUJxNXFZRnM2c0I0ajZmRkR5XzBzR2RQZDNlWU81N0dEOFhYQWw2LUdIMllfZA"
+    },
+    {
       "id": "cdc-surveillance",
       "kind": "official",
       "published_at": "2026-08-10",
@@ -109,17 +119,8 @@
       "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
       "title": "Cyclospora and salmonella outbreaks put produce from Mexico in the spotlight",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2dwa0E5NkpSNHNaQ3lwUC1zOHJiS25nd1JONlprZ2V1M2JfcXZBRE1ELThyODVqWFlkX1JBQUkzSERVejhsaWJHcnkyMW5DNE1mbUNIR0MtMnVmVWdiTmc3WXk0RjhYSVJSYklzOTlmVmhJU01XUEN2dHZyZHJkOWNFcURQa0ZUaVhtVkF6UzAwWWpxRXByU3E0VlBuOUFtRXpXOXFKYmZLWXVXaDJTOU80Ynk"
-    },
-    {
-      "id": "fda-core-1398",
-      "kind": "official",
-      "published_at": "2026-08-05",
-      "source": "FDA",
-      "summary": "FDA's CORE table reports 11 cases and lists investigation 1398 as ongoing; the agency table should be checked for current traceback and product details.",
-      "title": "FDA opens Cyclospora investigation 1398",
-      "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
     }
   ],
-  "rejected_candidates": 77,
+  "rejected_candidates": 76,
   "schema_version": 1
 }
