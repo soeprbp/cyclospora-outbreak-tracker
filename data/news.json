@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-15T11:36:32Z",
+  "generated_at": "2026-08-15T13:45:28Z",
   "items": [
     {
       "id": "the-washington-post-de61f7978784",
@@ -9,7 +9,7 @@
       "publisher_url": "https://www.washingtonpost.com/",
       "source": "The Washington Post",
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
-      "title": "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak",
+      "title": "FDA travels to Mexico a month after linking Taylor Farms to cyclospora outbreak",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFdxU2JUdloyT3NhR1N6ODBaejRIZVN6akd4UGoxVWEzYVRyLVZ4MzhvRGFxWGZ1NVF4dGxDMkI1eC1JVFhpQWtEUEVBMUNaMEtHd2NiTnl1YWlES1RtV3ltZGlOWjZiLTR4UzRwX1RDeGNPVEd6eVlnVlV6QkRZYnZWVlJ0T2V3aWM5Y0pva1FGdmdKMUxsMFdQM2MzckJhamc2R1JxSEJjM0ZxbkpUUUlqRQ"
     },
     {
@@ -120,6 +120,6 @@
       "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
     }
   ],
-  "rejected_candidates": 78,
+  "rejected_candidates": 77,
   "schema_version": 1
 }
