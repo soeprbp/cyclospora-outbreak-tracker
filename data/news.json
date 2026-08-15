@@ -1,11 +1,11 @@
 {
   "errors": [],
-  "generated_at": "2026-08-14T22:42:49Z",
+  "generated_at": "2026-08-15T01:52:13Z",
   "items": [
     {
       "id": "the-washington-post-de61f7978784",
       "kind": "major-media",
-      "published_at": "2026-08-14",
+      "published_at": "2026-08-15",
       "publisher_url": "https://www.washingtonpost.com/",
       "source": "The Washington Post",
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
@@ -120,6 +120,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     }
   ],
-  "rejected_candidates": 78,
+  "rejected_candidates": 77,
   "schema_version": 1
 }
