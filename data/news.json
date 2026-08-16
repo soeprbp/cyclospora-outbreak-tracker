@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-16T13:46:28Z",
+  "generated_at": "2026-08-16T14:42:00Z",
   "items": [
     {
       "id": "the-washington-post-de61f7978784",
@@ -9,7 +9,7 @@
       "publisher_url": "https://www.washingtonpost.com/",
       "source": "The Washington Post",
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
-      "title": "FDA travels to Mexico a month after linking Taylor Farms to cyclospora outbreak",
+      "title": "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFdxU2JUdloyT3NhR1N6ODBaejRIZVN6akd4UGoxVWEzYVRyLVZ4MzhvRGFxWGZ1NVF4dGxDMkI1eC1JVFhpQWtEUEVBMUNaMEtHd2NiTnl1YWlES1RtV3ltZGlOWjZiLTR4UzRwX1RDeGNPVEd6eVlnVlV6QkRZYnZWVlJ0T2V3aWM5Y0pva1FGdmdKMUxsMFdQM2MzckJhamc2R1JxSEJjM0ZxbkpUUUlqRQ"
     },
     {
@@ -21,6 +21,16 @@
       "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
       "title": "Lettuce-linked parasitic outbreak spreads. See map, more updates",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDdtLU9uU2RSdVdvOGlKS0QzVzJkSmZlNVVfbGdpWG5yWHVoTUkxVUU2d0lKWDc5R1RwaHl3YzV4eFdHWl9xUEZkbFpwR3VoYThUM3FWdUwxblhlTHZrU0FDaDA4b1Fpc2FJZFZ3ak5vUmhWd3FPR3R0RFQ2M1Z6NzU0c2o5RHdDdmN3TDdYU1NVbG8zRW1NWGV2LUhIYjdMUS1QWEd3ZWdObnMxYlYyRkpQSjVybkg4"
+    },
+    {
+      "id": "npr-6290dd28df5a",
+      "kind": "major-media",
+      "published_at": "2026-08-14",
+      "publisher_url": "https://www.npr.org/",
+      "source": "NPR",
+      "summary": "Recent Cyclospora coverage from NPR. Open the article for the full report.",
+      "title": "Record cyclosporiasis outbreak tests agencies hit by Trump administration's cuts",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVFVRWDdhWjhMc3FGbGpWZVpaVHpLMUdfUlMyY0tGelJPQTNjdzBxYjBvTm1laVlneXRZcGJWRm91bFVEMlYxeTNHVGcwdUVkc055djlwVzlkNGdCQTlVYjBieGVYenh5TUF1Y2pZVnNSSWk3ZmlTb1hEdi1jZzhlbDFlU0oxZzZsWExoQXYxOVY3QzRHeU15cUp6Sl9JODNBM1JjZDlCdmhtcXYydFlfZUMtTDJkTXYtck9rQlhnTmw4Zw"
     },
     {
       "id": "cdc-gov-00dfbf931d18",
@@ -53,12 +63,12 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQlk1Q0hNY2ktUkZ2djVhNEc1S0tXeGhjSXQxeF9hd1NLRU9iYzVqa3AxRGVOSVJmM1V1SWd5S08yVmVJdDdNaDVYQTVrcUVuSWVxTW5Zbk5qS242cm1kQmlTR1dKaW5uS2ZhNFJhdm9hMG51QmJkRGU3NFFZc1RnckNtM1VqbURUQWQ0VXBLR3JpX3ZkT1lncFNUbEFTellTWXFwWlFFQV80MnMwMEM3V3FScnBlRUxFVzd4dnBhN21Mb3ZyY3psQzBFdTRHN2dDSklUR1F6X04yMTZUZmc"
     },
     {
-      "id": "cbs-news-eea3fbd7af5f",
+      "id": "cbsnews-com-eea3fbd7af5f",
       "kind": "major-media",
       "published_at": "2026-08-13",
       "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
+      "source": "cbsnews.com",
+      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
       "title": "Michigan cyclosporiasis outbreak tops 13,900 cases; 35 additional hospitalizations in past week",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPelczQ3FVc0k1bjFTRVZJZzVJZ0NPTFd4cjEyTm43Z1VKaXoweGZWa3FrbF9EXzhZdnI3VnpvWl9XbklEZEpZZ0JsaUxFWnlZNFBpeUdVbVFsN1M1RGJVbHJXX2VCTEN2YjVMR3J5Q245WHdGcnYxUWpfaHZtUlY5Vkl3Q2JzS0I0d2VYUmU1NUk"
     },
@@ -109,18 +119,8 @@
       "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
       "title": "CDC warns of Salmonella outbreak linked to jalape\u00f1os",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXl4SG1EeGJSOEdnU3RqVmFOQjBDZm9nVmliSXpTXzNhTEZna19vT1FzUGNrUFRtaFJYTmVnQUZlSUJxa0dlc04weG9JRUZZRnpYcUExbVo4TEpuVkRHQ2tFc0JoT0JLaGRrU09CajZJWWVCcEtLSXBDNmF4TmxWRjZPeHhBQXlFZVNXMzhSTXJWeXdjbWhveDFPM2ZUV0RpQnVnaw"
-    },
-    {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-72cee78dd29e",
-      "kind": "official",
-      "published_at": "2026-08-06",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "CDC warns of Salmonella outbreak linked to jalape\u00f1os",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXl4SG1EeGJSOEdnU3RqVmFOQjBDZm9nVmliSXpTXzNhTEZna19vT1FzUGNrUFRtaFJYTmVnQUZlSUJxa0dlc04weG9JRUZZRnpYcUExbVo4TEpuVkRHQ2tFc0JoT0JLaGRrU09CajZJWWVCcEtLSXBDNmF4TmxWRjZPeHhBQXlFZVNXMzhSTXJWeXdjbWhveDFPM2ZUV0RpQnVnaw"
     }
   ],
-  "rejected_candidates": 78,
+  "rejected_candidates": 77,
   "schema_version": 1
 }
