@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-17T19:00:05Z",
+  "generated_at": "2026-08-17T19:44:36Z",
   "items": [
     {
       "id": "the-washington-post-de61f7978784",
@@ -43,16 +43,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     },
     {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
-      "kind": "official",
-      "published_at": "2026-08-13",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Cyclospora Outbreak Linked to Iceberg Lettuce | Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
-    },
-    {
       "id": "reuters-126b90bcfa70",
       "kind": "major-media",
       "published_at": "2026-08-13",
@@ -83,16 +73,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
     },
     {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-905ec3a944fd",
-      "kind": "official",
-      "published_at": "2026-08-11",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Surveillance of Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
-    },
-    {
       "id": "cdc-surveillance",
       "kind": "official",
       "published_at": "2026-08-10",
@@ -119,6 +99,25 @@
       "summary": "Recent Cyclospora coverage from nbcnews.com. Open the article for the full report.",
       "title": "Cyclospora and salmonella outbreaks put produce from Mexico in the spotlight",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2dwa0E5NkpSNHNaQ3lwUC1zOHJiS25nd1JONlprZ2V1M2JfcXZBRE1ELThyODVqWFlkX1JBQUkzSERVejhsaWJHcnkyMW5DNE1mbUNIR0MtMnVmVWdiTmc3WXk0RjhYSVJSYklzOTlmVmhJU01XUEN2dHZyZHJkOWNFcURQa0ZUaVhtVkF6UzAwWWpxRXByU3E0VlBuOUFtRXpXOXFKYmZLWXVXaDJTOU80Ynk"
+    },
+    {
+      "id": "fda-core-1398",
+      "kind": "official",
+      "published_at": "2026-08-05",
+      "source": "FDA",
+      "summary": "FDA's CORE table reports 11 cases and lists investigation 1398 as ongoing; the agency table should be checked for current traceback and product details.",
+      "title": "FDA opens Cyclospora investigation 1398",
+      "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
+    },
+    {
+      "id": "nbc-news-46267795baff",
+      "kind": "major-media",
+      "published_at": "2026-08-05",
+      "publisher_url": "https://www.nbcnews.com/",
+      "source": "NBC News",
+      "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
+      "title": "Cyclosporiasis outbreak has expanded to six more states",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYWNpcTBMT3YzZUZXaDBrUXpzdl9BektPNVdUZkdpT1pMTVRTZUdybkoxQlVrTjYxbEhPVlNoR3h2SUtOYl9HTW5vQWFlN3F1Q3ZIS2VTdVJUeUxJTWZUR1MyS083T1Y2cWViWWh5VTlHM2JxTG94WFZGWDZhT3V6bjdTVnZTT3JFUVFydHNWTG5yWEJGWkwzQld5RS1QcC1kdE5KbEpheGk5QQ"
     }
   ],
   "rejected_candidates": 87,
