@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-17T07:18:17Z",
+  "generated_at": "2026-08-17T09:02:55Z",
   "items": [
     {
       "id": "the-washington-post-de61f7978784",
@@ -23,12 +23,12 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVFVRWDdhWjhMc3FGbGpWZVpaVHpLMUdfUlMyY0tGelJPQTNjdzBxYjBvTm1laVlneXRZcGJWRm91bFVEMlYxeTNHVGcwdUVkc055djlwVzlkNGdCQTlVYjBieGVYenh5TUF1Y2pZVnNSSWk3ZmlTb1hEdi1jZzhlbDFlU0oxZzZsWExoQXYxOVY3QzRHeU15cUp6Sl9JODNBM1JjZDlCdmhtcXYydFlfZUMtTDJkTXYtck9rQlhnTmw4Zw"
     },
     {
-      "id": "usa-today-1ce135138be3",
+      "id": "usatoday-com-1ce135138be3",
       "kind": "major-media",
       "published_at": "2026-08-14",
       "publisher_url": "https://www.usatoday.com/",
-      "source": "USA Today",
-      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
+      "source": "usatoday.com",
+      "summary": "Recent Cyclospora coverage from usatoday.com. Open the article for the full report.",
       "title": "Lettuce-linked parasitic outbreak spreads. See map, more updates",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDdtLU9uU2RSdVdvOGlKS0QzVzJkSmZlNVVfbGdpWG5yWHVoTUkxVUU2d0lKWDc5R1RwaHl3YzV4eFdHWl9xUEZkbFpwR3VoYThUM3FWdUwxblhlTHZrU0FDaDA4b1Fpc2FJZFZ3ak5vUmhWd3FPR3R0RFQ2M1Z6NzU0c2o5RHdDdmN3TDdYU1NVbG8zRW1NWGV2LUhIYjdMUS1QWEd3ZWdObnMxYlYyRkpQSjVybkg4"
     },
@@ -121,6 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2dwa0E5NkpSNHNaQ3lwUC1zOHJiS25nd1JONlprZ2V1M2JfcXZBRE1ELThyODVqWFlkX1JBQUkzSERVejhsaWJHcnkyMW5DNE1mbUNIR0MtMnVmVWdiTmc3WXk0RjhYSVJSYklzOTlmVmhJU01XUEN2dHZyZHJkOWNFcURQa0ZUaVhtVkF6UzAwWWpxRXByU3E0VlBuOUFtRXpXOXFKYmZLWXVXaDJTOU80Ynk"
     }
   ],
-  "rejected_candidates": 83,
+  "rejected_candidates": 86,
   "schema_version": 1
 }
