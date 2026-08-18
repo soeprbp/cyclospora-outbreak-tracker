@@ -1,7 +1,17 @@
 {
   "errors": [],
-  "generated_at": "2026-08-18T13:58:46Z",
+  "generated_at": "2026-08-18T16:50:41Z",
   "items": [
+    {
+      "id": "axios-f80e987d5200",
+      "kind": "major-media",
+      "published_at": "2026-08-17",
+      "publisher_url": "https://www.axios.com/",
+      "source": "Axios",
+      "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
+      "title": "Cyclospora outbreak highlights risks of information vacuums",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR1FTaTR2Z1dPNXoyLVFqbE96bTM1TXhoNUdmZFl4cU9xellxakpPZXhIZzFBaFNRZGY5OUhrSmVKS25Yb3BDd3NHMlhFNjN3NHJQRDUtaGFUb3l3Q1VlNTVibG43ZmNSUlAwc1ZFaXQzQW84TkhoUzdRbEhBSkZIQkc2Ny1Oc25LZW5Eb1pPelhRT3ZyeS1VWDN6akt6eVhORFBz"
+    },
     {
       "id": "the-washington-post-de61f7978784",
       "kind": "major-media",
@@ -109,18 +119,8 @@
       "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
       "title": "NNDSS table reports 21,745 U.S. Cyclospora cases",
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
-    },
-    {
-      "id": "nbcnews-com-d7f1674b90ec",
-      "kind": "major-media",
-      "published_at": "2026-08-06",
-      "publisher_url": "https://www.nbcnews.com/",
-      "source": "nbcnews.com",
-      "summary": "Recent Cyclospora coverage from nbcnews.com. Open the article for the full report.",
-      "title": "Cyclospora and salmonella outbreaks put produce from Mexico in the spotlight",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2dwa0E5NkpSNHNaQ3lwUC1zOHJiS25nd1JONlprZ2V1M2JfcXZBRE1ELThyODVqWFlkX1JBQUkzSERVejhsaWJHcnkyMW5DNE1mbUNIR0MtMnVmVWdiTmc3WXk0RjhYSVJSYklzOTlmVmhJU01XUEN2dHZyZHJkOWNFcURQa0ZUaVhtVkF6UzAwWWpxRXByU3E0VlBuOUFtRXpXOXFKYmZLWXVXaDJTOU80Ynk"
     }
   ],
-  "rejected_candidates": 86,
+  "rejected_candidates": 85,
   "schema_version": 1
 }
