@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-18T16:50:41Z",
+  "generated_at": "2026-08-18T18:58:44Z",
   "items": [
     {
       "id": "axios-f80e987d5200",
@@ -13,16 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR1FTaTR2Z1dPNXoyLVFqbE96bTM1TXhoNUdmZFl4cU9xellxakpPZXhIZzFBaFNRZGY5OUhrSmVKS25Yb3BDd3NHMlhFNjN3NHJQRDUtaGFUb3l3Q1VlNTVibG43ZmNSUlAwc1ZFaXQzQW84TkhoUzdRbEhBSkZIQkc2Ny1Oc25LZW5Eb1pPelhRT3ZyeS1VWDN6akt6eVhORFBz"
     },
     {
-      "id": "the-washington-post-de61f7978784",
-      "kind": "major-media",
-      "published_at": "2026-08-15",
-      "publisher_url": "https://www.washingtonpost.com/",
-      "source": "The Washington Post",
-      "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
-      "title": "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFdxU2JUdloyT3NhR1N6ODBaejRIZVN6akd4UGoxVWEzYVRyLVZ4MzhvRGFxWGZ1NVF4dGxDMkI1eC1JVFhpQWtEUEVBMUNaMEtHd2NiTnl1YWlES1RtV3ltZGlOWjZiLTR4UzRwX1RDeGNPVEd6eVlnVlV6QkRZYnZWVlJ0T2V3aWM5Y0pva1FGdmdKMUxsMFdQM2MzckJhamc2R1JxSEJjM0ZxbkpUUUlqRQ"
-    },
-    {
       "id": "usa-today-21835b73b23e",
       "kind": "major-media",
       "published_at": "2026-08-15",
@@ -31,6 +21,16 @@
       "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
       "title": "FDA inspects Taylor Farms Mexico plant linked to outbreak",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGlfejhyYjYxb1c2alI5SVZqUy1ySW5NOHYwWG1wS0phdktGNUIxNzBmMXJ3YUxJYWZ6QTdINzEzM2cyUXdDRGFSQU1ZR25iZmZ3Vnhza1pjLVB2N29ESTl3UktDZ01OcXd5dHVaVUFySTFaaUtLYUFNXzRacnFDUE1oNDFhT1pQVUViYjQ4UEF5N3hLNnpLeUdMLVFaRmllSjFDTFRuemF3OFRX"
+    },
+    {
+      "id": "washingtonpost-com-de61f7978784",
+      "kind": "major-media",
+      "published_at": "2026-08-15",
+      "publisher_url": "https://www.washingtonpost.com/",
+      "source": "washingtonpost.com",
+      "summary": "Recent Cyclospora coverage from washingtonpost.com. Open the article for the full report.",
+      "title": "FDA in Mexico a month after linking Taylor Farms to cyclospora outbreak",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFdxU2JUdloyT3NhR1N6ODBaejRIZVN6akd4UGoxVWEzYVRyLVZ4MzhvRGFxWGZ1NVF4dGxDMkI1eC1JVFhpQWtEUEVBMUNaMEtHd2NiTnl1YWlES1RtV3ltZGlOWjZiLTR4UzRwX1RDeGNPVEd6eVlnVlV6QkRZYnZWVlJ0T2V3aWM5Y0pva1FGdmdKMUxsMFdQM2MzckJhamc2R1JxSEJjM0ZxbkpUUUlqRQ"
     },
     {
       "id": "npr-6290dd28df5a",
