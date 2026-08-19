@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-19T10:48:04Z",
+  "generated_at": "2026-08-19T11:43:05Z",
   "items": [
     {
       "id": "cdc-surveillance",
@@ -12,24 +12,14 @@
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     },
     {
-      "id": "axios-com-f80e987d5200",
+      "id": "axios-f80e987d5200",
       "kind": "major-media",
       "published_at": "2026-08-17",
       "publisher_url": "https://www.axios.com/",
-      "source": "axios.com",
-      "summary": "Recent Cyclospora coverage from axios.com. Open the article for the full report.",
+      "source": "Axios",
+      "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
       "title": "Cyclospora outbreak highlights risks of information vacuums",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR1FTaTR2Z1dPNXoyLVFqbE96bTM1TXhoNUdmZFl4cU9xellxakpPZXhIZzFBaFNRZGY5OUhrSmVKS25Yb3BDd3NHMlhFNjN3NHJQRDUtaGFUb3l3Q1VlNTVibG43ZmNSUlAwc1ZFaXQzQW84TkhoUzdRbEhBSkZIQkc2Ny1Oc25LZW5Eb1pPelhRT3ZyeS1VWDN6akt6eVhORFBz"
-    },
-    {
-      "id": "the-washington-post-de61f7978784",
-      "kind": "major-media",
-      "published_at": "2026-08-15",
-      "publisher_url": "https://www.washingtonpost.com/",
-      "source": "The Washington Post",
-      "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
-      "title": "FDA travels to Mexico a month after linking Taylor Farms to cyclospora outbreak",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFdxU2JUdloyT3NhR1N6ODBaejRIZVN6akd4UGoxVWEzYVRyLVZ4MzhvRGFxWGZ1NVF4dGxDMkI1eC1JVFhpQWtEUEVBMUNaMEtHd2NiTnl1YWlES1RtV3ltZGlOWjZiLTR4UzRwX1RDeGNPVEd6eVlnVlV6QkRZYnZWVlJ0T2V3aWM5Y0pva1FGdmdKMUxsMFdQM2MzckJhamc2R1JxSEJjM0ZxbkpUUUlqRQ"
     },
     {
       "id": "usa-today-21835b73b23e",
@@ -40,6 +30,16 @@
       "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
       "title": "FDA inspects Taylor Farms Mexico plant linked to outbreak",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGlfejhyYjYxb1c2alI5SVZqUy1ySW5NOHYwWG1wS0phdktGNUIxNzBmMXJ3YUxJYWZ6QTdINzEzM2cyUXdDRGFSQU1ZR25iZmZ3Vnhza1pjLVB2N29ESTl3UktDZ01OcXd5dHVaVUFySTFaaUtLYUFNXzRacnFDUE1oNDFhT1pQVUViYjQ4UEF5N3hLNnpLeUdMLVFaRmllSjFDTFRuemF3OFRX"
+    },
+    {
+      "id": "washingtonpost-com-de61f7978784",
+      "kind": "major-media",
+      "published_at": "2026-08-15",
+      "publisher_url": "https://www.washingtonpost.com/",
+      "source": "washingtonpost.com",
+      "summary": "Recent Cyclospora coverage from washingtonpost.com. Open the article for the full report.",
+      "title": "FDA travels to Mexico a month after linking Taylor Farms to cyclospora outbreak",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFdxU2JUdloyT3NhR1N6ODBaejRIZVN6akd4UGoxVWEzYVRyLVZ4MzhvRGFxWGZ1NVF4dGxDMkI1eC1JVFhpQWtEUEVBMUNaMEtHd2NiTnl1YWlES1RtV3ltZGlOWjZiLTR4UzRwX1RDeGNPVEd6eVlnVlV6QkRZYnZWVlJ0T2V3aWM5Y0pva1FGdmdKMUxsMFdQM2MzckJhamc2R1JxSEJjM0ZxbkpUUUlqRQ"
     },
     {
       "id": "npr-6290dd28df5a",
@@ -58,6 +58,16 @@
       "publisher_url": "https://www.cdc.gov/",
       "source": "cdc.gov",
       "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
+      "title": "Cyclospora Outbreak Linked to Iceberg Lettuce | Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
+    },
+    {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
+      "kind": "official",
+      "published_at": "2026-08-13",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Cyclospora Outbreak Linked to Iceberg Lettuce | Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     },
@@ -109,15 +119,6 @@
       "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
       "title": "NNDSS table reports 21,745 U.S. Cyclospora cases",
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
-    },
-    {
-      "id": "fda-core-1398",
-      "kind": "official",
-      "published_at": "2026-08-05",
-      "source": "FDA",
-      "summary": "FDA's CORE table reports 11 cases and lists investigation 1398 as ongoing; the agency table should be checked for current traceback and product details.",
-      "title": "FDA opens Cyclospora investigation 1398",
-      "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
     }
   ],
   "rejected_candidates": 90,
