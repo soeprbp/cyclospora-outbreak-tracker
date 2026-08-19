@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-19T15:48:22Z",
+  "generated_at": "2026-08-19T16:50:47Z",
   "items": [
     {
       "id": "cbs-news-df0b1ffdc983",
@@ -13,6 +13,26 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONElsdmU3M1YxeVJBbE1nbmN2MElVUDNWdU9PdnlnTGx1TGFMb0VyMnotLVV4SFpEM0wyX2VlQlBvTlZ1ZUNQZkpTRWJLM0VUa3Zoa3ZNc0I5eWUtWjEyemQ1dGhxUXJtT1d1a2l2aGFfbGN3RjZRMy1CanhkcUlXel9qUkxZM3hZTVFRLVRfaXNDT2M3enZlc1U5RQ"
     },
     {
+      "id": "axios-f3a1c7502c1b",
+      "kind": "major-media",
+      "published_at": "2026-08-19",
+      "publisher_url": "https://www.axios.com/",
+      "source": "Axios",
+      "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
+      "title": "Cyclospora outbreak: Are you avoiding lettuce this summer?",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWWJuVERJZFhlSXBMd2ExWnNOWUNxMlR4c1NjYjVKX2dud2l3dFhvcnRMV25Ma3F0MUxqNEs4NjNhNFB5RGNOdkZkdVlmYnRQY0NBTVZRanRGWk9wMUh1bzhjYjFYRmlmOGY2NVZXdktobl9hRFlWakIwNTdYS2J0akVhWHQxQ0UwT09DazNwV0JTUHBCVmxCY2h3SnN2QkpYcVJMRkNMY2hZemlqTTJCRlhBS1Q"
+    },
+    {
+      "id": "reuters-1b2a4237b2cb",
+      "kind": "major-media",
+      "published_at": "2026-08-18",
+      "publisher_url": "https://www.reuters.com/",
+      "source": "Reuters",
+      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
+      "title": "Cyclosporiasis cases in US climb to 15,716, CDC says",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR1QzZW9oU1ZSZDUyTUlSUFZDYTBlLUZDZURwMlVmWTFuNUFvMXVnZXFrTXNZejJpN3I1S3FxSkNwLW5fSzY1OFJ3OS1xWi0wdzY3OVdYQ21ZM0FxQk9LeUNsMW1OYlhVOGVCR3cxeUZlUkh6N1d5aVJNamVmUmdtXzhJQ3hJUnJMZUNpN2J1dzl5cDZpNTVFS0xtOHIxUTJyVTdwc0tiNk5heWV5N0otN0N6WGxBbmc"
+    },
+    {
       "id": "cdc-surveillance",
       "kind": "official",
       "published_at": "2026-08-17",
@@ -20,16 +40,6 @@
       "summary": "CDC's national surveillance snapshot reports 828 hospitalizations, 2 deaths, and cases across 47 states.",
       "title": "CDC reports 15,716 domestically acquired Cyclospora cases",
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
-    },
-    {
-      "id": "axios-f80e987d5200",
-      "kind": "major-media",
-      "published_at": "2026-08-17",
-      "publisher_url": "https://www.axios.com/",
-      "source": "Axios",
-      "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
-      "title": "Cyclospora outbreak highlights risks of information vacuums",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR1FTaTR2Z1dPNXoyLVFqbE96bTM1TXhoNUdmZFl4cU9xellxakpPZXhIZzFBaFNRZGY5OUhrSmVKS25Yb3BDd3NHMlhFNjN3NHJQRDUtaGFUb3l3Q1VlNTVibG43ZmNSUlAwc1ZFaXQzQW84TkhoUzdRbEhBSkZIQkc2Ny1Oc25LZW5Eb1pPelhRT3ZyeS1VWDN6akt6eVhORFBz"
     },
     {
       "id": "usa-today-21835b73b23e",
@@ -82,16 +92,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     },
     {
-      "id": "reuters-126b90bcfa70",
-      "kind": "major-media",
-      "published_at": "2026-08-13",
-      "publisher_url": "https://www.reuters.com/",
-      "source": "Reuters",
-      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
-      "title": "Michigan cyclosporiasis cases rise 11% in a week, even as new cases slow",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQlk1Q0hNY2ktUkZ2djVhNEc1S0tXeGhjSXQxeF9hd1NLRU9iYzVqa3AxRGVOSVJmM1V1SWd5S08yVmVJdDdNaDVYQTVrcUVuSWVxTW5Zbk5qS242cm1kQmlTR1dKaW5uS2ZhNFJhdm9hMG51QmJkRGU3NFFZc1RnckNtM1VqbURUQWQ0VXBLR3JpX3ZkT1lncFNUbEFTellTWXFwWlFFQV80MnMwMEM3V3FScnBlRUxFVzd4dnBhN21Mb3ZyY3psQzBFdTRHN2dDSklUR1F6X04yMTZUZmc"
-    },
-    {
       "id": "cdc-gov-905ec3a944fd",
       "kind": "official",
       "published_at": "2026-08-11",
@@ -121,6 +121,6 @@
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     }
   ],
-  "rejected_candidates": 89,
+  "rejected_candidates": 87,
   "schema_version": 1
 }

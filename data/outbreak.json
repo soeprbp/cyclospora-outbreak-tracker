@@ -1,12 +1,14 @@
 {
-  "errors": {},
-  "generated_at": "2026-08-18T21:40:53Z",
+  "errors": {
+    "idoh": "fetch failed: The read operation timed out; curl fallback failed: Command '['curl', '--fail', '--location', '--silent', '--show-error', '--max-time', '30', 'https://secure.in.gov/health/idepd/diseases-and-conditions-resource-page/cyclosporiasis']' returned non-zero exit status 22."
+  },
+  "generated_at": "2026-08-19T16:48:50Z",
   "schema_version": 2,
   "sources": {
     "cdc": {
       "cases": 15716,
       "deaths": 2,
-      "fetched_at": "2026-08-18T21:40:53Z",
+      "fetched_at": "2026-08-19T16:48:50Z",
       "hospitalizations": 828,
       "official_as_of": "2026-08-17",
       "source_url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html",
@@ -14,7 +16,7 @@
       "validation_status": "valid"
     },
     "fda": {
-      "fetched_at": "2026-08-18T21:40:53Z",
+      "fetched_at": "2026-08-19T16:48:50Z",
       "investigations": [
         {
           "cases": 11,
@@ -68,26 +70,26 @@
       "fetched_at": "2026-08-18T21:40:53Z",
       "official_as_of": "2026-08-17",
       "source_url": "https://secure.in.gov/health/idepd/diseases-and-conditions-resource-page/cyclosporiasis",
-      "validation_status": "valid"
+      "validation_status": "last-known-good"
     },
     "idph": {
       "cases": 1437,
       "domestic_cases": 948,
-      "fetched_at": "2026-08-18T21:40:53Z",
+      "fetched_at": "2026-08-19T16:48:50Z",
       "official_as_of": "2026-08-18",
       "source_url": "https://dph.illinois.gov/",
       "validation_status": "valid"
     },
     "mdhhs": {
       "cases": 13909,
-      "fetched_at": "2026-08-18T21:40:53Z",
+      "fetched_at": "2026-08-19T16:48:50Z",
       "hospitalizations": 314,
       "official_as_of": "2026-08-13",
       "source_url": "https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases/infectious-disease-outbreaks",
       "validation_status": "valid"
     },
     "nndss": {
-      "fetched_at": "2026-08-18T21:40:53Z",
+      "fetched_at": "2026-08-19T16:48:50Z",
       "jurisdictions": {
         "AK": {
           "cases": 11
@@ -254,15 +256,15 @@
       "validation_status": "valid"
     },
     "nysdoh": {
-      "cases": 932,
-      "fetched_at": "2026-08-18T21:40:53Z",
-      "official_as_of": "2026-08-10",
+      "cases": 973,
+      "fetched_at": "2026-08-19T16:48:50Z",
+      "official_as_of": "2026-08-17",
       "source_url": "https://www.health.ny.gov/diseases/communicable/cyclosporiasis/index",
       "validation_status": "valid"
     },
     "widhs": {
       "cases": 251,
-      "fetched_at": "2026-08-18T21:40:53Z",
+      "fetched_at": "2026-08-19T16:48:50Z",
       "hospitalizations": 7,
       "official_as_of": "2026-08-12",
       "source_url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
@@ -466,9 +468,9 @@
       "source": "CDC NNDSS"
     },
     "NY": {
-      "cases": 932,
+      "cases": 973,
       "comparable_cases": 904,
-      "official_as_of": "2026-08-10",
+      "official_as_of": "2026-08-17",
       "scope": "all reported 2026 cases, year to date",
       "source": "New York NYSDOH"
     },
