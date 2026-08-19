@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-19T19:42:25Z",
+  "generated_at": "2026-08-19T20:47:58Z",
   "items": [
     {
       "id": "axios-f3a1c7502c1b",
@@ -13,14 +13,24 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWWJuVERJZFhlSXBMd2ExWnNOWUNxMlR4c1NjYjVKX2dud2l3dFhvcnRMV25Ma3F0MUxqNEs4NjNhNFB5RGNOdkZkdVlmYnRQY0NBTVZRanRGWk9wMUh1bzhjYjFYRmlmOGY2NVZXdktobl9hRFlWakIwNTdYS2J0akVhWHQxQ0UwT09DazNwV0JTUHBCVmxCY2h3SnN2QkpYcVJMRkNMY2hZemlqTTJCRlhBS1Q"
     },
     {
-      "id": "cbsnews-com-df0b1ffdc983",
+      "id": "cbs-news-df0b1ffdc983",
       "kind": "major-media",
       "published_at": "2026-08-19",
       "publisher_url": "https://www.cbsnews.com/",
-      "source": "cbsnews.com",
-      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
+      "source": "CBS News",
+      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
       "title": "Salad companies brace for low earnings after cyclospora outbreak",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONElsdmU3M1YxeVJBbE1nbmN2MElVUDNWdU9PdnlnTGx1TGFMb0VyMnotLVV4SFpEM0wyX2VlQlBvTlZ1ZUNQZkpTRWJLM0VUa3Zoa3ZNc0I5eWUtWjEyemQ1dGhxUXJtT1d1a2l2aGFfbGN3RjZRMy1CanhkcUlXel9qUkxZM3hZTVFRLVRfaXNDT2M3enZlc1U5RQ"
+    },
+    {
+      "id": "usa-today-45787cad9637",
+      "kind": "major-media",
+      "published_at": "2026-08-19",
+      "publisher_url": "https://www.usatoday.com/",
+      "source": "USA Today",
+      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
+      "title": "Salad, lettuce-linked outbreak is making greens shoppers see red",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEp4QU1mdE9SRTVrRGw1RGhoNFhiWGhUMHAxWFUyd1ZHUHRNTVU5N2hWdzQxNlVxdDE0b3VfNmVfRDBqajI0ajRySk5UV2paQTJsX0gxbmNfcnEwRDNnNC1lWXFlaGlRWEZrUGwxSWU2RGdCdlV0R1NDd2hHMFkzQ1JLVWNFSk9aN2hEZVNsLVRrUnc5YWVQU3BnaVZXVXFTVFlsQnkzdUNZT0txNDZR"
     },
     {
       "id": "reuters-1b2a4237b2cb",
@@ -42,14 +52,13 @@
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     },
     {
-      "id": "usa-today-21835b73b23e",
-      "kind": "major-media",
+      "id": "cdc-nndss",
+      "kind": "official",
       "published_at": "2026-08-15",
-      "publisher_url": "https://www.usatoday.com/",
-      "source": "USA Today",
-      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
-      "title": "FDA inspects Taylor Farms Mexico plant linked to outbreak",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGlfejhyYjYxb1c2alI5SVZqUy1ySW5NOHYwWG1wS0phdktGNUIxNzBmMXJ3YUxJYWZ6QTdINzEzM2cyUXdDRGFSQU1ZR25iZmZ3Vnhza1pjLVB2N29ESTl3UktDZ01OcXd5dHVaVUFySTFaaUtLYUFNXzRacnFDUE1oNDFhT1pQVUViYjQ4UEF5N3hLNnpLeUdMLVFaRmllSjFDTFRuemF3OFRX"
+      "source": "CDC NNDSS",
+      "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
+      "title": "NNDSS table reports 25,740 U.S. Cyclospora cases",
+      "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     },
     {
       "id": "the-washington-post-de61f7978784",
@@ -110,17 +119,8 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Surveillance of Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
-    },
-    {
-      "id": "cdc-nndss",
-      "kind": "official",
-      "published_at": "2026-08-08",
-      "source": "CDC NNDSS",
-      "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
-      "title": "NNDSS table reports 21,745 U.S. Cyclospora cases",
-      "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     }
   ],
-  "rejected_candidates": 88,
+  "rejected_candidates": 86,
   "schema_version": 1
 }
