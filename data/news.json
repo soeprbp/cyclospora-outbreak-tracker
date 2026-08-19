@@ -1,17 +1,7 @@
 {
   "errors": [],
-  "generated_at": "2026-08-19T16:50:47Z",
+  "generated_at": "2026-08-19T19:42:25Z",
   "items": [
-    {
-      "id": "cbs-news-df0b1ffdc983",
-      "kind": "major-media",
-      "published_at": "2026-08-19",
-      "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
-      "title": "Salad companies brace for low earnings after cyclospora outbreak",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONElsdmU3M1YxeVJBbE1nbmN2MElVUDNWdU9PdnlnTGx1TGFMb0VyMnotLVV4SFpEM0wyX2VlQlBvTlZ1ZUNQZkpTRWJLM0VUa3Zoa3ZNc0I5eWUtWjEyemQ1dGhxUXJtT1d1a2l2aGFfbGN3RjZRMy1CanhkcUlXel9qUkxZM3hZTVFRLVRfaXNDT2M3enZlc1U5RQ"
-    },
     {
       "id": "axios-f3a1c7502c1b",
       "kind": "major-media",
@@ -21,6 +11,16 @@
       "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
       "title": "Cyclospora outbreak: Are you avoiding lettuce this summer?",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWWJuVERJZFhlSXBMd2ExWnNOWUNxMlR4c1NjYjVKX2dud2l3dFhvcnRMV25Ma3F0MUxqNEs4NjNhNFB5RGNOdkZkdVlmYnRQY0NBTVZRanRGWk9wMUh1bzhjYjFYRmlmOGY2NVZXdktobl9hRFlWakIwNTdYS2J0akVhWHQxQ0UwT09DazNwV0JTUHBCVmxCY2h3SnN2QkpYcVJMRkNMY2hZemlqTTJCRlhBS1Q"
+    },
+    {
+      "id": "cbsnews-com-df0b1ffdc983",
+      "kind": "major-media",
+      "published_at": "2026-08-19",
+      "publisher_url": "https://www.cbsnews.com/",
+      "source": "cbsnews.com",
+      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
+      "title": "Salad companies brace for low earnings after cyclospora outbreak",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONElsdmU3M1YxeVJBbE1nbmN2MElVUDNWdU9PdnlnTGx1TGFMb0VyMnotLVV4SFpEM0wyX2VlQlBvTlZ1ZUNQZkpTRWJLM0VUa3Zoa3ZNc0I5eWUtWjEyemQ1dGhxUXJtT1d1a2l2aGFfbGN3RjZRMy1CanhkcUlXel9qUkxZM3hZTVFRLVRfaXNDT2M3enZlc1U5RQ"
     },
     {
       "id": "reuters-1b2a4237b2cb",
@@ -121,6 +121,6 @@
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     }
   ],
-  "rejected_candidates": 87,
+  "rejected_candidates": 88,
   "schema_version": 1
 }
