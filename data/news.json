@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-19T09:51:14Z",
+  "generated_at": "2026-08-19T10:48:04Z",
   "items": [
     {
       "id": "cdc-surveillance",
@@ -12,12 +12,12 @@
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     },
     {
-      "id": "axios-f80e987d5200",
+      "id": "axios-com-f80e987d5200",
       "kind": "major-media",
       "published_at": "2026-08-17",
       "publisher_url": "https://www.axios.com/",
-      "source": "Axios",
-      "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
+      "source": "axios.com",
+      "summary": "Recent Cyclospora coverage from axios.com. Open the article for the full report.",
       "title": "Cyclospora outbreak highlights risks of information vacuums",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR1FTaTR2Z1dPNXoyLVFqbE96bTM1TXhoNUdmZFl4cU9xellxakpPZXhIZzFBaFNRZGY5OUhrSmVKS25Yb3BDd3NHMlhFNjN3NHJQRDUtaGFUb3l3Q1VlNTVibG43ZmNSUlAwc1ZFaXQzQW84TkhoUzdRbEhBSkZIQkc2Ny1Oc25LZW5Eb1pPelhRT3ZyeS1VWDN6akt6eVhORFBz"
     },
@@ -58,16 +58,6 @@
       "publisher_url": "https://www.cdc.gov/",
       "source": "cdc.gov",
       "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
-      "title": "Cyclospora Outbreak Linked to Iceberg Lettuce | Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
-    },
-    {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
-      "kind": "official",
-      "published_at": "2026-08-13",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Cyclospora Outbreak Linked to Iceberg Lettuce | Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     },
@@ -119,6 +109,15 @@
       "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
       "title": "NNDSS table reports 21,745 U.S. Cyclospora cases",
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
+    },
+    {
+      "id": "fda-core-1398",
+      "kind": "official",
+      "published_at": "2026-08-05",
+      "source": "FDA",
+      "summary": "FDA's CORE table reports 11 cases and lists investigation 1398 as ongoing; the agency table should be checked for current traceback and product details.",
+      "title": "FDA opens Cyclospora investigation 1398",
+      "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
     }
   ],
   "rejected_candidates": 90,
