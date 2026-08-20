@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-20T07:08:54Z",
+  "generated_at": "2026-08-20T07:58:41Z",
   "items": [
     {
       "id": "cbs-news-df0b1ffdc983",
@@ -31,6 +31,16 @@
       "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
       "title": "Cyclospora outbreak: Are you avoiding lettuce this summer?",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWWJuVERJZFhlSXBMd2ExWnNOWUNxMlR4c1NjYjVKX2dud2l3dFhvcnRMV25Ma3F0MUxqNEs4NjNhNFB5RGNOdkZkdVlmYnRQY0NBTVZRanRGWk9wMUh1bzhjYjFYRmlmOGY2NVZXdktobl9hRFlWakIwNTdYS2J0akVhWHQxQ0UwT09DazNwV0JTUHBCVmxCY2h3SnN2QkpYcVJMRkNMY2hZemlqTTJCRlhBS1Q"
+    },
+    {
+      "id": "nbc-news-bf09cb72cb0e",
+      "kind": "major-media",
+      "published_at": "2026-08-19",
+      "publisher_url": "https://www.nbcnews.com/",
+      "source": "NBC News",
+      "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
+      "title": "Salmonella outbreak linked to tainted jalape\u00f1os isn\u2019t over",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVFotLXNlTXV0QVBnWUZQUnJ3U0NvMFFvUHFSeDhzLThadHc0em1oQXRJWHdISnFOSk1mb0RqZnI0NU9MdDRRVVdrWVhzMW9uekc0WFp3bWtEcFJQT05VdTVhYXkxTlVxeTNPUjdRcDFMRmkzM3dpdU54ejRYY0RTeDV2OFVCTGVNc1lnZFhEclFFZnJTRHRvbGIxMlEwcFlKRXdyRzN3a0toM0NEc0xKRnEtUHFlTmxONkZMdmRSbFdSQQ"
     },
     {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-905ec3a944fd",
@@ -109,18 +119,8 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Cyclospora Outbreak Linked to Iceberg Lettuce | Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
-    },
-    {
-      "id": "cdc-gov-905ec3a944fd",
-      "kind": "official",
-      "published_at": "2026-08-11",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "cdc.gov",
-      "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
-      "title": "Surveillance of Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
     }
   ],
-  "rejected_candidates": 85,
+  "rejected_candidates": 84,
   "schema_version": 1
 }
