@@ -1,16 +1,16 @@
 {
   "errors": [],
-  "generated_at": "2026-08-20T13:13:45Z",
+  "generated_at": "2026-08-20T16:53:02Z",
   "items": [
     {
-      "id": "cbs-news-df0b1ffdc983",
+      "id": "cbs-news-81d3d297bf4e",
       "kind": "major-media",
-      "published_at": "2026-08-19",
+      "published_at": "2026-08-20",
       "publisher_url": "https://www.cbsnews.com/",
       "source": "CBS News",
       "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
-      "title": "Salad companies brace for low earnings after cyclospora outbreak",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONElsdmU3M1YxeVJBbE1nbmN2MElVUDNWdU9PdnlnTGx1TGFMb0VyMnotLVV4SFpEM0wyX2VlQlBvTlZ1ZUNQZkpTRWJLM0VUa3Zoa3ZNc0I5eWUtWjEyemQ1dGhxUXJtT1d1a2l2aGFfbGN3RjZRMy1CanhkcUlXel9qUkxZM3hZTVFRLVRfaXNDT2M3enZlc1U5RQ"
+      "title": "Michigan cyclosporiasis outbreak slowing, but cases still being reported",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS2MtenkxV0VUWjlxNktHdmhpSXhnd1RiX3Z4c0VyQjNJYXBDOVc0anBNcVJRdVg5X1VoOVo2X0ZBN3ZKUTR3Y2JWbHZaZmQyMzdCWlZmOFpCMGlfd3hYT3Q5TExzYlhLdlI1SVB1bHA3RFhHZDVXcUtiYXpWY0h0QmxJdnF1YXRYc2JKVkp1ZE5KUQ"
     },
     {
       "id": "usa-today-45787cad9637",
@@ -121,6 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     }
   ],
-  "rejected_candidates": 85,
+  "rejected_candidates": 84,
   "schema_version": 1
 }
