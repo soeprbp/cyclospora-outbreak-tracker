@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-20T04:01:29Z",
+  "generated_at": "2026-08-20T04:55:30Z",
   "items": [
     {
       "id": "cbs-news-df0b1ffdc983",
@@ -23,22 +23,22 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEp4QU1mdE9SRTVrRGw1RGhoNFhiWGhUMHAxWFUyd1ZHUHRNTVU5N2hWdzQxNlVxdDE0b3VfNmVfRDBqajI0ajRySk5UV2paQTJsX0gxbmNfcnEwRDNnNC1lWXFlaGlRWEZrUGwxSWU2RGdCdlV0R1NDd2hHMFkzQ1JLVWNFSk9aN2hEZVNsLVRrUnc5YWVQU3BnaVZXVXFTVFlsQnkzdUNZT0txNDZR"
     },
     {
-      "id": "axios-com-f3a1c7502c1b",
+      "id": "axios-f3a1c7502c1b",
       "kind": "major-media",
       "published_at": "2026-08-19",
       "publisher_url": "https://www.axios.com/",
-      "source": "axios.com",
-      "summary": "Recent Cyclospora coverage from axios.com. Open the article for the full report.",
+      "source": "Axios",
+      "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
       "title": "Cyclospora outbreak: Are you avoiding lettuce this summer?",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWWJuVERJZFhlSXBMd2ExWnNOWUNxMlR4c1NjYjVKX2dud2l3dFhvcnRMV25Ma3F0MUxqNEs4NjNhNFB5RGNOdkZkdVlmYnRQY0NBTVZRanRGWk9wMUh1bzhjYjFYRmlmOGY2NVZXdktobl9hRFlWakIwNTdYS2J0akVhWHQxQ0UwT09DazNwV0JTUHBCVmxCY2h3SnN2QkpYcVJMRkNMY2hZemlqTTJCRlhBS1Q"
     },
     {
-      "id": "reuters-1b2a4237b2cb",
+      "id": "reuters-com-1b2a4237b2cb",
       "kind": "major-media",
       "published_at": "2026-08-18",
       "publisher_url": "https://www.reuters.com/",
-      "source": "Reuters",
-      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
+      "source": "reuters.com",
+      "summary": "Recent Cyclospora coverage from reuters.com. Open the article for the full report.",
       "title": "Cyclosporiasis cases in US climb to 15,716, CDC says",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR1QzZW9oU1ZSZDUyTUlSUFZDYTBlLUZDZURwMlVmWTFuNUFvMXVnZXFrTXNZejJpN3I1S3FxSkNwLW5fSzY1OFJ3OS1xWi0wdzY3OVdYQ21ZM0FxQk9LeUNsMW1OYlhVOGVCR3cxeUZlUkh6N1d5aVJNamVmUmdtXzhJQ3hJUnJMZUNpN2J1dzl5cDZpNTVFS0xtOHIxUTJyVTdwc0tiNk5heWV5N0otN0N6WGxBbmc"
     },
