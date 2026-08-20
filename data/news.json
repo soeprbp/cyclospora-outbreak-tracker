@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-20T16:53:02Z",
+  "generated_at": "2026-08-20T20:49:00Z",
   "items": [
     {
       "id": "cbs-news-81d3d297bf4e",
@@ -11,6 +11,16 @@
       "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
       "title": "Michigan cyclosporiasis outbreak slowing, but cases still being reported",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS2MtenkxV0VUWjlxNktHdmhpSXhnd1RiX3Z4c0VyQjNJYXBDOVc0anBNcVJRdVg5X1VoOVo2X0ZBN3ZKUTR3Y2JWbHZaZmQyMzdCWlZmOFpCMGlfd3hYT3Q5TExzYlhLdlI1SVB1bHA3RFhHZDVXcUtiYXpWY0h0QmxJdnF1YXRYc2JKVkp1ZE5KUQ"
+    },
+    {
+      "id": "npr-e0cf2f5d5c24",
+      "kind": "major-media",
+      "published_at": "2026-08-20",
+      "publisher_url": "https://www.npr.org/",
+      "source": "NPR",
+      "summary": "Recent Cyclospora coverage from NPR. Open the article for the full report.",
+      "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa3JBbnpNVmlhVFRjdFBJSldPNUR0OHV3cjVxTkNkbVZiUmZBZ2k3UmZicW9xLWhNNk42N01oVDVCSFYzUWJLeHhGS2FQNG9pY29pRk1HcE1ZT0dzcl9NQVlUak02c2RFMFN3NVJEU00xX1hweWV3QWVUNW9OX0lBSkJFdmpuYUU2QzFhMENhQ0xEWVExUzdiTk1VUQ"
     },
     {
       "id": "usa-today-45787cad9637",
@@ -91,16 +101,6 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFdxU2JUdloyT3NhR1N6ODBaejRIZVN6akd4UGoxVWEzYVRyLVZ4MzhvRGFxWGZ1NVF4dGxDMkI1eC1JVFhpQWtEUEVBMUNaMEtHd2NiTnl1YWlES1RtV3ltZGlOWjZiLTR4UzRwX1RDeGNPVEd6eVlnVlV6QkRZYnZWVlJ0T2V3aWM5Y0pva1FGdmdKMUxsMFdQM2MzckJhamc2R1JxSEJjM0ZxbkpUUUlqRQ"
     },
     {
-      "id": "npr-6290dd28df5a",
-      "kind": "major-media",
-      "published_at": "2026-08-14",
-      "publisher_url": "https://www.npr.org/",
-      "source": "NPR",
-      "summary": "Recent Cyclospora coverage from NPR. Open the article for the full report.",
-      "title": "Record cyclosporiasis outbreak tests agencies hit by Trump administration's cuts",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVFVRWDdhWjhMc3FGbGpWZVpaVHpLMUdfUlMyY0tGelJPQTNjdzBxYjBvTm1laVlneXRZcGJWRm91bFVEMlYxeTNHVGcwdUVkc055djlwVzlkNGdCQTlVYjBieGVYenh5TUF1Y2pZVnNSSWk3ZmlTb1hEdi1jZzhlbDFlU0oxZzZsWExoQXYxOVY3QzRHeU15cUp6Sl9JODNBM1JjZDlCdmhtcXYydFlfZUMtTDJkTXYtck9rQlhnTmw4Zw"
-    },
-    {
       "id": "cdc-gov-00dfbf931d18",
       "kind": "official",
       "published_at": "2026-08-13",
@@ -121,6 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     }
   ],
-  "rejected_candidates": 84,
+  "rejected_candidates": 83,
   "schema_version": 1
 }
