@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-20T20:49:00Z",
+  "generated_at": "2026-08-21T01:59:48Z",
   "items": [
     {
       "id": "cbs-news-81d3d297bf4e",
@@ -23,14 +23,14 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa3JBbnpNVmlhVFRjdFBJSldPNUR0OHV3cjVxTkNkbVZiUmZBZ2k3UmZicW9xLWhNNk42N01oVDVCSFYzUWJLeHhGS2FQNG9pY29pRk1HcE1ZT0dzcl9NQVlUak02c2RFMFN3NVJEU00xX1hweWV3QWVUNW9OX0lBSkJFdmpuYUU2QzFhMENhQ0xEWVExUzdiTk1VUQ"
     },
     {
-      "id": "usa-today-45787cad9637",
+      "id": "usa-today-5836cb579a03",
       "kind": "major-media",
-      "published_at": "2026-08-19",
+      "published_at": "2026-08-20",
       "publisher_url": "https://www.usatoday.com/",
       "source": "USA Today",
       "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
-      "title": "Salad, lettuce-linked outbreak is making greens shoppers see red",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEp4QU1mdE9SRTVrRGw1RGhoNFhiWGhUMHAxWFUyd1ZHUHRNTVU5N2hWdzQxNlVxdDE0b3VfNmVfRDBqajI0ajRySk5UV2paQTJsX0gxbmNfcnEwRDNnNC1lWXFlaGlRWEZrUGwxSWU2RGdCdlV0R1NDd2hHMFkzQ1JLVWNFSk9aN2hEZVNsLVRrUnc5YWVQU3BnaVZXVXFTVFlsQnkzdUNZT0txNDZR"
+      "title": "Confirmed cyclospora cases approach 16,000. See where people are sick",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS2NpRFoxSUFZcVI4c0V2ekVMbW5YWV9JcXRNeFBSM2JyZy1jcXJQMGpHNnpQYUVob2RsX1RhSnZfNVlHdFk3MFpVVnFYSm1qU05BS18yLW5fUWQ0QkRnZEFzcTRXOUgwWG9YSDlHeUZJeU9KODM2UVNmekY5VG9Ea1B6X0ZqUUotT1VGR19XRDdmRXo2TXFxSTV1Y25BTHU5dWhFYl9vU0M"
     },
     {
       "id": "axios-f3a1c7502c1b",
@@ -121,6 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     }
   ],
-  "rejected_candidates": 83,
+  "rejected_candidates": 82,
   "schema_version": 1
 }
