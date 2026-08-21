@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-21T01:59:48Z",
+  "generated_at": "2026-08-21T14:55:30Z",
   "items": [
     {
       "id": "cbs-news-81d3d297bf4e",
@@ -31,6 +31,16 @@
       "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
       "title": "Confirmed cyclospora cases approach 16,000. See where people are sick",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS2NpRFoxSUFZcVI4c0V2ekVMbW5YWV9JcXRNeFBSM2JyZy1jcXJQMGpHNnpQYUVob2RsX1RhSnZfNVlHdFk3MFpVVnFYSm1qU05BS18yLW5fUWQ0QkRnZEFzcTRXOUgwWG9YSDlHeUZJeU9KODM2UVNmekY5VG9Ea1B6X0ZqUUotT1VGR19XRDdmRXo2TXFxSTV1Y25BTHU5dWhFYl9vU0M"
+    },
+    {
+      "id": "fda-gov-6544fc43d694",
+      "kind": "official",
+      "published_at": "2026-08-19",
+      "publisher_url": "https://www.fda.gov/",
+      "source": "fda.gov",
+      "summary": "Recent Cyclospora coverage from fda.gov. Open the article for the full report.",
+      "title": "Investigations of Foodborne Illness Outbreaks",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk9CZUFHZmRHM3p1V1VfczVQOGxOVU5VSjllbF9tSzFyZDZqVXpfOVdTMnNVZk9VZjRVTDlRN3pvbjZZTER0bG5CY2h0Q0F6SldIMDl0WXNmanBtSGthVjQxMU5NZHNibkNLMXBqRnVsOWk4andKSkdrWUM4eUYzaFVzdGI5OFFXRGE5NWJTTFJja2cxaEJaN3doZw"
     },
     {
       "id": "axios-f3a1c7502c1b",
@@ -109,18 +119,8 @@
       "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
       "title": "Cyclospora Outbreak Linked to Iceberg Lettuce | Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
-    },
-    {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
-      "kind": "official",
-      "published_at": "2026-08-13",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Cyclospora Outbreak Linked to Iceberg Lettuce | Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     }
   ],
-  "rejected_candidates": 82,
+  "rejected_candidates": 81,
   "schema_version": 1
 }
