@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-21T17:48:01Z",
+  "generated_at": "2026-08-22T08:50:11Z",
   "items": [
     {
       "id": "the-washington-post-68ddb05b6cbf",
@@ -11,6 +11,16 @@
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
       "title": "Taylor Farms lettuce may have reached 7 more states, D.C. and Puerto Rico",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbkFZVVp1QVoxZ2tkU0dIdm1JcTNFUXk4a2xuQWdGYlVmZFdPVGZFR3JMR0F4VDZkaTZZcWVyRUxQQlJoVTQxSk5HMm5OcWNCYXRMZzk0YXY0ZWhmcHlRM1ZBNW8wZWNucXk4NGVudlVUd1JPT1lLcDJQZ3RiY3FjOG55WnIwVTJpeE94NGtPcU9xUkNkc18xWS1odngxb3JMX3NhNzJoQmpKOWhURGNKX0NodlcteDA"
+    },
+    {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
+      "kind": "official",
+      "published_at": "2026-08-20",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "title": "Cyclospora Outbreak Linked to Iceberg Lettuce | Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     },
     {
       "id": "cbs-news-81d3d297bf4e",
@@ -109,18 +119,8 @@
       "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
       "title": "NNDSS table reports 25,740 U.S. Cyclospora cases",
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
-    },
-    {
-      "id": "cdc-gov-00dfbf931d18",
-      "kind": "official",
-      "published_at": "2026-08-13",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "cdc.gov",
-      "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
-      "title": "Cyclospora Outbreak Linked to Iceberg Lettuce | Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     }
   ],
-  "rejected_candidates": 80,
+  "rejected_candidates": 84,
   "schema_version": 1
 }
