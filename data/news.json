@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-22T10:42:46Z",
+  "generated_at": "2026-08-22T11:38:13Z",
   "items": [
     {
       "id": "nbc-news-28df135296ee",
@@ -11,6 +11,16 @@
       "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
       "title": "Why this year\u2019s foodborne outbreaks have made more Americans sick",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUzBiTHhHZkNVZ2I4ZHRsOTYwNTBhTUlWa3dvcURoZjRrN3dfcVRIbUFzWTJHOWc3M0V1dTI3Y19GbXNINFYyenVJaElwMUhuenJUVFdHbnUzMXl0NDk2LXNFSHJiRmhBRUc5VGFzaklFNEJsMzBiNjVCT2cxQVh3NF9iT1RvWXhjNzlPSzM2ZkRRNGhtMndwQ2ZhdjlDdUtFZU5GR3ZpVElIbktrd281Vm9OZ1dKX0l3ekpQLQ"
+    },
+    {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-c79f4fa66419",
+      "kind": "official",
+      "published_at": "2026-08-21",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "title": "Outbreak linked to alfalfa sprouts; people sickened with E. coli and Salmonella",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjJjNklYQ2tnZG5MRnF0MWtnRWNWZFlpdHkzXy0zM1ZfWGQ0d0xMbXR2Zy1zUjlWNjlNUEotdEViLVZ3TzJuQjk3THh4WFV0WnduRmJhSE45eUxDVE9nNUlxM2poYmJ3X0hhWE5MWkdJbkxuX0lOemloYk45TE9oc1RzOTdzSndXS25iaDJid1l3NGd0bU9nQzlkazNZanQ2Wm43MHJvWFhqUHNiRkZneUprTkxLVWoxOWhxTUd3UQ"
     },
     {
       "id": "the-washington-post-68ddb05b6cbf",
@@ -110,17 +120,8 @@
       "summary": "CDC's national surveillance snapshot reports 828 hospitalizations, 2 deaths, and cases across 47 states.",
       "title": "CDC reports 15,716 domestically acquired Cyclospora cases",
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
-    },
-    {
-      "id": "cdc-nndss",
-      "kind": "official",
-      "published_at": "2026-08-15",
-      "source": "CDC NNDSS",
-      "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
-      "title": "NNDSS table reports 25,740 U.S. Cyclospora cases",
-      "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     }
   ],
-  "rejected_candidates": 83,
+  "rejected_candidates": 82,
   "schema_version": 1
 }
