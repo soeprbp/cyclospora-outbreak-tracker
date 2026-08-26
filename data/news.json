@@ -1,7 +1,17 @@
 {
   "errors": [],
-  "generated_at": "2026-08-26T07:10:49Z",
+  "generated_at": "2026-08-26T23:40:08Z",
   "items": [
+    {
+      "id": "usa-today-8214bde4cb5f",
+      "kind": "major-media",
+      "published_at": "2026-08-26",
+      "publisher_url": "https://www.usatoday.com/",
+      "source": "USA Today",
+      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
+      "title": "Confirmed cyclospora cases surpass 17,000. See map of affected states",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRGw1U2FJYnhPS0d1b2pyaGJLNFFfZExLUDVqX3pOenppd09jbERFT1ZKSmZJZzVPNmgzTUVnbTZGRjhheV9SN2ZxOXBENjhvb1JoN0EzTm8yYkd4YmZlN2hDeWQ0Znd0NGNpdGZIQ3dLdnpCd1JxZG40Sm9fLVB4YmlaRDlfZ3NsV2tTY094ZnU3Ylp1clNZS3hnN2pENTdjSlNEaDN6c0hHLUloNVBqX0pzYnNtUnFVNEJlcTY1eldEN20ycHJfOElmOA"
+    },
     {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-89569d85d25b",
       "kind": "official",
@@ -93,16 +103,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa3JBbnpNVmlhVFRjdFBJSldPNUR0OHV3cjVxTkNkbVZiUmZBZ2k3UmZicW9xLWhNNk42N01oVDVCSFYzUWJLeHhGS2FQNG9pY29pRk1HcE1ZT0dzcl9NQVlUak02c2RFMFN3NVJEU00xX1hweWV3QWVUNW9OX0lBSkJFdmpuYUU2QzFhMENhQ0xEWVExUzdiTk1VUQ"
     },
     {
-      "id": "usa-today-5836cb579a03",
-      "kind": "major-media",
-      "published_at": "2026-08-20",
-      "publisher_url": "https://www.usatoday.com/",
-      "source": "USA Today",
-      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
-      "title": "Confirmed cyclospora cases approach 16,000. See where people are sick",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS2NpRFoxSUFZcVI4c0V2ekVMbW5YWV9JcXRNeFBSM2JyZy1jcXJQMGpHNnpQYUVob2RsX1RhSnZfNVlHdFk3MFpVVnFYSm1qU05BS18yLW5fUWQ0QkRnZEFzcTRXOUgwWG9YSDlHeUZJeU9KODM2UVNmekY5VG9Ea1B6X0ZqUUotT1VGR19XRDdmRXo2TXFxSTV1Y25BTHU5dWhFYl9vU0M"
-    },
-    {
       "id": "fda-gov-6544fc43d694",
       "kind": "official",
       "published_at": "2026-08-19",
@@ -123,6 +123,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWWJuVERJZFhlSXBMd2ExWnNOWUNxMlR4c1NjYjVKX2dud2l3dFhvcnRMV25Ma3F0MUxqNEs4NjNhNFB5RGNOdkZkdVlmYnRQY0NBTVZRanRGWk9wMUh1bzhjYjFYRmlmOGY2NVZXdktobl9hRFlWakIwNTdYS2J0akVhWHQxQ0UwT09DazNwV0JTUHBCVmxCY2h3SnN2QkpYcVJMRkNMY2hZemlqTTJCRlhBS1Q"
     }
   ],
-  "rejected_candidates": 89,
+  "rejected_candidates": 91,
   "schema_version": 1
 }
