@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-26T02:00:51Z",
+  "generated_at": "2026-08-26T07:10:49Z",
   "items": [
     {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-89569d85d25b",
@@ -21,6 +21,16 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "How Data Are Collected for Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2aEh3YkpFSG1qTXg2UmpTRnZORU0xRHB6SF9MQU1OQVRJY0lMdlcxU0Q0d1cxZkxodEtSTDd2MWJzOWM5V3B4TnhlTEc3VGZsRFJzZ1pwekk4eWFkYTZUSTc2cDJfUmZQM1QwX25NUUVHVW1MYWxIUg"
+    },
+    {
+      "id": "reuters-9cffc414c47d",
+      "kind": "major-media",
+      "published_at": "2026-08-25",
+      "publisher_url": "https://www.reuters.com/",
+      "source": "Reuters",
+      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
+      "title": "Cyclosporiasis cases in US climb to 17,180, CDC says",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU21vMENjY1NJdlRJbUFTZVYwUG91Z2xJTWVlTGZKdFcwX1MtWGJuUjA1ZXAxc3VmeUQxYmoyNXZjSDVTcVlIb0RDMERNcFp6QjNxUnVXNm01cXNJTzlvUEZnSUNXTUdoUHpKYjNhSHlKZkNaM0ZXZjBPSFJTYlpmcUVWTzZid3FCMkJPa3JmNE1SQzcxLW5SNkZIN09ibVBwZnhSN01feTNFX05xWHpqSk82VURmc3c"
     },
     {
       "id": "nbc-news-28df135296ee",
@@ -111,16 +121,6 @@
       "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
       "title": "Cyclospora outbreak: Are you avoiding lettuce this summer?",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWWJuVERJZFhlSXBMd2ExWnNOWUNxMlR4c1NjYjVKX2dud2l3dFhvcnRMV25Ma3F0MUxqNEs4NjNhNFB5RGNOdkZkdVlmYnRQY0NBTVZRanRGWk9wMUh1bzhjYjFYRmlmOGY2NVZXdktobl9hRFlWakIwNTdYS2J0akVhWHQxQ0UwT09DazNwV0JTUHBCVmxCY2h3SnN2QkpYcVJMRkNMY2hZemlqTTJCRlhBS1Q"
-    },
-    {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-905ec3a944fd",
-      "kind": "official",
-      "published_at": "2026-08-18",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Surveillance of Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
     }
   ],
   "rejected_candidates": 89,
