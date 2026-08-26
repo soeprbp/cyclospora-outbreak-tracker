@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-08-25T22:47:41Z",
+  "generated_at": "2026-08-26T02:00:51Z",
   "items": [
     {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-89569d85d25b",
@@ -11,6 +11,16 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Cyclospora Case Data",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eUpPeURQbVFaUVdiWk42RHhxLTRNZ1RwYkFZaUgwU0pGN3Vsek5IelJJd0tlbnIzYlZINDFjV0JZTzZ2R1FXN2RQaURwRE5aeFI3MmF6M3g4M1lrTFlTbg"
+    },
+    {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-9b5c09e72437",
+      "kind": "official",
+      "published_at": "2026-08-25",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "title": "How Data Are Collected for Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2aEh3YkpFSG1qTXg2UmpTRnZORU0xRHB6SF9MQU1OQVRJY0lMdlcxU0Q0d1cxZkxodEtSTDd2MWJzOWM5V3B4TnhlTEc3VGZsRFJzZ1pwekk4eWFkYTZUSTc2cDJfUmZQM1QwX25NUUVHVW1MYWxIUg"
     },
     {
       "id": "nbc-news-28df135296ee",
@@ -111,18 +121,8 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Surveillance of Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51X1BhQ0lBVWtVOTNraUlGZk53Y29odEVFUE9IN3ZzZ3VfTEFNdXlraHpHWHVfS1JfdG9XdkpiQ3hjc1hGRUlqbmJHVmQ1b1RTdFhFbVhLT2p6TnpteXhsVGM3cExYMEczek1zZXh6Yw"
-    },
-    {
-      "id": "reuters-1b2a4237b2cb",
-      "kind": "major-media",
-      "published_at": "2026-08-18",
-      "publisher_url": "https://www.reuters.com/",
-      "source": "Reuters",
-      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
-      "title": "Cyclosporiasis cases in US climb to 15,716, CDC says",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR1QzZW9oU1ZSZDUyTUlSUFZDYTBlLUZDZURwMlVmWTFuNUFvMXVnZXFrTXNZejJpN3I1S3FxSkNwLW5fSzY1OFJ3OS1xWi0wdzY3OVdYQ21ZM0FxQk9LeUNsMW1OYlhVOGVCR3cxeUZlUkh6N1d5aVJNamVmUmdtXzhJQ3hJUnJMZUNpN2J1dzl5cDZpNTVFS0xtOHIxUTJyVTdwc0tiNk5heWV5N0otN0N6WGxBbmc"
     }
   ],
-  "rejected_candidates": 90,
+  "rejected_candidates": 89,
   "schema_version": 1
 }
