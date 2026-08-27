@@ -1,11 +1,11 @@
 {
   "errors": [],
-  "generated_at": "2026-08-27T09:54:44Z",
+  "generated_at": "2026-08-27T20:33:43Z",
   "items": [
     {
       "id": "usa-today-8214bde4cb5f",
       "kind": "major-media",
-      "published_at": "2026-08-26",
+      "published_at": "2026-08-27",
       "publisher_url": "https://www.usatoday.com/",
       "source": "USA Today",
       "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
@@ -51,6 +51,15 @@
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
       "title": "Column | Why we should stop eating lettuce, cyclospora or not",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoSm5sZW9vb29Xd1FUYWw4VFpRT3p4RWE4b3l6Q1p2djJpd3NQOUlMcEJCVGo3V09GUnk3T3pyVjhmTDFxWk90cVlXUUtSTHFtUEpZTVd0eF9qYVVCd2NvYkZwNkVQcUpTZy1CT1JEWXJhWFBfeFVJ"
+    },
+    {
+      "id": "cdc-nndss",
+      "kind": "official",
+      "published_at": "2026-08-22",
+      "source": "CDC NNDSS",
+      "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
+      "title": "NNDSS table reports 27,166 U.S. Cyclospora cases",
+      "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     },
     {
       "id": "nbc-news-28df135296ee",
@@ -111,18 +120,8 @@
       "summary": "Recent Cyclospora coverage from fda.gov. Open the article for the full report.",
       "title": "Investigations of Foodborne Illness Outbreaks",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk9CZUFHZmRHM3p1V1VfczVQOGxOVU5VSjllbF9tSzFyZDZqVXpfOVdTMnNVZk9VZjRVTDlRN3pvbjZZTER0bG5CY2h0Q0F6SldIMDl0WXNmanBtSGthVjQxMU5NZHNibkNLMXBqRnVsOWk4andKSkdrWUM4eUYzaFVzdGI5OFFXRGE5NWJTTFJja2cxaEJaN3doZw"
-    },
-    {
-      "id": "axios-f3a1c7502c1b",
-      "kind": "major-media",
-      "published_at": "2026-08-19",
-      "publisher_url": "https://www.axios.com/",
-      "source": "Axios",
-      "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
-      "title": "Cyclospora outbreak: Are you avoiding lettuce this summer?",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWWJuVERJZFhlSXBMd2ExWnNOWUNxMlR4c1NjYjVKX2dud2l3dFhvcnRMV25Ma3F0MUxqNEs4NjNhNFB5RGNOdkZkdVlmYnRQY0NBTVZRanRGWk9wMUh1bzhjYjFYRmlmOGY2NVZXdktobl9hRFlWakIwNTdYS2J0akVhWHQxQ0UwT09DazNwV0JTUHBCVmxCY2h3SnN2QkpYcVJMRkNMY2hZemlqTTJCRlhBS1Q"
     }
   ],
-  "rejected_candidates": 90,
+  "rejected_candidates": 91,
   "schema_version": 1
 }
