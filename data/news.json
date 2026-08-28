@@ -1,7 +1,17 @@
 {
   "errors": [],
-  "generated_at": "2026-08-27T20:33:43Z",
+  "generated_at": "2026-08-28T05:26:49Z",
   "items": [
+    {
+      "id": "cbs-news-31836e1b273e",
+      "kind": "major-media",
+      "published_at": "2026-08-28",
+      "publisher_url": "https://www.cbsnews.com/",
+      "source": "CBS News",
+      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
+      "title": "Chicago couple files first Illinois lawsuit over cyclospora outbreak",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVVHMmpmYWpHS3paVzJCQWdHU3p0eVQ2WkcxMHM2QWJwb2NMWlVEODJCR3RGcTRhbzNoMHo3UmJiMXJKajZkV0wyTFREX1doOXBPRHp5OVoxSEwwQlNsTU1aWUw1anZ2aVYtM2Fpb2V4Mk51X0lJa3RldFJRSDhaTTNGMGNUUUttNEVoTUs3LUxXVXpkMF9CSTVFUUVZN0ZQZk5lZDItOXlMbHp1"
+    },
     {
       "id": "usa-today-8214bde4cb5f",
       "kind": "major-media",
@@ -11,6 +21,16 @@
       "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
       "title": "Confirmed cyclospora cases surpass 17,000. See map of affected states",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRGw1U2FJYnhPS0d1b2pyaGJLNFFfZExLUDVqX3pOenppd09jbERFT1ZKSmZJZzVPNmgzTUVnbTZGRjhheV9SN2ZxOXBENjhvb1JoN0EzTm8yYkd4YmZlN2hDeWQ0Znd0NGNpdGZIQ3dLdnpCd1JxZG40Sm9fLVB4YmlaRDlfZ3NsV2tTY094ZnU3Ylp1clNZS3hnN2pENTdjSlNEaDN6c0hHLUloNVBqX0pzYnNtUnFVNEJlcTY1eldEN20ycHJfOElmOA"
+    },
+    {
+      "id": "ap-news-13eec7de0e7b",
+      "kind": "major-media",
+      "published_at": "2026-08-27",
+      "publisher_url": "https://apnews.com/",
+      "source": "AP News",
+      "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
+      "title": "US officials tie cyclospora outbreak involving iceberg lettuce to 3 more states",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVUI0eWhSWjJKNzdrWDMwekNyYlNIV1dnMHh5T0tLRTc4ZHhTVlF4NkVGM3FYdVVqdWo2RHRiamdCLVZPT0EteUR0TWllbW10WW41Wnk2OEpGX2gzZWlROUJ4cW12d0JQUjM1c1U3YlR5MzMxWXJ6VlVIajU3V2NrX1BaZ3V1clZxcDAzWUExdnlFRXY0TEVUVkYtb0R1YXprZXlqOA"
     },
     {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-89569d85d25b",
@@ -92,16 +112,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     },
     {
-      "id": "cbs-news-81d3d297bf4e",
-      "kind": "major-media",
-      "published_at": "2026-08-20",
-      "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
-      "title": "Michigan cyclosporiasis outbreak slowing, but cases still being reported",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS2MtenkxV0VUWjlxNktHdmhpSXhnd1RiX3Z4c0VyQjNJYXBDOVc0anBNcVJRdVg5X1VoOVo2X0ZBN3ZKUTR3Y2JWbHZaZmQyMzdCWlZmOFpCMGlfd3hYT3Q5TExzYlhLdlI1SVB1bHA3RFhHZDVXcUtiYXpWY0h0QmxJdnF1YXRYc2JKVkp1ZE5KUQ"
-    },
-    {
       "id": "npr-e0cf2f5d5c24",
       "kind": "major-media",
       "published_at": "2026-08-20",
@@ -110,18 +120,8 @@
       "summary": "Recent Cyclospora coverage from NPR. Open the article for the full report.",
       "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa3JBbnpNVmlhVFRjdFBJSldPNUR0OHV3cjVxTkNkbVZiUmZBZ2k3UmZicW9xLWhNNk42N01oVDVCSFYzUWJLeHhGS2FQNG9pY29pRk1HcE1ZT0dzcl9NQVlUak02c2RFMFN3NVJEU00xX1hweWV3QWVUNW9OX0lBSkJFdmpuYUU2QzFhMENhQ0xEWVExUzdiTk1VUQ"
-    },
-    {
-      "id": "fda-gov-6544fc43d694",
-      "kind": "official",
-      "published_at": "2026-08-19",
-      "publisher_url": "https://www.fda.gov/",
-      "source": "fda.gov",
-      "summary": "Recent Cyclospora coverage from fda.gov. Open the article for the full report.",
-      "title": "Investigations of Foodborne Illness Outbreaks",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk9CZUFHZmRHM3p1V1VfczVQOGxOVU5VSjllbF9tSzFyZDZqVXpfOVdTMnNVZk9VZjRVTDlRN3pvbjZZTER0bG5CY2h0Q0F6SldIMDl0WXNmanBtSGthVjQxMU5NZHNibkNLMXBqRnVsOWk4andKSkdrWUM4eUYzaFVzdGI5OFFXRGE5NWJTTFJja2cxaEJaN3doZw"
     }
   ],
-  "rejected_candidates": 91,
+  "rejected_candidates": 53,
   "schema_version": 1
 }
