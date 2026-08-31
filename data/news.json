@@ -1,27 +1,7 @@
 {
   "errors": [],
-  "generated_at": "2026-08-31T13:58:24Z",
+  "generated_at": "2026-08-31T20:08:53Z",
   "items": [
-    {
-      "id": "cbs-news-31836e1b273e",
-      "kind": "major-media",
-      "published_at": "2026-08-28",
-      "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
-      "title": "Chicago couple files first Illinois lawsuit over cyclospora outbreak",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVVHMmpmYWpHS3paVzJCQWdHU3p0eVQ2WkcxMHM2QWJwb2NMWlVEODJCR3RGcTRhbzNoMHo3UmJiMXJKajZkV0wyTFREX1doOXBPRHp5OVoxSEwwQlNsTU1aWUw1anZ2aVYtM2Fpb2V4Mk51X0lJa3RldFJRSDhaTTNGMGNUUUttNEVoTUs3LUxXVXpkMF9CSTVFUUVZN0ZQZk5lZDItOXlMbHp1"
-    },
-    {
-      "id": "the-washington-post-ed987e306649",
-      "kind": "major-media",
-      "published_at": "2026-08-28",
-      "publisher_url": "https://www.washingtonpost.com/",
-      "source": "The Washington Post",
-      "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
-      "title": "Cyclospora lettuce outbreak now tied to 20 states",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3Qxel9WZk5oU1Q1QWxYbTJsZENYY2E3bjZVbDRpNG80aXZFWDJIQWVYeGF1bEtrSVpFdHBDT2cybVFRS3p2ZGdvMmtxMy1DUkhmdmJvZ0t0NXBXOE1XVUNhSzhPYmFSZUxXTDFOSnphNklKUTlwdFZvb0lQVXZIVFF4WXVpTkNuX2l0dnM5VTRvRmtqYU51SnpmOEY"
-    },
     {
       "id": "usa-today-aca46ea9faec",
       "kind": "major-media",
@@ -31,6 +11,26 @@
       "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
       "title": "Lettuce-linked parasite confirmed in 3 new states. See outbreak map",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM2VXX1k5X3lNZDdMWW5oZm9vWWF0ZVQ3UlpZT0RnRGVQcmk5UjFKdW03Yk5MX1FUcW5oTkVWU1BMcVItWk5IcnU5VnRicHJnUG84QUE1SWptZWNlUk9EcGZfaDJtdlczV0RVNERiVDA0dlI2YW9wdnhoUGZkNTFTeXN4WURjNW9EM3RIWUJMa0pvQTdObjZzRHFvanVKRTBlUHBhQ2lMS3I0Y1JFZE8yOU9GMVVOMzBZamc"
+    },
+    {
+      "id": "washingtonpost-com-ed987e306649",
+      "kind": "major-media",
+      "published_at": "2026-08-28",
+      "publisher_url": "https://www.washingtonpost.com/",
+      "source": "washingtonpost.com",
+      "summary": "Recent Cyclospora coverage from washingtonpost.com. Open the article for the full report.",
+      "title": "Cyclospora lettuce outbreak now tied to 20 states",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3Qxel9WZk5oU1Q1QWxYbTJsZENYY2E3bjZVbDRpNG80aXZFWDJIQWVYeGF1bEtrSVpFdHBDT2cybVFRS3p2ZGdvMmtxMy1DUkhmdmJvZ0t0NXBXOE1XVUNhSzhPYmFSZUxXTDFOSnphNklKUTlwdFZvb0lQVXZIVFF4WXVpTkNuX2l0dnM5VTRvRmtqYU51SnpmOEY"
+    },
+    {
+      "id": "cbsnews-com-31836e1b273e",
+      "kind": "major-media",
+      "published_at": "2026-08-28",
+      "publisher_url": "https://www.cbsnews.com/",
+      "source": "cbsnews.com",
+      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
+      "title": "Chicago couple files first Illinois lawsuit over cyclospora outbreak",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVVHMmpmYWpHS3paVzJCQWdHU3p0eVQ2WkcxMHM2QWJwb2NMWlVEODJCR3RGcTRhbzNoMHo3UmJiMXJKajZkV0wyTFREX1doOXBPRHp5OVoxSEwwQlNsTU1aWUw1anZ2aVYtM2Fpb2V4Mk51X0lJa3RldFJRSDhaTTNGMGNUUUttNEVoTUs3LUxXVXpkMF9CSTVFUUVZN0ZQZk5lZDItOXlMbHp1"
     },
     {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
@@ -122,6 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa3JBbnpNVmlhVFRjdFBJSldPNUR0OHV3cjVxTkNkbVZiUmZBZ2k3UmZicW9xLWhNNk42N01oVDVCSFYzUWJLeHhGS2FQNG9pY29pRk1HcE1ZT0dzcl9NQVlUak02c2RFMFN3NVJEU00xX1hweWV3QWVUNW9OX0lBSkJFdmpuYUU2QzFhMENhQ0xEWVExUzdiTk1VUQ"
     }
   ],
-  "rejected_candidates": 88,
+  "rejected_candidates": 89,
   "schema_version": 1
 }
