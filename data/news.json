@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-09-01T10:12:44Z",
+  "generated_at": "2026-09-01T14:56:48Z",
   "items": [
     {
       "id": "usa-today-aca46ea9faec",
@@ -39,6 +39,16 @@
       "publisher_url": "https://www.cdc.gov/",
       "source": "cdc.gov",
       "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
+      "title": "Cyclospora Outbreak Linked to Iceberg Lettuce | Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
+    },
+    {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
+      "kind": "official",
+      "published_at": "2026-08-27",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Cyclospora Outbreak Linked to Iceberg Lettuce | Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     },
@@ -83,6 +93,16 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eUpPeURQbVFaUVdiWk42RHhxLTRNZ1RwYkFZaUgwU0pGN3Vsek5IelJJd0tlbnIzYlZINDFjV0JZTzZ2R1FXN2RQaURwRE5aeFI3MmF6M3g4M1lrTFlTbg"
     },
     {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-89569d85d25b",
+      "kind": "official",
+      "published_at": "2026-08-25",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "title": "Cyclospora Case Data | Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eUpPeURQbVFaUVdiWk42RHhxLTRNZ1RwYkFZaUgwU0pGN3Vsek5IelJJd0tlbnIzYlZINDFjV0JZTzZ2R1FXN2RQaURwRE5aeFI3MmF6M3g4M1lrTFlTbg"
+    },
+    {
       "id": "cdc-nndss",
       "kind": "official",
       "published_at": "2026-08-22",
@@ -100,28 +120,8 @@
       "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
       "title": "Why this year\u2019s foodborne outbreaks have made more Americans sick",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUzBiTHhHZkNVZ2I4ZHRsOTYwNTBhTUlWa3dvcURoZjRrN3dfcVRIbUFzWTJHOWc3M0V1dTI3Y19GbXNINFYyenVJaElwMUhuenJUVFdHbnUzMXl0NDk2LXNFSHJiRmhBRUc5VGFzaklFNEJsMzBiNjVCT2cxQVh3NF9iT1RvWXhjNzlPSzM2ZkRRNGhtMndwQ2ZhdjlDdUtFZU5GR3ZpVElIbktrd281Vm9OZ1dKX0l3ekpQLQ"
-    },
-    {
-      "id": "cdc-gov-c79f4fa66419",
-      "kind": "official",
-      "published_at": "2026-08-21",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "cdc.gov",
-      "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
-      "title": "Outbreak linked to alfalfa sprouts; people sickened with E. coli and Salmonella",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjJjNklYQ2tnZG5MRnF0MWtnRWNWZFlpdHkzXy0zM1ZfWGQ0d0xMbXR2Zy1zUjlWNjlNUEotdEViLVZ3TzJuQjk3THh4WFV0WnduRmJhSE45eUxDVE9nNUlxM2poYmJ3X0hhWE5MWkdJbkxuX0lOemloYk45TE9oc1RzOTdzSndXS25iaDJid1l3NGd0bU9nQzlkazNZanQ2Wm43MHJvWFhqUHNiRkZneUprTkxLVWoxOWhxTUd3UQ"
-    },
-    {
-      "id": "npr-e0cf2f5d5c24",
-      "kind": "major-media",
-      "published_at": "2026-08-20",
-      "publisher_url": "https://www.npr.org/",
-      "source": "NPR",
-      "summary": "Recent Cyclospora coverage from NPR. Open the article for the full report.",
-      "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa3JBbnpNVmlhVFRjdFBJSldPNUR0OHV3cjVxTkNkbVZiUmZBZ2k3UmZicW9xLWhNNk42N01oVDVCSFYzUWJLeHhGS2FQNG9pY29pRk1HcE1ZT0dzcl9NQVlUak02c2RFMFN3NVJEU00xX1hweWV3QWVUNW9OX0lBSkJFdmpuYUU2QzFhMENhQ0xEWVExUzdiTk1VUQ"
     }
   ],
-  "rejected_candidates": 90,
+  "rejected_candidates": 92,
   "schema_version": 1
 }
