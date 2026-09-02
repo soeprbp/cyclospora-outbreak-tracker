@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-09-02T11:24:02Z",
+  "generated_at": "2026-09-02T16:38:04Z",
   "items": [
     {
       "id": "reuters-6aeafe6029a6",
@@ -11,16 +11,6 @@
       "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
       "title": "US widens lettuce-related cyclosporiasis probe to 20 states",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTjBmRExXZERBYktYNTk0MmhUTHV5N2pwSXVWRkktTE1kdmo1VjV5bFRfdUxPY1h3eVJScjd0amZYUmZYSVVUZjNsMklvRTZpREVzNDd1aVczOUJpSVFSVF9Ub2JpTUt5RkNQeXBDdE5qMkZlRWNTM2pTdGplUC1TZHVYaUlaQUFiYTZSNTZhMHNLaHI5NTkxZWoyZTRGVzlBM1N6bEY0WW51WXVhT2pmSkUtYXVmWF9vYnFjcXkwTkIyMnN5dVln"
-    },
-    {
-      "id": "the-washington-post-ed987e306649",
-      "kind": "major-media",
-      "published_at": "2026-08-28",
-      "publisher_url": "https://www.washingtonpost.com/",
-      "source": "The Washington Post",
-      "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
-      "title": "Cyclospora lettuce outbreak now tied to 20 states",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3Qxel9WZk5oU1Q1QWxYbTJsZENYY2E3bjZVbDRpNG80aXZFWDJIQWVYeGF1bEtrSVpFdHBDT2cybVFRS3p2ZGdvMmtxMy1DUkhmdmJvZ0t0NXBXOE1XVUNhSzhPYmFSZUxXTDFOSnphNklKUTlwdFZvb0lQVXZIVFF4WXVpTkNuX2l0dnM5VTRvRmtqYU51SnpmOEY"
     },
     {
       "id": "usa-today-aca46ea9faec",
@@ -43,12 +33,32 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVVHMmpmYWpHS3paVzJCQWdHU3p0eVQ2WkcxMHM2QWJwb2NMWlVEODJCR3RGcTRhbzNoMHo3UmJiMXJKajZkV0wyTFREX1doOXBPRHp5OVoxSEwwQlNsTU1aWUw1anZ2aVYtM2Fpb2V4Mk51X0lJa3RldFJRSDhaTTNGMGNUUUttNEVoTUs3LUxXVXpkMF9CSTVFUUVZN0ZQZk5lZDItOXlMbHp1"
     },
     {
+      "id": "washingtonpost-com-ed987e306649",
+      "kind": "major-media",
+      "published_at": "2026-08-28",
+      "publisher_url": "https://www.washingtonpost.com/",
+      "source": "washingtonpost.com",
+      "summary": "Recent Cyclospora coverage from washingtonpost.com. Open the article for the full report.",
+      "title": "Cyclospora lettuce outbreak now tied to 20 states",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3Qxel9WZk5oU1Q1QWxYbTJsZENYY2E3bjZVbDRpNG80aXZFWDJIQWVYeGF1bEtrSVpFdHBDT2cybVFRS3p2ZGdvMmtxMy1DUkhmdmJvZ0t0NXBXOE1XVUNhSzhPYmFSZUxXTDFOSnphNklKUTlwdFZvb0lQVXZIVFF4WXVpTkNuX2l0dnM5VTRvRmtqYU51SnpmOEY"
+    },
+    {
       "id": "cdc-gov-00dfbf931d18",
       "kind": "official",
       "published_at": "2026-08-27",
       "publisher_url": "https://www.cdc.gov/",
       "source": "cdc.gov",
       "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
+      "title": "Cyclospora Outbreak Linked to Iceberg Lettuce | Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
+    },
+    {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
+      "kind": "official",
+      "published_at": "2026-08-27",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Cyclospora Outbreak Linked to Iceberg Lettuce | Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     },
@@ -110,18 +120,8 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Outbreak linked to alfalfa sprouts; people sickened with E. coli and Salmonella",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjJjNklYQ2tnZG5MRnF0MWtnRWNWZFlpdHkzXy0zM1ZfWGQ0d0xMbXR2Zy1zUjlWNjlNUEotdEViLVZ3TzJuQjk3THh4WFV0WnduRmJhSE45eUxDVE9nNUlxM2poYmJ3X0hhWE5MWkdJbkxuX0lOemloYk45TE9oc1RzOTdzSndXS25iaDJid1l3NGd0bU9nQzlkazNZanQ2Wm43MHJvWFhqUHNiRkZneUprTkxLVWoxOWhxTUd3UQ"
-    },
-    {
-      "id": "npr-e0cf2f5d5c24",
-      "kind": "major-media",
-      "published_at": "2026-08-20",
-      "publisher_url": "https://www.npr.org/",
-      "source": "NPR",
-      "summary": "Recent Cyclospora coverage from NPR. Open the article for the full report.",
-      "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa3JBbnpNVmlhVFRjdFBJSldPNUR0OHV3cjVxTkNkbVZiUmZBZ2k3UmZicW9xLWhNNk42N01oVDVCSFYzUWJLeHhGS2FQNG9pY29pRk1HcE1ZT0dzcl9NQVlUak02c2RFMFN3NVJEU00xX1hweWV3QWVUNW9OX0lBSkJFdmpuYUU2QzFhMENhQ0xEWVExUzdiTk1VUQ"
     }
   ],
-  "rejected_candidates": 91,
+  "rejected_candidates": 92,
   "schema_version": 1
 }
