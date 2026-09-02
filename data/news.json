@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-09-02T00:17:48Z",
+  "generated_at": "2026-09-02T05:52:09Z",
   "items": [
     {
       "id": "the-washington-post-ed987e306649",
@@ -63,12 +63,12 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVUI0eWhSWjJKNzdrWDMwekNyYlNIV1dnMHh5T0tLRTc4ZHhTVlF4NkVGM3FYdVVqdWo2RHRiamdCLVZPT0EteUR0TWllbW10WW41Wnk2OEpGX2gzZWlROUJ4cW12d0JQUjM1c1U3YlR5MzMxWXJ6VlVIajU3V2NrX1BaZ3V1clZxcDAzWUExdnlFRXY0TEVUVkYtb0R1YXprZXlqOA"
     },
     {
-      "id": "reuters-com-6aeafe6029a6",
+      "id": "reuters-6aeafe6029a6",
       "kind": "major-media",
       "published_at": "2026-08-27",
       "publisher_url": "https://www.reuters.com/",
-      "source": "reuters.com",
-      "summary": "Recent Cyclospora coverage from reuters.com. Open the article for the full report.",
+      "source": "Reuters",
+      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
       "title": "US widens lettuce-related cyclosporiasis probe to 20 states",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTjBmRExXZERBYktYNTk0MmhUTHV5N2pwSXVWRkktTE1kdmo1VjV5bFRfdUxPY1h3eVJScjd0amZYUmZYSVVUZjNsMklvRTZpREVzNDd1aVczOUJpSVFSVF9Ub2JpTUt5RkNQeXBDdE5qMkZlRWNTM2pTdGplUC1TZHVYaUlaQUFiYTZSNTZhMHNLaHI5NTkxZWoyZTRGVzlBM1N6bEY0WW51WXVhT2pmSkUtYXVmWF9vYnFjcXkwTkIyMnN5dVln"
     },
@@ -103,16 +103,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eUpPeURQbVFaUVdiWk42RHhxLTRNZ1RwYkFZaUgwU0pGN3Vsek5IelJJd0tlbnIzYlZINDFjV0JZTzZ2R1FXN2RQaURwRE5aeFI3MmF6M3g4M1lrTFlTbg"
     },
     {
-      "id": "reuters-9cffc414c47d",
-      "kind": "major-media",
-      "published_at": "2026-08-25",
-      "publisher_url": "https://www.reuters.com/",
-      "source": "Reuters",
-      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
-      "title": "Cyclosporiasis cases in US climb to 17,180, CDC says",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU21vMENjY1NJdlRJbUFTZVYwUG91Z2xJTWVlTGZKdFcwX1MtWGJuUjA1ZXAxc3VmeUQxYmoyNXZjSDVTcVlIb0RDMERNcFp6QjNxUnVXNm01cXNJTzlvUEZnSUNXTUdoUHpKYjNhSHlKZkNaM0ZXZjBPSFJTYlpmcUVWTzZid3FCMkJPa3JmNE1SQzcxLW5SNkZIN09ibVBwZnhSN01feTNFX05xWHpqSk82VURmc3c"
-    },
-    {
       "id": "cdc-nndss",
       "kind": "official",
       "published_at": "2026-08-22",
@@ -120,8 +110,18 @@
       "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
       "title": "NNDSS table reports 27,166 U.S. Cyclospora cases",
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
+    },
+    {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-c79f4fa66419",
+      "kind": "official",
+      "published_at": "2026-08-21",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "title": "Outbreak linked to alfalfa sprouts; people sickened with E. coli and Salmonella",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjJjNklYQ2tnZG5MRnF0MWtnRWNWZFlpdHkzXy0zM1ZfWGQ0d0xMbXR2Zy1zUjlWNjlNUEotdEViLVZ3TzJuQjk3THh4WFV0WnduRmJhSE45eUxDVE9nNUlxM2poYmJ3X0hhWE5MWkdJbkxuX0lOemloYk45TE9oc1RzOTdzSndXS25iaDJid1l3NGd0bU9nQzlkazNZanQ2Wm43MHJvWFhqUHNiRkZneUprTkxLVWoxOWhxTUd3UQ"
     }
   ],
-  "rejected_candidates": 96,
+  "rejected_candidates": 93,
   "schema_version": 1
 }
