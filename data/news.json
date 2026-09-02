@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-09-01T21:49:16Z",
+  "generated_at": "2026-09-02T00:17:48Z",
   "items": [
     {
       "id": "the-washington-post-ed987e306649",
@@ -13,22 +13,22 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3Qxel9WZk5oU1Q1QWxYbTJsZENYY2E3bjZVbDRpNG80aXZFWDJIQWVYeGF1bEtrSVpFdHBDT2cybVFRS3p2ZGdvMmtxMy1DUkhmdmJvZ0t0NXBXOE1XVUNhSzhPYmFSZUxXTDFOSnphNklKUTlwdFZvb0lQVXZIVFF4WXVpTkNuX2l0dnM5VTRvRmtqYU51SnpmOEY"
     },
     {
-      "id": "usatoday-com-aca46ea9faec",
+      "id": "usa-today-aca46ea9faec",
       "kind": "major-media",
       "published_at": "2026-08-28",
       "publisher_url": "https://www.usatoday.com/",
-      "source": "usatoday.com",
-      "summary": "Recent Cyclospora coverage from usatoday.com. Open the article for the full report.",
+      "source": "USA Today",
+      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
       "title": "Lettuce-linked parasite confirmed in 3 new states. See outbreak map",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM2VXX1k5X3lNZDdMWW5oZm9vWWF0ZVQ3UlpZT0RnRGVQcmk5UjFKdW03Yk5MX1FUcW5oTkVWU1BMcVItWk5IcnU5VnRicHJnUG84QUE1SWptZWNlUk9EcGZfaDJtdlczV0RVNERiVDA0dlI2YW9wdnhoUGZkNTFTeXN4WURjNW9EM3RIWUJMa0pvQTdObjZzRHFvanVKRTBlUHBhQ2lMS3I0Y1JFZE8yOU9GMVVOMzBZamc"
     },
     {
-      "id": "cbsnews-com-31836e1b273e",
+      "id": "cbs-news-31836e1b273e",
       "kind": "major-media",
       "published_at": "2026-08-28",
       "publisher_url": "https://www.cbsnews.com/",
-      "source": "cbsnews.com",
-      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
+      "source": "CBS News",
+      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
       "title": "Chicago couple files first Illinois lawsuit over cyclospora outbreak",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVVHMmpmYWpHS3paVzJCQWdHU3p0eVQ2WkcxMHM2QWJwb2NMWlVEODJCR3RGcTRhbzNoMHo3UmJiMXJKajZkV0wyTFREX1doOXBPRHp5OVoxSEwwQlNsTU1aWUw1anZ2aVYtM2Fpb2V4Mk51X0lJa3RldFJRSDhaTTNGMGNUUUttNEVoTUs3LUxXVXpkMF9CSTVFUUVZN0ZQZk5lZDItOXlMbHp1"
     },
@@ -103,6 +103,16 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eUpPeURQbVFaUVdiWk42RHhxLTRNZ1RwYkFZaUgwU0pGN3Vsek5IelJJd0tlbnIzYlZINDFjV0JZTzZ2R1FXN2RQaURwRE5aeFI3MmF6M3g4M1lrTFlTbg"
     },
     {
+      "id": "reuters-9cffc414c47d",
+      "kind": "major-media",
+      "published_at": "2026-08-25",
+      "publisher_url": "https://www.reuters.com/",
+      "source": "Reuters",
+      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
+      "title": "Cyclosporiasis cases in US climb to 17,180, CDC says",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU21vMENjY1NJdlRJbUFTZVYwUG91Z2xJTWVlTGZKdFcwX1MtWGJuUjA1ZXAxc3VmeUQxYmoyNXZjSDVTcVlIb0RDMERNcFp6QjNxUnVXNm01cXNJTzlvUEZnSUNXTUdoUHpKYjNhSHlKZkNaM0ZXZjBPSFJTYlpmcUVWTzZid3FCMkJPa3JmNE1SQzcxLW5SNkZIN09ibVBwZnhSN01feTNFX05xWHpqSk82VURmc3c"
+    },
+    {
       "id": "cdc-nndss",
       "kind": "official",
       "published_at": "2026-08-22",
@@ -110,18 +120,8 @@
       "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
       "title": "NNDSS table reports 27,166 U.S. Cyclospora cases",
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
-    },
-    {
-      "id": "nbc-news-28df135296ee",
-      "kind": "major-media",
-      "published_at": "2026-08-22",
-      "publisher_url": "https://www.nbcnews.com/",
-      "source": "NBC News",
-      "summary": "Recent Cyclospora coverage from NBC News. Open the article for the full report.",
-      "title": "Why this year\u2019s foodborne outbreaks have made more Americans sick",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUzBiTHhHZkNVZ2I4ZHRsOTYwNTBhTUlWa3dvcURoZjRrN3dfcVRIbUFzWTJHOWc3M0V1dTI3Y19GbXNINFYyenVJaElwMUhuenJUVFdHbnUzMXl0NDk2LXNFSHJiRmhBRUc5VGFzaklFNEJsMzBiNjVCT2cxQVh3NF9iT1RvWXhjNzlPSzM2ZkRRNGhtMndwQ2ZhdjlDdUtFZU5GR3ZpVElIbktrd281Vm9OZ1dKX0l3ekpQLQ"
     }
   ],
-  "rejected_candidates": 94,
+  "rejected_candidates": 96,
   "schema_version": 1
 }
