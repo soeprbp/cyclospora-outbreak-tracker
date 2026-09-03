@@ -3,7 +3,7 @@
     "cdc": "missing CDC domestic case section",
     "idoh": "missing IDOH date"
   },
-  "generated_at": "2026-09-02T22:40:51Z",
+  "generated_at": "2026-09-03T01:08:21Z",
   "schema_version": 2,
   "sources": {
     "cdc": {
@@ -17,7 +17,7 @@
       "validation_status": "last-known-good"
     },
     "fda": {
-      "fetched_at": "2026-09-02T22:40:51Z",
+      "fetched_at": "2026-09-03T01:08:21Z",
       "investigations": [
         {
           "cases": 22,
@@ -26,7 +26,7 @@
           "status": "ongoing"
         },
         {
-          "cases": 225,
+          "cases": 203,
           "date_posted": "2026-07-22",
           "reference": "1392",
           "status": "ongoing"
@@ -38,7 +38,7 @@
           "status": "active"
         },
         {
-          "cases": 38,
+          "cases": 28,
           "date_posted": "2026-07-08",
           "reference": "1385",
           "status": "ongoing"
@@ -47,6 +47,18 @@
           "cases": 18,
           "date_posted": "2026-07-08",
           "reference": "1384",
+          "status": "ended"
+        },
+        {
+          "cases": 2,
+          "date_posted": "2026-06-17",
+          "reference": "1381",
+          "status": "ended"
+        },
+        {
+          "cases": 8,
+          "date_posted": "2026-06-03",
+          "reference": "1375",
           "status": "ended"
         }
       ],
@@ -64,21 +76,21 @@
     "idph": {
       "cases": 1601,
       "domestic_cases": 1094,
-      "fetched_at": "2026-09-02T22:40:51Z",
+      "fetched_at": "2026-09-03T01:08:21Z",
       "official_as_of": "2020-09-01",
       "source_url": "https://dph.illinois.gov/",
       "validation_status": "valid"
     },
     "mdhhs": {
       "cases": 14510,
-      "fetched_at": "2026-09-02T22:40:51Z",
+      "fetched_at": "2026-09-03T01:08:21Z",
       "hospitalizations": 356,
       "official_as_of": "2026-08-27",
       "source_url": "https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases/infectious-disease-outbreaks",
       "validation_status": "valid"
     },
     "nndss": {
-      "fetched_at": "2026-09-02T22:40:51Z",
+      "fetched_at": "2026-09-03T01:08:21Z",
       "jurisdictions": {
         "AK": {
           "cases": 11
@@ -246,14 +258,14 @@
     },
     "nysdoh": {
       "cases": 1052,
-      "fetched_at": "2026-09-02T22:40:51Z",
+      "fetched_at": "2026-09-03T01:08:21Z",
       "official_as_of": "2026-08-31",
       "source_url": "https://www.health.ny.gov/diseases/communicable/cyclosporiasis/index",
       "validation_status": "valid"
     },
     "widhs": {
       "cases": 284,
-      "fetched_at": "2026-09-02T22:40:51Z",
+      "fetched_at": "2026-09-03T01:08:21Z",
       "hospitalizations": 8,
       "official_as_of": "2026-08-26",
       "source_url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",

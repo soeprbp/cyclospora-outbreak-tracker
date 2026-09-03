@@ -1,7 +1,17 @@
 {
   "errors": [],
-  "generated_at": "2026-09-02T22:41:09Z",
+  "generated_at": "2026-09-03T01:08:38Z",
   "items": [
+    {
+      "id": "usa-today-40dc3e43613e",
+      "kind": "major-media",
+      "published_at": "2026-09-02",
+      "publisher_url": "https://www.usatoday.com/",
+      "source": "USA Today",
+      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
+      "title": "Cyclospora season is 'over.' See map of states still reporting cases",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVk1SNFVNUEZTRUk2YUN2eUxKWENCYU5reTg0cFI2emJTaXhiTTZSS2RmOTJwWEY4N3lYUUNfSFlSV2VlV0NWZGhlUjhUSzVTaUZvam1RejRXOWxGUFpFd0dsRjhLc1dERlN0VWpOaXplcFktMG9JbkhRN1JaQUxreGdrUGNqWUFFdkZheG1jTjNMMk5JU2xuanJhOFlVbWFjdk03NVdKS3FYRWdONE1kRS12dWJ2QlJ6clJTeg"
+    },
     {
       "id": "reuters-com-6aeafe6029a6",
       "kind": "major-media",
@@ -20,16 +30,6 @@
       "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
       "title": "NNDSS table reports 28,800 U.S. Cyclospora cases",
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
-    },
-    {
-      "id": "usa-today-aca46ea9faec",
-      "kind": "major-media",
-      "published_at": "2026-08-28",
-      "publisher_url": "https://www.usatoday.com/",
-      "source": "USA Today",
-      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
-      "title": "Lettuce-linked parasite confirmed in 3 new states. See outbreak map",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM2VXX1k5X3lNZDdMWW5oZm9vWWF0ZVQ3UlpZT0RnRGVQcmk5UjFKdW03Yk5MX1FUcW5oTkVWU1BMcVItWk5IcnU5VnRicHJnUG84QUE1SWptZWNlUk9EcGZfaDJtdlczV0RVNERiVDA0dlI2YW9wdnhoUGZkNTFTeXN4WURjNW9EM3RIWUJMa0pvQTdObjZzRHFvanVKRTBlUHBhQ2lMS3I0Y1JFZE8yOU9GMVVOMzBZamc"
     },
     {
       "id": "cbs-news-31836e1b273e",
@@ -112,16 +112,16 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eUpPeURQbVFaUVdiWk42RHhxLTRNZ1RwYkFZaUgwU0pGN3Vsek5IelJJd0tlbnIzYlZINDFjV0JZTzZ2R1FXN2RQaURwRE5aeFI3MmF6M3g4M1lrTFlTbg"
     },
     {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-c79f4fa66419",
-      "kind": "official",
-      "published_at": "2026-08-21",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Outbreak linked to alfalfa sprouts; people sickened with E. coli and Salmonella",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjJjNklYQ2tnZG5MRnF0MWtnRWNWZFlpdHkzXy0zM1ZfWGQ0d0xMbXR2Zy1zUjlWNjlNUEotdEViLVZ3TzJuQjk3THh4WFV0WnduRmJhSE45eUxDVE9nNUlxM2poYmJ3X0hhWE5MWkdJbkxuX0lOemloYk45TE9oc1RzOTdzSndXS25iaDJid1l3NGd0bU9nQzlkazNZanQ2Wm43MHJvWFhqUHNiRkZneUprTkxLVWoxOWhxTUd3UQ"
+      "id": "reuters-9cffc414c47d",
+      "kind": "major-media",
+      "published_at": "2026-08-25",
+      "publisher_url": "https://www.reuters.com/",
+      "source": "Reuters",
+      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
+      "title": "Cyclosporiasis cases in US climb to 17,180, CDC says",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU21vMENjY1NJdlRJbUFTZVYwUG91Z2xJTWVlTGZKdFcwX1MtWGJuUjA1ZXAxc3VmeUQxYmoyNXZjSDVTcVlIb0RDMERNcFp6QjNxUnVXNm01cXNJTzlvUEZnSUNXTUdoUHpKYjNhSHlKZkNaM0ZXZjBPSFJTYlpmcUVWTzZid3FCMkJPa3JmNE1SQzcxLW5SNkZIN09ibVBwZnhSN01feTNFX05xWHpqSk82VURmc3c"
     }
   ],
-  "rejected_candidates": 99,
+  "rejected_candidates": 102,
   "schema_version": 1
 }
