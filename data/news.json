@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-09-03T01:08:38Z",
+  "generated_at": "2026-09-03T05:52:02Z",
   "items": [
     {
       "id": "usa-today-40dc3e43613e",
@@ -42,12 +42,12 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVVHMmpmYWpHS3paVzJCQWdHU3p0eVQ2WkcxMHM2QWJwb2NMWlVEODJCR3RGcTRhbzNoMHo3UmJiMXJKajZkV0wyTFREX1doOXBPRHp5OVoxSEwwQlNsTU1aWUw1anZ2aVYtM2Fpb2V4Mk51X0lJa3RldFJRSDhaTTNGMGNUUUttNEVoTUs3LUxXVXpkMF9CSTVFUUVZN0ZQZk5lZDItOXlMbHp1"
     },
     {
-      "id": "washingtonpost-com-ed987e306649",
+      "id": "the-washington-post-ed987e306649",
       "kind": "major-media",
       "published_at": "2026-08-28",
       "publisher_url": "https://www.washingtonpost.com/",
-      "source": "washingtonpost.com",
-      "summary": "Recent Cyclospora coverage from washingtonpost.com. Open the article for the full report.",
+      "source": "The Washington Post",
+      "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
       "title": "Cyclospora lettuce outbreak now tied to 20 states",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3Qxel9WZk5oU1Q1QWxYbTJsZENYY2E3bjZVbDRpNG80aXZFWDJIQWVYeGF1bEtrSVpFdHBDT2cybVFRS3p2ZGdvMmtxMy1DUkhmdmJvZ0t0NXBXOE1XVUNhSzhPYmFSZUxXTDFOSnphNklKUTlwdFZvb0lQVXZIVFF4WXVpTkNuX2l0dnM5VTRvRmtqYU51SnpmOEY"
     },
@@ -122,6 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU21vMENjY1NJdlRJbUFTZVYwUG91Z2xJTWVlTGZKdFcwX1MtWGJuUjA1ZXAxc3VmeUQxYmoyNXZjSDVTcVlIb0RDMERNcFp6QjNxUnVXNm01cXNJTzlvUEZnSUNXTUdoUHpKYjNhSHlKZkNaM0ZXZjBPSFJTYlpmcUVWTzZid3FCMkJPa3JmNE1SQzcxLW5SNkZIN09ibVBwZnhSN01feTNFX05xWHpqSk82VURmc3c"
     }
   ],
-  "rejected_candidates": 102,
+  "rejected_candidates": 101,
   "schema_version": 1
 }
