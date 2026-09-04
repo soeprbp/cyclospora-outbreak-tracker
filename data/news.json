@@ -1,24 +1,24 @@
 {
   "errors": [],
-  "generated_at": "2026-09-03T22:37:30Z",
+  "generated_at": "2026-09-04T01:01:29Z",
   "items": [
     {
-      "id": "reuters-com-01807950b627",
+      "id": "reuters-01807950b627",
       "kind": "major-media",
       "published_at": "2026-09-03",
       "publisher_url": "https://www.reuters.com/",
-      "source": "reuters.com",
-      "summary": "Recent Cyclospora coverage from reuters.com. Open the article for the full report.",
+      "source": "Reuters",
+      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
       "title": "Cyclosporiasis cases in Michigan climb to over 14,700, state health officials say",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV3VRZjV0WjNsdkx0eWdsY1ZwM3dLLTdCRkpLVFgwUWxyd1R3NG5fY1E2MUo3dXctUGxvblVKeDRRREN0UFZKVFdreVFKbktVQV8yd2FRUmxMVGhUS0N1OEMySk5zdnpoY19WeHBYRXFFNXVDTkhKczhGQjZYZVlMdXE3OUtWcTBwVkJ3Tjc4ZEpjemV5VUVVZk5CRm5jdUNyRlJqRGZLNEx2Zlh3VGppM0xwSnNPMTRTcmRLR1IwdmVxTWlXcENncjV6UXM2RkNHdlludG1QU3JSTUEzMkE"
     },
     {
-      "id": "usa-today-40dc3e43613e",
+      "id": "usatoday-com-40dc3e43613e",
       "kind": "major-media",
       "published_at": "2026-09-02",
       "publisher_url": "https://www.usatoday.com/",
-      "source": "USA Today",
-      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
+      "source": "usatoday.com",
+      "summary": "Recent Cyclospora coverage from usatoday.com. Open the article for the full report.",
       "title": "Cyclospora season is 'over.' See map of states still reporting cases",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVk1SNFVNUEZTRUk2YUN2eUxKWENCYU5reTg0cFI2emJTaXhiTTZSS2RmOTJwWEY4N3lYUUNfSFlSV2VlV0NWZGhlUjhUSzVTaUZvam1RejRXOWxGUFpFd0dsRjhLc1dERlN0VWpOaXplcFktMG9JbkhRN1JaQUxreGdrUGNqWUFFdkZheG1jTjNMMk5JU2xuanJhOFlVbWFjdk03NVdKS3FYRWdONE1kRS12dWJ2QlJ6clJTeg"
     },
@@ -29,6 +29,16 @@
       "publisher_url": "https://www.cdc.gov/",
       "source": "cdc.gov",
       "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
+      "title": "Cyclospora Case Data | Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eUpPeURQbVFaUVdiWk42RHhxLTRNZ1RwYkFZaUgwU0pGN3Vsek5IelJJd0tlbnIzYlZINDFjV0JZTzZ2R1FXN2RQaURwRE5aeFI3MmF6M3g4M1lrTFlTbg"
+    },
+    {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-89569d85d25b",
+      "kind": "official",
+      "published_at": "2026-09-01",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Cyclospora Case Data | Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eUpPeURQbVFaUVdiWk42RHhxLTRNZ1RwYkFZaUgwU0pGN3Vsek5IelJJd0tlbnIzYlZINDFjV0JZTzZ2R1FXN2RQaURwRE5aeFI3MmF6M3g4M1lrTFlTbg"
     },
@@ -109,17 +119,8 @@
       "summary": "CDC's national surveillance snapshot reports 828 hospitalizations, 2 deaths, and cases across 47 states.",
       "title": "CDC reports 15,716 domestically acquired Cyclospora cases",
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
-    },
-    {
-      "id": "fda-core-1398",
-      "kind": "official",
-      "published_at": "2026-08-05",
-      "source": "FDA",
-      "summary": "FDA's CORE table reports 22 cases and lists investigation 1398 as ongoing; the agency table should be checked for current traceback and product details.",
-      "title": "FDA opens Cyclospora investigation 1398",
-      "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
     }
   ],
-  "rejected_candidates": 90,
+  "rejected_candidates": 89,
   "schema_version": 1
 }
