@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-09-04T01:01:29Z",
+  "generated_at": "2026-09-04T05:57:32Z",
   "items": [
     {
       "id": "reuters-01807950b627",
@@ -13,12 +13,12 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV3VRZjV0WjNsdkx0eWdsY1ZwM3dLLTdCRkpLVFgwUWxyd1R3NG5fY1E2MUo3dXctUGxvblVKeDRRREN0UFZKVFdreVFKbktVQV8yd2FRUmxMVGhUS0N1OEMySk5zdnpoY19WeHBYRXFFNXVDTkhKczhGQjZYZVlMdXE3OUtWcTBwVkJ3Tjc4ZEpjemV5VUVVZk5CRm5jdUNyRlJqRGZLNEx2Zlh3VGppM0xwSnNPMTRTcmRLR1IwdmVxTWlXcENncjV6UXM2RkNHdlludG1QU3JSTUEzMkE"
     },
     {
-      "id": "usatoday-com-40dc3e43613e",
+      "id": "usa-today-40dc3e43613e",
       "kind": "major-media",
       "published_at": "2026-09-02",
       "publisher_url": "https://www.usatoday.com/",
-      "source": "usatoday.com",
-      "summary": "Recent Cyclospora coverage from usatoday.com. Open the article for the full report.",
+      "source": "USA Today",
+      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
       "title": "Cyclospora season is 'over.' See map of states still reporting cases",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVk1SNFVNUEZTRUk2YUN2eUxKWENCYU5reTg0cFI2emJTaXhiTTZSS2RmOTJwWEY4N3lYUUNfSFlSV2VlV0NWZGhlUjhUSzVTaUZvam1RejRXOWxGUFpFd0dsRjhLc1dERlN0VWpOaXplcFktMG9JbkhRN1JaQUxreGdrUGNqWUFFdkZheG1jTjNMMk5JU2xuanJhOFlVbWFjdk03NVdKS3FYRWdONE1kRS12dWJ2QlJ6clJTeg"
     },
@@ -121,6 +121,6 @@
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     }
   ],
-  "rejected_candidates": 89,
+  "rejected_candidates": 90,
   "schema_version": 1
 }
