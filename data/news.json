@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-09-04T19:39:07Z",
+  "generated_at": "2026-09-04T22:23:01Z",
   "items": [
     {
       "id": "reuters-com-01807950b627",
@@ -29,6 +29,16 @@
       "publisher_url": "https://www.cdc.gov/",
       "source": "cdc.gov",
       "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
+      "title": "Cyclospora Case Data | Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eUpPeURQbVFaUVdiWk42RHhxLTRNZ1RwYkFZaUgwU0pGN3Vsek5IelJJd0tlbnIzYlZINDFjV0JZTzZ2R1FXN2RQaURwRE5aeFI3MmF6M3g4M1lrTFlTbg"
+    },
+    {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-89569d85d25b",
+      "kind": "official",
+      "published_at": "2026-09-01",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Cyclospora Case Data | Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eUpPeURQbVFaUVdiWk42RHhxLTRNZ1RwYkFZaUgwU0pGN3Vsek5IelJJd0tlbnIzYlZINDFjV0JZTzZ2R1FXN2RQaURwRE5aeFI3MmF6M3g4M1lrTFlTbg"
     },
@@ -109,15 +119,6 @@
       "summary": "CDC's national surveillance snapshot reports 828 hospitalizations, 2 deaths, and cases across 47 states.",
       "title": "CDC reports 15,716 domestically acquired Cyclospora cases",
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
-    },
-    {
-      "id": "fda-core-1398",
-      "kind": "official",
-      "published_at": "2026-08-05",
-      "source": "FDA",
-      "summary": "FDA's CORE table reports 22 cases and lists investigation 1398 as ongoing; the agency table should be checked for current traceback and product details.",
-      "title": "FDA opens Cyclospora investigation 1398",
-      "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks"
     }
   ],
   "rejected_candidates": 93,
