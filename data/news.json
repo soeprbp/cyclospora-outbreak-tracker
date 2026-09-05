@@ -1,14 +1,24 @@
 {
   "errors": [],
-  "generated_at": "2026-09-05T05:48:12Z",
+  "generated_at": "2026-09-05T10:40:18Z",
   "items": [
     {
-      "id": "reuters-01807950b627",
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
+      "kind": "official",
+      "published_at": "2026-09-03",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "title": "Cyclospora Outbreak Linked to Iceberg Lettuce | Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
+    },
+    {
+      "id": "reuters-com-01807950b627",
       "kind": "major-media",
       "published_at": "2026-09-03",
       "publisher_url": "https://www.reuters.com/",
-      "source": "Reuters",
-      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
+      "source": "reuters.com",
+      "summary": "Recent Cyclospora coverage from reuters.com. Open the article for the full report.",
       "title": "Cyclosporiasis cases in Michigan climb to over 14,700, state health officials say",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV3VRZjV0WjNsdkx0eWdsY1ZwM3dLLTdCRkpLVFgwUWxyd1R3NG5fY1E2MUo3dXctUGxvblVKeDRRREN0UFZKVFdreVFKbktVQV8yd2FRUmxMVGhUS0N1OEMySk5zdnpoY19WeHBYRXFFNXVDTkhKczhGQjZYZVlMdXE3OUtWcTBwVkJ3Tjc4ZEpjemV5VUVVZk5CRm5jdUNyRlJqRGZLNEx2Zlh3VGppM0xwSnNPMTRTcmRLR1IwdmVxTWlXcENncjV6UXM2RkNHdlludG1QU3JSTUEzMkE"
     },
@@ -82,16 +92,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     },
     {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
-      "kind": "official",
-      "published_at": "2026-08-27",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Cyclospora Outbreak Linked to Iceberg Lettuce | Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
-    },
-    {
       "id": "ap-news-13eec7de0e7b",
       "kind": "major-media",
       "published_at": "2026-08-27",
@@ -121,6 +121,6 @@
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     }
   ],
-  "rejected_candidates": 93,
+  "rejected_candidates": 92,
   "schema_version": 1
 }
