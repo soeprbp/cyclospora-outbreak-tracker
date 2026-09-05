@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-09-05T13:53:10Z",
+  "generated_at": "2026-09-05T16:51:00Z",
   "items": [
     {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-00dfbf931d18",
@@ -92,12 +92,12 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     },
     {
-      "id": "apnews-com-13eec7de0e7b",
+      "id": "ap-news-13eec7de0e7b",
       "kind": "major-media",
       "published_at": "2026-08-27",
       "publisher_url": "https://apnews.com/",
-      "source": "apnews.com",
-      "summary": "Recent Cyclospora coverage from apnews.com. Open the article for the full report.",
+      "source": "AP News",
+      "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
       "title": "US officials tie cyclospora outbreak involving iceberg lettuce to 3 more states",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVUI0eWhSWjJKNzdrWDMwekNyYlNIV1dnMHh5T0tLRTc4ZHhTVlF4NkVGM3FYdVVqdWo2RHRiamdCLVZPT0EteUR0TWllbW10WW41Wnk2OEpGX2gzZWlROUJ4cW12d0JQUjM1c1U3YlR5MzMxWXJ6VlVIajU3V2NrX1BaZ3V1clZxcDAzWUExdnlFRXY0TEVUVkYtb0R1YXprZXlqOA"
     },
@@ -121,6 +121,6 @@
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     }
   ],
-  "rejected_candidates": 92,
+  "rejected_candidates": 93,
   "schema_version": 1
 }
