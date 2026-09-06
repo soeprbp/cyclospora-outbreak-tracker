@@ -3,7 +3,7 @@
     "cdc": "missing CDC domestic case section",
     "idoh": "missing IDOH date"
   },
-  "generated_at": "2026-09-03T16:28:42Z",
+  "generated_at": "2026-09-06T04:44:33Z",
   "schema_version": 2,
   "sources": {
     "cdc": {
@@ -17,7 +17,7 @@
       "validation_status": "last-known-good"
     },
     "fda": {
-      "fetched_at": "2026-09-03T16:28:42Z",
+      "fetched_at": "2026-09-06T04:44:33Z",
       "investigations": [
         {
           "cases": 22,
@@ -64,21 +64,21 @@
     "idph": {
       "cases": 1601,
       "domestic_cases": 1094,
-      "fetched_at": "2026-09-03T16:28:42Z",
+      "fetched_at": "2026-09-06T04:44:33Z",
       "official_as_of": "2020-09-01",
       "source_url": "https://dph.illinois.gov/",
       "validation_status": "valid"
     },
     "mdhhs": {
-      "cases": 14510,
-      "fetched_at": "2026-09-03T16:28:42Z",
-      "hospitalizations": 356,
-      "official_as_of": "2026-08-27",
+      "cases": 14718,
+      "fetched_at": "2026-09-06T04:44:33Z",
+      "hospitalizations": 366,
+      "official_as_of": "2026-09-06",
       "source_url": "https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases/infectious-disease-outbreaks",
       "validation_status": "valid"
     },
     "nndss": {
-      "fetched_at": "2026-09-03T16:28:42Z",
+      "fetched_at": "2026-09-06T04:44:33Z",
       "jurisdictions": {
         "AK": {
           "cases": 11
@@ -246,14 +246,14 @@
     },
     "nysdoh": {
       "cases": 1052,
-      "fetched_at": "2026-09-03T16:28:42Z",
+      "fetched_at": "2026-09-06T04:44:33Z",
       "official_as_of": "2026-08-31",
       "source_url": "https://www.health.ny.gov/diseases/communicable/cyclosporiasis/index",
       "validation_status": "valid"
     },
     "widhs": {
       "cases": 284,
-      "fetched_at": "2026-09-03T16:28:42Z",
+      "fetched_at": "2026-09-06T04:44:33Z",
       "hospitalizations": 8,
       "official_as_of": "2026-08-26",
       "source_url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
@@ -388,10 +388,11 @@
       "source": "CDC NNDSS"
     },
     "MI": {
-      "cases": 13674,
+      "cases": 14718,
       "comparable_cases": 13674,
-      "official_as_of": "2026-08-29",
-      "source": "CDC NNDSS"
+      "official_as_of": "2026-09-06",
+      "scope": "state outbreak reports; may include probable and confirmed cases",
+      "source": "Michigan MDHHS"
     },
     "MN": {
       "cases": 0,
