@@ -1,7 +1,27 @@
 {
   "errors": [],
-  "generated_at": "2026-09-07T16:29:55Z",
+  "generated_at": "2026-09-08T09:45:29Z",
   "items": [
+    {
+      "id": "ap-news-107e0fc8b0ab",
+      "kind": "major-media",
+      "published_at": "2026-09-08",
+      "publisher_url": "https://apnews.com/",
+      "source": "AP News",
+      "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
+      "title": "Cyclospora outbreak followed years of declining FDA foreign inspections",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQjZpdk5lamRFN2N3Zzhram5OR2c3R0NwYno1dTZ6TnoyTnpZalJzanpYTXlBNGZzTHBKU25PZm5rTGlLUS1CRjVZZ1hKeHpoMGlMWjMxQ1Fta0hsdEFKNnBTaWVtNER4NUE3THprSmp1VWpUV2w0QU5GbDJZTXdUUF9zYjZLUDI5aDFYeXNHQXdJdTV3UWsycXRmRG1Nb0Y1b0E"
+    },
+    {
+      "id": "cbs-news-ede2c3b41c08",
+      "kind": "major-media",
+      "published_at": "2026-09-08",
+      "publisher_url": "https://www.cbsnews.com/",
+      "source": "CBS News",
+      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
+      "title": "How the cyclospora outbreak is still affecting growers in California",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWjhiV3hQdnlWanY4R1dSb1AtNjhfUHpyNU53UEQ3WmxoYXhmSkN0c0RaTGpSckJJdTZfZTllcUY4OE9qQVdYcHZIVmJhRUZYdGJZU2EtSzlSRHRMZTRYT1ViTWZQbEJWd2oxQzJlTklfUFMxWUZhdlNXQ0RLRmdURlRUbDNuRm5PZEVJR0xLREtfY0lPV0lra0FWT2tiMl9qaGllUkdzRTBHdkMwcjBxcU5n"
+    },
     {
       "id": "reuters-f1a51c8350ea",
       "kind": "major-media",
@@ -72,16 +92,6 @@
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     },
     {
-      "id": "cbs-news-31836e1b273e",
-      "kind": "major-media",
-      "published_at": "2026-08-28",
-      "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
-      "title": "Chicago couple files first Illinois lawsuit over cyclospora outbreak",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVVHMmpmYWpHS3paVzJCQWdHU3p0eVQ2WkcxMHM2QWJwb2NMWlVEODJCR3RGcTRhbzNoMHo3UmJiMXJKajZkV0wyTFREX1doOXBPRHp5OVoxSEwwQlNsTU1aWUw1anZ2aVYtM2Fpb2V4Mk51X0lJa3RldFJRSDhaTTNGMGNUUUttNEVoTUs3LUxXVXpkMF9CSTVFUUVZN0ZQZk5lZDItOXlMbHp1"
-    },
-    {
       "id": "the-washington-post-ed987e306649",
       "kind": "major-media",
       "published_at": "2026-08-28",
@@ -90,16 +100,6 @@
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
       "title": "Cyclospora lettuce outbreak now tied to 20 states",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3Qxel9WZk5oU1Q1QWxYbTJsZENYY2E3bjZVbDRpNG80aXZFWDJIQWVYeGF1bEtrSVpFdHBDT2cybVFRS3p2ZGdvMmtxMy1DUkhmdmJvZ0t0NXBXOE1XVUNhSzhPYmFSZUxXTDFOSnphNklKUTlwdFZvb0lQVXZIVFF4WXVpTkNuX2l0dnM5VTRvRmtqYU51SnpmOEY"
-    },
-    {
-      "id": "ap-news-13eec7de0e7b",
-      "kind": "major-media",
-      "published_at": "2026-08-27",
-      "publisher_url": "https://apnews.com/",
-      "source": "AP News",
-      "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
-      "title": "US officials tie cyclospora outbreak involving iceberg lettuce to 3 more states",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVUI0eWhSWjJKNzdrWDMwekNyYlNIV1dnMHh5T0tLRTc4ZHhTVlF4NkVGM3FYdVVqdWo2RHRiamdCLVZPT0EteUR0TWllbW10WW41Wnk2OEpGX2gzZWlROUJ4cW12d0JQUjM1c1U3YlR5MzMxWXJ6VlVIajU3V2NrX1BaZ3V1clZxcDAzWUExdnlFRXY0TEVUVkYtb0R1YXprZXlqOA"
     },
     {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-9b5c09e72437",
@@ -121,6 +121,6 @@
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     }
   ],
-  "rejected_candidates": 92,
+  "rejected_candidates": 93,
   "schema_version": 1
 }
