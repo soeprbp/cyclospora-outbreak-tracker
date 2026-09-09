@@ -3,7 +3,7 @@
     "cdc": "missing CDC domestic case section",
     "idoh": "missing IDOH date"
   },
-  "generated_at": "2026-09-09T16:41:54Z",
+  "generated_at": "2026-09-09T22:35:06Z",
   "schema_version": 2,
   "sources": {
     "cdc": {
@@ -17,7 +17,7 @@
       "validation_status": "last-known-good"
     },
     "fda": {
-      "fetched_at": "2026-09-09T16:41:54Z",
+      "fetched_at": "2026-09-09T22:35:06Z",
       "investigations": [
         {
           "cases": 22,
@@ -64,21 +64,21 @@
     "idph": {
       "cases": 1601,
       "domestic_cases": 1094,
-      "fetched_at": "2026-09-09T16:41:54Z",
+      "fetched_at": "2026-09-09T22:35:06Z",
       "official_as_of": "2020-09-01",
       "source_url": "https://dph.illinois.gov/",
       "validation_status": "valid"
     },
     "mdhhs": {
       "cases": 14718,
-      "fetched_at": "2026-09-09T16:41:54Z",
+      "fetched_at": "2026-09-09T22:35:06Z",
       "hospitalizations": 366,
       "official_as_of": "2026-09-06",
       "source_url": "https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases/infectious-disease-outbreaks",
       "validation_status": "valid"
     },
     "nndss": {
-      "fetched_at": "2026-09-09T16:41:54Z",
+      "fetched_at": "2026-09-09T22:35:06Z",
       "jurisdictions": {
         "AK": {
           "cases": 11
@@ -87,19 +87,19 @@
           "cases": 93
         },
         "AR": {
-          "cases": 219
+          "cases": 224
         },
         "AZ": {
           "cases": 24
         },
         "CA": {
-          "cases": 386
+          "cases": 409
         },
         "CO": {
-          "cases": 273
+          "cases": 276
         },
         "CT": {
-          "cases": 108
+          "cases": 110
         },
         "DC": {
           "cases": 0
@@ -108,10 +108,10 @@
           "cases": 0
         },
         "FL": {
-          "cases": 510
+          "cases": 522
         },
         "GA": {
-          "cases": 217
+          "cases": 228
         },
         "HI": {
           "cases": 0
@@ -123,31 +123,31 @@
           "status": "not-reportable"
         },
         "IL": {
-          "cases": 1148
+          "cases": 1534
         },
         "IN": {
           "cases": 35
         },
         "KS": {
-          "cases": 847
+          "cases": 849
         },
         "KY": {
-          "cases": 768
+          "cases": 808
         },
         "LA": {
-          "cases": 152
+          "cases": 166
         },
         "MA": {
-          "cases": 243
+          "cases": 253
         },
         "MD": {
-          "cases": 193
+          "cases": 194
         },
         "ME": {
           "cases": 57
         },
         "MI": {
-          "cases": 13674
+          "cases": 13935
         },
         "MN": {
           "cases": 0
@@ -162,41 +162,41 @@
           "cases": 2
         },
         "NC": {
-          "cases": 224
+          "cases": 553
         },
         "ND": {
           "cases": 5
         },
         "NE": {
-          "cases": 328
+          "cases": 333
         },
         "NH": {
           "cases": 5
         },
         "NJ": {
-          "cases": 233
+          "cases": 239
         },
         "NM": {
-          "cases": 11
+          "cases": 12
         },
         "NV": {
-          "cases": 18
+          "cases": 19
         },
         "NY": {
-          "cases": 1040,
+          "cases": 1067,
           "components": {
-            "nyc": 691,
-            "state_excluding_nyc": 349
+            "nyc": 706,
+            "state_excluding_nyc": 361
           }
         },
         "OH": {
-          "cases": 6182
+          "cases": 6403
         },
         "OK": {
-          "cases": 562
+          "cases": 565
         },
         "OR": {
-          "cases": 52
+          "cases": 54
         },
         "PA": {
           "status": "not-reportable"
@@ -205,22 +205,22 @@
           "cases": 14
         },
         "SC": {
-          "cases": 76
+          "cases": 86
         },
         "SD": {
           "cases": 0
         },
         "TN": {
-          "cases": 211
+          "cases": 222
         },
         "TX": {
-          "cases": 9
+          "cases": 10
         },
         "UT": {
-          "cases": 60
+          "cases": 61
         },
         "VA": {
-          "cases": 245
+          "cases": 250
         },
         "VT": {
           "cases": 5
@@ -229,31 +229,31 @@
           "cases": 0
         },
         "WI": {
-          "cases": 289
+          "cases": 295
         },
         "WV": {
-          "cases": 251
+          "cases": 283
         },
         "WY": {
           "cases": 19
         }
       },
-      "official_as_of": "2026-08-29",
+      "official_as_of": "2026-09-05",
       "reporting_period": "cumulative YTD 2026",
       "source_url": "https://data.cdc.gov/resource/x9gk-5huc.json?$where=year%3D%272026%27%20and%20label%3D%27Cyclosporiasis%27&$limit=5000",
-      "us_residents_total": 28800,
+      "us_residents_total": 30231,
       "validation_status": "valid"
     },
     "nysdoh": {
       "cases": 1076,
-      "fetched_at": "2026-09-09T16:41:54Z",
+      "fetched_at": "2026-09-09T22:35:06Z",
       "official_as_of": "2026-09-08",
       "source_url": "https://www.health.ny.gov/diseases/communicable/cyclosporiasis/index",
       "validation_status": "valid"
     },
     "widhs": {
       "cases": 284,
-      "fetched_at": "2026-09-09T16:41:54Z",
+      "fetched_at": "2026-09-09T22:35:06Z",
       "hospitalizations": 8,
       "official_as_of": "2026-08-26",
       "source_url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
@@ -264,132 +264,132 @@
     "AK": {
       "cases": 11,
       "comparable_cases": 11,
-      "official_as_of": "2026-08-29",
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "AL": {
       "cases": 93,
       "comparable_cases": 93,
-      "official_as_of": "2026-08-29",
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "AR": {
-      "cases": 219,
-      "comparable_cases": 219,
-      "official_as_of": "2026-08-29",
+      "cases": 224,
+      "comparable_cases": 224,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "AZ": {
       "cases": 24,
       "comparable_cases": 24,
-      "official_as_of": "2026-08-29",
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "CA": {
-      "cases": 386,
-      "comparable_cases": 386,
-      "official_as_of": "2026-08-29",
+      "cases": 409,
+      "comparable_cases": 409,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "CO": {
-      "cases": 273,
-      "comparable_cases": 273,
-      "official_as_of": "2026-08-29",
+      "cases": 276,
+      "comparable_cases": 276,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "CT": {
-      "cases": 108,
-      "comparable_cases": 108,
-      "official_as_of": "2026-08-29",
+      "cases": 110,
+      "comparable_cases": 110,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "DC": {
       "cases": 0,
       "comparable_cases": 0,
-      "official_as_of": "2026-08-29",
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "DE": {
       "cases": 0,
       "comparable_cases": 0,
-      "official_as_of": "2026-08-29",
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "FL": {
-      "cases": 510,
-      "comparable_cases": 510,
-      "official_as_of": "2026-08-29",
+      "cases": 522,
+      "comparable_cases": 522,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "GA": {
-      "cases": 217,
-      "comparable_cases": 217,
-      "official_as_of": "2026-08-29",
+      "cases": 228,
+      "comparable_cases": 228,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "HI": {
       "cases": 0,
       "comparable_cases": 0,
-      "official_as_of": "2026-08-29",
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "IA": {
       "cases": 1,
       "comparable_cases": 1,
-      "official_as_of": "2026-08-29",
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "IL": {
-      "cases": 1148,
-      "comparable_cases": 1148,
-      "official_as_of": "2026-08-29",
+      "cases": 1534,
+      "comparable_cases": 1534,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "IN": {
       "cases": 35,
       "comparable_cases": 35,
-      "official_as_of": "2026-08-29",
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "KS": {
-      "cases": 847,
-      "comparable_cases": 847,
-      "official_as_of": "2026-08-29",
+      "cases": 849,
+      "comparable_cases": 849,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "KY": {
-      "cases": 768,
-      "comparable_cases": 768,
-      "official_as_of": "2026-08-29",
+      "cases": 808,
+      "comparable_cases": 808,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "LA": {
-      "cases": 152,
-      "comparable_cases": 152,
-      "official_as_of": "2026-08-29",
+      "cases": 166,
+      "comparable_cases": 166,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "MA": {
-      "cases": 243,
-      "comparable_cases": 243,
-      "official_as_of": "2026-08-29",
+      "cases": 253,
+      "comparable_cases": 253,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "MD": {
-      "cases": 193,
-      "comparable_cases": 193,
-      "official_as_of": "2026-08-29",
+      "cases": 194,
+      "comparable_cases": 194,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "ME": {
       "cases": 57,
       "comparable_cases": 57,
-      "official_as_of": "2026-08-29",
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "MI": {
       "cases": 14718,
-      "comparable_cases": 13674,
+      "comparable_cases": 13935,
       "official_as_of": "2026-09-06",
       "scope": "state outbreak reports; may include probable and confirmed cases",
       "source": "Michigan MDHHS"
@@ -397,158 +397,158 @@
     "MN": {
       "cases": 0,
       "comparable_cases": 0,
-      "official_as_of": "2026-08-29",
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "MO": {
       "cases": 0,
       "comparable_cases": 0,
-      "official_as_of": "2026-08-29",
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "MT": {
       "cases": 2,
       "comparable_cases": 2,
-      "official_as_of": "2026-08-29",
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "NC": {
-      "cases": 224,
-      "comparable_cases": 224,
-      "official_as_of": "2026-08-29",
+      "cases": 553,
+      "comparable_cases": 553,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "ND": {
       "cases": 5,
       "comparable_cases": 5,
-      "official_as_of": "2026-08-29",
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "NE": {
-      "cases": 328,
-      "comparable_cases": 328,
-      "official_as_of": "2026-08-29",
+      "cases": 333,
+      "comparable_cases": 333,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "NH": {
       "cases": 5,
       "comparable_cases": 5,
-      "official_as_of": "2026-08-29",
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "NJ": {
-      "cases": 233,
-      "comparable_cases": 233,
-      "official_as_of": "2026-08-29",
+      "cases": 239,
+      "comparable_cases": 239,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "NM": {
-      "cases": 11,
-      "comparable_cases": 11,
-      "official_as_of": "2026-08-29",
+      "cases": 12,
+      "comparable_cases": 12,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "NV": {
-      "cases": 18,
-      "comparable_cases": 18,
-      "official_as_of": "2026-08-29",
+      "cases": 19,
+      "comparable_cases": 19,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "NY": {
       "cases": 1076,
-      "comparable_cases": 1040,
+      "comparable_cases": 1067,
       "official_as_of": "2026-09-08",
       "scope": "all reported 2026 cases, year to date",
       "source": "New York NYSDOH"
     },
     "OH": {
-      "cases": 6182,
-      "comparable_cases": 6182,
-      "official_as_of": "2026-08-29",
+      "cases": 6403,
+      "comparable_cases": 6403,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "OK": {
-      "cases": 562,
-      "comparable_cases": 562,
-      "official_as_of": "2026-08-29",
+      "cases": 565,
+      "comparable_cases": 565,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "OR": {
-      "cases": 52,
-      "comparable_cases": 52,
-      "official_as_of": "2026-08-29",
+      "cases": 54,
+      "comparable_cases": 54,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "RI": {
       "cases": 14,
       "comparable_cases": 14,
-      "official_as_of": "2026-08-29",
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "SC": {
-      "cases": 76,
-      "comparable_cases": 76,
-      "official_as_of": "2026-08-29",
+      "cases": 86,
+      "comparable_cases": 86,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "SD": {
       "cases": 0,
       "comparable_cases": 0,
-      "official_as_of": "2026-08-29",
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "TN": {
-      "cases": 211,
-      "comparable_cases": 211,
-      "official_as_of": "2026-08-29",
+      "cases": 222,
+      "comparable_cases": 222,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "TX": {
-      "cases": 9,
-      "comparable_cases": 9,
-      "official_as_of": "2026-08-29",
+      "cases": 10,
+      "comparable_cases": 10,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "UT": {
-      "cases": 60,
-      "comparable_cases": 60,
-      "official_as_of": "2026-08-29",
+      "cases": 61,
+      "comparable_cases": 61,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "VA": {
-      "cases": 245,
-      "comparable_cases": 245,
-      "official_as_of": "2026-08-29",
+      "cases": 250,
+      "comparable_cases": 250,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "VT": {
       "cases": 5,
       "comparable_cases": 5,
-      "official_as_of": "2026-08-29",
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "WA": {
       "cases": 0,
       "comparable_cases": 0,
-      "official_as_of": "2026-08-29",
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "WI": {
-      "cases": 289,
-      "comparable_cases": 289,
-      "official_as_of": "2026-08-29",
+      "cases": 295,
+      "comparable_cases": 295,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "WV": {
-      "cases": 251,
-      "comparable_cases": 251,
-      "official_as_of": "2026-08-29",
+      "cases": 283,
+      "comparable_cases": 283,
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     },
     "WY": {
       "cases": 19,
       "comparable_cases": 19,
-      "official_as_of": "2026-08-29",
+      "official_as_of": "2026-09-05",
       "source": "CDC NNDSS"
     }
   }

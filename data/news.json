@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-09-09T19:48:20Z",
+  "generated_at": "2026-09-09T22:35:26Z",
   "items": [
     {
       "id": "ap-news-107e0fc8b0ab",
@@ -13,14 +13,23 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQjZpdk5lamRFN2N3Zzhram5OR2c3R0NwYno1dTZ6TnoyTnpZalJzanpYTXlBNGZzTHBKU25PZm5rTGlLUS1CRjVZZ1hKeHpoMGlMWjMxQ1Fta0hsdEFKNnBTaWVtNER4NUE3THprSmp1VWpUV2w0QU5GbDJZTXdUUF9zYjZLUDI5aDFYeXNHQXdJdTV3UWsycXRmRG1Nb0Y1b0E"
     },
     {
-      "id": "cbs-news-ede2c3b41c08",
+      "id": "cbsnews-com-ede2c3b41c08",
       "kind": "major-media",
       "published_at": "2026-09-08",
       "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
+      "source": "cbsnews.com",
+      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
       "title": "How the cyclospora outbreak is still affecting growers in California",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWjhiV3hQdnlWanY4R1dSb1AtNjhfUHpyNU53UEQ3WmxoYXhmSkN0c0RaTGpSckJJdTZfZTllcUY4OE9qQVdYcHZIVmJhRUZYdGJZU2EtSzlSRHRMZTRYT1ViTWZQbEJWd2oxQzJlTklfUFMxWUZhdlNXQ0RLRmdURlRUbDNuRm5PZEVJR0xLREtfY0lPV0lra0FWT2tiMl9qaGllUkdzRTBHdkMwcjBxcU5n"
+    },
+    {
+      "id": "cdc-nndss",
+      "kind": "official",
+      "published_at": "2026-09-05",
+      "source": "CDC NNDSS",
+      "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
+      "title": "NNDSS table reports 30,231 U.S. Cyclospora cases",
+      "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     },
     {
       "id": "reuters-f1a51c8350ea",
@@ -53,12 +62,12 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     },
     {
-      "id": "usa-today-40dc3e43613e",
+      "id": "usatoday-com-40dc3e43613e",
       "kind": "major-media",
       "published_at": "2026-09-02",
       "publisher_url": "https://www.usatoday.com/",
-      "source": "USA Today",
-      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
+      "source": "usatoday.com",
+      "summary": "Recent Cyclospora coverage from usatoday.com. Open the article for the full report.",
       "title": "Cyclospora season is 'over.' See map of states still reporting cases",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVk1SNFVNUEZTRUk2YUN2eUxKWENCYU5reTg0cFI2emJTaXhiTTZSS2RmOTJwWEY4N3lYUUNfSFlSV2VlV0NWZGhlUjhUSzVTaUZvam1RejRXOWxGUFpFd0dsRjhLc1dERlN0VWpOaXplcFktMG9JbkhRN1JaQUxreGdrUGNqWUFFdkZheG1jTjNMMk5JU2xuanJhOFlVbWFjdk03NVdKS3FYRWdONE1kRS12dWJ2QlJ6clJTeg"
     },
@@ -81,15 +90,6 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Cyclospora Case Data | Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eUpPeURQbVFaUVdiWk42RHhxLTRNZ1RwYkFZaUgwU0pGN3Vsek5IelJJd0tlbnIzYlZINDFjV0JZTzZ2R1FXN2RQaURwRE5aeFI3MmF6M3g4M1lrTFlTbg"
-    },
-    {
-      "id": "cdc-nndss",
-      "kind": "official",
-      "published_at": "2026-08-29",
-      "source": "CDC NNDSS",
-      "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
-      "title": "NNDSS table reports 28,800 U.S. Cyclospora cases",
-      "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     },
     {
       "id": "the-washington-post-ed987e306649",
