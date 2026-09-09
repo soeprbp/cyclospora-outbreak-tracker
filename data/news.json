@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-09-08T09:45:29Z",
+  "generated_at": "2026-09-09T16:42:18Z",
   "items": [
     {
       "id": "ap-news-107e0fc8b0ab",
@@ -102,6 +102,16 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3Qxel9WZk5oU1Q1QWxYbTJsZENYY2E3bjZVbDRpNG80aXZFWDJIQWVYeGF1bEtrSVpFdHBDT2cybVFRS3p2ZGdvMmtxMy1DUkhmdmJvZ0t0NXBXOE1XVUNhSzhPYmFSZUxXTDFOSnphNklKUTlwdFZvb0lQVXZIVFF4WXVpTkNuX2l0dnM5VTRvRmtqYU51SnpmOEY"
     },
     {
+      "id": "apnews-com-13eec7de0e7b",
+      "kind": "major-media",
+      "published_at": "2026-08-27",
+      "publisher_url": "https://apnews.com/",
+      "source": "apnews.com",
+      "summary": "Recent Cyclospora coverage from apnews.com. Open the article for the full report.",
+      "title": "US officials tie cyclospora outbreak involving iceberg lettuce to 3 more states",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVUI0eWhSWjJKNzdrWDMwekNyYlNIV1dnMHh5T0tLRTc4ZHhTVlF4NkVGM3FYdVVqdWo2RHRiamdCLVZPT0EteUR0TWllbW10WW41Wnk2OEpGX2gzZWlROUJ4cW12d0JQUjM1c1U3YlR5MzMxWXJ6VlVIajU3V2NrX1BaZ3V1clZxcDAzWUExdnlFRXY0TEVUVkYtb0R1YXprZXlqOA"
+    },
+    {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-9b5c09e72437",
       "kind": "official",
       "published_at": "2026-08-25",
@@ -110,17 +120,8 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "How Data Are Collected for Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2aEh3YkpFSG1qTXg2UmpTRnZORU0xRHB6SF9MQU1OQVRJY0lMdlcxU0Q0d1cxZkxodEtSTDd2MWJzOWM5V3B4TnhlTEc3VGZsRFJzZ1pwekk4eWFkYTZUSTc2cDJfUmZQM1QwX25NUUVHVW1MYWxIUg"
-    },
-    {
-      "id": "cdc-surveillance",
-      "kind": "official",
-      "published_at": "2026-08-17",
-      "source": "CDC",
-      "summary": "CDC's national surveillance snapshot reports 828 hospitalizations, 2 deaths, and cases across 47 states.",
-      "title": "CDC reports 15,716 domestically acquired Cyclospora cases",
-      "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     }
   ],
-  "rejected_candidates": 93,
+  "rejected_candidates": 94,
   "schema_version": 1
 }

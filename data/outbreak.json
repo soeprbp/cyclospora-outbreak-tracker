@@ -3,7 +3,7 @@
     "cdc": "missing CDC domestic case section",
     "idoh": "missing IDOH date"
   },
-  "generated_at": "2026-09-06T04:44:33Z",
+  "generated_at": "2026-09-09T16:41:54Z",
   "schema_version": 2,
   "sources": {
     "cdc": {
@@ -17,7 +17,7 @@
       "validation_status": "last-known-good"
     },
     "fda": {
-      "fetched_at": "2026-09-06T04:44:33Z",
+      "fetched_at": "2026-09-09T16:41:54Z",
       "investigations": [
         {
           "cases": 22,
@@ -64,21 +64,21 @@
     "idph": {
       "cases": 1601,
       "domestic_cases": 1094,
-      "fetched_at": "2026-09-06T04:44:33Z",
+      "fetched_at": "2026-09-09T16:41:54Z",
       "official_as_of": "2020-09-01",
       "source_url": "https://dph.illinois.gov/",
       "validation_status": "valid"
     },
     "mdhhs": {
       "cases": 14718,
-      "fetched_at": "2026-09-06T04:44:33Z",
+      "fetched_at": "2026-09-09T16:41:54Z",
       "hospitalizations": 366,
       "official_as_of": "2026-09-06",
       "source_url": "https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases/infectious-disease-outbreaks",
       "validation_status": "valid"
     },
     "nndss": {
-      "fetched_at": "2026-09-06T04:44:33Z",
+      "fetched_at": "2026-09-09T16:41:54Z",
       "jurisdictions": {
         "AK": {
           "cases": 11
@@ -245,15 +245,15 @@
       "validation_status": "valid"
     },
     "nysdoh": {
-      "cases": 1052,
-      "fetched_at": "2026-09-06T04:44:33Z",
-      "official_as_of": "2026-08-31",
+      "cases": 1076,
+      "fetched_at": "2026-09-09T16:41:54Z",
+      "official_as_of": "2026-09-08",
       "source_url": "https://www.health.ny.gov/diseases/communicable/cyclosporiasis/index",
       "validation_status": "valid"
     },
     "widhs": {
       "cases": 284,
-      "fetched_at": "2026-09-06T04:44:33Z",
+      "fetched_at": "2026-09-09T16:41:54Z",
       "hospitalizations": 8,
       "official_as_of": "2026-08-26",
       "source_url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
@@ -455,9 +455,9 @@
       "source": "CDC NNDSS"
     },
     "NY": {
-      "cases": 1052,
+      "cases": 1076,
       "comparable_cases": 1040,
-      "official_as_of": "2026-08-31",
+      "official_as_of": "2026-09-08",
       "scope": "all reported 2026 cases, year to date",
       "source": "New York NYSDOH"
     },
