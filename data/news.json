@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-09-10T01:07:24Z",
+  "generated_at": "2026-09-10T06:01:56Z",
   "items": [
     {
       "id": "ap-news-107e0fc8b0ab",
@@ -32,12 +32,12 @@
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     },
     {
-      "id": "reuters-com-f1a51c8350ea",
+      "id": "reuters-f1a51c8350ea",
       "kind": "major-media",
       "published_at": "2026-09-04",
       "publisher_url": "https://www.reuters.com/",
-      "source": "reuters.com",
-      "summary": "Recent Cyclospora coverage from reuters.com. Open the article for the full report.",
+      "source": "Reuters",
+      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
       "title": "Cyclosporiasis outbreak exposes a weakened US public health system",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUDZZOHlLM1lKb25DaF95QzRydUtlNUhZOWV6ZkptUXkxemFmeVluLUZHWHliZm9ZMzRpYThDajk5cTZEUmJ0bFpWUEJpMHpXR0JpSmNQR3R0b2tiMmYtSC1DSzZPZmNqcF84UnF1X0RjY1RFSW5HOEFSdC1xdDFtenNTaGZSdlRsbjRuMm03cGNMdTVZUjR5V0FaaEw5dzc5cG5TeWRsTDdjejlnN1BvR296c19ub1I4"
     },
