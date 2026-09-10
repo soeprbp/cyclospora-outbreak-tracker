@@ -3,7 +3,7 @@
     "cdc": "missing CDC domestic case section",
     "idoh": "missing IDOH date"
   },
-  "generated_at": "2026-09-09T22:35:06Z",
+  "generated_at": "2026-09-10T19:44:22Z",
   "schema_version": 2,
   "sources": {
     "cdc": {
@@ -17,7 +17,7 @@
       "validation_status": "last-known-good"
     },
     "fda": {
-      "fetched_at": "2026-09-09T22:35:06Z",
+      "fetched_at": "2026-09-10T19:44:22Z",
       "investigations": [
         {
           "cases": 22,
@@ -26,7 +26,7 @@
           "status": "ongoing"
         },
         {
-          "cases": 225,
+          "cases": 231,
           "date_posted": "2026-07-22",
           "reference": "1392",
           "status": "ongoing"
@@ -64,21 +64,21 @@
     "idph": {
       "cases": 1601,
       "domestic_cases": 1094,
-      "fetched_at": "2026-09-09T22:35:06Z",
+      "fetched_at": "2026-09-10T19:44:22Z",
       "official_as_of": "2020-09-01",
       "source_url": "https://dph.illinois.gov/",
       "validation_status": "valid"
     },
     "mdhhs": {
       "cases": 14718,
-      "fetched_at": "2026-09-09T22:35:06Z",
+      "fetched_at": "2026-09-10T19:44:22Z",
       "hospitalizations": 366,
       "official_as_of": "2026-09-06",
       "source_url": "https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases/infectious-disease-outbreaks",
       "validation_status": "valid"
     },
     "nndss": {
-      "fetched_at": "2026-09-09T22:35:06Z",
+      "fetched_at": "2026-09-10T19:44:22Z",
       "jurisdictions": {
         "AK": {
           "cases": 11
@@ -246,14 +246,14 @@
     },
     "nysdoh": {
       "cases": 1076,
-      "fetched_at": "2026-09-09T22:35:06Z",
+      "fetched_at": "2026-09-10T19:44:22Z",
       "official_as_of": "2026-09-08",
       "source_url": "https://www.health.ny.gov/diseases/communicable/cyclosporiasis/index",
       "validation_status": "valid"
     },
     "widhs": {
       "cases": 284,
-      "fetched_at": "2026-09-09T22:35:06Z",
+      "fetched_at": "2026-09-10T19:44:22Z",
       "hospitalizations": 8,
       "official_as_of": "2026-08-26",
       "source_url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
