@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-09-11T16:32:15Z",
+  "generated_at": "2026-09-11T19:45:49Z",
   "items": [
     {
       "id": "the-washington-post-6e854a5766a9",
@@ -33,6 +33,26 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aemk2VzNTc3pDVzl6ajBKU2k4Qk81NTVkMTAtazNLZzdWQXNzVlBwNXlKX3o3Snp4OEJWQ0RRdjN6SkNtekFqZ1NPWEtFaEpaM0lNU3NVTnE3QmNjY3EyNjNhUTVBUDRjdWVfcVItQXVKYmc"
     },
     {
+      "id": "usa-today-ceec525d0459",
+      "kind": "major-media",
+      "published_at": "2026-09-11",
+      "publisher_url": "https://www.usatoday.com/",
+      "source": "USA Today",
+      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
+      "title": "Massive cyclospora outbreak linked to lettuce declared over",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdkg4T3V3TXM2SUJVUDV1eTRwTlBZUHJTbGRzeHpEa2FmcXRpYklXS05VM2ZTbE0zNkREZ2hUYlgtNXVTeWQ3YWRZWHRaOVVINVhQN1B0Q2N6ZEVpNFVwXy1ZVXJvOFdNbUx3cnl3aXg5TVUzVk9KdE5wNVFYWU5TdjJHUk90eG9pckVCYUx4Ujg1VGNJamJtZDdEYlE5QzRP"
+    },
+    {
+      "id": "reuters-com-22642729ea4a",
+      "kind": "major-media",
+      "published_at": "2026-09-11",
+      "publisher_url": "https://www.reuters.com/",
+      "source": "reuters.com",
+      "summary": "Recent Cyclospora coverage from reuters.com. Open the article for the full report.",
+      "title": "US declares end of largest recorded cyclosporiasis outbreak",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR09VN1ZRWGprdy1ndG9qTEVXVVkxVXN0SE96eDZJU1BDVFF5T1RHR2I2TGU1Z3lsc1FIWU9vdTgtanZ5VlZOZkYtQWVubkNHMDFBR0F1SUwzbUxIMnJjUmFEU2xWQ3dIZEx6UlRhcmhkQXZhUEtucEk5dzlpV0dIUGZNemxzY0l4U1luTlpTRklTYjQ3X2VhQXRlaTV4UjAxYUVxblNodGduX2o0WExvSFdhQWxKNXJMZGRKR0NCVHZOR1FwYldr"
+    },
+    {
       "id": "cdc-gov-89569d85d25b",
       "kind": "official",
       "published_at": "2026-09-08",
@@ -62,16 +82,6 @@
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     },
     {
-      "id": "reuters-f1a51c8350ea",
-      "kind": "major-media",
-      "published_at": "2026-09-04",
-      "publisher_url": "https://www.reuters.com/",
-      "source": "Reuters",
-      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
-      "title": "Cyclosporiasis outbreak exposes a weakened US public health system",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUDZZOHlLM1lKb25DaF95QzRydUtlNUhZOWV6ZkptUXkxemFmeVluLUZHWHliZm9ZMzRpYThDajk5cTZEUmJ0bFpWUEJpMHpXR0JpSmNQR3R0b2tiMmYtSC1DSzZPZmNqcF84UnF1X0RjY1RFSW5HOEFSdC1xdDFtenNTaGZSdlRsbjRuMm03cGNMdTVZUjR5V0FaaEw5dzc5cG5TeWRsTDdjejlnN1BvR296c19ub1I4"
-    },
-    {
       "id": "cdc-gov-00dfbf931d18",
       "kind": "official",
       "published_at": "2026-09-03",
@@ -90,16 +100,6 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Cyclospora Outbreak Linked to Iceberg Lettuce | Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
-    },
-    {
-      "id": "usa-today-40dc3e43613e",
-      "kind": "major-media",
-      "published_at": "2026-09-02",
-      "publisher_url": "https://www.usatoday.com/",
-      "source": "USA Today",
-      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
-      "title": "Cyclospora season is 'over.' See map of states still reporting cases",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVk1SNFVNUEZTRUk2YUN2eUxKWENCYU5reTg0cFI2emJTaXhiTTZSS2RmOTJwWEY4N3lYUUNfSFlSV2VlV0NWZGhlUjhUSzVTaUZvam1RejRXOWxGUFpFd0dsRjhLc1dERlN0VWpOaXplcFktMG9JbkhRN1JaQUxreGdrUGNqWUFFdkZheG1jTjNMMk5JU2xuanJhOFlVbWFjdk03NVdKS3FYRWdONE1kRS12dWJ2QlJ6clJTeg"
     },
     {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-9b5c09e72437",
