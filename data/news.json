@@ -1,17 +1,7 @@
 {
   "errors": [],
-  "generated_at": "2026-09-12T14:11:23Z",
+  "generated_at": "2026-09-13T06:15:08Z",
   "items": [
-    {
-      "id": "axios-866631587775",
-      "kind": "major-media",
-      "published_at": "2026-09-12",
-      "publisher_url": "https://www.axios.com/",
-      "source": "Axios",
-      "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
-      "title": "CDC declares cyclospora outbreak over",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IdXQtUktMc1l4QUY2eFMxSHlwaXloTnFDejRvTUVDWUUzZENZd21mc3g4WnVqTWtlZDRaek1YQmtiQk93Z0RwVnZPX2JWd05CU25UcXgtWDVfX0Rtb0w0VXhlZWVpZkFOM1JUM2dEZldPMmliQWJwR2h3"
-    },
     {
       "id": "the-washington-post-6e854a5766a9",
       "kind": "major-media",
@@ -61,6 +51,16 @@
       "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
       "title": "US officials declare an end to record-setting cyclospora outbreak, but its origin is still unknown",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObnB5SFl5YXZsSzloMXlkTmE2ZVYzWTFSVGpjU3ZXTFl0YzJ1WHNUQzBHZzQ3dWg2dm1ramp6d2VmQ0Zxcm52YTVjbWRSZnFiNDk2YXhQeE1uSkx5NWZnMWtXSWkxbDBaaVgwRDY0SThlSVNjbU11TVRHdlIxWmtOX2pRdjhqZnJTVVZBNWkxVGoxLUh6VlNEQmZwOA"
+    },
+    {
+      "id": "axios-com-866631587775",
+      "kind": "major-media",
+      "published_at": "2026-09-11",
+      "publisher_url": "https://www.axios.com/",
+      "source": "axios.com",
+      "summary": "Recent Cyclospora coverage from axios.com. Open the article for the full report.",
+      "title": "CDC declares cyclospora outbreak over",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IdXQtUktMc1l4QUY2eFMxSHlwaXloTnFDejRvTUVDWUUzZENZd21mc3g4WnVqTWtlZDRaek1YQmtiQk93Z0RwVnZPX2JWd05CU25UcXgtWDVfX0Rtb0w0VXhlZWVpZkFOM1JUM2dEZldPMmliQWJwR2h3"
     },
     {
       "id": "cdc-gov-89569d85d25b",
@@ -121,6 +121,6 @@
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     }
   ],
-  "rejected_candidates": 98,
+  "rejected_candidates": 99,
   "schema_version": 1
 }
