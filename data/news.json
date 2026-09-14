@@ -1,16 +1,26 @@
 {
   "errors": [],
-  "generated_at": "2026-09-13T22:26:46Z",
+  "generated_at": "2026-09-14T01:09:55Z",
   "items": [
     {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-89569d85d25b",
+      "id": "cdc-gov-89569d85d25b",
       "kind": "official",
       "published_at": "2026-09-11",
       "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "source": "cdc.gov",
+      "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
       "title": "Cyclospora Case Data | Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eUpPeURQbVFaUVdiWk42RHhxLTRNZ1RwYkFZaUgwU0pGN3Vsek5IelJJd0tlbnIzYlZINDFjV0JZTzZ2R1FXN2RQaURwRE5aeFI3MmF6M3g4M1lrTFlTbg"
+    },
+    {
+      "id": "cdc-gov-6db10a681564",
+      "kind": "official",
+      "published_at": "2026-09-11",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "cdc.gov",
+      "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
+      "title": "Preventing Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UNTMxNHVtMFoxMHJXdEN4QURBaWgza1FTQ0hMTHQ5WkdXVkFJeld2VktlYldVXzl5NEpEYUtzQmQwZ3UxQk85MjlmcUdnSk1ocVZfQ2VlbFhzd3FoVi10eEtuVnRjRVk"
     },
     {
       "id": "the-washington-post-6e854a5766a9",
@@ -53,16 +63,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObnB5SFl5YXZsSzloMXlkTmE2ZVYzWTFSVGpjU3ZXTFl0YzJ1WHNUQzBHZzQ3dWg2dm1ramp6d2VmQ0Zxcm52YTVjbWRSZnFiNDk2YXhQeE1uSkx5NWZnMWtXSWkxbDBaaVgwRDY0SThlSVNjbU11TVRHdlIxWmtOX2pRdjhqZnJTVVZBNWkxVGoxLUh6VlNEQmZwOA"
     },
     {
-      "id": "axios-866631587775",
-      "kind": "major-media",
-      "published_at": "2026-09-11",
-      "publisher_url": "https://www.axios.com/",
-      "source": "Axios",
-      "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
-      "title": "CDC declares cyclospora outbreak over",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IdXQtUktMc1l4QUY2eFMxSHlwaXloTnFDejRvTUVDWUUzZENZd21mc3g4WnVqTWtlZDRaek1YQmtiQk93Z0RwVnZPX2JWd05CU25UcXgtWDVfX0Rtb0w0VXhlZWVpZkFOM1JUM2dEZldPMmliQWJwR2h3"
-    },
-    {
       "id": "usa-today-ceec525d0459",
       "kind": "major-media",
       "published_at": "2026-09-11",
@@ -73,14 +73,14 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdkg4T3V3TXM2SUJVUDV1eTRwTlBZUHJTbGRzeHpEa2FmcXRpYklXS05VM2ZTbE0zNkREZ2hUYlgtNXVTeWQ3YWRZWHRaOVVINVhQN1B0Q2N6ZEVpNFVwXy1ZVXJvOFdNbUx3cnl3aXg5TVUzVk9KdE5wNVFYWU5TdjJHUk90eG9pckVCYUx4Ujg1VGNJamJtZDdEYlE5QzRP"
     },
     {
-      "id": "cdc-gov-89569d85d25b",
-      "kind": "official",
-      "published_at": "2026-09-08",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "cdc.gov",
-      "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
-      "title": "Cyclospora Case Data | Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eUpPeURQbVFaUVdiWk42RHhxLTRNZ1RwYkFZaUgwU0pGN3Vsek5IelJJd0tlbnIzYlZINDFjV0JZTzZ2R1FXN2RQaURwRE5aeFI3MmF6M3g4M1lrTFlTbg"
+      "id": "axios-com-866631587775",
+      "kind": "major-media",
+      "published_at": "2026-09-11",
+      "publisher_url": "https://www.axios.com/",
+      "source": "axios.com",
+      "summary": "Recent Cyclospora coverage from axios.com. Open the article for the full report.",
+      "title": "CDC declares cyclospora outbreak over",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IdXQtUktMc1l4QUY2eFMxSHlwaXloTnFDejRvTUVDWUUzZENZd21mc3g4WnVqTWtlZDRaek1YQmtiQk93Z0RwVnZPX2JWd05CU25UcXgtWDVfX0Rtb0w0VXhlZWVpZkFOM1JUM2dEZldPMmliQWJwR2h3"
     },
     {
       "id": "cdc-nndss",
@@ -122,6 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2aEh3YkpFSG1qTXg2UmpTRnZORU0xRHB6SF9MQU1OQVRJY0lMdlcxU0Q0d1cxZkxodEtSTDd2MWJzOWM5V3B4TnhlTEc3VGZsRFJzZ1pwekk4eWFkYTZUSTc2cDJfUmZQM1QwX25NUUVHVW1MYWxIUg"
     }
   ],
-  "rejected_candidates": 98,
+  "rejected_candidates": 97,
   "schema_version": 1
 }
