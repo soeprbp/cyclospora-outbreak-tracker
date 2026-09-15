@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-09-15T01:31:54Z",
+  "generated_at": "2026-09-15T07:48:57Z",
   "items": [
     {
       "id": "cdc-gov-89569d85d25b",
@@ -43,16 +43,6 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOW5Ca2RET2Y2cnV0N3UwUEcxemtBS1BkMldtNmk4UGpsR09NaS1pR3dxTkhYdlNWc0lKcnNFc01qTFlielYxVjdEWDVMT2puRUxuVzNQc2tSZWF1cE9JaFNQX3Z0MlJPdEViLUFOc1BZXzVxMk5ETVIxRjlUNWF1T2ItT3FXVFJtdFhkU2RMRkxYRHVFeEdPUTNiM0hsVDZnS042YlAwR3ZOQTJWOTVfRi1oR3Fyb2kwZ0tweEJZajFzeEJZN2lV"
     },
     {
-      "id": "cbs-news-1afa9e3e35d3",
-      "kind": "major-media",
-      "published_at": "2026-09-11",
-      "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
-      "title": "Record-setting cyclospora outbreak is over, U.S. health officials declare",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aemk2VzNTc3pDVzl6ajBKU2k4Qk81NTVkMTAtazNLZzdWQXNzVlBwNXlKX3o3Snp4OEJWQ0RRdjN6SkNtekFqZ1NPWEtFaEpaM0lNU3NVTnE3QmNjY3EyNjNhUTVBUDRjdWVfcVItQXVKYmc"
-    },
-    {
       "id": "reuters-22642729ea4a",
       "kind": "major-media",
       "published_at": "2026-09-11",
@@ -93,6 +83,16 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IdXQtUktMc1l4QUY2eFMxSHlwaXloTnFDejRvTUVDWUUzZENZd21mc3g4WnVqTWtlZDRaek1YQmtiQk93Z0RwVnZPX2JWd05CU25UcXgtWDVfX0Rtb0w0VXhlZWVpZkFOM1JUM2dEZldPMmliQWJwR2h3"
     },
     {
+      "id": "cbsnews-com-1afa9e3e35d3",
+      "kind": "major-media",
+      "published_at": "2026-09-11",
+      "publisher_url": "https://www.cbsnews.com/",
+      "source": "cbsnews.com",
+      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
+      "title": "Record-setting cyclospora outbreak is over, U.S. health officials declare",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aemk2VzNTc3pDVzl6ajBKU2k4Qk81NTVkMTAtazNLZzdWQXNzVlBwNXlKX3o3Snp4OEJWQ0RRdjN6SkNtekFqZ1NPWEtFaEpaM0lNU3NVTnE3QmNjY3EyNjNhUTVBUDRjdWVfcVItQXVKYmc"
+    },
+    {
       "id": "cdc-nndss",
       "kind": "official",
       "published_at": "2026-09-05",
@@ -121,6 +121,6 @@
       "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     }
   ],
-  "rejected_candidates": 94,
+  "rejected_candidates": 95,
   "schema_version": 1
 }
