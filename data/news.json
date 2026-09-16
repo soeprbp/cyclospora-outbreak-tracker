@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-09-16T20:11:19Z",
+  "generated_at": "2026-09-16T22:59:03Z",
   "items": [
     {
       "id": "cdc-nndss",
@@ -52,6 +52,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UNTMxNHVtMFoxMHJXdEN4QURBaWgza1FTQ0hMTHQ5WkdXVkFJeld2VktlYldVXzl5NEpEYUtzQmQwZ3UxQk85MjlmcUdnSk1ocVZfQ2VlbFhzd3FoVi10eEtuVnRjRVk"
     },
     {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-d053d17f33ed",
+      "kind": "official",
+      "published_at": "2026-09-11",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "title": "Risk and Cyclospora | Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xNDBDRFk3NDNPNDZ2ZkpuNzRQdWZLVXIza1dmbmo3NXpuQmw5cVdfQ2gtWThZejViVWJLamY1eUprWmoxMmpmWGpYdHJPT2RwN1lCZXdtSXRmUVYzWVgxbWp5SlJfeXlPRlE"
+    },
+    {
       "id": "the-washington-post-6e854a5766a9",
       "kind": "major-media",
       "published_at": "2026-09-11",
@@ -82,16 +92,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObnB5SFl5YXZsSzloMXlkTmE2ZVYzWTFSVGpjU3ZXTFl0YzJ1WHNUQzBHZzQ3dWg2dm1ramp6d2VmQ0Zxcm52YTVjbWRSZnFiNDk2YXhQeE1uSkx5NWZnMWtXSWkxbDBaaVgwRDY0SThlSVNjbU11TVRHdlIxWmtOX2pRdjhqZnJTVVZBNWkxVGoxLUh6VlNEQmZwOA"
     },
     {
-      "id": "usa-today-ceec525d0459",
-      "kind": "major-media",
-      "published_at": "2026-09-11",
-      "publisher_url": "https://www.usatoday.com/",
-      "source": "USA Today",
-      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
-      "title": "Massive cyclospora outbreak linked to lettuce declared over",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdkg4T3V3TXM2SUJVUDV1eTRwTlBZUHJTbGRzeHpEa2FmcXRpYklXS05VM2ZTbE0zNkREZ2hUYlgtNXVTeWQ3YWRZWHRaOVVINVhQN1B0Q2N6ZEVpNFVwXy1ZVXJvOFdNbUx3cnl3aXg5TVUzVk9KdE5wNVFYWU5TdjJHUk90eG9pckVCYUx4Ujg1VGNJamJtZDdEYlE5QzRP"
-    },
-    {
       "id": "axios-866631587775",
       "kind": "major-media",
       "published_at": "2026-09-11",
@@ -112,16 +112,16 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aemk2VzNTc3pDVzl6ajBKU2k4Qk81NTVkMTAtazNLZzdWQXNzVlBwNXlKX3o3Snp4OEJWQ0RRdjN6SkNtekFqZ1NPWEtFaEpaM0lNU3NVTnE3QmNjY3EyNjNhUTVBUDRjdWVfcVItQXVKYmc"
     },
     {
-      "id": "apnews-com-107e0fc8b0ab",
+      "id": "usatoday-com-ceec525d0459",
       "kind": "major-media",
-      "published_at": "2026-09-08",
-      "publisher_url": "https://apnews.com/",
-      "source": "apnews.com",
-      "summary": "Recent Cyclospora coverage from apnews.com. Open the article for the full report.",
-      "title": "Cyclospora outbreak followed years of declining FDA foreign inspections",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQjZpdk5lamRFN2N3Zzhram5OR2c3R0NwYno1dTZ6TnoyTnpZalJzanpYTXlBNGZzTHBKU25PZm5rTGlLUS1CRjVZZ1hKeHpoMGlMWjMxQ1Fta0hsdEFKNnBTaWVtNER4NUE3THprSmp1VWpUV2w0QU5GbDJZTXdUUF9zYjZLUDI5aDFYeXNHQXdJdTV3UWsycXRmRG1Nb0Y1b0E"
+      "published_at": "2026-09-11",
+      "publisher_url": "https://www.usatoday.com/",
+      "source": "usatoday.com",
+      "summary": "Recent Cyclospora coverage from usatoday.com. Open the article for the full report.",
+      "title": "Massive cyclospora outbreak linked to lettuce declared over",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdkg4T3V3TXM2SUJVUDV1eTRwTlBZUHJTbGRzeHpEa2FmcXRpYklXS05VM2ZTbE0zNkREZ2hUYlgtNXVTeWQ3YWRZWHRaOVVINVhQN1B0Q2N6ZEVpNFVwXy1ZVXJvOFdNbUx3cnl3aXg5TVUzVk9KdE5wNVFYWU5TdjJHUk90eG9pckVCYUx4Ujg1VGNJamJtZDdEYlE5QzRP"
     }
   ],
-  "rejected_candidates": 98,
+  "rejected_candidates": 96,
   "schema_version": 1
 }
