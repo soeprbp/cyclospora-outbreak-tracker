@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-09-15T21:28:15Z",
+  "generated_at": "2026-09-16T00:25:20Z",
   "items": [
     {
       "id": "cdc-gov-89569d85d25b",
@@ -31,6 +31,16 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Cyclospora Case Data | Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eUpPeURQbVFaUVdiWk42RHhxLTRNZ1RwYkFZaUgwU0pGN3Vsek5IelJJd0tlbnIzYlZINDFjV0JZTzZ2R1FXN2RQaURwRE5aeFI3MmF6M3g4M1lrTFlTbg"
+    },
+    {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-6db10a681564",
+      "kind": "official",
+      "published_at": "2026-09-11",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "title": "Preventing Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UNTMxNHVtMFoxMHJXdEN4QURBaWgza1FTQ0hMTHQ5WkdXVkFJeld2VktlYldVXzl5NEpEYUtzQmQwZ3UxQk85MjlmcUdnSk1ocVZfQ2VlbFhzd3FoVi10eEtuVnRjRVk"
     },
     {
       "id": "the-washington-post-6e854a5766a9",
@@ -93,16 +103,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aemk2VzNTc3pDVzl6ajBKU2k4Qk81NTVkMTAtazNLZzdWQXNzVlBwNXlKX3o3Snp4OEJWQ0RRdjN6SkNtekFqZ1NPWEtFaEpaM0lNU3NVTnE3QmNjY3EyNjNhUTVBUDRjdWVfcVItQXVKYmc"
     },
     {
-      "id": "washingtonpost-com-90145525407f",
-      "kind": "major-media",
-      "published_at": "2026-09-11",
-      "publisher_url": "https://www.washingtonpost.com/",
-      "source": "washingtonpost.com",
-      "summary": "Recent Cyclospora coverage from washingtonpost.com. Open the article for the full report.",
-      "title": "Large cyclosporiasis outbreak tied to lettuce is over, federal officials say",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdnVEa0hRVlotd0lvYUE3azNxdUxmX0taOWV4OG12MEZBcXlnT002bkFXMUtqaThuXy1EcG1FVWNnUkdOSW15WnJ3SVpMSERnV3R6cm03Zk1tVW9FOTVneFlLRjQ3Z3Fpc0Y2N3J3OHkzdTJsb3RMeFI4Y0hReE5VNWhvYTNDdkdtVGFfZ2dkUGxFcXduM0h5Uk16dTBkei12TGlVOWFmSXdfcWl4UnJkREFjeWZyQ0lUdHFORXpidw"
-    },
-    {
       "id": "cdc-nndss",
       "kind": "official",
       "published_at": "2026-09-05",
@@ -122,6 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BOFN2bE9nQ0dTNjJrY0JELU5sNmdnNHp1TFpQVFIyY3NMT19ocUZmbUZFSVlKU1BHU1NFQ3NzbVEweVhvZkNGTzViSzhWYkZISEpyWE0tVUpGaVZBN3l6Y1MzMHFCSjY0RTNKMXBn"
     }
   ],
-  "rejected_candidates": 96,
+  "rejected_candidates": 95,
   "schema_version": 1
 }
