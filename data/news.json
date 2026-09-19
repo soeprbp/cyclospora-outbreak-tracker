@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-09-19T20:45:20Z",
+  "generated_at": "2026-09-19T23:10:41Z",
   "items": [
     {
       "id": "cdc-gov-89569d85d25b",
@@ -9,6 +9,16 @@
       "publisher_url": "https://www.cdc.gov/",
       "source": "cdc.gov",
       "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
+      "title": "Cyclospora Case Data | Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eUpPeURQbVFaUVdiWk42RHhxLTRNZ1RwYkFZaUgwU0pGN3Vsek5IelJJd0tlbnIzYlZINDFjV0JZTzZ2R1FXN2RQaURwRE5aeFI3MmF6M3g4M1lrTFlTbg"
+    },
+    {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-89569d85d25b",
+      "kind": "official",
+      "published_at": "2026-09-15",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Cyclospora Case Data | Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eUpPeURQbVFaUVdiWk42RHhxLTRNZ1RwYkFZaUgwU0pGN3Vsek5IelJJd0tlbnIzYlZINDFjV0JZTzZ2R1FXN2RQaURwRE5aeFI3MmF6M3g4M1lrTFlTbg"
     },
@@ -48,6 +58,16 @@
       "publisher_url": "https://www.cdc.gov/",
       "source": "cdc.gov",
       "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
+      "title": "Risk and Cyclospora | Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xNDBDRFk3NDNPNDZ2ZkpuNzRQdWZLVXIza1dmbmo3NXpuQmw5cVdfQ2gtWThZejViVWJLamY1eUprWmoxMmpmWGpYdHJPT2RwN1lCZXdtSXRmUVYzWVgxbWp5SlJfeXlPRlE"
+    },
+    {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-d053d17f33ed",
+      "kind": "official",
+      "published_at": "2026-09-11",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Risk and Cyclospora | Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xNDBDRFk3NDNPNDZ2ZkpuNzRQdWZLVXIza1dmbmo3NXpuQmw5cVdfQ2gtWThZejViVWJLamY1eUprWmoxMmpmWGpYdHJPT2RwN1lCZXdtSXRmUVYzWVgxbWp5SlJfeXlPRlE"
     },
@@ -100,25 +120,6 @@
       "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
       "title": "Massive cyclospora outbreak linked to lettuce declared over",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdkg4T3V3TXM2SUJVUDV1eTRwTlBZUHJTbGRzeHpEa2FmcXRpYklXS05VM2ZTbE0zNkREZ2hUYlgtNXVTeWQ3YWRZWHRaOVVINVhQN1B0Q2N6ZEVpNFVwXy1ZVXJvOFdNbUx3cnl3aXg5TVUzVk9KdE5wNVFYWU5TdjJHUk90eG9pckVCYUx4Ujg1VGNJamJtZDdEYlE5QzRP"
-    },
-    {
-      "id": "axios-866631587775",
-      "kind": "major-media",
-      "published_at": "2026-09-11",
-      "publisher_url": "https://www.axios.com/",
-      "source": "Axios",
-      "summary": "Recent Cyclospora coverage from Axios. Open the article for the full report.",
-      "title": "CDC declares cyclospora outbreak over",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IdXQtUktMc1l4QUY2eFMxSHlwaXloTnFDejRvTUVDWUUzZENZd21mc3g4WnVqTWtlZDRaek1YQmtiQk93Z0RwVnZPX2JWd05CU25UcXgtWDVfX0Rtb0w0VXhlZWVpZkFOM1JUM2dEZldPMmliQWJwR2h3"
-    },
-    {
-      "id": "cdc-surveillance",
-      "kind": "official",
-      "published_at": "2026-08-17",
-      "source": "CDC",
-      "summary": "CDC's national surveillance snapshot reports 828 hospitalizations, 2 deaths, and cases across 47 states.",
-      "title": "CDC reports 15,716 domestically acquired Cyclospora cases",
-      "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     }
   ],
   "rejected_candidates": 96,
