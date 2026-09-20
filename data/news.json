@@ -1,7 +1,17 @@
 {
   "errors": [],
-  "generated_at": "2026-09-19T23:10:41Z",
+  "generated_at": "2026-09-20T06:22:41Z",
   "items": [
+    {
+      "id": "cbsnews-com-17d9296cedc9",
+      "kind": "major-media",
+      "published_at": "2026-09-17",
+      "publisher_url": "https://www.cbsnews.com/",
+      "source": "cbsnews.com",
+      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
+      "title": "Kroger says Cyclospora outbreak cost more than $100 million in sales",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV3VBS0JoU3ZDMmJoSU5lczhPaDNrSU9UUGtwY0MxaU5sMnRTLUVWQVdxOHMzT3hER2JzQTEtcVVZcUZuOGFQMzJ4OUhrSWE2amlqampxRjF5WlRMcWFtU0hjOUxCS0pXaWlYVUtlZnJjZzAyckN5U2V2QkZHNTdVM0JucHpLemQwSVYwQktNS2ZnV1JjS0FyOHVGN3lqdVhKcFZ0TW53Yw"
+    },
     {
       "id": "cdc-gov-89569d85d25b",
       "kind": "official",
@@ -100,16 +110,6 @@
       "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
       "title": "US declares end of largest recorded cyclosporiasis outbreak",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR09VN1ZRWGprdy1ndG9qTEVXVVkxVXN0SE96eDZJU1BDVFF5T1RHR2I2TGU1Z3lsc1FIWU9vdTgtanZ5VlZOZkYtQWVubkNHMDFBR0F1SUwzbUxIMnJjUmFEU2xWQ3dIZEx6UlRhcmhkQXZhUEtucEk5dzlpV0dIUGZNemxzY0l4U1luTlpTRklTYjQ3X2VhQXRlaTV4UjAxYUVxblNodGduX2o0WExvSFdhQWxKNXJMZGRKR0NCVHZOR1FwYldr"
-    },
-    {
-      "id": "cbs-news-1afa9e3e35d3",
-      "kind": "major-media",
-      "published_at": "2026-09-11",
-      "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
-      "title": "Record-setting cyclospora outbreak is over, U.S. health officials declare",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aemk2VzNTc3pDVzl6ajBKU2k4Qk81NTVkMTAtazNLZzdWQXNzVlBwNXlKX3o3Snp4OEJWQ0RRdjN6SkNtekFqZ1NPWEtFaEpaM0lNU3NVTnE3QmNjY3EyNjNhUTVBUDRjdWVfcVItQXVKYmc"
     },
     {
       "id": "usa-today-ceec525d0459",
