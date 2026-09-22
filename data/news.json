@@ -1,14 +1,14 @@
 {
   "errors": [],
-  "generated_at": "2026-09-21T23:20:00Z",
+  "generated_at": "2026-09-22T10:02:29Z",
   "items": [
     {
-      "id": "cbsnews-com-17d9296cedc9",
+      "id": "cbs-news-17d9296cedc9",
       "kind": "major-media",
       "published_at": "2026-09-17",
       "publisher_url": "https://www.cbsnews.com/",
-      "source": "cbsnews.com",
-      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
+      "source": "CBS News",
+      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
       "title": "Kroger says Cyclospora outbreak cost more than $100 million in sales",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV3VBS0JoU3ZDMmJoSU5lczhPaDNrSU9UUGtwY0MxaU5sMnRTLUVWQVdxOHMzT3hER2JzQTEtcVVZcUZuOGFQMzJ4OUhrSWE2amlqampxRjF5WlRMcWFtU0hjOUxCS0pXaWlYVUtlZnJjZzAyckN5U2V2QkZHNTdVM0JucHpLemQwSVYwQktNS2ZnV1JjS0FyOHVGN3lqdVhKcFZ0TW53Yw"
     },
@@ -122,6 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdkg4T3V3TXM2SUJVUDV1eTRwTlBZUHJTbGRzeHpEa2FmcXRpYklXS05VM2ZTbE0zNkREZ2hUYlgtNXVTeWQ3YWRZWHRaOVVINVhQN1B0Q2N6ZEVpNFVwXy1ZVXJvOFdNbUx3cnl3aXg5TVUzVk9KdE5wNVFYWU5TdjJHUk90eG9pckVCYUx4Ujg1VGNJamJtZDdEYlE5QzRP"
     }
   ],
-  "rejected_candidates": 97,
+  "rejected_candidates": 98,
   "schema_version": 1
 }
