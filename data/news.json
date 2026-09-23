@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-09-22T22:13:56Z",
+  "generated_at": "2026-09-23T06:02:08Z",
   "items": [
     {
       "id": "cbs-news-17d9296cedc9",
@@ -92,16 +92,6 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOW5Ca2RET2Y2cnV0N3UwUEcxemtBS1BkMldtNmk4UGpsR09NaS1pR3dxTkhYdlNWc0lKcnNFc01qTFlielYxVjdEWDVMT2puRUxuVzNQc2tSZWF1cE9JaFNQX3Z0MlJPdEViLUFOc1BZXzVxMk5ETVIxRjlUNWF1T2ItT3FXVFJtdFhkU2RMRkxYRHVFeEdPUTNiM0hsVDZnS042YlAwR3ZOQTJWOTVfRi1oR3Fyb2kwZ0tweEJZajFzeEJZN2lV"
     },
     {
-      "id": "ap-news-8e6c0c660eb2",
-      "kind": "major-media",
-      "published_at": "2026-09-11",
-      "publisher_url": "https://apnews.com/",
-      "source": "AP News",
-      "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
-      "title": "US officials declare an end to record-setting cyclospora outbreak, but its origin is still unknown",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObnB5SFl5YXZsSzloMXlkTmE2ZVYzWTFSVGpjU3ZXTFl0YzJ1WHNUQzBHZzQ3dWg2dm1ramp6d2VmQ0Zxcm52YTVjbWRSZnFiNDk2YXhQeE1uSkx5NWZnMWtXSWkxbDBaaVgwRDY0SThlSVNjbU11TVRHdlIxWmtOX2pRdjhqZnJTVVZBNWkxVGoxLUh6VlNEQmZwOA"
-    },
-    {
       "id": "reuters-22642729ea4a",
       "kind": "major-media",
       "published_at": "2026-09-11",
@@ -112,16 +102,26 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR09VN1ZRWGprdy1ndG9qTEVXVVkxVXN0SE96eDZJU1BDVFF5T1RHR2I2TGU1Z3lsc1FIWU9vdTgtanZ5VlZOZkYtQWVubkNHMDFBR0F1SUwzbUxIMnJjUmFEU2xWQ3dIZEx6UlRhcmhkQXZhUEtucEk5dzlpV0dIUGZNemxzY0l4U1luTlpTRklTYjQ3X2VhQXRlaTV4UjAxYUVxblNodGduX2o0WExvSFdhQWxKNXJMZGRKR0NCVHZOR1FwYldr"
     },
     {
-      "id": "usa-today-ceec525d0459",
+      "id": "apnews-com-8e6c0c660eb2",
+      "kind": "major-media",
+      "published_at": "2026-09-11",
+      "publisher_url": "https://apnews.com/",
+      "source": "apnews.com",
+      "summary": "Recent Cyclospora coverage from apnews.com. Open the article for the full report.",
+      "title": "US officials declare an end to record-setting cyclospora outbreak, but its origin is still unknown",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObnB5SFl5YXZsSzloMXlkTmE2ZVYzWTFSVGpjU3ZXTFl0YzJ1WHNUQzBHZzQ3dWg2dm1ramp6d2VmQ0Zxcm52YTVjbWRSZnFiNDk2YXhQeE1uSkx5NWZnMWtXSWkxbDBaaVgwRDY0SThlSVNjbU11TVRHdlIxWmtOX2pRdjhqZnJTVVZBNWkxVGoxLUh6VlNEQmZwOA"
+    },
+    {
+      "id": "usatoday-com-ceec525d0459",
       "kind": "major-media",
       "published_at": "2026-09-11",
       "publisher_url": "https://www.usatoday.com/",
-      "source": "USA Today",
-      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
+      "source": "usatoday.com",
+      "summary": "Recent Cyclospora coverage from usatoday.com. Open the article for the full report.",
       "title": "Massive cyclospora outbreak linked to lettuce declared over",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdkg4T3V3TXM2SUJVUDV1eTRwTlBZUHJTbGRzeHpEa2FmcXRpYklXS05VM2ZTbE0zNkREZ2hUYlgtNXVTeWQ3YWRZWHRaOVVINVhQN1B0Q2N6ZEVpNFVwXy1ZVXJvOFdNbUx3cnl3aXg5TVUzVk9KdE5wNVFYWU5TdjJHUk90eG9pckVCYUx4Ujg1VGNJamJtZDdEYlE5QzRP"
     }
   ],
-  "rejected_candidates": 98,
+  "rejected_candidates": 97,
   "schema_version": 1
 }
