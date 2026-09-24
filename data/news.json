@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-09-23T23:44:48Z",
+  "generated_at": "2026-09-24T04:57:36Z",
   "items": [
     {
       "id": "cdc-nndss",
@@ -112,12 +112,12 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdkg4T3V3TXM2SUJVUDV1eTRwTlBZUHJTbGRzeHpEa2FmcXRpYklXS05VM2ZTbE0zNkREZ2hUYlgtNXVTeWQ3YWRZWHRaOVVINVhQN1B0Q2N6ZEVpNFVwXy1ZVXJvOFdNbUx3cnl3aXg5TVUzVk9KdE5wNVFYWU5TdjJHUk90eG9pckVCYUx4Ujg1VGNJamJtZDdEYlE5QzRP"
     },
     {
-      "id": "apnews-com-8e6c0c660eb2",
+      "id": "ap-news-8e6c0c660eb2",
       "kind": "major-media",
       "published_at": "2026-09-11",
       "publisher_url": "https://apnews.com/",
-      "source": "apnews.com",
-      "summary": "Recent Cyclospora coverage from apnews.com. Open the article for the full report.",
+      "source": "AP News",
+      "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
       "title": "US officials declare an end to record-setting cyclospora outbreak, but its origin is still unknown",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObnB5SFl5YXZsSzloMXlkTmE2ZVYzWTFSVGpjU3ZXTFl0YzJ1WHNUQzBHZzQ3dWg2dm1ramp6d2VmQ0Zxcm52YTVjbWRSZnFiNDk2YXhQeE1uSkx5NWZnMWtXSWkxbDBaaVgwRDY0SThlSVNjbU11TVRHdlIxWmtOX2pRdjhqZnJTVVZBNWkxVGoxLUh6VlNEQmZwOA"
     }
