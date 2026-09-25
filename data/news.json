@@ -1,7 +1,17 @@
 {
   "errors": [],
-  "generated_at": "2026-09-25T07:53:54Z",
+  "generated_at": "2026-09-25T18:40:21Z",
   "items": [
+    {
+      "id": "fda-gov-6544fc43d694",
+      "kind": "official",
+      "published_at": "2026-09-23",
+      "publisher_url": "https://www.fda.gov/",
+      "source": "fda.gov",
+      "summary": "Recent Cyclospora coverage from fda.gov. Open the article for the full report.",
+      "title": "Investigations of Foodborne Illness Outbreaks",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk9CZUFHZmRHM3p1V1VfczVQOGxOVU5VSjllbF9tSzFyZDZqVXpfOVdTMnNVZk9VZjRVTDlRN3pvbjZZTER0bG5CY2h0Q0F6SldIMDl0WXNmanBtSGthVjQxMU5NZHNibkNLMXBqRnVsOWk4andKSkdrWUM4eUYzaFVzdGI5OFFXRGE5NWJTTFJja2cxaEJaN3doZw"
+    },
     {
       "id": "cdc-nndss",
       "kind": "official",
@@ -110,18 +120,8 @@
       "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
       "title": "US declares end of largest recorded cyclosporiasis outbreak",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR09VN1ZRWGprdy1ndG9qTEVXVVkxVXN0SE96eDZJU1BDVFF5T1RHR2I2TGU1Z3lsc1FIWU9vdTgtanZ5VlZOZkYtQWVubkNHMDFBR0F1SUwzbUxIMnJjUmFEU2xWQ3dIZEx6UlRhcmhkQXZhUEtucEk5dzlpV0dIUGZNemxzY0l4U1luTlpTRklTYjQ3X2VhQXRlaTV4UjAxYUVxblNodGduX2o0WExvSFdhQWxKNXJMZGRKR0NCVHZOR1FwYldr"
-    },
-    {
-      "id": "ap-news-8e6c0c660eb2",
-      "kind": "major-media",
-      "published_at": "2026-09-11",
-      "publisher_url": "https://apnews.com/",
-      "source": "AP News",
-      "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
-      "title": "US officials declare an end to record-setting cyclospora outbreak, but its origin is still unknown",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObnB5SFl5YXZsSzloMXlkTmE2ZVYzWTFSVGpjU3ZXTFl0YzJ1WHNUQzBHZzQ3dWg2dm1ramp6d2VmQ0Zxcm52YTVjbWRSZnFiNDk2YXhQeE1uSkx5NWZnMWtXSWkxbDBaaVgwRDY0SThlSVNjbU11TVRHdlIxWmtOX2pRdjhqZnJTVVZBNWkxVGoxLUh6VlNEQmZwOA"
     }
   ],
-  "rejected_candidates": 102,
+  "rejected_candidates": 101,
   "schema_version": 1
 }
