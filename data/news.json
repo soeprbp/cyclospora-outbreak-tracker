@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-09-26T07:47:13Z",
+  "generated_at": "2026-09-26T13:09:39Z",
   "items": [
     {
       "id": "fda-gov-6544fc43d694",
@@ -22,22 +22,22 @@
       "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     },
     {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-e8b5dd793283",
+      "id": "cdc-gov-e8b5dd793283",
       "kind": "official",
       "published_at": "2026-09-18",
       "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
+      "source": "cdc.gov",
+      "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
       "title": "Clinical Overview of Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IVXJqUDByNFRGQ2hrb0h1a1JsYWtFYmdpYUhZcVlHMUVlVExhZmlIb3VrbXRmVzdHbjFucm5Sb1hMaFdTcUFBVTczWjI4UE5fOFVDYzhqZ0FDbm85Rnd4amJEN2VWbE5wc2U1NmwtTWozNXR6QkE"
     },
     {
-      "id": "cbs-news-17d9296cedc9",
+      "id": "cbsnews-com-17d9296cedc9",
       "kind": "major-media",
       "published_at": "2026-09-17",
       "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
+      "source": "cbsnews.com",
+      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
       "title": "Kroger says Cyclospora outbreak cost more than $100 million in sales",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV3VBS0JoU3ZDMmJoSU5lczhPaDNrSU9UUGtwY0MxaU5sMnRTLUVWQVdxOHMzT3hER2JzQTEtcVVZcUZuOGFQMzJ4OUhrSWE2amlqampxRjF5WlRMcWFtU0hjOUxCS0pXaWlYVUtlZnJjZzAyckN5U2V2QkZHNTdVM0JucHpLemQwSVYwQktNS2ZnV1JjS0FyOHVGN3lqdVhKcFZ0TW53Yw"
     },
@@ -52,22 +52,12 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eUpPeURQbVFaUVdiWk42RHhxLTRNZ1RwYkFZaUgwU0pGN3Vsek5IelJJd0tlbnIzYlZINDFjV0JZTzZ2R1FXN2RQaURwRE5aeFI3MmF6M3g4M1lrTFlTbg"
     },
     {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-89569d85d25b",
-      "kind": "official",
-      "published_at": "2026-09-15",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Cyclospora Case Data | Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eUpPeURQbVFaUVdiWk42RHhxLTRNZ1RwYkFZaUgwU0pGN3Vsek5IelJJd0tlbnIzYlZINDFjV0JZTzZ2R1FXN2RQaURwRE5aeFI3MmF6M3g4M1lrTFlTbg"
-    },
-    {
-      "id": "usa-today-320dcc1f3373",
+      "id": "usatoday-com-320dcc1f3373",
       "kind": "major-media",
       "published_at": "2026-09-13",
       "publisher_url": "https://www.usatoday.com/",
-      "source": "USA Today",
-      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
+      "source": "usatoday.com",
+      "summary": "Recent Cyclospora coverage from usatoday.com. Open the article for the full report.",
       "title": "Cyclospora outbreak hammers Kroger sales as shoppers avoided produce",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ELUJIbUdkSXNScEtfN2s4OHVqWE5BSW9RMjdNdEdzT2pNaXhndElGakRjdHptMG9ITmxNR1drRmZYVGx5emJRMXIxcEpSZEoxaVluald4WkdVNW5Ramc"
     },
@@ -120,8 +110,17 @@
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
       "title": "Federal officials poised to declare end of U.S.\u2019s largest known cyclosporiasis outbreak",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOW5Ca2RET2Y2cnV0N3UwUEcxemtBS1BkMldtNmk4UGpsR09NaS1pR3dxTkhYdlNWc0lKcnNFc01qTFlielYxVjdEWDVMT2puRUxuVzNQc2tSZWF1cE9JaFNQX3Z0MlJPdEViLUFOc1BZXzVxMk5ETVIxRjlUNWF1T2ItT3FXVFJtdFhkU2RMRkxYRHVFeEdPUTNiM0hsVDZnS042YlAwR3ZOQTJWOTVfRi1oR3Fyb2kwZ0tweEJZajFzeEJZN2lV"
+    },
+    {
+      "id": "cdc-surveillance",
+      "kind": "official",
+      "published_at": "2026-08-17",
+      "source": "CDC",
+      "summary": "CDC's national surveillance snapshot reports 828 hospitalizations, 2 deaths, and cases across 47 states.",
+      "title": "CDC reports 15,716 domestically acquired Cyclospora cases",
+      "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     }
   ],
-  "rejected_candidates": 86,
+  "rejected_candidates": 83,
   "schema_version": 1
 }
