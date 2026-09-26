@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-09-25T18:40:21Z",
+  "generated_at": "2026-09-26T07:47:13Z",
   "items": [
     {
       "id": "fda-gov-6544fc43d694",
@@ -62,6 +62,16 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eUpPeURQbVFaUVdiWk42RHhxLTRNZ1RwYkFZaUgwU0pGN3Vsek5IelJJd0tlbnIzYlZINDFjV0JZTzZ2R1FXN2RQaURwRE5aeFI3MmF6M3g4M1lrTFlTbg"
     },
     {
+      "id": "usa-today-320dcc1f3373",
+      "kind": "major-media",
+      "published_at": "2026-09-13",
+      "publisher_url": "https://www.usatoday.com/",
+      "source": "USA Today",
+      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
+      "title": "Cyclospora outbreak hammers Kroger sales as shoppers avoided produce",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ELUJIbUdkSXNScEtfN2s4OHVqWE5BSW9RMjdNdEdzT2pNaXhndElGakRjdHptMG9ITmxNR1drRmZYVGx5emJRMXIxcEpSZEoxaVluald4WkdVNW5Ramc"
+    },
+    {
       "id": "cdc-gov-6db10a681564",
       "kind": "official",
       "published_at": "2026-09-11",
@@ -110,18 +120,8 @@
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
       "title": "Federal officials poised to declare end of U.S.\u2019s largest known cyclosporiasis outbreak",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOW5Ca2RET2Y2cnV0N3UwUEcxemtBS1BkMldtNmk4UGpsR09NaS1pR3dxTkhYdlNWc0lKcnNFc01qTFlielYxVjdEWDVMT2puRUxuVzNQc2tSZWF1cE9JaFNQX3Z0MlJPdEViLUFOc1BZXzVxMk5ETVIxRjlUNWF1T2ItT3FXVFJtdFhkU2RMRkxYRHVFeEdPUTNiM0hsVDZnS042YlAwR3ZOQTJWOTVfRi1oR3Fyb2kwZ0tweEJZajFzeEJZN2lV"
-    },
-    {
-      "id": "reuters-22642729ea4a",
-      "kind": "major-media",
-      "published_at": "2026-09-11",
-      "publisher_url": "https://www.reuters.com/",
-      "source": "Reuters",
-      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
-      "title": "US declares end of largest recorded cyclosporiasis outbreak",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR09VN1ZRWGprdy1ndG9qTEVXVVkxVXN0SE96eDZJU1BDVFF5T1RHR2I2TGU1Z3lsc1FIWU9vdTgtanZ5VlZOZkYtQWVubkNHMDFBR0F1SUwzbUxIMnJjUmFEU2xWQ3dIZEx6UlRhcmhkQXZhUEtucEk5dzlpV0dIUGZNemxzY0l4U1luTlpTRklTYjQ3X2VhQXRlaTV4UjAxYUVxblNodGduX2o0WExvSFdhQWxKNXJMZGRKR0NCVHZOR1FwYldr"
     }
   ],
-  "rejected_candidates": 101,
+  "rejected_candidates": 86,
   "schema_version": 1
 }
