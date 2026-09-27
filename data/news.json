@@ -1,11 +1,11 @@
 {
   "errors": [],
-  "generated_at": "2026-09-27T14:04:54Z",
+  "generated_at": "2026-09-27T22:15:44Z",
   "items": [
     {
       "id": "fda-gov-6544fc43d694",
       "kind": "official",
-      "published_at": "2026-09-23",
+      "published_at": "2026-09-25",
       "publisher_url": "https://www.fda.gov/",
       "source": "fda.gov",
       "summary": "Recent Cyclospora coverage from fda.gov. Open the article for the full report.",
@@ -122,6 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xNDBDRFk3NDNPNDZ2ZkpuNzRQdWZLVXIza1dmbmo3NXpuQmw5cVdfQ2gtWThZejViVWJLamY1eUprWmoxMmpmWGpYdHJPT2RwN1lCZXdtSXRmUVYzWVgxbWp5SlJfeXlPRlE"
     }
   ],
-  "rejected_candidates": 83,
+  "rejected_candidates": 82,
   "schema_version": 1
 }
