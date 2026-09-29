@@ -1,7 +1,17 @@
 {
   "errors": [],
-  "generated_at": "2026-09-27T22:15:44Z",
+  "generated_at": "2026-09-29T15:56:09Z",
   "items": [
+    {
+      "id": "cbs-news-c30303cc3782",
+      "kind": "major-media",
+      "published_at": "2026-09-28",
+      "publisher_url": "https://www.cbsnews.com/",
+      "source": "CBS News",
+      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
+      "title": "Food safety becomes an election issue as major outbreaks and recalls cause concern",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTWdhQVNQbDh1ZkxNX3JHRGljLU9BSGo3SGFydFJvUXZEVlVjWkZ6QjBNS0V2eTlseWdRLUtjWjFyQ1ZQUHVKWXZFbUlxTDI2XzBBV1VqeHlubks5SDdKLWhza2hHbzFTX0NlblVZY19aMzQyT2FoVHlEaHRHYWpnb01xSQ"
+    },
     {
       "id": "fda-gov-6544fc43d694",
       "kind": "official",
@@ -30,26 +40,6 @@
       "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
       "title": "Clinical Overview of Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IVXJqUDByNFRGQ2hrb0h1a1JsYWtFYmdpYUhZcVlHMUVlVExhZmlIb3VrbXRmVzdHbjFucm5Sb1hMaFdTcUFBVTczWjI4UE5fOFVDYzhqZ0FDbm85Rnd4amJEN2VWbE5wc2U1NmwtTWozNXR6QkE"
-    },
-    {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-e8b5dd793283",
-      "kind": "official",
-      "published_at": "2026-09-18",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Clinical Overview of Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IVXJqUDByNFRGQ2hrb0h1a1JsYWtFYmdpYUhZcVlHMUVlVExhZmlIb3VrbXRmVzdHbjFucm5Sb1hMaFdTcUFBVTczWjI4UE5fOFVDYzhqZ0FDbm85Rnd4amJEN2VWbE5wc2U1NmwtTWozNXR6QkE"
-    },
-    {
-      "id": "cbs-news-17d9296cedc9",
-      "kind": "major-media",
-      "published_at": "2026-09-17",
-      "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
-      "title": "Kroger says Cyclospora outbreak cost more than $100 million in sales",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV3VBS0JoU3ZDMmJoSU5lczhPaDNrSU9UUGtwY0MxaU5sMnRTLUVWQVdxOHMzT3hER2JzQTEtcVVZcUZuOGFQMzJ4OUhrSWE2amlqampxRjF5WlRMcWFtU0hjOUxCS0pXaWlYVUtlZnJjZzAyckN5U2V2QkZHNTdVM0JucHpLemQwSVYwQktNS2ZnV1JjS0FyOHVGN3lqdVhKcFZ0TW53Yw"
     },
     {
       "id": "cdc-gov-89569d85d25b",
@@ -120,8 +110,17 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Risk and Cyclospora | Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xNDBDRFk3NDNPNDZ2ZkpuNzRQdWZLVXIza1dmbmo3NXpuQmw5cVdfQ2gtWThZejViVWJLamY1eUprWmoxMmpmWGpYdHJPT2RwN1lCZXdtSXRmUVYzWVgxbWp5SlJfeXlPRlE"
+    },
+    {
+      "id": "cdc-surveillance",
+      "kind": "official",
+      "published_at": "2026-08-17",
+      "source": "CDC",
+      "summary": "CDC's national surveillance snapshot reports 828 hospitalizations, 2 deaths, and cases across 47 states.",
+      "title": "CDC reports 15,716 domestically acquired Cyclospora cases",
+      "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     }
   ],
-  "rejected_candidates": 82,
+  "rejected_candidates": 55,
   "schema_version": 1
 }
