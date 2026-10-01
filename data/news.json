@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-09-30T23:54:38Z",
+  "generated_at": "2026-10-01T06:02:19Z",
   "items": [
     {
       "id": "cbs-news-c30303cc3782",
@@ -38,6 +38,16 @@
       "publisher_url": "https://www.cdc.gov/",
       "source": "cdc.gov",
       "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
+      "title": "Clinical Overview of Cyclosporiasis",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IVXJqUDByNFRGQ2hrb0h1a1JsYWtFYmdpYUhZcVlHMUVlVExhZmlIb3VrbXRmVzdHbjFucm5Sb1hMaFdTcUFBVTczWjI4UE5fOFVDYzhqZ0FDbm85Rnd4amJEN2VWbE5wc2U1NmwtTWozNXR6QkE"
+    },
+    {
+      "id": "centers-for-disease-control-and-prevention-cdc-gov-e8b5dd793283",
+      "kind": "official",
+      "published_at": "2026-09-18",
+      "publisher_url": "https://www.cdc.gov/",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Clinical Overview of Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IVXJqUDByNFRGQ2hrb0h1a1JsYWtFYmdpYUhZcVlHMUVlVExhZmlIb3VrbXRmVzdHbjFucm5Sb1hMaFdTcUFBVTczWjI4UE5fOFVDYzhqZ0FDbm85Rnd4amJEN2VWbE5wc2U1NmwtTWozNXR6QkE"
     },
@@ -110,15 +120,6 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Risk and Cyclospora | Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xNDBDRFk3NDNPNDZ2ZkpuNzRQdWZLVXIza1dmbmo3NXpuQmw5cVdfQ2gtWThZejViVWJLamY1eUprWmoxMmpmWGpYdHJPT2RwN1lCZXdtSXRmUVYzWVgxbWp5SlJfeXlPRlE"
-    },
-    {
-      "id": "cdc-surveillance",
-      "kind": "official",
-      "published_at": "2026-08-17",
-      "source": "CDC",
-      "summary": "CDC's national surveillance snapshot reports 828 hospitalizations, 2 deaths, and cases across 47 states.",
-      "title": "CDC reports 15,716 domestically acquired Cyclospora cases",
-      "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
     }
   ],
   "rejected_candidates": 58,
