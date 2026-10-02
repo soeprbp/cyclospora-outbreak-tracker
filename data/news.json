@@ -1,14 +1,14 @@
 {
   "errors": [],
-  "generated_at": "2026-10-01T23:55:18Z",
+  "generated_at": "2026-10-02T05:45:12Z",
   "items": [
     {
-      "id": "cbsnews-com-c30303cc3782",
+      "id": "cbs-news-c30303cc3782",
       "kind": "major-media",
       "published_at": "2026-09-28",
       "publisher_url": "https://www.cbsnews.com/",
-      "source": "cbsnews.com",
-      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
+      "source": "CBS News",
+      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
       "title": "Food safety becomes an election issue as major outbreaks and recalls cause concern",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTWdhQVNQbDh1ZkxNX3JHRGljLU9BSGo3SGFydFJvUXZEVlVjWkZ6QjBNS0V2eTlseWdRLUtjWjFyQ1ZQUHVKWXZFbUlxTDI2XzBBV1VqeHlubks5SDdKLWhza2hHbzFTX0NlblVZY19aMzQyT2FoVHlEaHRHYWpnb01xSQ"
     },
@@ -122,6 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xNDBDRFk3NDNPNDZ2ZkpuNzRQdWZLVXIza1dmbmo3NXpuQmw5cVdfQ2gtWThZejViVWJLamY1eUprWmoxMmpmWGpYdHJPT2RwN1lCZXdtSXRmUVYzWVgxbWp5SlJfeXlPRlE"
     }
   ],
-  "rejected_candidates": 55,
+  "rejected_candidates": 59,
   "schema_version": 1
 }
