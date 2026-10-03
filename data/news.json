@@ -1,14 +1,44 @@
 {
   "errors": [],
-  "generated_at": "2026-10-02T05:45:12Z",
+  "generated_at": "2026-10-03T02:02:22Z",
   "items": [
     {
-      "id": "cbs-news-c30303cc3782",
+      "id": "the-washington-post-5c22d3ba241e",
+      "kind": "major-media",
+      "published_at": "2026-10-03",
+      "publisher_url": "https://www.washingtonpost.com/",
+      "source": "The Washington Post",
+      "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
+      "title": "FDA found cyclospora at Taylor Farms Mexico site and where lettuce was grown",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDhSRXAxbkowcGl5aldlVmZPYkk2ZFVieno4Q0l0WGlWekZHbWhxNV9NQ3ZodUxwUHJLX25pU04weW5lVmZJaGRiS0lfcUllbWZuYjA2cml1YWUxNEFRc0h6Qzg5SlYwcXVNZEF4QkI5ZUQ2YTJXNUZ1QlItUjNLN25FYUFoNE44WEJSR1VYTjBZVGJSODFmZDg1M1pYa0Y4ek1aOUpzWTl6YzNIWm54YWZQZm1IWmFFVTJn"
+    },
+    {
+      "id": "ap-news-424e5b80c474",
+      "kind": "major-media",
+      "published_at": "2026-10-02",
+      "publisher_url": "https://apnews.com/",
+      "source": "AP News",
+      "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
+      "title": "Cyclospora found at Mexican farm linked to lettuce outbreak, FDA says",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjJzdkIxUzVRNHpESENmRkR6YTB3UUkzakxLLTZsNmI3ZnlDeXVYWEd2bXRGeFJaekJFbXQ1LTV5aEVrTy00dVRNQ2pLM0ZqZk9wOEJCMGgyaEstUkVQLU1HM2tCYWFwbG5LWk1JWjJWM0JfSW9wU1c1cWhaNU9oN2thMk00NnNJeGQxaGZqTWF5aDM3RzNULWJFWktmbDZFYjMxU1FkOA"
+    },
+    {
+      "id": "reuters-360e659d8741",
+      "kind": "major-media",
+      "published_at": "2026-10-02",
+      "publisher_url": "https://www.reuters.com/",
+      "source": "Reuters",
+      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
+      "title": "US FDA closes cyclospora lettuce parasite probe, finds strong link to Taylor Farms Mexico",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdXdJTlkwWkI1RGxfa004eGZieFE0ZjMyUU15UXc2ai0wWFFzY0pzSGs0SEZiMDNZLWI0WUt4a1d4WTZBaE5sQTZsTFREUUtibUVKYmhydWxpYmZwM3RTVEw4Tm4zT2RadnFQbEp1UzBQVlpJdTJWUlQ0cVBrVU1rZkg5NmRoMDB2eGk2OFBjTS1iNVFhR3ZzLVNPQk1wcHpiQVAyZXBObHJYdzQ5dHNPWlZZWHU0NnY3bkJleVFWTW1jVHJUNm14Y0I4enh4U0c3elFoTlpn"
+    },
+    {
+      "id": "cbsnews-com-c30303cc3782",
       "kind": "major-media",
       "published_at": "2026-09-28",
       "publisher_url": "https://www.cbsnews.com/",
-      "source": "CBS News",
-      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
+      "source": "cbsnews.com",
+      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
       "title": "Food safety becomes an election issue as major outbreaks and recalls cause concern",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTWdhQVNQbDh1ZkxNX3JHRGljLU9BSGo3SGFydFJvUXZEVlVjWkZ6QjBNS0V2eTlseWdRLUtjWjFyQ1ZQUHVKWXZFbUlxTDI2XzBBV1VqeHlubks5SDdKLWhza2hHbzFTX0NlblVZY19aMzQyT2FoVHlEaHRHYWpnb01xSQ"
     },
@@ -90,38 +120,8 @@
       "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
       "title": "Preventing Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UNTMxNHVtMFoxMHJXdEN4QURBaWgza1FTQ0hMTHQ5WkdXVkFJeld2VktlYldVXzl5NEpEYUtzQmQwZ3UxQk85MjlmcUdnSk1ocVZfQ2VlbFhzd3FoVi10eEtuVnRjRVk"
-    },
-    {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-6db10a681564",
-      "kind": "official",
-      "published_at": "2026-09-11",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Preventing Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UNTMxNHVtMFoxMHJXdEN4QURBaWgza1FTQ0hMTHQ5WkdXVkFJeld2VktlYldVXzl5NEpEYUtzQmQwZ3UxQk85MjlmcUdnSk1ocVZfQ2VlbFhzd3FoVi10eEtuVnRjRVk"
-    },
-    {
-      "id": "cdc-gov-d053d17f33ed",
-      "kind": "official",
-      "published_at": "2026-09-11",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "cdc.gov",
-      "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
-      "title": "Risk and Cyclospora | Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xNDBDRFk3NDNPNDZ2ZkpuNzRQdWZLVXIza1dmbmo3NXpuQmw5cVdfQ2gtWThZejViVWJLamY1eUprWmoxMmpmWGpYdHJPT2RwN1lCZXdtSXRmUVYzWVgxbWp5SlJfeXlPRlE"
-    },
-    {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-d053d17f33ed",
-      "kind": "official",
-      "published_at": "2026-09-11",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Risk and Cyclospora | Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xNDBDRFk3NDNPNDZ2ZkpuNzRQdWZLVXIza1dmbmo3NXpuQmw5cVdfQ2gtWThZejViVWJLamY1eUprWmoxMmpmWGpYdHJPT2RwN1lCZXdtSXRmUVYzWVgxbWp5SlJfeXlPRlE"
     }
   ],
-  "rejected_candidates": 59,
+  "rejected_candidates": 97,
   "schema_version": 1
 }
