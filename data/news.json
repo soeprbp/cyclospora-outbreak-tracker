@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-10-03T08:12:01Z",
+  "generated_at": "2026-10-03T13:26:53Z",
   "items": [
     {
       "id": "the-washington-post-5c22d3ba241e",
@@ -33,12 +33,12 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdXdJTlkwWkI1RGxfa004eGZieFE0ZjMyUU15UXc2ai0wWFFzY0pzSGs0SEZiMDNZLWI0WUt4a1d4WTZBaE5sQTZsTFREUUtibUVKYmhydWxpYmZwM3RTVEw4Tm4zT2RadnFQbEp1UzBQVlpJdTJWUlQ0cVBrVU1rZkg5NmRoMDB2eGk2OFBjTS1iNVFhR3ZzLVNPQk1wcHpiQVAyZXBObHJYdzQ5dHNPWlZZWHU0NnY3bkJleVFWTW1jVHJUNm14Y0I4enh4U0c3elFoTlpn"
     },
     {
-      "id": "usatoday-com-3a8f994aa7b1",
+      "id": "usa-today-3a8f994aa7b1",
       "kind": "major-media",
       "published_at": "2026-10-02",
       "publisher_url": "https://www.usatoday.com/",
-      "source": "usatoday.com",
-      "summary": "Recent Cyclospora coverage from usatoday.com. Open the article for the full report.",
+      "source": "USA Today",
+      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
       "title": "US FDA closes lettuce parasite probe, links outbreak to Mexico facility",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMWhmYmRaS3FFSjFvLVp3UVdGdVlsbXNrRXg5dk4ybkpGM21Tbm90RGsySE12NXFtRTZMd0wxNkVUcWRKVzhnOTUtUzd6N2NMWVhfQ3pfaVV3QzYxYl9GTl9HNVhMOTVkT0VFVndqMEN5bUdnTXJsNTR4S0ZSTUEySlppNlJBSzhGYW9OUF9pXzBVblFCdnhaYmlEblluN1hpUmJpTlhxWkY1TUduZjUzMnI1Sl9TMnFUQktqQ25KOC1VSlh5"
     },
@@ -110,18 +110,8 @@
       "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
       "title": "Cyclospora Case Data | Cyclosporiasis",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eUpPeURQbVFaUVdiWk42RHhxLTRNZ1RwYkFZaUgwU0pGN3Vsek5IelJJd0tlbnIzYlZINDFjV0JZTzZ2R1FXN2RQaURwRE5aeFI3MmF6M3g4M1lrTFlTbg"
-    },
-    {
-      "id": "usa-today-320dcc1f3373",
-      "kind": "major-media",
-      "published_at": "2026-09-13",
-      "publisher_url": "https://www.usatoday.com/",
-      "source": "USA Today",
-      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
-      "title": "Cyclospora outbreak hammers Kroger sales as shoppers avoided produce",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ELUJIbUdkSXNScEtfN2s4OHVqWE5BSW9RMjdNdEdzT2pNaXhndElGakRjdHptMG9ITmxNR1drRmZYVGx5emJRMXIxcEpSZEoxaVluald4WkdVNW5Ramc"
     }
   ],
-  "rejected_candidates": 89,
+  "rejected_candidates": 86,
   "schema_version": 1
 }
