@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-10-05T00:59:20Z",
+  "generated_at": "2026-10-05T07:07:32Z",
   "items": [
     {
       "id": "the-washington-post-5c22d3ba241e",
@@ -43,12 +43,12 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdXdJTlkwWkI1RGxfa004eGZieFE0ZjMyUU15UXc2ai0wWFFzY0pzSGs0SEZiMDNZLWI0WUt4a1d4WTZBaE5sQTZsTFREUUtibUVKYmhydWxpYmZwM3RTVEw4Tm4zT2RadnFQbEp1UzBQVlpJdTJWUlQ0cVBrVU1rZkg5NmRoMDB2eGk2OFBjTS1iNVFhR3ZzLVNPQk1wcHpiQVAyZXBObHJYdzQ5dHNPWlZZWHU0NnY3bkJleVFWTW1jVHJUNm14Y0I4enh4U0c3elFoTlpn"
     },
     {
-      "id": "cbsnews-com-c30303cc3782",
+      "id": "cbs-news-c30303cc3782",
       "kind": "major-media",
       "published_at": "2026-09-28",
       "publisher_url": "https://www.cbsnews.com/",
-      "source": "cbsnews.com",
-      "summary": "Recent Cyclospora coverage from cbsnews.com. Open the article for the full report.",
+      "source": "CBS News",
+      "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
       "title": "Food safety becomes an election issue as major outbreaks and recalls cause concern",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTWdhQVNQbDh1ZkxNX3JHRGljLU9BSGo3SGFydFJvUXZEVlVjWkZ6QjBNS0V2eTlseWdRLUtjWjFyQ1ZQUHVKWXZFbUlxTDI2XzBBV1VqeHlubks5SDdKLWhza2hHbzFTX0NlblVZY19aMzQyT2FoVHlEaHRHYWpnb01xSQ"
     },
@@ -112,6 +112,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eUpPeURQbVFaUVdiWk42RHhxLTRNZ1RwYkFZaUgwU0pGN3Vsek5IelJJd0tlbnIzYlZINDFjV0JZTzZ2R1FXN2RQaURwRE5aeFI3MmF6M3g4M1lrTFlTbg"
     }
   ],
-  "rejected_candidates": 78,
+  "rejected_candidates": 82,
   "schema_version": 1
 }
