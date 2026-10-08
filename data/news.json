@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-10-07T22:01:28Z",
+  "generated_at": "2026-10-08T22:07:52Z",
   "items": [
     {
       "id": "cdc-nndss",
@@ -20,6 +20,16 @@
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
       "title": "FDA found cyclospora at Taylor Farms Mexico site and where lettuce was grown",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDhSRXAxbkowcGl5aldlVmZPYkk2ZFVieno4Q0l0WGlWekZHbWhxNV9NQ3ZodUxwUHJLX25pU04weW5lVmZJaGRiS0lfcUllbWZuYjA2cml1YWUxNEFRc0h6Qzg5SlYwcXVNZEF4QkI5ZUQ2YTJXNUZ1QlItUjNLN25FYUFoNE44WEJSR1VYTjBZVGJSODFmZDg1M1pYa0Y4ek1aOUpzWTl6YzNIWm54YWZQZm1IWmFFVTJn"
+    },
+    {
+      "id": "u-s-food-and-drug-administration-gov-6544fc43d694",
+      "kind": "official",
+      "published_at": "2026-10-02",
+      "publisher_url": "https://www.fda.gov/",
+      "source": "U.S. Food and Drug Administration (.gov)",
+      "summary": "Recent Cyclospora coverage from U.S. Food and Drug Administration (.gov). Open the article for the full report.",
+      "title": "Investigations of Foodborne Illness Outbreaks",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk9CZUFHZmRHM3p1V1VfczVQOGxOVU5VSjllbF9tSzFyZDZqVXpfOVdTMnNVZk9VZjRVTDlRN3pvbjZZTER0bG5CY2h0Q0F6SldIMDl0WXNmanBtSGthVjQxMU5NZHNibkNLMXBqRnVsOWk4andKSkdrWUM4eUYzaFVzdGI5OFFXRGE5NWJTTFJja2cxaEJaN3doZw"
     },
     {
       "id": "ap-news-424e5b80c474",
@@ -62,16 +72,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTWdhQVNQbDh1ZkxNX3JHRGljLU9BSGo3SGFydFJvUXZEVlVjWkZ6QjBNS0V2eTlseWdRLUtjWjFyQ1ZQUHVKWXZFbUlxTDI2XzBBV1VqeHlubks5SDdKLWhza2hHbzFTX0NlblVZY19aMzQyT2FoVHlEaHRHYWpnb01xSQ"
     },
     {
-      "id": "fda-gov-6544fc43d694",
-      "kind": "official",
-      "published_at": "2026-09-25",
-      "publisher_url": "https://www.fda.gov/",
-      "source": "fda.gov",
-      "summary": "Recent Cyclospora coverage from fda.gov. Open the article for the full report.",
-      "title": "Investigations of Foodborne Illness Outbreaks",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk9CZUFHZmRHM3p1V1VfczVQOGxOVU5VSjllbF9tSzFyZDZqVXpfOVdTMnNVZk9VZjRVTDlRN3pvbjZZTER0bG5CY2h0Q0F6SldIMDl0WXNmanBtSGthVjQxMU5NZHNibkNLMXBqRnVsOWk4andKSkdrWUM4eUYzaFVzdGI5OFFXRGE5NWJTTFJja2cxaEJaN3doZw"
-    },
-    {
       "id": "cdc-gov-e8b5dd793283",
       "kind": "official",
       "published_at": "2026-09-18",
@@ -112,6 +112,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50eUpPeURQbVFaUVdiWk42RHhxLTRNZ1RwYkFZaUgwU0pGN3Vsek5IelJJd0tlbnIzYlZINDFjV0JZTzZ2R1FXN2RQaURwRE5aeFI3MmF6M3g4M1lrTFlTbg"
     }
   ],
-  "rejected_candidates": 101,
+  "rejected_candidates": 100,
   "schema_version": 1
 }
