@@ -1,7 +1,17 @@
 {
   "errors": [],
-  "generated_at": "2026-10-08T22:07:52Z",
+  "generated_at": "2026-10-10T13:47:48Z",
   "items": [
+    {
+      "id": "u-s-food-and-drug-administration-gov-6544fc43d694",
+      "kind": "official",
+      "published_at": "2026-10-07",
+      "publisher_url": "https://www.fda.gov/",
+      "source": "U.S. Food and Drug Administration (.gov)",
+      "summary": "Recent Cyclospora coverage from U.S. Food and Drug Administration (.gov). Open the article for the full report.",
+      "title": "Investigations of Foodborne Illness Outbreaks",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk9CZUFHZmRHM3p1V1VfczVQOGxOVU5VSjllbF9tSzFyZDZqVXpfOVdTMnNVZk9VZjRVTDlRN3pvbjZZTER0bG5CY2h0Q0F6SldIMDl0WXNmanBtSGthVjQxMU5NZHNibkNLMXBqRnVsOWk4andKSkdrWUM4eUYzaFVzdGI5OFFXRGE5NWJTTFJja2cxaEJaN3doZw"
+    },
     {
       "id": "cdc-nndss",
       "kind": "official",
@@ -20,16 +30,6 @@
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
       "title": "FDA found cyclospora at Taylor Farms Mexico site and where lettuce was grown",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDhSRXAxbkowcGl5aldlVmZPYkk2ZFVieno4Q0l0WGlWekZHbWhxNV9NQ3ZodUxwUHJLX25pU04weW5lVmZJaGRiS0lfcUllbWZuYjA2cml1YWUxNEFRc0h6Qzg5SlYwcXVNZEF4QkI5ZUQ2YTJXNUZ1QlItUjNLN25FYUFoNE44WEJSR1VYTjBZVGJSODFmZDg1M1pYa0Y4ek1aOUpzWTl6YzNIWm54YWZQZm1IWmFFVTJn"
-    },
-    {
-      "id": "u-s-food-and-drug-administration-gov-6544fc43d694",
-      "kind": "official",
-      "published_at": "2026-10-02",
-      "publisher_url": "https://www.fda.gov/",
-      "source": "U.S. Food and Drug Administration (.gov)",
-      "summary": "Recent Cyclospora coverage from U.S. Food and Drug Administration (.gov). Open the article for the full report.",
-      "title": "Investigations of Foodborne Illness Outbreaks",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk9CZUFHZmRHM3p1V1VfczVQOGxOVU5VSjllbF9tSzFyZDZqVXpfOVdTMnNVZk9VZjRVTDlRN3pvbjZZTER0bG5CY2h0Q0F6SldIMDl0WXNmanBtSGthVjQxMU5NZHNibkNLMXBqRnVsOWk4andKSkdrWUM4eUYzaFVzdGI5OFFXRGE5NWJTTFJja2cxaEJaN3doZw"
     },
     {
       "id": "ap-news-424e5b80c474",
