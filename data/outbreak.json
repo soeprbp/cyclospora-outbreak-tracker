@@ -2,9 +2,11 @@
   "errors": {
     "cdc": "missing CDC domestic case section",
     "idoh": "missing IDOH date",
-    "idph": "missing IDPH cases"
+    "idph": "missing IDPH cases",
+    "mdhhs": "fetch failed: HTTP Error 403: Forbidden; curl fallback failed: Command '['curl', '--fail', '--location', '--silent', '--show-error', '--max-time', '30', 'https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases/infectious-disease-outbreaks']' returned non-zero exit status 22.",
+    "widhs": "missing WIDHS cases"
   },
-  "generated_at": "2026-10-16T12:31:06Z",
+  "generated_at": "2026-10-21T18:40:57Z",
   "schema_version": 2,
   "sources": {
     "cdc": {
@@ -18,7 +20,7 @@
       "validation_status": "last-known-good"
     },
     "fda": {
-      "fetched_at": "2026-10-16T12:31:06Z",
+      "fetched_at": "2026-10-21T18:40:57Z",
       "investigations": [
         {
           "cases": 22,
@@ -27,7 +29,7 @@
           "status": "ended"
         },
         {
-          "cases": 240,
+          "cases": 241,
           "date_posted": "2026-07-22",
           "reference": "1392",
           "status": "ended"
@@ -70,10 +72,10 @@
       "hospitalizations": 366,
       "official_as_of": "2026-09-06",
       "source_url": "https://www.michigan.gov/mdhhs/keep-mi-healthy/infectious-diseases/infectious-disease-outbreaks",
-      "validation_status": "valid"
+      "validation_status": "last-known-good"
     },
     "nndss": {
-      "fetched_at": "2026-10-16T12:31:06Z",
+      "fetched_at": "2026-10-21T18:40:57Z",
       "jurisdictions": {
         "AK": {
           "cases": 11
@@ -241,7 +243,7 @@
     },
     "nysdoh": {
       "cases": 1098,
-      "fetched_at": "2026-10-16T12:31:06Z",
+      "fetched_at": "2026-10-21T18:40:57Z",
       "official_as_of": "2026-09-14",
       "source_url": "https://www.health.ny.gov/diseases/communicable/cyclosporiasis/index",
       "validation_status": "valid"
@@ -252,7 +254,7 @@
       "hospitalizations": 8,
       "official_as_of": "2026-08-26",
       "source_url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
-      "validation_status": "valid"
+      "validation_status": "last-known-good"
     }
   },
   "state_data": {
