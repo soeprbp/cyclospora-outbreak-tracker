@@ -1,7 +1,27 @@
 {
   "errors": [],
-  "generated_at": "2026-10-25T14:24:47Z",
+  "generated_at": "2026-10-27T22:59:13Z",
   "items": [
+    {
+      "id": "the-washington-post-22ee7aae3f52",
+      "kind": "major-media",
+      "published_at": "2026-10-27",
+      "publisher_url": "https://www.washingtonpost.com/",
+      "source": "The Washington Post",
+      "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
+      "title": "Health Brief: The FDA\u2019s blind spot on food safety",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbk91NXpjVGhDZjJyT1F6RmE2bkprYUdJZGlsSHlMcUE1TTl2cWdDT2hqb2k1MmZ5NDg0ZzlKeEJKWE1OUWtIQXI5RVhsOWpPT19BSzk2d0hsM25wTnJ1Nm0taVpXaDNDaktiRVRrdkx1ODFuWjd6a29IZm9MS2VveGppS25MdDMydXFmR19xSG95bHAzZUlhekRNZlNrZmp4VUd4UzYtUjNlWDg1enNFOTR3"
+    },
+    {
+      "id": "usa-today-75e6ec1282a0",
+      "kind": "major-media",
+      "published_at": "2026-10-27",
+      "publisher_url": "https://www.usatoday.com/",
+      "source": "USA Today",
+      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
+      "title": "Taylor Farms recalls salad kits sold at H-E-B. See affected product",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUTdUNk1LZF9yMWR6TUJhREJrOWluTkNjVlNzb1pGdUZxbGZrejA2TERKc3publlra3daUFB6UW5BZXVudm9zbG56ZGZQNG5aNjhqOUw1XzQ0dWtCY2lGZ0NaSjBGX1dvZWU4eXJHRjZhWGIwalZVRHo4MmJXTDJ1cXdRZHRobUl1M0xYWDVoSDI4dzBCWWZ0ZEtiVS1abkdQdGloUW5kUDR1dVZocFAzdTVTZXBobXFiZjNfV195RUtYdmFiWjc5Mk5OY05zNlV5U0E"
+    },
     {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-89569d85d25b",
       "kind": "official",
@@ -32,16 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk9CZUFHZmRHM3p1V1VfczVQOGxOVU5VSjllbF9tSzFyZDZqVXpfOVdTMnNVZk9VZjRVTDlRN3pvbjZZTER0bG5CY2h0Q0F6SldIMDl0WXNmanBtSGthVjQxMU5NZHNibkNLMXBqRnVsOWk4andKSkdrWUM4eUYzaFVzdGI5OFFXRGE5NWJTTFJja2cxaEJaN3doZw"
     },
     {
-      "id": "the-washington-post-5c22d3ba241e",
-      "kind": "major-media",
-      "published_at": "2026-10-03",
-      "publisher_url": "https://www.washingtonpost.com/",
-      "source": "The Washington Post",
-      "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
-      "title": "FDA found cyclospora at Taylor Farms Mexico site and where lettuce was grown",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDhSRXAxbkowcGl5aldlVmZPYkk2ZFVieno4Q0l0WGlWekZHbWhxNV9NQ3ZodUxwUHJLX25pU04weW5lVmZJaGRiS0lfcUllbWZuYjA2cml1YWUxNEFRc0h6Qzg5SlYwcXVNZEF4QkI5ZUQ2YTJXNUZ1QlItUjNLN25FYUFoNE44WEJSR1VYTjBZVGJSODFmZDg1M1pYa0Y4ek1aOUpzWTl6YzNIWm54YWZQZm1IWmFFVTJn"
-    },
-    {
       "id": "ap-news-424e5b80c474",
       "kind": "major-media",
       "published_at": "2026-10-02",
@@ -50,16 +60,6 @@
       "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
       "title": "Cyclospora found at Mexican farm linked to lettuce outbreak, FDA says",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjJzdkIxUzVRNHpESENmRkR6YTB3UUkzakxLLTZsNmI3ZnlDeXVYWEd2bXRGeFJaekJFbXQ1LTV5aEVrTy00dVRNQ2pLM0ZqZk9wOEJCMGgyaEstUkVQLU1HM2tCYWFwbG5LWk1JWjJWM0JfSW9wU1c1cWhaNU9oN2thMk00NnNJeGQxaGZqTWF5aDM3RzNULWJFWktmbDZFYjMxU1FkOA"
-    },
-    {
-      "id": "usa-today-3a8f994aa7b1",
-      "kind": "major-media",
-      "published_at": "2026-10-02",
-      "publisher_url": "https://www.usatoday.com/",
-      "source": "USA Today",
-      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
-      "title": "US FDA closes lettuce parasite probe, links outbreak to Mexico facility",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMWhmYmRaS3FFSjFvLVp3UVdGdVlsbXNrRXg5dk4ybkpGM21Tbm90RGsySE12NXFtRTZMd0wxNkVUcWRKVzhnOTUtUzd6N2NMWVhfQ3pfaVV3QzYxYl9GTl9HNVhMOTVkT0VFVndqMEN5bUdnTXJsNTR4S0ZSTUEySlppNlJBSzhGYW9OUF9pXzBVblFCdnhaYmlEblluN1hpUmJpTlhxWkY1TUduZjUzMnI1Sl9TMnFUQktqQ25KOC1VSlh5"
     },
     {
       "id": "reuters-360e659d8741",
