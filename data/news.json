@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-10-31T05:51:16Z",
+  "generated_at": "2026-11-03T06:54:04Z",
   "items": [
     {
       "id": "the-washington-post-22ee7aae3f52",
@@ -80,28 +80,8 @@
       "summary": "Recent Cyclospora coverage from CBS News. Open the article for the full report.",
       "title": "Food safety becomes an election issue as major outbreaks and recalls cause concern",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTWdhQVNQbDh1ZkxNX3JHRGljLU9BSGo3SGFydFJvUXZEVlVjWkZ6QjBNS0V2eTlseWdRLUtjWjFyQ1ZQUHVKWXZFbUlxTDI2XzBBV1VqeHlubks5SDdKLWhza2hHbzFTX0NlblVZY19aMzQyT2FoVHlEaHRHYWpnb01xSQ"
-    },
-    {
-      "id": "cdc-gov-e8b5dd793283",
-      "kind": "official",
-      "published_at": "2026-09-18",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "cdc.gov",
-      "summary": "Recent Cyclospora coverage from cdc.gov. Open the article for the full report.",
-      "title": "Clinical Overview of Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IVXJqUDByNFRGQ2hrb0h1a1JsYWtFYmdpYUhZcVlHMUVlVExhZmlIb3VrbXRmVzdHbjFucm5Sb1hMaFdTcUFBVTczWjI4UE5fOFVDYzhqZ0FDbm85Rnd4amJEN2VWbE5wc2U1NmwtTWozNXR6QkE"
-    },
-    {
-      "id": "centers-for-disease-control-and-prevention-cdc-gov-e8b5dd793283",
-      "kind": "official",
-      "published_at": "2026-09-18",
-      "publisher_url": "https://www.cdc.gov/",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "summary": "Recent Cyclospora coverage from Centers for Disease Control and Prevention | CDC (.gov). Open the article for the full report.",
-      "title": "Clinical Overview of Cyclosporiasis",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IVXJqUDByNFRGQ2hrb0h1a1JsYWtFYmdpYUhZcVlHMUVlVExhZmlIb3VrbXRmVzdHbjFucm5Sb1hMaFdTcUFBVTczWjI4UE5fOFVDYzhqZ0FDbm85Rnd4amJEN2VWbE5wc2U1NmwtTWozNXR6QkE"
     }
   ],
-  "rejected_candidates": 30,
+  "rejected_candidates": 53,
   "schema_version": 1
 }
