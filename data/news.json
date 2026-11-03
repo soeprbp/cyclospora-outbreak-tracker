@@ -1,7 +1,27 @@
 {
   "errors": [],
-  "generated_at": "2026-11-03T06:54:04Z",
+  "generated_at": "2026-11-03T21:04:52Z",
   "items": [
+    {
+      "id": "ap-news-e6ccf551cd17",
+      "kind": "major-media",
+      "published_at": "2026-11-03",
+      "publisher_url": "https://apnews.com/",
+      "source": "AP News",
+      "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
+      "title": "Taco Bell sales recover in the US after summer cyclospora outbreak",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTnA2aG5Ubjd4VldYNTlTSUZJcGNnU2psUnF0emw4alNiMUFTTEticEhFNnRaMmpESWdGaFVOT20wTFlPa2R6NFFkV0k4OWpzV3FSaVRPTUF0eGZnY2h6cFg0U3paNDExdmM1bnJESDY1d3Jka0VCcWJNQXprM0FuYW5Fbm9WNEM4eU5WWnF3akN0QnZrYndZemd3"
+    },
+    {
+      "id": "reuters-8fa64590e66c",
+      "kind": "major-media",
+      "published_at": "2026-11-03",
+      "publisher_url": "https://www.reuters.com/",
+      "source": "Reuters",
+      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
+      "title": "Food distributor Sysco says cyclosporiasis outbreak hit Q1 sales",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbTFGZlJpNEZOeExCOFRISlg0Yk55YTBaZk94N3czNUdVTjJqdzR1QlRpSDEtNzBFRDZOVGRSVWE0S1dtQldzMW5ESi1pRzJSd2YwczJXbDlXTXF3eDZjV3BlU0lyYUJUSDNmMmtjZHNSYlhFMV9TSzAtTnF2ZU5VbGFzcE44eHVzbFJHamNHSE1teHJhMzZ5R3o4Rlk4ODBZblFod3BlcmlMUDR4aG05RDNjYVJoRXBjRkU2aXlrei1QS3I5aUR0UVZWQ2p0WkdaWEE"
+    },
     {
       "id": "the-washington-post-22ee7aae3f52",
       "kind": "major-media",
@@ -52,26 +72,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk9CZUFHZmRHM3p1V1VfczVQOGxOVU5VSjllbF9tSzFyZDZqVXpfOVdTMnNVZk9VZjRVTDlRN3pvbjZZTER0bG5CY2h0Q0F6SldIMDl0WXNmanBtSGthVjQxMU5NZHNibkNLMXBqRnVsOWk4andKSkdrWUM4eUYzaFVzdGI5OFFXRGE5NWJTTFJja2cxaEJaN3doZw"
     },
     {
-      "id": "ap-news-424e5b80c474",
-      "kind": "major-media",
-      "published_at": "2026-10-02",
-      "publisher_url": "https://apnews.com/",
-      "source": "AP News",
-      "summary": "Recent Cyclospora coverage from AP News. Open the article for the full report.",
-      "title": "Cyclospora found at Mexican farm linked to lettuce outbreak, FDA says",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjJzdkIxUzVRNHpESENmRkR6YTB3UUkzakxLLTZsNmI3ZnlDeXVYWEd2bXRGeFJaekJFbXQ1LTV5aEVrTy00dVRNQ2pLM0ZqZk9wOEJCMGgyaEstUkVQLU1HM2tCYWFwbG5LWk1JWjJWM0JfSW9wU1c1cWhaNU9oN2thMk00NnNJeGQxaGZqTWF5aDM3RzNULWJFWktmbDZFYjMxU1FkOA"
-    },
-    {
-      "id": "reuters-360e659d8741",
-      "kind": "major-media",
-      "published_at": "2026-10-02",
-      "publisher_url": "https://www.reuters.com/",
-      "source": "Reuters",
-      "summary": "Recent Cyclospora coverage from Reuters. Open the article for the full report.",
-      "title": "US FDA closes cyclospora lettuce parasite probe, finds strong link to Taylor Farms Mexico",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdXdJTlkwWkI1RGxfa004eGZieFE0ZjMyUU15UXc2ai0wWFFzY0pzSGs0SEZiMDNZLWI0WUt4a1d4WTZBaE5sQTZsTFREUUtibUVKYmhydWxpYmZwM3RTVEw4Tm4zT2RadnFQbEp1UzBQVlpJdTJWUlQ0cVBrVU1rZkg5NmRoMDB2eGk2OFBjTS1iNVFhR3ZzLVNPQk1wcHpiQVAyZXBObHJYdzQ5dHNPWlZZWHU0NnY3bkJleVFWTW1jVHJUNm14Y0I4enh4U0c3elFoTlpn"
-    },
-    {
       "id": "cbs-news-c30303cc3782",
       "kind": "major-media",
       "published_at": "2026-09-28",
@@ -82,6 +82,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTWdhQVNQbDh1ZkxNX3JHRGljLU9BSGo3SGFydFJvUXZEVlVjWkZ6QjBNS0V2eTlseWdRLUtjWjFyQ1ZQUHVKWXZFbUlxTDI2XzBBV1VqeHlubks5SDdKLWhza2hHbzFTX0NlblVZY19aMzQyT2FoVHlEaHRHYWpnb01xSQ"
     }
   ],
-  "rejected_candidates": 53,
+  "rejected_candidates": 34,
   "schema_version": 1
 }
