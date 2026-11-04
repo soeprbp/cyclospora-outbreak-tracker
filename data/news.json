@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-11-03T21:04:52Z",
+  "generated_at": "2026-11-04T01:26:19Z",
   "items": [
     {
       "id": "ap-news-e6ccf551cd17",
@@ -23,6 +23,16 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbTFGZlJpNEZOeExCOFRISlg0Yk55YTBaZk94N3czNUdVTjJqdzR1QlRpSDEtNzBFRDZOVGRSVWE0S1dtQldzMW5ESi1pRzJSd2YwczJXbDlXTXF3eDZjV3BlU0lyYUJUSDNmMmtjZHNSYlhFMV9TSzAtTnF2ZU5VbGFzcE44eHVzbFJHamNHSE1teHJhMzZ5R3o4Rlk4ODBZblFod3BlcmlMUDR4aG05RDNjYVJoRXBjRkU2aXlrei1QS3I5aUR0UVZWQ2p0WkdaWEE"
     },
     {
+      "id": "usa-today-cbfe1266731f",
+      "kind": "major-media",
+      "published_at": "2026-11-03",
+      "publisher_url": "https://www.usatoday.com/",
+      "source": "USA Today",
+      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
+      "title": "Taco Bell sales rebounding after cyclosporiasis outbreak",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObWQ4cWVSbWpNWWhKd2Rfd2RzYXAzMzNlbDhUX1lHTTFpUllQZFprZmFOanNtam1fdjFqYjI2dGh4WVVUNF9VMFNhVHBwb05RT3lDdFJwbkFaZHM2VFZMeGNXODd5WWtUeW1JbHYzbG9xcDB5UFRsaVJBWk9YWnpIdGVOQUpIal9MWTFSemZpNE1wXzJzZUc5UElnRWZCWV9FdlBXRGRDYWlwMVRMSTBha05XSTNra0dzdnc"
+    },
+    {
       "id": "the-washington-post-22ee7aae3f52",
       "kind": "major-media",
       "published_at": "2026-10-28",
@@ -31,16 +41,6 @@
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
       "title": "Health Brief: The FDA\u2019s blind spot on food safety",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbk91NXpjVGhDZjJyT1F6RmE2bkprYUdJZGlsSHlMcUE1TTl2cWdDT2hqb2k1MmZ5NDg0ZzlKeEJKWE1OUWtIQXI5RVhsOWpPT19BSzk2d0hsM25wTnJ1Nm0taVpXaDNDaktiRVRrdkx1ODFuWjd6a29IZm9MS2VveGppS25MdDMydXFmR19xSG95bHAzZUlhekRNZlNrZmp4VUd4UzYtUjNlWDg1enNFOTR3"
-    },
-    {
-      "id": "usa-today-75e6ec1282a0",
-      "kind": "major-media",
-      "published_at": "2026-10-27",
-      "publisher_url": "https://www.usatoday.com/",
-      "source": "USA Today",
-      "summary": "Recent Cyclospora coverage from USA Today. Open the article for the full report.",
-      "title": "Taylor Farms recalls salad kits sold at H-E-B. See affected product",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUTdUNk1LZF9yMWR6TUJhREJrOWluTkNjVlNzb1pGdUZxbGZrejA2TERKc3publlra3daUFB6UW5BZXVudm9zbG56ZGZQNG5aNjhqOUw1XzQ0dWtCY2lGZ0NaSjBGX1dvZWU4eXJHRjZhWGIwalZVRHo4MmJXTDJ1cXdRZHRobUl1M0xYWDVoSDI4dzBCWWZ0ZEtiVS1abkdQdGloUW5kUDR1dVZocFAzdTVTZXBobXFiZjNfV195RUtYdmFiWjc5Mk5OY05zNlV5U0E"
     },
     {
       "id": "cdc-nndss",
@@ -82,6 +82,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTWdhQVNQbDh1ZkxNX3JHRGljLU9BSGo3SGFydFJvUXZEVlVjWkZ6QjBNS0V2eTlseWdRLUtjWjFyQ1ZQUHVKWXZFbUlxTDI2XzBBV1VqeHlubks5SDdKLWhza2hHbzFTX0NlblVZY19aMzQyT2FoVHlEaHRHYWpnb01xSQ"
     }
   ],
-  "rejected_candidates": 34,
+  "rejected_candidates": 54,
   "schema_version": 1
 }
