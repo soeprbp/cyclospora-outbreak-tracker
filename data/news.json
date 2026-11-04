@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2026-11-04T01:26:19Z",
+  "generated_at": "2026-11-04T23:44:10Z",
   "items": [
     {
       "id": "ap-news-e6ccf551cd17",
@@ -33,6 +33,15 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObWQ4cWVSbWpNWWhKd2Rfd2RzYXAzMzNlbDhUX1lHTTFpUllQZFprZmFOanNtam1fdjFqYjI2dGh4WVVUNF9VMFNhVHBwb05RT3lDdFJwbkFaZHM2VFZMeGNXODd5WWtUeW1JbHYzbG9xcDB5UFRsaVJBWk9YWnpIdGVOQUpIal9MWTFSemZpNE1wXzJzZUc5UElnRWZCWV9FdlBXRGRDYWlwMVRMSTBha05XSTNra0dzdnc"
     },
     {
+      "id": "cdc-nndss",
+      "kind": "official",
+      "published_at": "2026-10-31",
+      "source": "CDC NNDSS",
+      "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
+      "title": "NNDSS table reports 33,519 U.S. Cyclospora cases",
+      "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
+    },
+    {
       "id": "the-washington-post-22ee7aae3f52",
       "kind": "major-media",
       "published_at": "2026-10-28",
@@ -41,15 +50,6 @@
       "summary": "Recent Cyclospora coverage from The Washington Post. Open the article for the full report.",
       "title": "Health Brief: The FDA\u2019s blind spot on food safety",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbk91NXpjVGhDZjJyT1F6RmE2bkprYUdJZGlsSHlMcUE1TTl2cWdDT2hqb2k1MmZ5NDg0ZzlKeEJKWE1OUWtIQXI5RVhsOWpPT19BSzk2d0hsM25wTnJ1Nm0taVpXaDNDaktiRVRrdkx1ODFuWjd6a29IZm9MS2VveGppS25MdDMydXFmR19xSG95bHAzZUlhekRNZlNrZmp4VUd4UzYtUjNlWDg1enNFOTR3"
-    },
-    {
-      "id": "cdc-nndss",
-      "kind": "official",
-      "published_at": "2026-10-24",
-      "source": "CDC NNDSS",
-      "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
-      "title": "NNDSS table reports 33,364 U.S. Cyclospora cases",
-      "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
     },
     {
       "id": "centers-for-disease-control-and-prevention-cdc-gov-89569d85d25b",
@@ -82,6 +82,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTWdhQVNQbDh1ZkxNX3JHRGljLU9BSGo3SGFydFJvUXZEVlVjWkZ6QjBNS0V2eTlseWdRLUtjWjFyQ1ZQUHVKWXZFbUlxTDI2XzBBV1VqeHlubks5SDdKLWhza2hHbzFTX0NlblVZY19aMzQyT2FoVHlEaHRHYWpnb01xSQ"
     }
   ],
-  "rejected_candidates": 54,
+  "rejected_candidates": 47,
   "schema_version": 1
 }
