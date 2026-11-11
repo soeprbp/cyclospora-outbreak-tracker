@@ -1,7 +1,16 @@
 {
   "errors": [],
-  "generated_at": "2026-11-06T18:01:41Z",
+  "generated_at": "2026-11-11T22:43:59Z",
   "items": [
+    {
+      "id": "cdc-nndss",
+      "kind": "official",
+      "published_at": "2026-11-07",
+      "source": "CDC NNDSS",
+      "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
+      "title": "NNDSS table reports 33,537 U.S. Cyclospora cases",
+      "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
+    },
     {
       "id": "u-s-food-and-drug-administration-gov-6544fc43d694",
       "kind": "official",
@@ -43,15 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObWQ4cWVSbWpNWWhKd2Rfd2RzYXAzMzNlbDhUX1lHTTFpUllQZFprZmFOanNtam1fdjFqYjI2dGh4WVVUNF9VMFNhVHBwb05RT3lDdFJwbkFaZHM2VFZMeGNXODd5WWtUeW1JbHYzbG9xcDB5UFRsaVJBWk9YWnpIdGVOQUpIal9MWTFSemZpNE1wXzJzZUc5UElnRWZCWV9FdlBXRGRDYWlwMVRMSTBha05XSTNra0dzdnc"
     },
     {
-      "id": "cdc-nndss",
-      "kind": "official",
-      "published_at": "2026-10-31",
-      "source": "CDC NNDSS",
-      "summary": "The provisional cumulative jurisdiction table supplies comparable state values; reporting availability varies by jurisdiction.",
-      "title": "NNDSS table reports 33,519 U.S. Cyclospora cases",
-      "url": "https://data.cdc.gov/resource/x9gk-5huc.json"
-    },
-    {
       "id": "the-washington-post-22ee7aae3f52",
       "kind": "major-media",
       "published_at": "2026-10-28",
@@ -82,6 +82,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTWdhQVNQbDh1ZkxNX3JHRGljLU9BSGo3SGFydFJvUXZEVlVjWkZ6QjBNS0V2eTlseWdRLUtjWjFyQ1ZQUHVKWXZFbUlxTDI2XzBBV1VqeHlubks5SDdKLWhza2hHbzFTX0NlblVZY19aMzQyT2FoVHlEaHRHYWpnb01xSQ"
     }
   ],
-  "rejected_candidates": 44,
+  "rejected_candidates": 33,
   "schema_version": 1
 }
