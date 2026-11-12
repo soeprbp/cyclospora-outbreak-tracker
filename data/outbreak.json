@@ -1,13 +1,12 @@
 {
   "errors": {
     "cdc": "missing CDC domestic case section",
-    "fda": "no active FDA Cyclospora investigations found",
     "idoh": "missing IDOH date",
     "idph": "missing IDPH cases",
     "mdhhs": "missing MDHHS cases",
     "widhs": "missing WIDHS cases"
   },
-  "generated_at": "2026-11-11T22:43:38Z",
+  "generated_at": "2026-11-12T20:51:21Z",
   "schema_version": 2,
   "sources": {
     "cdc": {
@@ -21,7 +20,7 @@
       "validation_status": "last-known-good"
     },
     "fda": {
-      "fetched_at": "2026-10-28T21:41:25Z",
+      "fetched_at": "2026-11-12T20:51:21Z",
       "investigations": [
         {
           "cases": 22,
@@ -30,27 +29,15 @@
           "status": "ended"
         },
         {
-          "cases": 241,
-          "date_posted": "2026-07-22",
-          "reference": "1392",
-          "status": "ended"
-        },
-        {
           "cases": null,
           "date_posted": "2026-07-15",
           "reference": "1390",
           "status": "active"
-        },
-        {
-          "cases": 38,
-          "date_posted": "2026-07-08",
-          "reference": "1385",
-          "status": "ended"
         }
       ],
       "official_as_of": "2026-08-05",
       "source_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks",
-      "validation_status": "last-known-good"
+      "validation_status": "valid"
     },
     "idoh": {
       "cases": 2090,
@@ -76,7 +63,7 @@
       "validation_status": "last-known-good"
     },
     "nndss": {
-      "fetched_at": "2026-11-11T22:43:38Z",
+      "fetched_at": "2026-11-12T20:51:21Z",
       "jurisdictions": {
         "AK": {
           "cases": 11
@@ -244,7 +231,7 @@
     },
     "nysdoh": {
       "cases": 1098,
-      "fetched_at": "2026-11-11T22:43:38Z",
+      "fetched_at": "2026-11-12T20:51:21Z",
       "official_as_of": "2026-09-14",
       "source_url": "https://www.health.ny.gov/diseases/communicable/cyclosporiasis/index",
       "validation_status": "valid"
